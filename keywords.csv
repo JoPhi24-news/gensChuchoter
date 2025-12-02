@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bill Maher',fr,unknown,#111111,#111111,2,0.507986087976
 'Andrew Mountbatten Windsor',fr,unknown,#111111,#111111,2,0.507287957744
 'Ciryl Gane',fr,unknown,#111111,#111111,2,0.506392259085
 'Helene Fischer',fr,unknown,#111111,#111111,2,0.505096623715
@@ -62,6 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Susumu Kitagawa',fr,Japan,#33aa99,#33aa99,1,0.432776572270
 'Andrew Mountbatten-Windsor',fr,unknown,#111111,#111111,1,0.432682211572
 'Charlie Kirk',fr,USA,#18e8e8,#18e8e8,3,0.432352160316
+'Bill Maher',fr,unknown,#111111,#111111,1,0.431788174780
 'Yves Bournazel',fr,Frankreich,#e8e808,#e8e808,2,0.431496523472
 'Justin Bieber',fr,Kanada,#55ee33,#55ee33,2,0.431485890178
 'Omar Yaghi',fr,Jordanien,#335588,#335588,2,0.430819754240
