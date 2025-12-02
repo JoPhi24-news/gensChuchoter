@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.510862631406
 'Andrew Mountbatten-Windsor',fr,unknown,#111111,#111111,2,0.509037507732
 'Bill Maher',fr,unknown,#111111,#111111,2,0.507986087976
 'Andrew Mountbatten Windsor',fr,unknown,#111111,#111111,2,0.507287957744
@@ -47,6 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444066782960
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,2,0.444012680254
+'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.439185006695
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.438489129496
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.438131830500
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,3,0.438101320150
