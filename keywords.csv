@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'prince Andrew',fr,unknown,#111111,#111111,3,0.527697111295
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.510862631406
 'Andrew Mountbatten-Windsor',fr,unknown,#111111,#111111,2,0.509037507732
 'Bill Maher',fr,unknown,#111111,#111111,2,0.507986087976
@@ -26,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.466384446579
 'Sanae Takaichi',fr,Japan,#33aa99,#33aa99,3,0.463505059522
 'Lecornu II ',fr,Frankreich,#e8e808,#e8e808,3,0.462971988087
+'prince Andrew',fr,unknown,#111111,#111111,3,0.462870653956
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.462671613497
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.460955529494
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
@@ -166,8 +166,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jimmy Carter',fr,USA,#18e8e8,#18e8e8,1,0.375179327192
 'Hilda Nakabuye',fr,Uganda,#4411ee,#4411ee,1,0.374616250000
 'Chad Frischmann',fr,USA,#18e8e8,#18e8e8,1,0.374616250000
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,2,0.374389293499
 'Guy Ritchie',fr,UK,#e838e8,#e838e8,1,0.374228753385
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,2,0.372623294276
 'Christian Lindner',fr,Deutschland,#1818e8,#1818e8,3,0.372181692859
 'Chuck Schumer',fr,USA,#18e8e8,#18e8e8,1,0.371713023031
 'William Friedkin',fr,USA,#18e8e8,#18e8e8,2,0.369946252027
