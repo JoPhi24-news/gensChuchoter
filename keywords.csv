@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Helene Fischer',fr,unknown,#111111,#111111,2,0.505096623715
 'Larry Summers',fr,unknown,#111111,#111111,2,0.504369818613
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,2,0.500601631013
 'Usha Vance',fr,unknown,#111111,#111111,2,0.500381668596
@@ -72,6 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.429826136887
 'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.429691390517
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.429592450782
+'Helene Fischer',fr,unknown,#111111,#111111,1,0.429332130158
 'Robert de Niro',fr,USA,#18e8e8,#18e8e8,3,0.429215236293
 'Whoopi Goldberg',fr,USA,#18e8e8,#18e8e8,1,0.429119676187
 'James Gunn',fr,USA,#18e8e8,#18e8e8,2,0.428913624453
