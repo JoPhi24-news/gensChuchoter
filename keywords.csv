@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ghislaine Maxwell',fr,unknown,#111111,#111111,2,0.500601631013
+'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.519374801361
 'Usha Vance',fr,unknown,#111111,#111111,2,0.500381668596
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.487620601242
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
@@ -11,15 +11,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dick Cheney',fr,USA,#18e8e8,#18e8e8,2,0.479439419594
 'Lecornu II',fr,Frankreich,#e8e808,#e8e808,2,0.478121857486
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,3,0.477146759281
-'Larry Summers',fr,unknown,#111111,#111111,3,0.475863442698
+'Larry Summers',fr,unknown,#111111,#111111,3,0.476547606877
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.475759142292
 'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,2,0.474083779155
-'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,2,0.472952101652
+'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,2,0.473642064401
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.467306771712
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.466384446579
+'prince Andrew',fr,unknown,#111111,#111111,3,0.463580658665
 'Sanae Takaichi',fr,Japan,#33aa99,#33aa99,3,0.463505059522
 'Lecornu II ',fr,Frankreich,#e8e808,#e8e808,3,0.462971988087
-'prince Andrew',fr,unknown,#111111,#111111,3,0.462870653956
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.462671613497
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.460955529494
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
@@ -141,6 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pedro Sánchez',fr,Spanien,#33aa99,#33aa99,3,0.395934383542
 'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.395880888841
 'Mohammad Mustafa',fr,Palestina,#ee4488,#ee4488,2,0.392247018398
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,2,0.391692909935
 'Matteo Salvini',fr,Italien,#33dd55,#33dd55,3,0.391121349031
 'Bernie Sanders',fr,USA,#18e8e8,#18e8e8,1,0.390605511533
 'Bärbel Bas',fr,Deutschland,#335599,#335599,1,0.390052427513
@@ -152,13 +153,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Narendra Modi',fr,Indien,#995533,#995533,3,0.383643254088
 'Javier Milei',fr,Argentinien,#6622bb,#6622bb,3,0.382753088644
 'Ron Howard',fr,USA,#18e8e8,#18e8e8,1,0.381890005685
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,2,0.380519093245
 'Jake Paul',fr,USA,#18e8e8,#18e8e8,1,0.379627453276
 'Henry Samuel',fr,USA,#18e8e8,#18e8e8,2,0.379283430693
 'Billie Eilish',fr,USA,#18e8e8,#18e8e8,2,0.379214031779
 'Paul Biya',fr,Kamerun,#2266cc,#2266cc,3,0.378915563375
 'Benjamin Nethanaju',fr,Israel,#3311cc,#3311cc,1,0.378183378568
 'Al Nassr',fr,SaudiArabien,#22bb66,#22bb66,2,0.378163616220
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.378017074063
 'Michel H. Devoret',fr,USA,#18e8e8,#18e8e8,1,0.376536656136
 'Valérie Hayer',fr,Frankreich,#e8e808,#e8e808,1,0.376343893204
 'George Miller',fr,Australien,#aa9933,#aa9933,2,0.376093231959
@@ -170,7 +171,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Guy Ritchie',fr,UK,#e838e8,#e838e8,1,0.374228753385
 'Christian Lindner',fr,Deutschland,#1818e8,#1818e8,3,0.372181692859
 'Chuck Schumer',fr,USA,#18e8e8,#18e8e8,1,0.371713023031
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.370967792934
 'William Friedkin',fr,USA,#18e8e8,#18e8e8,2,0.369946252027
 'Kara Hurst',fr,USA,#18e8e8,#18e8e8,1,0.368475000000
 'Gervonta Davis',fr,USA,#18e8e8,#18e8e8,1,0.368458726253
@@ -248,16 +248,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sophie Turner',fr,UK,#e838e8,#e838e8,2,0.343925232039
 'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,1,0.343925006177
 'Vo Van Thuong',fr,Vietnam,#117644,#117644,1,0.343470111841
+'Marjorie Taylor Greene',fr,USA,#18e8e8,#18e8e8,1,0.341760502682
 'Charlize Theron',fr,Südafrika,#ee4411,#ee4411,1,0.341717538554
 'Antonio Brown',fr,USA,#18e8e8,#18e8e8,1,0.341161406835
 'Gavin Newsom',fr,USA,#18e8e8,#18e8e8,2,0.341023691005
 'Margaret Thatcher',fr,UK,#e838e8,#e838e8,2,0.340914469394
 'Sabrina Carpenter',fr,USA,#18e8e8,#18e8e8,1,0.340539300924
 'Steven Spielberg',fr,USA,#18e8e8,#18e8e8,3,0.340185343405
-'Marjorie Taylor Greene',fr,USA,#18e8e8,#18e8e8,1,0.339876749629
+'Paris Hilton',fr,USA,#18e8e8,#18e8e8,1,0.339847538335
 'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,1,0.339142297512
 'Julia Louis-Dreyfus',fr,USA,#18e8e8,#18e8e8,1,0.339007543002
-'Paris Hilton',fr,USA,#18e8e8,#18e8e8,1,0.338903130797
 'Lady Gaga',fr,USA,#18e8e8,#18e8e8,1,0.338843748923
 'Ferdinand Dudenhöffer',fr,Deutschland,#1818e8,#1818e8,1,0.338544603119
 'Mary Robinson',fr,Irland,#4488cc,#4488cc,1,0.338457348850
@@ -283,10 +283,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gigi Hadid',fr,USA,#18e8e8,#18e8e8,1,0.334464210080
 'Aurélien Rousseau',fr,Frankreich,#e8e808,#e8e808,1,0.334305013868
 'Helmut Kohl',fr,Deutschland,#1818e8,#1818e8,1,0.334236744520
+'Bill Clinton',fr,USA,#18e8e8,#18e8e8,2,0.334198932023
 'Olivier Dussopt',fr,Frankreich,#e8e808,#e8e808,2,0.334028228943
 'Jeanne du Barry',fr,Frankreich,#e8e808,#e8e808,1,0.333535668530
 'Willem Dafoe',fr,USA,#18e8e8,#18e8e8,1,0.333452193872
-'Bill Clinton',fr,USA,#18e8e8,#18e8e8,2,0.333244675810
 'Rosa Parks',fr,USA,#18e8e8,#18e8e8,2,0.333228146274
 'Ainsley Earhardt',fr,USA,#18e8e8,#18e8e8,1,0.333173990747
 'Clément Beaune',fr,Frankreich,#e8e808,#e8e808,2,0.332996456566
