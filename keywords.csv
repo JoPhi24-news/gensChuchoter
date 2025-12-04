@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Larry Summers',fr,unknown,#111111,#111111,3,0.543015020821
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,2,0.500601631013
 'Usha Vance',fr,unknown,#111111,#111111,2,0.500381668596
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.487620601242
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dick Cheney',fr,USA,#18e8e8,#18e8e8,2,0.479439419594
 'Lecornu II',fr,Frankreich,#e8e808,#e8e808,2,0.478121857486
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,3,0.477146759281
+'Larry Summers',fr,unknown,#111111,#111111,3,0.475863442698
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.475759142292
 'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,2,0.474083779155
 'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,2,0.472952101652
@@ -152,7 +152,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Narendra Modi',fr,Indien,#995533,#995533,3,0.383643254088
 'Javier Milei',fr,Argentinien,#6622bb,#6622bb,3,0.382753088644
 'Ron Howard',fr,USA,#18e8e8,#18e8e8,1,0.381890005685
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,2,0.379648274050
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,2,0.380519093245
 'Jake Paul',fr,USA,#18e8e8,#18e8e8,1,0.379627453276
 'Henry Samuel',fr,USA,#18e8e8,#18e8e8,2,0.379283430693
 'Billie Eilish',fr,USA,#18e8e8,#18e8e8,2,0.379214031779
@@ -286,12 +286,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olivier Dussopt',fr,Frankreich,#e8e808,#e8e808,2,0.334028228943
 'Jeanne du Barry',fr,Frankreich,#e8e808,#e8e808,1,0.333535668530
 'Willem Dafoe',fr,USA,#18e8e8,#18e8e8,1,0.333452193872
+'Bill Clinton',fr,USA,#18e8e8,#18e8e8,2,0.333244675810
 'Rosa Parks',fr,USA,#18e8e8,#18e8e8,2,0.333228146274
 'Ainsley Earhardt',fr,USA,#18e8e8,#18e8e8,1,0.333173990747
 'Clément Beaune',fr,Frankreich,#e8e808,#e8e808,2,0.332996456566
 'Gisele Bündchen',fr,Brasilien,#58e838,#58e838,1,0.332433752749
 'Barry Keoghan',fr,Irland,#4488cc,#4488cc,2,0.332386876959
-'Bill Clinton',fr,USA,#18e8e8,#18e8e8,2,0.332288765613
 'Pedro Pascal',fr,Chile,#11fe4211,#11fe4211,2,0.332000042185
 'Bronny James',fr,USA,#18e8e8,#18e8e8,2,0.331677759062
 'Benny Safdie',fr,USA,#18e8e8,#18e8e8,1,0.331175149671
