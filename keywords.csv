@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Usha Vance',fr,unknown,#111111,#111111,2,0.500381668596
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.487620601242
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.483860818917
@@ -86,6 +85,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.425738636725
 'Tig Notaro',fr,USA,#18e8e8,#18e8e8,1,0.425358127032
 'Mary Brunkow',fr,USA,#18e8e8,#18e8e8,1,0.425347780013
+'Usha Vance',fr,unknown,#111111,#111111,1,0.425324448307
 'Mareike Fallwickl',fr,Oesterreich,#5522dd,#5522dd,1,0.425231128589
 'Zack Snyder',fr,USA,#18e8e8,#18e8e8,1,0.425026070982
 'Laura Loomer',fr,USA,#18e8e8,#18e8e8,1,0.425000420000
