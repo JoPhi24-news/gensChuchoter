@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'JD Vance',fr,USA,#18e8e8,#18e8e8,3,0.504707710700
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.487620601242
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.483860818917
@@ -74,6 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helene Fischer',fr,unknown,#111111,#111111,1,0.429332130158
 'Robert de Niro',fr,USA,#18e8e8,#18e8e8,3,0.429215236293
 'Whoopi Goldberg',fr,USA,#18e8e8,#18e8e8,1,0.429119676187
+'JD Vance',fr,USA,#18e8e8,#18e8e8,2,0.429002079095
 'James Gunn',fr,USA,#18e8e8,#18e8e8,2,0.428913624453
 'Christian Dürr',fr,Deutschland,#335599,#335599,1,0.428593246867
 'Paul Konerko',fr,USA,#18e8e8,#18e8e8,1,0.427902059977
