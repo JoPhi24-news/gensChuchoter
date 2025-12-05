@@ -657,6 +657,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Sánchez',fr,USA,#18e8e8,#18e8e8,1,0.259436319193
 'George Floyd',fr,USA,#18e8e8,#18e8e8,1,0.259097204784
 'Lily Gladstone',fr,unknown,#111111,#111111,1,0.258413900071
+'Jennifer Morgan',fr,unknown,#111111,#111111,1,0.258242564707
 'Noam Chomsky',fr,USA,#18e8e8,#18e8e8,1,0.257656035471
 'Joey Fatone',fr,unknown,#111111,#111111,1,0.257431835468
 'Alvin Bragg',fr,USA,#18e8e8,#18e8e8,1,0.256935814183
@@ -677,7 +678,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolodimir Selenski',fr,Ukraine,#e818e8,#e818e8,1,0.245568263927
 'König Charles III',fr,UK,#e838e8,#e838e8,1,0.245515969352
 'Mark Rutte',fr,Niederlande,#ffbb33,#ffbb33,3,0.244773001247
-'Jennifer Morgan',fr,unknown,#111111,#111111,1,0.244461787891
 'Prinz Louis',fr,UK,#e838e8,#e838e8,1,0.244329453500
 'Gorbatschow',fr,unknown,#111111,#111111,1,0.244037921875
 'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.244037921875
