@@ -62,11 +62,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Bieber',fr,Kanada,#55ee33,#55ee33,2,0.431485890178
 'Andrew Mountbatten Windsor',fr,unknown,#111111,#111111,1,0.431195094082
 'Omar Yaghi',fr,Jordanien,#335588,#335588,2,0.430819754240
+'Callum Turner',fr,UK,#e838e8,#e838e8,2,0.430742441075
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.430676866032
 'Ciryl Gane',fr,unknown,#111111,#111111,1,0.430433435222
 'Robert Kennedy',fr,USA,#18e8e8,#18e8e8,3,0.430353257073
 'Benyamin Netanyahou',fr,Israel,#3311cc,#3311cc,2,0.430234863249
-'Callum Turner',fr,UK,#e838e8,#e838e8,2,0.429967640349
 'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.429826136887
 'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.429691390517
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.429592450782
@@ -98,7 +98,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Iyad al-Rantisi',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Adnan al-Burj',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'David Beckham',fr,UK,#e838e8,#e838e8,2,0.424760457727
-'Dua Lipa',fr,UK,#e838e8,#e838e8,1,0.424437638240
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.424281879151
 'Élisabeth Borne',fr,Frankreich,#e8e808,#e8e808,3,0.423524536807
 'Sam Altman',fr,USA,#18e8e8,#18e8e8,3,0.423211637518
@@ -112,6 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benny Blanco',fr,USA,#18e8e8,#18e8e8,2,0.415845566696
 'Ayatollah Khomeini',fr,Iran,#1144ee,#1144ee,1,0.415787349296
 'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.415269807199
+'Dua Lipa',fr,UK,#e838e8,#e838e8,2,0.414822397504
 'Chris Wright',fr,USA,#18e8e8,#18e8e8,2,0.413317892528
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.413082229489
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,2,0.412542882958
@@ -256,9 +256,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sabrina Carpenter',fr,USA,#18e8e8,#18e8e8,1,0.340539300924
 'Steven Spielberg',fr,USA,#18e8e8,#18e8e8,3,0.340185343405
 'Paris Hilton',fr,USA,#18e8e8,#18e8e8,1,0.339847538335
+'Lady Gaga',fr,USA,#18e8e8,#18e8e8,1,0.339788260326
 'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,1,0.339142297512
 'Julia Louis-Dreyfus',fr,USA,#18e8e8,#18e8e8,1,0.339007543002
-'Lady Gaga',fr,USA,#18e8e8,#18e8e8,1,0.338843748923
 'Ferdinand Dudenhöffer',fr,Deutschland,#1818e8,#1818e8,1,0.338544603119
 'Mary Robinson',fr,Irland,#4488cc,#4488cc,1,0.338457348850
 'nan Si',fr,unknown,#111111,#111111,1,0.338439211509
@@ -682,9 +682,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gorbatschow',fr,unknown,#111111,#111111,1,0.244037921875
 'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.244037921875
 'Afida Turner',fr,Frankreich,#e8e808,#e8e808,1,0.243889550148
+'Ursula von der Leyen',fr,EU,#88cc44,#88cc44,1,0.242377491926
 'Cyril Ramaphosa',fr,Südafrika,#ee4411,#ee4411,3,0.241920832267
 'Buzz Aldrin',fr,USA,#18e8e8,#18e8e8,1,0.241406527147
-'Ursula von der Leyen',fr,EU,#88cc44,#88cc44,1,0.241279307608
 'Kevin Kühnert',fr,Deutschland,#1818e8,#1818e8,1,0.241224347799
 'Stefan Rahmstorf',fr,Deutschland,#1818e8,#1818e8,1,0.240538893344
 'Melinda Gates',fr,USA,#18e8e8,#18e8e8,2,0.239445180794
