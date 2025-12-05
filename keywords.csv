@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'JD Vance',fr,USA,#18e8e8,#18e8e8,3,0.504707710700
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.487620601242
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.483860818917
@@ -31,10 +32,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.453211973782
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453093851415
 'Richard Robson',fr,Australien,#aa9933,#aa9933,1,0.450946694000
+'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.449380633374
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.449333733390
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.449197570525
 'Sergio Mattarella',fr,Italien,#33dd55,#33dd55,2,0.447946641298
-'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.447902853078
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.446271285100
 'John Martinis',fr,USA,#18e8e8,#18e8e8,2,0.446021649839
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
@@ -107,7 +108,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brad Pitt',fr,USA,#18e8e8,#18e8e8,3,0.421254713532
 'Erika Kirk',fr,USA,#18e8e8,#18e8e8,2,0.420390015174
 'Katherina Reiche',fr,Deutschland,#335599,#335599,2,0.417351196439
-'JD Vance',fr,USA,#18e8e8,#18e8e8,3,0.416949630235
 'Benny Blanco',fr,USA,#18e8e8,#18e8e8,2,0.415845566696
 'Ayatollah Khomeini',fr,Iran,#1144ee,#1144ee,1,0.415787349296
 'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.415269807199
@@ -153,11 +153,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Narendra Modi',fr,Indien,#995533,#995533,3,0.383643254088
 'Javier Milei',fr,Argentinien,#6622bb,#6622bb,3,0.382753088644
 'Ron Howard',fr,USA,#18e8e8,#18e8e8,1,0.381890005685
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.379763146685
 'Jake Paul',fr,USA,#18e8e8,#18e8e8,1,0.379627453276
 'Henry Samuel',fr,USA,#18e8e8,#18e8e8,2,0.379283430693
 'Billie Eilish',fr,USA,#18e8e8,#18e8e8,2,0.379214031779
 'Paul Biya',fr,Kamerun,#2266cc,#2266cc,3,0.378915563375
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.378890920977
 'Benjamin Nethanaju',fr,Israel,#3311cc,#3311cc,1,0.378183378568
 'Al Nassr',fr,SaudiArabien,#22bb66,#22bb66,2,0.378163616220
 'Michel H. Devoret',fr,USA,#18e8e8,#18e8e8,1,0.376536656136
