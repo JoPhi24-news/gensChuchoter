@@ -353,7 +353,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Omar Sy',fr,Frankreich,#e8e808,#e8e808,1,0.321096750314
 'Steve Jobs',fr,USA,#18e8e8,#18e8e8,2,0.321013605664
 'Carey Mulligan',fr,UK,#e838e8,#e838e8,1,0.320423043827
-'Caroline Ellison',fr,USA,#18e8e8,#18e8e8,1,0.320276220901
 'Robert Menendez',fr,USA,#18e8e8,#18e8e8,1,0.320256326844
 'Sergei Shoigu',fr,Russland,#e81818,#e81818,1,0.319742931699
 'Howard Stern',fr,USA,#18e8e8,#18e8e8,1,0.319475949729
@@ -612,6 +611,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Noor Alfallah',fr,USA,#18e8e8,#18e8e8,1,0.273961831607
 'James Cleverly',fr,UK,#e838e8,#e838e8,1,0.272953190844
 'Leonard Bernstein',fr,unknown,#111111,#111111,1,0.272529092384
+'Caroline Ellison',fr,USA,#18e8e8,#18e8e8,1,0.272234787766
 'Laura Ingraham',fr,USA,#18e8e8,#18e8e8,1,0.271685360167
 'Warren Buffet',fr,USA,#18e8e8,#18e8e8,1,0.271396869202
 'Rudy Giuliani',fr,USA,#18e8e8,#18e8e8,1,0.270720323991
