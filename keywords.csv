@@ -137,7 +137,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.398397220244
 'Éric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.398063646122
 "'Dwayne ""The Rock"" Johnson'",fr,USA,#18e8e8,#18e8e8,2,0.397800998044
-'Victoria Beckham',fr,UK,#e838e8,#e838e8,1,0.397088725583
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,2,0.396758620735
 'Pedro Sánchez',fr,Spanien,#33aa99,#33aa99,3,0.395934383542
 'Mohammad Mustafa',fr,Palestina,#ee4488,#ee4488,2,0.392247018398
@@ -173,6 +172,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'William Friedkin',fr,USA,#18e8e8,#18e8e8,2,0.369946252027
 'Kara Hurst',fr,USA,#18e8e8,#18e8e8,1,0.368475000000
 'Gervonta Davis',fr,USA,#18e8e8,#18e8e8,1,0.368458726253
+'Victoria Beckham',fr,UK,#e838e8,#e838e8,1,0.368275491746
 'Shimon Sakaguchi',fr,Japan,#33aa99,#33aa99,1,0.368221925409
 'Duke Henri',fr,Luxemburg,#55dd33,#55dd33,1,0.368187357295
 'Jennifer Garner',fr,USA,#18e8e8,#18e8e8,2,0.367533489993
