@@ -557,7 +557,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leonardo DiCaprio',fr,USA,#18e8e8,#18e8e8,2,0.288576488011
 'Jordan Neely',fr,USA,#18e8e8,#18e8e8,1,0.288357151933
 'Steve Scalise',fr,unknown,#111111,#111111,1,0.288188661440
-'Robert Nozick',fr,USA,#18e8e8,#18e8e8,1,0.287916071891
 'Leni Klum',fr,unknown,#111111,#111111,1,0.287486228025
 'Elizabeth Mpofu',fr,unknown,#111111,#111111,1,0.287253452500
 'Prinzessin Diana',fr,UK,#e838e8,#e838e8,1,0.287163689337
@@ -678,6 +677,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolodimir Selenski',fr,Ukraine,#e818e8,#e818e8,1,0.245568263927
 'König Charles III',fr,UK,#e838e8,#e838e8,1,0.245515969352
 'Mark Rutte',fr,Niederlande,#ffbb33,#ffbb33,3,0.244773001247
+'Robert Nozick',fr,USA,#18e8e8,#18e8e8,1,0.244728661107
 'Prinz Louis',fr,UK,#e838e8,#e838e8,1,0.244329453500
 'Gorbatschow',fr,unknown,#111111,#111111,1,0.244037921875
 'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.244037921875
