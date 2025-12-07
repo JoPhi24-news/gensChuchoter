@@ -802,7 +802,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.188574757812
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,2,0.188558763208
 'Jon Batiste',fr,unknown,#111111,#111111,1,0.187363149643
-'Antonio Guterres',fr,UN,#e888e8,#e888e8,3,0.187224051539
 'Fumio Kishida',fr,Japan,#33aa99,#33aa99,3,0.187035135023
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,1,0.186882150755
 'Mathias Döpfner',fr,Deutschland,#1818e8,#1818e8,1,0.186850723341
@@ -856,6 +855,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.160288544141
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.160288544141
 'Michael Mann',fr,USA,#18e8e8,#18e8e8,1,0.159606230871
+'Antonio Guterres',fr,UN,#e888e8,#e888e8,2,0.159141133808
 'Gautam Adani',fr,Indien,#995533,#995533,1,0.158833200126
 'Lukaschenko',fr,Belarus,#e81858,#e81858,2,0.156151364972
 'Martin Schirdewan',fr,Deutschland,#1818e8,#1818e8,1,0.155018206661
