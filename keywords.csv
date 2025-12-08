@@ -102,7 +102,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Élisabeth Borne',fr,Frankreich,#e8e808,#e8e808,3,0.423524536807
 'Sam Altman',fr,USA,#18e8e8,#18e8e8,3,0.423211637518
 'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.422699968605
-'Ehud Olmert',fr,Israel,#3311cc,#3311cc,2,0.422552699533
 'Alexander Dobrindt',fr,Deutschland,#335599,#335599,1,0.422011114581
 'Brad Pitt',fr,USA,#18e8e8,#18e8e8,3,0.421254713532
 'Erika Kirk',fr,USA,#18e8e8,#18e8e8,2,0.420390015174
@@ -202,6 +201,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LeBron James',fr,USA,#18e8e8,#18e8e8,2,0.360570501986
 'Abraham Lincoln',fr,USA,#18e8e8,#18e8e8,1,0.360380811796
 'Dwayne Johnson',fr,USA,#18e8e8,#18e8e8,1,0.359683868229
+'Ehud Olmert',fr,Israel,#3311cc,#3311cc,1,0.359169824603
 'Sean Hannity',fr,USA,#18e8e8,#18e8e8,1,0.359050741497
 'Emma Stone',fr,USA,#18e8e8,#18e8e8,1,0.358709971492
 'Lana Del Rey',fr,USA,#18e8e8,#18e8e8,1,0.358138244383
