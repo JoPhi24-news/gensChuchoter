@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Affaire Epstein',fr,unknown,#111111,#111111,3,0.627877345700
 'Christophe Gleizes',fr,unknown,#111111,#111111,2,0.603173791402
+'Affaire Epstein',fr,unknown,#111111,#111111,3,0.602284222481
 'Joy Reid',fr,unknown,#111111,#111111,2,0.509129716959
 'Nancy Pelosi',fr,unknown,#111111,#111111,2,0.505675882511
 'Francis Ngannou',fr,unknown,#111111,#111111,2,0.503803787659
@@ -31,8 +31,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.462671613497
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.460955529494
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.460510644809
 'Sebastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.459873809228
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.459794538460
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.456852024411
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,3,0.456764818400
 'John Clarke',fr,USA,#18e8e8,#18e8e8,3,0.454757225617
@@ -121,6 +121,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Wright',fr,USA,#18e8e8,#18e8e8,2,0.413317892528
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.413082229489
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,2,0.412542882958
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,2,0.412423805515
 'Kamala Harris',fr,USA,#18e8e8,#18e8e8,3,0.411746883005
 'John M. Martinis',fr,USA,#18e8e8,#18e8e8,1,0.411102944000
 'Bruno Le Maire',fr,Frankreich,#e8e808,#e8e808,3,0.409918577589
@@ -128,7 +129,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nikki Haley',fr,USA,#18e8e8,#18e8e8,1,0.408667292393
 'Stormy Daniels',fr,USA,#18e8e8,#18e8e8,1,0.408604237086
 'Poutine',fr,Russland,#e81818,#e81818,3,0.408549993695
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,2,0.407538265341
 'Robert Prevost',fr,Vatikan,#dd5544,#dd5544,2,0.405430065831
 'Hans-Werner Sinn',fr,Deutschland,#1818e8,#1818e8,1,0.405414638799
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.404749867533
@@ -153,11 +153,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Keith Kellogg',fr,USA,#18e8e8,#18e8e8,2,0.388230512313
 'Cristiano Ronaldo',fr,Portugal,#339933,#339933,3,0.387963606956
 'Bradley Cooper',fr,USA,#18e8e8,#18e8e8,2,0.385555413628
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.384962526525
 'Radical Optimism',fr,unknown,#111111,#111111,1,0.384209541779
 'Narendra Modi',fr,Indien,#995533,#995533,3,0.383643254088
 'Javier Milei',fr,Argentinien,#6622bb,#6622bb,3,0.382753088644
 'Ron Howard',fr,USA,#18e8e8,#18e8e8,1,0.381890005685
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.381502739471
 'Jake Paul',fr,USA,#18e8e8,#18e8e8,1,0.379627453276
 'Henry Samuel',fr,USA,#18e8e8,#18e8e8,2,0.379283430693
 'Billie Eilish',fr,USA,#18e8e8,#18e8e8,2,0.379214031779
@@ -243,6 +243,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alex Jones',fr,USA,#18e8e8,#18e8e8,1,0.348594402270
 'James Biden',fr,USA,#18e8e8,#18e8e8,1,0.347942878043
 'Nina Gummich',fr,Deutschland,#1818e8,#1818e8,1,0.347740326541
+'Marjorie Taylor Greene',fr,USA,#18e8e8,#18e8e8,1,0.347372103600
 'prince Harry',fr,UK,#e838e8,#e838e8,2,0.347243686381
 'Ron Johnson',fr,USA,#18e8e8,#18e8e8,1,0.346868482424
 'Jack Smith',fr,USA,#18e8e8,#18e8e8,2,0.346717275903
@@ -255,7 +256,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Timberlake',fr,USA,#18e8e8,#18e8e8,2,0.345374834729
 'Sophie Turner',fr,UK,#e838e8,#e838e8,2,0.343925232039
 'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,1,0.343925006177
-'Marjorie Taylor Greene',fr,USA,#18e8e8,#18e8e8,1,0.343637644438
 'Vo Van Thuong',fr,Vietnam,#117644,#117644,1,0.343470111841
 'Charlize Theron',fr,Südafrika,#ee4411,#ee4411,1,0.341717538554
 'Gavin Newsom',fr,USA,#18e8e8,#18e8e8,2,0.341023691005
