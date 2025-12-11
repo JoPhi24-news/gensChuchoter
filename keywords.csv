@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Francis Ngannou',fr,unknown,#111111,#111111,2,0.503803787659
 'Karoline Leavitt',fr,unknown,#111111,#111111,2,0.502503355308
 'Jack Della Maddalena',fr,unknown,#111111,#111111,2,0.502410270735
 'Larry David',fr,unknown,#111111,#111111,2,0.501713674392
@@ -84,6 +83,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'JD Vance',fr,USA,#18e8e8,#18e8e8,2,0.429002079095
 'James Gunn',fr,USA,#18e8e8,#18e8e8,2,0.428913624453
 'Christian Dürr',fr,Deutschland,#335599,#335599,1,0.428593246867
+'Francis Ngannou',fr,unknown,#111111,#111111,1,0.428233219510
 'Paul Konerko',fr,USA,#18e8e8,#18e8e8,1,0.427902059977
 'Lil Yachty',fr,USA,#18e8e8,#18e8e8,1,0.427859306015
 'Francesca Albanese',fr,Italien,#33dd55,#33dd55,2,0.427463404751
