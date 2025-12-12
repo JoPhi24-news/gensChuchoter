@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.507136442734
 'Jack Della Maddalena',fr,unknown,#111111,#111111,2,0.502410270735
 'Larry David',fr,unknown,#111111,#111111,2,0.501713674392
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.490910993917
@@ -41,13 +40,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.449380633374
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.449197570525
 'Sergio Mattarella',fr,Italien,#33dd55,#33dd55,2,0.447946641298
+'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.446817341324
 'John Martinis',fr,USA,#18e8e8,#18e8e8,2,0.446021649839
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.444907942184
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,3,0.444815655762
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444066782960
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,2,0.444012680254
-'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.440759068638
+'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.442264943758
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.439185006695
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,3,0.438101320150
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.437406934564
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Éric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.398063646122
 "'Dwayne ""The Rock"" Johnson'",fr,USA,#18e8e8,#18e8e8,2,0.397800998044
 'Pedro Sánchez',fr,Spanien,#33aa99,#33aa99,3,0.395934383542
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.392652877709
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.394344216617
 'Mohammad Mustafa',fr,Palestina,#ee4488,#ee4488,2,0.392247018398
 'Matteo Salvini',fr,Italien,#33dd55,#33dd55,3,0.391121349031
 'Bernie Sanders',fr,USA,#18e8e8,#18e8e8,1,0.390605511533
