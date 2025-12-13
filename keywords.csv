@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Larry David',fr,unknown,#111111,#111111,2,0.501713674392
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.490910993917
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.483860818917
@@ -34,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.453941111413
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453093851415
+'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
 'Richard Robson',fr,Australien,#aa9933,#aa9933,1,0.450946694000
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.450805873608
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.449380633374
@@ -581,10 +581,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',fr,unknown,#111111,#111111,1,0.287103437500
 'Warren Buffett',fr,USA,#18e8e8,#18e8e8,2,0.286569954211
 'Jeff Bezos',fr,USA,#18e8e8,#18e8e8,3,0.286473608987
+'Larry Ellison',fr,USA,#18e8e8,#18e8e8,2,0.285251174512
 'Dorothée Pacaud',fr,Frankreich,#e8e808,#e8e808,1,0.284892524369
 'Bob Menendez',fr,unknown,#111111,#111111,1,0.284848446148
 'Arno Antlitz',fr,Deutschland,#1818e8,#1818e8,1,0.284707156768
-'Larry Ellison',fr,USA,#18e8e8,#18e8e8,2,0.284216097670
 'Vanessa Nakate',fr,unknown,#111111,#111111,1,0.283487885073
 'Georg Gänswein',fr,Deutschland,#1818e8,#1818e8,1,0.283465305781
 'Andrea Arnold',fr,UK,#e838e8,#e838e8,1,0.283422291374
