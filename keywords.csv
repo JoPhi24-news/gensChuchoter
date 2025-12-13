@@ -92,7 +92,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'László Krasznahorkai',fr,Ungarn,#99aa33,#99aa33,1,0.426324337111
 'Itamar Ben-Gvir',fr,Israel,#3311cc,#3311cc,2,0.426276178250
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.425852087747
-'Curtis Yarvin',fr,USA,#18e8e8,#18e8e8,1,0.425824791633
 'Tig Notaro',fr,USA,#18e8e8,#18e8e8,1,0.425358127032
 'Mary Brunkow',fr,USA,#18e8e8,#18e8e8,1,0.425347780013
 'Usha Vance',fr,unknown,#111111,#111111,1,0.425324448307
@@ -202,6 +201,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eddie Hearn',fr,UK,#e838e8,#e838e8,1,0.363735105123
 'Suleika Jaouad',fr,USA,#18e8e8,#18e8e8,1,0.362871379895
 'Omar M. Yaghi',fr,USA,#18e8e8,#18e8e8,1,0.362652655250
+'Curtis Yarvin',fr,USA,#18e8e8,#18e8e8,1,0.362101087888
 'Karol G',fr,Kolumbien,#dd5533,#dd5533,1,0.361888744282
 'George Santos',fr,USA,#18e8e8,#18e8e8,2,0.361764971186
 'Mareike Fallwickl',fr,Oesterreich,#5522dd,#5522dd,1,0.361446459301
