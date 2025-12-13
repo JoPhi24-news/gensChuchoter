@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.490910993917
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.483860818917
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.481525009443
@@ -19,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.473427768050
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.470581698077
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.468007965258
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.465483770947
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.466188587008
 'prince Andrew',fr,unknown,#111111,#111111,3,0.463580658665
 'Sanae Takaichi',fr,Japan,#33aa99,#33aa99,3,0.463505059522
 'Lecornu II ',fr,Frankreich,#e8e808,#e8e808,3,0.462971988087
@@ -47,6 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444066782960
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,2,0.444012680254
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.442264943758
+'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.440410348011
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.439185006695
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,3,0.438101320150
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.437406934564
