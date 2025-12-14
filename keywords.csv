@@ -726,7 +726,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Don Lemon',fr,USA,#18e8e8,#18e8e8,1,0.226289709375
 'Steve Doocy',fr,unknown,#111111,#111111,1,0.226101835999
 'Leah McSweeney',fr,unknown,#111111,#111111,1,0.225991347630
-'Katarina Barley',fr,EU,#88cc44,#88cc44,1,0.225429769799
 'Billionaire Bunker',fr,unknown,#111111,#111111,1,0.225386923480
 'Petro Poroshenko',fr,unknown,#111111,#111111,1,0.224986234320
 'Matty Healy',fr,unknown,#111111,#111111,1,0.224772322077
@@ -795,6 +794,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tino Chrupalla',fr,Deutschland,#1818e8,#1818e8,2,0.193789984578
 'Katja Krasavice',fr,Deutschland,#1818e8,#1818e8,1,0.193376967217
 'Jeffrey Donaldson',fr,Irland,#4488cc,#4488cc,1,0.192469256620
+'Katarina Barley',fr,EU,#88cc44,#88cc44,1,0.191615304329
 'Christoph Heusgen',fr,Deutschland,#1818e8,#1818e8,3,0.191097369710
 'Gisele Bundchen',fr,unknown,#111111,#111111,1,0.190617530688
 'Karine Jean-Pierre',fr,USA,#18e8e8,#18e8e8,3,0.190418801885
