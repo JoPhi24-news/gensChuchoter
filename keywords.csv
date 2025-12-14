@@ -243,7 +243,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gérard Larcher',fr,Frankreich,#e8e808,#e8e808,2,0.348767387982
 'Alex Jones',fr,USA,#18e8e8,#18e8e8,1,0.348594402270
 'James Biden',fr,USA,#18e8e8,#18e8e8,1,0.347942878043
-'Nina Gummich',fr,Deutschland,#1818e8,#1818e8,1,0.347740326541
 'prince Harry',fr,UK,#e838e8,#e838e8,2,0.347243686381
 'Ron Johnson',fr,USA,#18e8e8,#18e8e8,1,0.346868482424
 'Jack Smith',fr,USA,#18e8e8,#18e8e8,2,0.346717275903
@@ -539,6 +538,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Penny',fr,USA,#18e8e8,#18e8e8,1,0.296236988518
 'Hendrik Wüst',fr,Deutschland,#1818e8,#1818e8,1,0.295774735074
 'Patrick Pouyanné',fr,Frankreich,#e8e808,#e8e808,2,0.295654776986
+'Nina Gummich',fr,Deutschland,#1818e8,#1818e8,1,0.295579277560
 'Patrick Graichen',fr,Deutschland,#1818e8,#1818e8,1,0.295270705300
 'Billy Graham',fr,USA,#18e8e8,#18e8e8,1,0.295155464364
 'Jamie Dimon',fr,USA,#18e8e8,#18e8e8,1,0.294977716361
