@@ -40,7 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergio Mattarella',fr,Italien,#33dd55,#33dd55,2,0.447946641298
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.446817341324
 'John Martinis',fr,USA,#18e8e8,#18e8e8,2,0.446021649839
-'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.444907942184
+'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.445653462068
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,3,0.444815655762
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444066782960
@@ -107,8 +107,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Adnan al-Burj',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'David Beckham',fr,UK,#e838e8,#e838e8,2,0.424760457727
 'Élisabeth Borne',fr,Frankreich,#e8e808,#e8e808,3,0.423524536807
+'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.423488907162
 'Sam Altman',fr,USA,#18e8e8,#18e8e8,3,0.423211637518
-'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.422699968605
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,2,0.422027013743
 'Alexander Dobrindt',fr,Deutschland,#335599,#335599,1,0.422011114581
 'Brad Pitt',fr,USA,#18e8e8,#18e8e8,3,0.421254713532
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Éric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.398063646122
 "'Dwayne ""The Rock"" Johnson'",fr,USA,#18e8e8,#18e8e8,2,0.397800998044
 'Pedro Sánchez',fr,Spanien,#33aa99,#33aa99,3,0.395934383542
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.394344216617
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.395187491299
 'Mohammad Mustafa',fr,Palestina,#ee4488,#ee4488,2,0.392247018398
 'Matteo Salvini',fr,Italien,#33dd55,#33dd55,3,0.391121349031
 'Bernie Sanders',fr,USA,#18e8e8,#18e8e8,1,0.390605511533
@@ -155,8 +155,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bradley Cooper',fr,USA,#18e8e8,#18e8e8,2,0.385555413628
 'Radical Optimism',fr,unknown,#111111,#111111,1,0.384209541779
 'Narendra Modi',fr,Indien,#995533,#995533,3,0.383643254088
-'Javier Milei',fr,Argentinien,#6622bb,#6622bb,3,0.382753088644
 'Ron Howard',fr,USA,#18e8e8,#18e8e8,1,0.381890005685
+'Javier Milei',fr,Argentinien,#6622bb,#6622bb,3,0.381703510347
 'Jake Paul',fr,USA,#18e8e8,#18e8e8,1,0.379627453276
 'Henry Samuel',fr,USA,#18e8e8,#18e8e8,2,0.379283430693
 'Billie Eilish',fr,USA,#18e8e8,#18e8e8,2,0.379214031779
