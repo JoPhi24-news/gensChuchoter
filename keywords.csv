@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.517032566079
+'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.555418873748
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.481525009443
 'Kamel Daoud',fr,unknown,#111111,#111111,2,0.480184375691
@@ -139,11 +139,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.401267548680
 'Premier ministre',fr,Frankreich,#e8e808,#e8e808,3,0.401092328839
 'Emily Blunt',fr,UK,#e838e8,#e838e8,3,0.400191621811
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.399379980165
 'Kim Jong Un',fr,NordKorea,#e85858,#e85858,3,0.398576518041
 'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.398397220244
 'Éric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.398063646122
 "'Dwayne ""The Rock"" Johnson'",fr,USA,#18e8e8,#18e8e8,2,0.397800998044
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.397707755112
 'Pedro Sánchez',fr,Spanien,#33aa99,#33aa99,3,0.395934383542
 'Mohammad Mustafa',fr,Palestina,#ee4488,#ee4488,2,0.392247018398
 'Matteo Salvini',fr,Italien,#33dd55,#33dd55,3,0.391121349031
