@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nicolas Maduro',fr,unknown,#111111,#111111,2,0.604824373769
 'Steve Witkoff',fr,unknown,#111111,#111111,3,0.581015287350
+'Nicolas Maduro',fr,unknown,#111111,#111111,2,0.573597912249
 'Bruna Ferreira',fr,unknown,#111111,#111111,2,0.506090078893
 'Islam Makhachev',fr,unknown,#111111,#111111,2,0.505393601376
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.494089419253
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecornu II',fr,Frankreich,#e8e808,#e8e808,2,0.478121857486
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,3,0.477146759281
 'Affaire Epstein',fr,unknown,#111111,#111111,3,0.476796442988
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.475910103697
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.476594174906
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.475759142292
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.475194078244
 'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,2,0.474083779155
@@ -70,11 +70,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Maher',fr,unknown,#111111,#111111,1,0.431788174780
 'Yves Bournazel',fr,Frankreich,#e8e808,#e8e808,2,0.431496523472
 'Justin Bieber',fr,Kanada,#55ee33,#55ee33,2,0.431485890178
+'Pete Hegseth',fr,USA,#18e8e8,#18e8e8,3,0.431275466978
 'Andrew Mountbatten Windsor',fr,unknown,#111111,#111111,1,0.431195094082
 'Omar Yaghi',fr,Jordanien,#335588,#335588,2,0.430819754240
 'Callum Turner',fr,UK,#e838e8,#e838e8,2,0.430742441075
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.430676866032
-'Pete Hegseth',fr,USA,#18e8e8,#18e8e8,3,0.430501708098
 'Ciryl Gane',fr,unknown,#111111,#111111,1,0.430433435222
 'Robert Kennedy',fr,USA,#18e8e8,#18e8e8,3,0.430353257073
 'Benyamin Netanyahou',fr,Israel,#3311cc,#3311cc,2,0.430234863249
@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julia Roberts',fr,USA,#18e8e8,#18e8e8,1,0.409754522170
 'Nikki Haley',fr,USA,#18e8e8,#18e8e8,1,0.408667292393
 'Stormy Daniels',fr,USA,#18e8e8,#18e8e8,1,0.408604237086
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.406005561301
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.407646195435
 'Robert Prevost',fr,Vatikan,#dd5544,#dd5544,2,0.405430065831
 'Hans-Werner Sinn',fr,Deutschland,#1818e8,#1818e8,1,0.405414638799
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.404749867533
