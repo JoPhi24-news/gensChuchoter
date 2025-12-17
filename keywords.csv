@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Steve Witkoff',fr,unknown,#111111,#111111,3,0.564294384248
 'Bruna Ferreira',fr,unknown,#111111,#111111,2,0.506090078893
 'Islam Makhachev',fr,unknown,#111111,#111111,2,0.505393601376
 'Nicolas Maduro',fr,unknown,#111111,#111111,2,0.497055464957
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.494737211603
+'Steve Witkoff',fr,unknown,#111111,#111111,3,0.489152221156
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.486434332041
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.481525009443
@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,2,0.473642064401
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.473427768050
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.468007965258
-'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.464153896632
+'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.464861353908
 'prince Andrew',fr,unknown,#111111,#111111,3,0.463580658665
 'Sanae Takaichi',fr,Japan,#33aa99,#33aa99,3,0.463505059522
 'Lecornu II ',fr,Frankreich,#e8e808,#e8e808,3,0.462971988087
@@ -386,12 +386,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maya Rudolph',fr,USA,#18e8e8,#18e8e8,1,0.316067632073
 'Andrew Tate',fr,USA,#18e8e8,#18e8e8,2,0.315783238111
 'Lawrence Jones',fr,USA,#18e8e8,#18e8e8,1,0.315379065385
+'Jared Kushner',fr,unknown,#111111,#111111,1,0.315004005514
 'Camille Etienne',fr,Frankreich,#e8e808,#e8e808,2,0.314570223459
 'Christian Günther',fr,Deutschland,#1818e8,#1818e8,1,0.314442217584
 'Drena De Niro',fr,USA,#18e8e8,#18e8e8,1,0.314372433849
 'Luc Terlinden',fr,Belgien,#2266bb,#2266bb,1,0.314233748835
 'Christopher Nolan',fr,USA,#18e8e8,#18e8e8,1,0.314207165340
-'Jared Kushner',fr,unknown,#111111,#111111,1,0.314017049534
 'Stockton Rush',fr,USA,#18e8e8,#18e8e8,1,0.313923650584
 'Robin Roberts',fr,USA,#18e8e8,#18e8e8,1,0.313278569349
 'Vinod Khosla',fr,Indien,#995533,#995533,1,0.313203750000
