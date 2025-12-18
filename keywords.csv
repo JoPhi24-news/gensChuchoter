@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.516361565213
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.494737211603
 'Steve Witkoff',fr,unknown,#111111,#111111,3,0.489152221156
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.487759168649
@@ -40,6 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.450805873608
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.449380633374
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.449197570525
+'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.448404734977
 'Sergio Mattarella',fr,Italien,#33dd55,#33dd55,2,0.447946641298
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.446817341324
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.446397514039
@@ -122,10 +122,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ayatollah Khomeini',fr,Iran,#1144ee,#1144ee,1,0.415787349296
 'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.415269807199
 'Dua Lipa',fr,UK,#e838e8,#e838e8,2,0.414822397504
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.413339085717
 'Chris Wright',fr,USA,#18e8e8,#18e8e8,2,0.413317892528
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.413082229489
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,2,0.412542882958
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.412530498981
 'Kamala Harris',fr,USA,#18e8e8,#18e8e8,3,0.411746883005
 'John M. Martinis',fr,USA,#18e8e8,#18e8e8,1,0.411102944000
 'Poutine',fr,Russland,#e81818,#e81818,3,0.410180890096
