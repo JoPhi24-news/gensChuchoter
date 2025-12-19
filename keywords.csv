@@ -89,7 +89,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Dürr',fr,Deutschland,#335599,#335599,1,0.428593246867
 'Francis Ngannou',fr,unknown,#111111,#111111,1,0.428233219510
 'Paul Konerko',fr,USA,#18e8e8,#18e8e8,1,0.427902059977
-'Lil Yachty',fr,USA,#18e8e8,#18e8e8,1,0.427859306015
 'Francesca Albanese',fr,Italien,#33dd55,#33dd55,2,0.427463404751
 'Jack Della Maddalena',fr,unknown,#111111,#111111,1,0.427048730125
 'Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.426521673358
@@ -201,6 +200,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anant Ambani',fr,Indien,#995533,#995533,1,0.365087340868
 'Sherri Shepherd',fr,USA,#18e8e8,#18e8e8,1,0.364547183443
 'Alexander De Croo',fr,Belgien,#2266bb,#2266bb,3,0.363839286260
+'Lil Yachty',fr,USA,#18e8e8,#18e8e8,1,0.363830425113
 'Eddie Hearn',fr,UK,#e838e8,#e838e8,1,0.363735105123
 'Suleika Jaouad',fr,USA,#18e8e8,#18e8e8,1,0.362871379895
 'Omar M. Yaghi',fr,USA,#18e8e8,#18e8e8,1,0.362652655250
