@@ -40,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.449197570525
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.448404734977
 'Sergio Mattarella',fr,Italien,#33dd55,#33dd55,2,0.447946641298
+'Karsten Wildberger',fr,Deutschland,#335599,#335599,2,0.447877483614
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.446817341324
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.446397514039
 'John Martinis',fr,USA,#18e8e8,#18e8e8,2,0.446021649839
@@ -233,7 +234,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',fr,USA,#18e8e8,#18e8e8,1,0.351080150559
 'David Weiss',fr,Deutschland,#1818e8,#1818e8,2,0.350691424977
 'Roger Corman',fr,USA,#18e8e8,#18e8e8,2,0.350473882120
-'Karsten Wildberger',fr,Deutschland,#335599,#335599,1,0.350267610134
 'Karim Benzema',fr,Frankreich,#e8e808,#e8e808,3,0.350095320951
 'Kevin McCarthy',fr,USA,#18e8e8,#18e8e8,2,0.350038302294
 'Mahmud Abbas',fr,Palestina,#ee4488,#ee4488,1,0.349744187500
