@@ -119,7 +119,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erika Kirk',fr,USA,#18e8e8,#18e8e8,2,0.420390015174
 'Katherina Reiche',fr,Deutschland,#335599,#335599,2,0.417351196439
 'Benny Blanco',fr,USA,#18e8e8,#18e8e8,2,0.415845566696
-'Ayatollah Khomeini',fr,Iran,#1144ee,#1144ee,1,0.415787349296
 'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.415269807199
 'Dua Lipa',fr,UK,#e838e8,#e838e8,2,0.414822397504
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.413339085717
@@ -227,6 +226,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Hemsworth',fr,Australien,#aa9933,#aa9933,1,0.354039349134
 'Cruz Beckham',fr,Spanien,#33aa99,#33aa99,1,0.354013561220
 'Joe Jonas',fr,USA,#18e8e8,#18e8e8,2,0.353613284317
+'Ayatollah Khomeini',fr,Iran,#1144ee,#1144ee,1,0.353419246902
 'Lara Trump',fr,USA,#18e8e8,#18e8e8,1,0.353191114947
 'Vivek Ramaswamy',fr,USA,#18e8e8,#18e8e8,2,0.352384338715
 'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.351153891055
