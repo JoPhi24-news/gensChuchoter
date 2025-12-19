@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Steve Witkoff',fr,unknown,#111111,#111111,3,0.490466215086
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.487759168649
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.481525009443
@@ -19,11 +18,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,2,0.473642064401
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.473427768050
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.468007965258
-'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.466975306107
+'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.467677158474
 'prince Andrew',fr,unknown,#111111,#111111,3,0.463580658665
+'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.463549731075
 'Sanae Takaichi',fr,Japan,#33aa99,#33aa99,3,0.463505059522
 'Lecornu II ',fr,Frankreich,#e8e808,#e8e808,3,0.462971988087
-'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.462839664863
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.462671613497
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.460955529494
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
@@ -94,6 +93,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Francesca Albanese',fr,Italien,#33dd55,#33dd55,2,0.427463404751
 'Jack Della Maddalena',fr,unknown,#111111,#111111,1,0.427048730125
 'Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.426521673358
+'Steve Witkoff',fr,unknown,#111111,#111111,3,0.426398382369
 'László Krasznahorkai',fr,Ungarn,#99aa33,#99aa33,1,0.426324337111
 'Itamar Ben-Gvir',fr,Israel,#3311cc,#3311cc,2,0.426276178250
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.425852087747
@@ -377,10 +377,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrei Sacharow',fr,Russland,#e81818,#e81818,1,0.318423812500
 'Irina Shayk',fr,Russland,#e81818,#e81818,1,0.318200571534
 'Pablo Picasso',fr,Spanien,#33aa99,#33aa99,2,0.318182046112
+'Jared Kushner',fr,unknown,#111111,#111111,1,0.317954980499
 'Aurélien Pradié',fr,Frankreich,#e8e808,#e8e808,1,0.317402333768
 'Axel Springer',fr,Deutschland,#1818e8,#1818e8,2,0.317133188997
 'Kate Hudson',fr,USA,#18e8e8,#18e8e8,1,0.317104820415
-'Jared Kushner',fr,unknown,#111111,#111111,1,0.316972971562
 'Tasneem Essop',fr,Südafrika,#ee4411,#ee4411,1,0.316797335311
 'Matt Gaetz',fr,USA,#18e8e8,#18e8e8,1,0.316399234899
 'Kamilla Cardoso',fr,Brasilien,#58e838,#58e838,1,0.316074211806
