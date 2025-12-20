@@ -1,7 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'John Martinis',fr,USA,#18e8e8,#18e8e8,2,0.499868477363
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.487759168649
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
-'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.481525009443
+'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.482197886459
 'Kamel Daoud',fr,unknown,#111111,#111111,2,0.480184375691
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.479994134806
 'Jean Castex',fr,Frankreich,#e8e808,#e8e808,2,0.479877321468
@@ -28,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.456852024411
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,3,0.456764818400
-'John Clarke',fr,USA,#18e8e8,#18e8e8,3,0.454757225617
+'John Clarke',fr,USA,#18e8e8,#18e8e8,3,0.456207952827
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.453941111413
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453093851415
@@ -40,13 +41,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.448404734977
 'Sergio Mattarella',fr,Italien,#33dd55,#33dd55,2,0.447946641298
 'Karsten Wildberger',fr,Deutschland,#335599,#335599,2,0.447877483614
+'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,2,0.447734405841
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.446817341324
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.446397514039
-'John Martinis',fr,USA,#18e8e8,#18e8e8,2,0.446021649839
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,3,0.444815655762
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444066782960
-'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,2,0.444012680254
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.440410348011
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.439185006695
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,3,0.438101320150
@@ -906,7 +906,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volodymyr Zelenskiy',fr,Ukraine,#e818e8,#e818e8,1,0.127389320456
 'Hans Joachim Schellnhuber',fr,Deutschland,#1818e8,#1818e8,1,0.127079780203
 'Karl Nehammer',fr,Oesterreich,#5522dd,#5522dd,1,0.126946028108
-'Alfred Nobel',fr,Schweden,#ddee11,#ddee11,1,0.124870239021
+'Alfred Nobel',fr,Schweden,#ddee11,#ddee11,1,0.126094648427
 'Yanis Varoufakis',fr,Griechenland,#1858e8,#1858e8,1,0.124671126243
 'Macky Sall',fr,Senegal,#aa33dd,#aa33dd,1,0.123426671059
 'Robin Li',fr,China,#e88818,#e88818,2,0.122769090605
