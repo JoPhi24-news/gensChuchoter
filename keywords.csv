@@ -169,7 +169,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michel H. Devoret',fr,USA,#18e8e8,#18e8e8,1,0.376536656136
 'Valérie Hayer',fr,Frankreich,#e8e808,#e8e808,1,0.376343893204
 'George Miller',fr,Australien,#aa9933,#aa9933,2,0.376093231959
-'George Simion',fr,Rumänien,#3355bb,#3355bb,3,0.375676903850
 'Eric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.375373275125
 'Jimmy Carter',fr,USA,#18e8e8,#18e8e8,1,0.375179327192
 'Hilda Nakabuye',fr,Uganda,#4411ee,#4411ee,1,0.374616250000
@@ -368,6 +367,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Howard Stern',fr,USA,#18e8e8,#18e8e8,1,0.319475949729
 'Yannick Morez',fr,Frankreich,#e8e808,#e8e808,2,0.319469788084
 'Chris Hipkins',fr,Neuseeland,#1818e8,#1818e8,1,0.319423762646
+'George Simion',fr,Rumänien,#3355bb,#3355bb,1,0.319325413273
 'Al Pacino',fr,USA,#18e8e8,#18e8e8,1,0.319310249051
 'Pap Ndiaye',fr,Frankreich,#e8e808,#e8e808,1,0.319225063985
 'Ottmar Edenhofer',fr,Deutschland,#1818e8,#1818e8,1,0.318423812500
