@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Usha Vance',fr,unknown,#111111,#111111,2,0.511675796061
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.487759168649
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.482197886459
@@ -78,12 +79,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert de Niro',fr,USA,#18e8e8,#18e8e8,3,0.429991504132
 'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.429826136887
 'Nancy Pelosi',fr,unknown,#111111,#111111,1,0.429824530134
+'JD Vance',fr,USA,#18e8e8,#18e8e8,2,0.429778762429
 'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.429691390517
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.429592450782
 'Islam Makhachev',fr,unknown,#111111,#111111,1,0.429584561170
 'Helene Fischer',fr,unknown,#111111,#111111,1,0.429332130158
 'Whoopi Goldberg',fr,USA,#18e8e8,#18e8e8,1,0.429119676187
-'JD Vance',fr,USA,#18e8e8,#18e8e8,2,0.429002079095
 'James Gunn',fr,USA,#18e8e8,#18e8e8,2,0.428913624453
 'Christian Dürr',fr,Deutschland,#335599,#335599,1,0.428593246867
 'Francis Ngannou',fr,unknown,#111111,#111111,1,0.428233219510
@@ -96,7 +97,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.425852087747
 'Tig Notaro',fr,USA,#18e8e8,#18e8e8,1,0.425358127032
 'Mary Brunkow',fr,USA,#18e8e8,#18e8e8,1,0.425347780013
-'Usha Vance',fr,unknown,#111111,#111111,1,0.425324448307
 'Zack Snyder',fr,USA,#18e8e8,#18e8e8,1,0.425026070982
 'Laura Loomer',fr,USA,#18e8e8,#18e8e8,1,0.425000420000
 'Volker Wieland',fr,Deutschland,#335599,#335599,1,0.425000000000
