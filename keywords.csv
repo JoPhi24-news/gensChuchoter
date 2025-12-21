@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Usha Vance',fr,unknown,#111111,#111111,2,0.511675796061
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.487759168649
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.482197886459
@@ -54,6 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.435928683158
 'Fred Ramsdel',fr,USA,#18e8e8,#18e8e8,1,0.435844606955
 'Kendrick Lamar',fr,USA,#18e8e8,#18e8e8,1,0.435261738560
+'Usha Vance',fr,unknown,#111111,#111111,1,0.434924441652
 'Gerald Darmanin',fr,Frankreich,#e8e808,#e8e808,2,0.434467599199
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.434374597763
 'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.434374236262
