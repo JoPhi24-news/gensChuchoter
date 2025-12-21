@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'John Martinis',fr,USA,#18e8e8,#18e8e8,2,0.499868477363
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.487759168649
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.482197886459
@@ -109,6 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Khaled al Serr',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Iyad al-Rantisi',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Adnan al-Burj',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
+'John Martinis',fr,USA,#18e8e8,#18e8e8,1,0.424888280759
 'David Beckham',fr,UK,#e838e8,#e838e8,2,0.424760457727
 'Élisabeth Borne',fr,Frankreich,#e8e808,#e8e808,3,0.423524536807
 'Sam Altman',fr,USA,#18e8e8,#18e8e8,3,0.423211637518
