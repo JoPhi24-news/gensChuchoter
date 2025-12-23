@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Keir Starmer',fr,unknown,#111111,#111111,2,0.539980199830
 'Ilia Topuria',fr,unknown,#111111,#111111,2,0.509262080408
 'Kamaru Usman',fr,unknown,#111111,#111111,2,0.507458289050
 'Arman Tsarukyan',fr,unknown,#111111,#111111,2,0.506924695949
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Valentina Shevchenko',fr,unknown,#111111,#111111,2,0.500319900296
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.487759168649
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
+'Keir Starmer',fr,unknown,#111111,#111111,2,0.482990888565
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.482689778011
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.482197886459
 'Kamel Daoud',fr,unknown,#111111,#111111,2,0.480184375691
@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,2,0.474083779155
 'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,2,0.473642064401
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.473427768050
-'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.469774354929
+'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.470470641759
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.468707764882
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.464258387857
 'prince Andrew',fr,unknown,#111111,#111111,3,0.463580658665
