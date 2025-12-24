@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Daniel Cormier',fr,unknown,#111111,#111111,2,0.504181745639
 'Bruna Caroline Ferreira',fr,unknown,#111111,#111111,2,0.503007419073
 'Valentina Shevchenko',fr,unknown,#111111,#111111,2,0.500319900296
 'Ilia Topuria',fr,unknown,#111111,#111111,1,0.495569380845
@@ -95,6 +94,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Gunn',fr,USA,#18e8e8,#18e8e8,2,0.428913624453
 'Prince Philip',fr,unknown,#111111,#111111,1,0.428596754697
 'Christian Dürr',fr,Deutschland,#335599,#335599,1,0.428593246867
+'Daniel Cormier',fr,unknown,#111111,#111111,1,0.428554483793
 'Francis Ngannou',fr,unknown,#111111,#111111,1,0.428233219510
 'Paul Konerko',fr,USA,#18e8e8,#18e8e8,1,0.427902059977
 'Francesca Albanese',fr,Italien,#33dd55,#33dd55,2,0.427463404751
