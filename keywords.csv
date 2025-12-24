@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Arman Tsarukyan',fr,unknown,#111111,#111111,2,0.506924695949
 'Belal Muhammad',fr,unknown,#111111,#111111,2,0.505045706782
 'Prince Philip',fr,unknown,#111111,#111111,2,0.504231476114
 'Daniel Cormier',fr,unknown,#111111,#111111,2,0.504181745639
@@ -78,6 +77,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kamaru Usman',fr,unknown,#111111,#111111,1,0.431339545692
 'Pete Hegseth',fr,USA,#18e8e8,#18e8e8,3,0.431275466978
 'Andrew Mountbatten Windsor',fr,unknown,#111111,#111111,1,0.431195094082
+'Arman Tsarukyan',fr,unknown,#111111,#111111,1,0.430885991557
 'Omar Yaghi',fr,Jordanien,#335588,#335588,2,0.430819754240
 'Callum Turner',fr,UK,#e838e8,#e838e8,2,0.430742441075
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.430676866032
