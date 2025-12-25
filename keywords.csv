@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ilia Topuria',fr,unknown,#111111,#111111,1,0.495569380845
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.487759168649
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
 'Keir Starmer',fr,unknown,#111111,#111111,2,0.482990888565
@@ -121,6 +120,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam Altman',fr,USA,#18e8e8,#18e8e8,3,0.423211637518
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,2,0.422027013743
 'Alexander Dobrindt',fr,Deutschland,#335599,#335599,1,0.422011114581
+'Ilia Topuria',fr,unknown,#111111,#111111,1,0.421383988718
 'Brad Pitt',fr,USA,#18e8e8,#18e8e8,3,0.421254713532
 'Erika Kirk',fr,USA,#18e8e8,#18e8e8,2,0.420390015174
 'Katherina Reiche',fr,Deutschland,#335599,#335599,2,0.417351196439
