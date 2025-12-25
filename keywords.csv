@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.487759168649
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
 'Keir Starmer',fr,unknown,#111111,#111111,2,0.482990888565
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.482689778011
@@ -37,7 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.450805873608
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.449380633374
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.449197570525
-'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.448404734977
+'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.449143364729
 'Sergio Mattarella',fr,Italien,#33dd55,#33dd55,2,0.447946641298
 'Karsten Wildberger',fr,Deutschland,#335599,#335599,2,0.447877483614
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,2,0.447734405841
@@ -46,6 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,3,0.444815655762
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444066782960
+'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.442273616079
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.440410348011
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.439185006695
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,3,0.438101320150
@@ -890,8 +890,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicola Beer',fr,EU,#88cc44,#88cc44,1,0.147252041960
 'Silvio Berlusconi',fr,Italien,#33dd55,#33dd55,2,0.147238879538
 'Yoon Suk-yeol',fr,SüdKorea,#bbff33,#bbff33,3,0.145481018944
+'Julian Assange',fr,Australien,#aa9933,#aa9933,1,0.145298271911
 'Thierry Breton',fr,EU,#88cc44,#88cc44,1,0.145119911248
-'Julian Assange',fr,Australien,#aa9933,#aa9933,1,0.141669334904
 'Nick Fuentes',fr,USA,#18e8e8,#18e8e8,1,0.141643479418
 'Millie Mackintosh',fr,UK,#e838e8,#e838e8,1,0.139499648433
 'Stephan Harbarth',fr,Deutschland,#1818e8,#1818e8,1,0.138916267857
@@ -913,9 +913,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sucharit Bhakdi',fr,Deutschland,#1818e8,#1818e8,3,0.130104863677
 'Michael Ballweg',fr,Deutschland,#1818e8,#1818e8,1,0.129668706538
 'Volodymyr Zelenskiy',fr,Ukraine,#e818e8,#e818e8,1,0.127389320456
+'Alfred Nobel',fr,Schweden,#ddee11,#ddee11,1,0.127318113302
 'Hans Joachim Schellnhuber',fr,Deutschland,#1818e8,#1818e8,1,0.127079780203
 'Karl Nehammer',fr,Oesterreich,#5522dd,#5522dd,1,0.126946028108
-'Alfred Nobel',fr,Schweden,#ddee11,#ddee11,1,0.126094648427
 'Yanis Varoufakis',fr,Griechenland,#1858e8,#1858e8,1,0.124671126243
 'Macky Sall',fr,Senegal,#aa33dd,#aa33dd,1,0.123426671059
 'Robin Li',fr,China,#e88818,#e88818,2,0.122769090605
