@@ -493,7 +493,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Pierre-Yves Dermagne',fr,Belgien,#2266bb,#2266bb,2,0.306584252816
-'Jacques Doriot',fr,unknown,#111111,#111111,1,0.306529163946
 'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,2,0.306528938897
 'Kemal Kiliçdaroglu',fr,Türkei,#66bb22,#66bb22,3,0.305737039580
 'Meryl Streep',fr,unknown,#111111,#111111,1,0.305713874634
@@ -671,6 +670,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oisin Fanning',fr,Irland,#4488cc,#4488cc,1,0.261003125000
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.261003125000
 'Jan Lipavský',fr,Tschechien,#44cc88,#44cc88,1,0.261003125000
+'Jacques Doriot',fr,unknown,#111111,#111111,1,0.260549789354
 'Prinzessin Kate',fr,UK,#e838e8,#e838e8,1,0.260133313674
 'Oleksandr Usyk',fr,unknown,#111111,#111111,1,0.260092471230
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.259702748737
