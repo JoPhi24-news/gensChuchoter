@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.483360331355
 'Keir Starmer',fr,unknown,#111111,#111111,2,0.482990888565
-'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.482197886459
+'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.482869421167
 'Kamel Daoud',fr,unknown,#111111,#111111,2,0.480184375691
 'Jean Castex',fr,Frankreich,#e8e808,#e8e808,2,0.479877321468
 'reine Mathilde',fr,unknown,#111111,#111111,2,0.479755892217
@@ -261,7 +261,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lachlan Murdoch',fr,UK,#e838e8,#e838e8,1,0.345718116041
 'Demi Moore',fr,USA,#18e8e8,#18e8e8,1,0.345631853856
 'François Braun',fr,Frankreich,#e8e808,#e8e808,3,0.345467275335
-'Laurent Berger',fr,Frankreich,#e8e808,#e8e808,1,0.345452589291
 'Justin Timberlake',fr,USA,#18e8e8,#18e8e8,2,0.345374834729
 'Sophie Turner',fr,UK,#e838e8,#e838e8,2,0.343925232039
 'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,1,0.343925006177
@@ -335,6 +334,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ines de Ramon',fr,USA,#18e8e8,#18e8e8,1,0.328620707714
 'Charlie Munger',fr,USA,#18e8e8,#18e8e8,1,0.328410374343
 'Melania Trump',fr,Slowenien,#e5237d,#e5237d,1,0.328374339414
+'Laurent Berger',fr,Frankreich,#e8e808,#e8e808,1,0.328318169231
 'Camille Cottin',fr,Frankreich,#e8e808,#e8e808,1,0.328016220455
 'Yorgos Lanthimos',fr,Griechenland,#1858e8,#1858e8,1,0.327807341612
 'Alexander Smirnov',fr,Israel,#3311cc,#3311cc,1,0.326808323006
