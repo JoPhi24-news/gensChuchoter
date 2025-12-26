@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.483360331355
 'Keir Starmer',fr,unknown,#111111,#111111,2,0.482990888565
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.482689778011
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.482197886459
 'Kamel Daoud',fr,unknown,#111111,#111111,2,0.480184375691
 'Jean Castex',fr,Frankreich,#e8e808,#e8e808,2,0.479877321468
@@ -836,10 +836,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Annalena Baerbock',fr,Deutschland,#1818e8,#1818e8,2,0.181431123015
 'Thomas Haldenwang',fr,Deutschland,#1818e8,#1818e8,1,0.180378689831
 'Anthony Albanese',fr,Australien,#aa9933,#aa9933,1,0.180332182721
-'Jack Ma',fr,China,#e88818,#e88818,2,0.179967905294
 'Sandra Maischberger',fr,Deutschland,#1818e8,#1818e8,1,0.179866065763
 'Hun Sen',fr,Kambodscha,#33aadd,#33aadd,1,0.178567859374
 'Ola Källenius',fr,Deutschland,#1818e8,#1818e8,2,0.176923180030
+'Jack Ma',fr,China,#e88818,#e88818,2,0.176523199500
 'Herschel Walker',fr,USA,#18e8e8,#18e8e8,1,0.176467413555
 'Wolodymyr Selenski',fr,Ukraine,#e818e8,#e818e8,1,0.176280755108
 'David Malpass',fr,USA,#18e8e8,#18e8e8,1,0.175753767218
