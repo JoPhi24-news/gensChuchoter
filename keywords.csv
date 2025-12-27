@@ -75,6 +75,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Omar Yaghi',fr,Jordanien,#335588,#335588,2,0.430819754240
 'Callum Turner',fr,UK,#e838e8,#e838e8,2,0.430742441075
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.430676866032
+'Nawaz Sharif',fr,Pakistan,#bb33ff,#bb33ff,2,0.430631873479
 'Bruna Ferreira',fr,unknown,#111111,#111111,2,0.430626612059
 'Ciryl Gane',fr,unknown,#111111,#111111,1,0.430433435222
 'Robert Kennedy',fr,USA,#18e8e8,#18e8e8,3,0.430353257073
@@ -320,7 +321,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Xi Jinping',fr,China,#e88818,#e88818,3,0.330382823696
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.330336080337
 'Robert De Niro',fr,USA,#18e8e8,#18e8e8,1,0.330253466333
-'Nawaz Sharif',fr,Pakistan,#bb33ff,#bb33ff,1,0.329978657034
 'Robert Badinter',fr,Frankreich,#e8e808,#e8e808,1,0.329945436401
 'Rupert Murdoch',fr,USA,#18e8e8,#18e8e8,1,0.329931110852
 'Mira Murati',fr,Albanien,#1167d4,#1167d4,1,0.329768435872
@@ -624,8 +624,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lindsey Graham',fr,USA,#18e8e8,#18e8e8,1,0.276376052281
 'Zach Bryan',fr,unknown,#111111,#111111,1,0.276368900776
 'Queen Camilla',fr,UK,#e838e8,#e838e8,1,0.276335058923
+'Imran Khan',fr,unknown,#111111,#111111,1,0.275806097635
 'Mario Czaja',fr,Deutschland,#1818e8,#1818e8,1,0.275591892552
-'Imran Khan',fr,unknown,#111111,#111111,1,0.274756454713
 'Ahmed Al Jaber',fr,unknown,#111111,#111111,1,0.274514141915
 'Noor Alfallah',fr,USA,#18e8e8,#18e8e8,1,0.273961831607
 'James Cleverly',fr,UK,#e838e8,#e838e8,1,0.272953190844
