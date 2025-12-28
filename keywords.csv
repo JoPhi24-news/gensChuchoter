@@ -222,6 +222,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dwayne Johnson',fr,USA,#18e8e8,#18e8e8,1,0.359683868229
 'Ehud Olmert',fr,Israel,#3311cc,#3311cc,1,0.359169824603
 'Sean Hannity',fr,USA,#18e8e8,#18e8e8,1,0.359050741497
+'Jeanne du Barry',fr,Frankreich,#e8e808,#e8e808,2,0.358805348251
 'Emma Stone',fr,USA,#18e8e8,#18e8e8,1,0.358709971492
 'Lana Del Rey',fr,USA,#18e8e8,#18e8e8,1,0.358138244383
 'Olivia Rodrigo',fr,USA,#18e8e8,#18e8e8,2,0.356980780559
@@ -302,7 +303,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aurélien Rousseau',fr,Frankreich,#e8e808,#e8e808,1,0.334305013868
 'Helmut Kohl',fr,Deutschland,#1818e8,#1818e8,1,0.334236744520
 'Olivier Dussopt',fr,Frankreich,#e8e808,#e8e808,2,0.334028228943
-'Jeanne du Barry',fr,Frankreich,#e8e808,#e8e808,1,0.333535668530
 'Willem Dafoe',fr,USA,#18e8e8,#18e8e8,1,0.333452193872
 'Rosa Parks',fr,USA,#18e8e8,#18e8e8,2,0.333228146274
 'Ainsley Earhardt',fr,USA,#18e8e8,#18e8e8,1,0.333173990747
@@ -632,8 +632,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caroline Ellison',fr,USA,#18e8e8,#18e8e8,1,0.272234787766
 'Laura Ingraham',fr,USA,#18e8e8,#18e8e8,1,0.271685360167
 'Warren Buffet',fr,USA,#18e8e8,#18e8e8,1,0.271396869202
+'Johnny Depp',fr,USA,#18e8e8,#18e8e8,1,0.271384606797
 'Rudy Giuliani',fr,USA,#18e8e8,#18e8e8,1,0.270720323991
-'Johnny Depp',fr,USA,#18e8e8,#18e8e8,1,0.270328269577
 'Brian Kilmeade',fr,unknown,#111111,#111111,1,0.269914372303
 'Jan Böhmermann',fr,Deutschland,#1818e8,#1818e8,3,0.269670745153
 'Roman Pacino',fr,unknown,#111111,#111111,1,0.268558727650
