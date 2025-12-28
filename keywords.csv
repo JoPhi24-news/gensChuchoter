@@ -156,7 +156,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pedro Sánchez',fr,Spanien,#33aa99,#33aa99,3,0.395934383542
 'Lecornu II ',fr,Frankreich,#e8e808,#e8e808,2,0.393526249874
 'Mohammad Mustafa',fr,Palestina,#ee4488,#ee4488,2,0.392247018398
-'Matteo Salvini',fr,Italien,#33dd55,#33dd55,3,0.391121349031
 'Sebastien Lecornu',fr,Frankreich,#e8e808,#e8e808,1,0.390892857844
 'Bernie Sanders',fr,USA,#18e8e8,#18e8e8,1,0.390605511533
 'Bärbel Bas',fr,Deutschland,#335599,#335599,1,0.390052427513
@@ -307,6 +306,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rosa Parks',fr,USA,#18e8e8,#18e8e8,2,0.333228146274
 'Ainsley Earhardt',fr,USA,#18e8e8,#18e8e8,1,0.333173990747
 'Clément Beaune',fr,Frankreich,#e8e808,#e8e808,2,0.332996456566
+'Matteo Salvini',fr,Italien,#33dd55,#33dd55,2,0.332453296676
 'Gisele Bündchen',fr,Brasilien,#58e838,#58e838,1,0.332433752749
 'Barry Keoghan',fr,Irland,#4488cc,#4488cc,2,0.332386876959
 'Pedro Pascal',fr,Chile,#11fe4211,#11fe4211,2,0.332000042185
