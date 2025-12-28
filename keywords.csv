@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.484029546762
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.483360331355
 'Keir Starmer',fr,unknown,#111111,#111111,2,0.482990888565
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.482869421167
 'Kamel Daoud',fr,unknown,#111111,#111111,2,0.480184375691
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,2,0.474083779155
 'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,2,0.473642064401
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.473427768050
-'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.470470641759
+'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.471859062281
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.468707764882
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.464258387857
 'prince Andrew',fr,unknown,#111111,#111111,3,0.463580658665
@@ -682,11 +682,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joey Fatone',fr,unknown,#111111,#111111,1,0.257431835468
 'Alvin Bragg',fr,USA,#18e8e8,#18e8e8,1,0.256935814183
 'Jair Bolsonaro',fr,Brasilien,#58e838,#58e848,3,0.255491627554
+'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,3,0.254644416014
 'Willy Brandt',fr,Deutschland,#1818e8,#1818e8,1,0.254272689006
 'Markus Söder',fr,Deutschland,#1818e8,#1818e8,1,0.253983484564
 'Paul Ronzheimer',fr,Deutschland,#1818e8,#1818e8,2,0.253622557034
 'Finnegan Biden',fr,USA,#18e8e8,#18e8e8,1,0.250985012725
-'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,3,0.250972587824
 'Helge Schneider',fr,Deutschland,#1818e8,#1818e8,1,0.250665507544
 'Bettina Jarasch',fr,Deutschland,#1818e8,#1818e8,1,0.250231229158
 'George Washington',fr,USA,#18e8e8,#18e8e8,2,0.249608241513
@@ -696,6 +696,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gérard Biard',fr,Frankreich,#e8e808,#e8e808,1,0.246832408218
 'Jerome Powell',fr,USA,#18e8e8,#18e8e8,3,0.246311349945
 'Michelle Williams',fr,unknown,#111111,#111111,1,0.246012304333
+'Ursula von der Leyen',fr,EU,#88cc44,#88cc44,1,0.245662945145
 'Wolodimir Selenski',fr,Ukraine,#e818e8,#e818e8,1,0.245568263927
 'König Charles III',fr,UK,#e838e8,#e838e8,1,0.245515969352
 'Mark Rutte',fr,Niederlande,#ffbb33,#ffbb33,3,0.244773001247
@@ -704,7 +705,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gorbatschow',fr,unknown,#111111,#111111,1,0.244037921875
 'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.244037921875
 'Afida Turner',fr,Frankreich,#e8e808,#e8e808,1,0.243889550148
-'Ursula von der Leyen',fr,EU,#88cc44,#88cc44,1,0.243474161857
 'Cyril Ramaphosa',fr,Südafrika,#ee4411,#ee4411,3,0.241920832267
 'Buzz Aldrin',fr,USA,#18e8e8,#18e8e8,1,0.241406527147
 'Kevin Kühnert',fr,Deutschland,#1818e8,#1818e8,1,0.241224347799
