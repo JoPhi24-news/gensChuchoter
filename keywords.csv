@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.484029546762
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.502758296111
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
 'Keir Starmer',fr,unknown,#111111,#111111,2,0.482990888565
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.482869421167
@@ -12,13 +12,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,3,0.477146759281
 'Affaire Epstein',fr,unknown,#111111,#111111,3,0.476796442988
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.475759142292
+'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.475306002841
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.475194078244
 'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,2,0.474083779155
 'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,2,0.473642064401
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.473427768050
-'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.471859062281
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.468707764882
-'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.464258387857
+'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.466375926057
 'prince Andrew',fr,unknown,#111111,#111111,3,0.463580658665
 'Sanae Takaichi',fr,Japan,#33aa99,#33aa99,3,0.463505059522
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.462671613497
@@ -123,10 +123,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ilia Topuria',fr,unknown,#111111,#111111,1,0.421383988718
 'Brad Pitt',fr,USA,#18e8e8,#18e8e8,3,0.421254713532
 'Erika Kirk',fr,USA,#18e8e8,#18e8e8,2,0.420390015174
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.418157994846
 'Katherina Reiche',fr,Deutschland,#335599,#335599,2,0.417351196439
 'Benny Blanco',fr,USA,#18e8e8,#18e8e8,2,0.415845566696
 'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.415269807199
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.414951592766
 'Dua Lipa',fr,UK,#e838e8,#e838e8,2,0.414822397504
 'Chris Wright',fr,USA,#18e8e8,#18e8e8,2,0.413317892528
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.413082229489
@@ -237,7 +237,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ayatollah Khomeini',fr,Iran,#1144ee,#1144ee,1,0.353419246902
 'Lara Trump',fr,USA,#18e8e8,#18e8e8,1,0.353191114947
 'Vivek Ramaswamy',fr,USA,#18e8e8,#18e8e8,2,0.352384338715
-'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.351153891055
+'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.352076647670
 'Marjorie Taylor Greene',fr,USA,#18e8e8,#18e8e8,1,0.351080150559
 'David Weiss',fr,Deutschland,#1818e8,#1818e8,2,0.350691424977
 'Roger Corman',fr,USA,#18e8e8,#18e8e8,2,0.350473882120
