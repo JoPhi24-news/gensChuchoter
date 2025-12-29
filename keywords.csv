@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ian Machado Garry',fr,unknown,#111111,#111111,2,0.508533202384
 'Thomas Müller',fr,unknown,#111111,#111111,2,0.505224676781
 'Justin Gaethje',fr,unknown,#111111,#111111,2,0.504119054492
 'Dan Hooker',fr,unknown,#111111,#111111,2,0.502999019411
@@ -70,6 +69,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Reid',fr,unknown,#111111,#111111,1,0.432760259415
 'Andrew Mountbatten-Windsor',fr,unknown,#111111,#111111,1,0.432682211572
 'Charlie Kirk',fr,USA,#18e8e8,#18e8e8,3,0.432352160316
+'Ian Machado Garry',fr,unknown,#111111,#111111,1,0.432253222026
 'Bill Maher',fr,unknown,#111111,#111111,1,0.431788174780
 'Yves Bournazel',fr,Frankreich,#e8e808,#e8e808,2,0.431496523472
 'Justin Bieber',fr,Kanada,#55ee33,#55ee33,2,0.431485890178
