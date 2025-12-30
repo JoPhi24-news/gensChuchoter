@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Thomas Müller',fr,unknown,#111111,#111111,2,0.561891095264
 'Justin Gaethje',fr,unknown,#111111,#111111,2,0.504119054492
 'Dan Hooker',fr,unknown,#111111,#111111,2,0.502999019411
 'Andrew Windsor',fr,unknown,#111111,#111111,2,0.502663804886
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.479531035531
 'Dick Cheney',fr,USA,#18e8e8,#18e8e8,2,0.479439419594
 'Larry Summers',fr,unknown,#111111,#111111,3,0.479270656092
+'Thomas Müller',fr,unknown,#111111,#111111,1,0.477607550974
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,3,0.477146759281
 'Affaire Epstein',fr,unknown,#111111,#111111,3,0.476796442988
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.475991277604
