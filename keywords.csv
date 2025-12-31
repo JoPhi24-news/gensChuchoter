@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Andrew Windsor',fr,unknown,#111111,#111111,2,0.559714369153
 'Shavkat Rakhmonov',fr,unknown,#111111,#111111,2,0.502623228846
 'Paddy Pimblett',fr,unknown,#111111,#111111,2,0.501289690376
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,3,0.477146759281
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.475991277604
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.475759142292
+'Andrew Windsor',fr,unknown,#111111,#111111,1,0.475757348780
 'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,2,0.475703719660
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.475194078244
 'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,2,0.474083779155
