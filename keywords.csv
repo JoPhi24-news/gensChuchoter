@@ -19,7 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.468707764882
 'prince Andrew',fr,unknown,#111111,#111111,3,0.466406608698
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.466375926057
-'Sanae Takaichi',fr,Japan,#33aa99,#33aa99,3,0.463505059522
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.462671613497
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.460955529494
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
@@ -161,6 +160,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Éric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.398063646122
 "'Dwayne ""The Rock"" Johnson'",fr,USA,#18e8e8,#18e8e8,2,0.397800998044
 'Pedro Sánchez',fr,Spanien,#33aa99,#33aa99,3,0.395934383542
+'Sanae Takaichi',fr,Japan,#33aa99,#33aa99,2,0.393980140594
 'Lecornu II ',fr,Frankreich,#e8e808,#e8e808,2,0.393526249874
 'Mohammad Mustafa',fr,Palestina,#ee4488,#ee4488,2,0.392247018398
 'Sebastien Lecornu',fr,Frankreich,#e8e808,#e8e808,1,0.390892857844
