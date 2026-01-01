@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
 'Keir Starmer',fr,unknown,#111111,#111111,2,0.482990888565
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.482869421167
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.480207889314
@@ -139,6 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.413082229489
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,2,0.412542882958
 'Kamala Harris',fr,USA,#18e8e8,#18e8e8,3,0.411746883005
+'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,1,0.411385949949
 'John M. Martinis',fr,USA,#18e8e8,#18e8e8,1,0.411102944000
 'Poutine',fr,Russland,#e81818,#e81818,3,0.410180890096
 'Bruno Le Maire',fr,Frankreich,#e8e808,#e8e808,3,0.409918577589
