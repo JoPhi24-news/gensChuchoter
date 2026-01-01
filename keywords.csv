@@ -221,7 +221,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Curtis Yarvin',fr,USA,#18e8e8,#18e8e8,1,0.362101087888
 'Karol G',fr,Kolumbien,#dd5533,#dd5533,1,0.361888744282
 'George Santos',fr,USA,#18e8e8,#18e8e8,2,0.361764971186
-'Mareike Fallwickl',fr,Oesterreich,#5522dd,#5522dd,1,0.361446459301
 'Justus Haucap',fr,Deutschland,#335599,#335599,1,0.361250000000
 'LeBron James',fr,USA,#18e8e8,#18e8e8,2,0.360570501986
 'Abraham Lincoln',fr,USA,#18e8e8,#18e8e8,1,0.360380811796
@@ -484,6 +483,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drake Maye',fr,unknown,#111111,#111111,1,0.307462169110
 'Robert Downey Jr',fr,unknown,#111111,#111111,2,0.307364868361
 'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.307362530000
+'Mareike Fallwickl',fr,Oesterreich,#5522dd,#5522dd,1,0.307229490406
 'Hugh Grant',fr,unknown,#111111,#111111,1,0.307229026268
 'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.307190012750
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.307062619212
