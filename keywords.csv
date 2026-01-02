@@ -424,7 +424,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jonathan Roumie',fr,USA,#18e8e8,#18e8e8,1,0.312706209467
 'Hubert Aiwanger',fr,Deutschland,#1818e8,#1818e8,1,0.312098101785
 'America Ferrera',fr,USA,#18e8e8,#18e8e8,1,0.312095370931
-'Andrew Schulz',fr,USA,#18e8e8,#18e8e8,1,0.311915387502
 'Martha MacCallum',fr,USA,#18e8e8,#18e8e8,1,0.311750906346
 'Tony Bobulinski',fr,USA,#18e8e8,#18e8e8,1,0.311724869057
 'Cameron Brink',fr,USA,#18e8e8,#18e8e8,1,0.311652105072
@@ -655,6 +654,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Teresa Giudice',fr,unknown,#111111,#111111,1,0.266204915350
 'Bridget Moynahan',fr,unknown,#111111,#111111,1,0.266106400056
 'Jacoby Brissett',fr,unknown,#111111,#111111,1,0.265763998719
+'Andrew Schulz',fr,USA,#18e8e8,#18e8e8,1,0.265428109377
 'Anthony Fauci',fr,USA,#18e8e8,#18e8e8,2,0.265362167491
 'Joy Behar',fr,unknown,#111111,#111111,1,0.264790877157
 'Joaquim Valente',fr,unknown,#111111,#111111,1,0.264779010306
