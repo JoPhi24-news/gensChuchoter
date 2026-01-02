@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Keir Starmer',fr,unknown,#111111,#111111,2,0.482990888565
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.482869421167
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.480207889314
 'Kamel Daoud',fr,unknown,#111111,#111111,2,0.480184375691
@@ -45,6 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444066782960
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.442273616079
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.440410348011
+'Keir Starmer',fr,unknown,#111111,#111111,2,0.439388278667
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.439185006695
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,3,0.438101320150
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.437406934564
@@ -147,9 +147,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecornu II',fr,Frankreich,#e8e808,#e8e808,1,0.406403638863
 'Robert Prevost',fr,Vatikan,#dd5544,#dd5544,2,0.405430065831
 'Hans-Werner Sinn',fr,Deutschland,#1818e8,#1818e8,1,0.405414638799
+'Greta Thunberg',fr,Schweden,#ddee11,#ddee11,2,0.405171310410
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.404749867533
 'Laurent Wauquiez',fr,Frankreich,#e8e808,#e8e808,3,0.404738663487
-'Greta Thunberg',fr,Schweden,#ddee11,#ddee11,2,0.404347038751
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.402300970200
 'James Comey',fr,USA,#18e8e8,#18e8e8,3,0.402128980888
 'Edouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.401267548680
@@ -225,12 +225,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LeBron James',fr,USA,#18e8e8,#18e8e8,2,0.360570501986
 'Abraham Lincoln',fr,USA,#18e8e8,#18e8e8,1,0.360380811796
 'Dwayne Johnson',fr,USA,#18e8e8,#18e8e8,1,0.359683868229
+'Charles III',fr,UK,#e838e8,#e838e8,3,0.359642583398
 'Ehud Olmert',fr,Israel,#3311cc,#3311cc,1,0.359169824603
 'Sean Hannity',fr,USA,#18e8e8,#18e8e8,1,0.359050741497
 'Jeanne du Barry',fr,Frankreich,#e8e808,#e8e808,2,0.358805348251
 'Emma Stone',fr,USA,#18e8e8,#18e8e8,1,0.358709971492
 'Lana Del Rey',fr,USA,#18e8e8,#18e8e8,1,0.358138244383
-'Charles III',fr,UK,#e838e8,#e838e8,3,0.357822644795
 'Olivia Rodrigo',fr,USA,#18e8e8,#18e8e8,2,0.356980780559
 'Dana White',fr,USA,#18e8e8,#18e8e8,1,0.356671929500
 'Stefanie Hubig',fr,Deutschland,#335599,#335599,1,0.356643147602
