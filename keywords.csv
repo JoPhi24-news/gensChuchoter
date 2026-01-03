@@ -99,7 +99,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul Konerko',fr,USA,#18e8e8,#18e8e8,1,0.427902059977
 'Dan Hooker',fr,unknown,#111111,#111111,1,0.427549166499
 'Francesca Albanese',fr,Italien,#33dd55,#33dd55,2,0.427463404751
-'Shavkat Rakhmonov',fr,unknown,#111111,#111111,1,0.427229744519
 'Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.426521673358
 'Steve Witkoff',fr,unknown,#111111,#111111,3,0.426398382369
 'David Beckham',fr,UK,#e838e8,#e838e8,2,0.426328808091
@@ -215,6 +214,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander De Croo',fr,Belgien,#2266bb,#2266bb,3,0.363839286260
 'Lil Yachty',fr,USA,#18e8e8,#18e8e8,1,0.363830425113
 'Eddie Hearn',fr,UK,#e838e8,#e838e8,1,0.363735105123
+'Shavkat Rakhmonov',fr,unknown,#111111,#111111,1,0.363145282841
 'Jack Della Maddalena',fr,unknown,#111111,#111111,1,0.362991420606
 'Suleika Jaouad',fr,USA,#18e8e8,#18e8e8,1,0.362871379895
 'Omar M. Yaghi',fr,USA,#18e8e8,#18e8e8,1,0.362652655250
