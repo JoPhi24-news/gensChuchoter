@@ -328,7 +328,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mick Jagger',fr,UK,#e838e8,#e838e8,1,0.330081891930
 'Robert Badinter',fr,Frankreich,#e8e808,#e8e808,1,0.329945436401
 'Rupert Murdoch',fr,USA,#18e8e8,#18e8e8,1,0.329931110852
-'Mira Murati',fr,Albanien,#1167d4,#1167d4,1,0.329768435872
 'Robert Oppenheimer',fr,USA,#18e8e8,#18e8e8,1,0.329527373526
 'Chris Christie',fr,USA,#18e8e8,#18e8e8,1,0.329516263013
 'Recep Tayyip Erdoan',fr,Türkei,#66bb22,#66bb22,2,0.329300123303
@@ -614,6 +613,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lance Bass',fr,unknown,#111111,#111111,1,0.281267684084
 'Kim Reynolds',fr,unknown,#111111,#111111,1,0.280630958368
 'Cillian Murphy',fr,Irland,#4488cc,#4488cc,3,0.280359390999
+'Mira Murati',fr,Albanien,#1167d4,#1167d4,1,0.280303170491
 'Lars Klingbeil',fr,Deutschland,#1818e8,#1818e8,1,0.280013292536
 'Yevgeny Prigozhin',fr,Russland,#e81818,#e81818,1,0.278712704778
 'Tyson Fury',fr,unknown,#111111,#111111,1,0.278641016022
