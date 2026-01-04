@@ -13,7 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.475759142292
 'Andrew Windsor',fr,unknown,#111111,#111111,1,0.475757348780
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.475194078244
-'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,2,0.474083779155
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.473427768050
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.468707764882
 'prince Andrew',fr,unknown,#111111,#111111,3,0.466406608698
@@ -149,6 +148,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greta Thunberg',fr,Schweden,#ddee11,#ddee11,2,0.405171310410
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.404749867533
 'Laurent Wauquiez',fr,Frankreich,#e8e808,#e8e808,3,0.404738663487
+'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,1,0.402971242282
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.402300970200
 'James Comey',fr,USA,#18e8e8,#18e8e8,3,0.402128980888
 'Edouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.401267548680
