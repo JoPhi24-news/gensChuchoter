@@ -653,7 +653,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Merrill McCollum',fr,USA,#18e8e8,#18e8e8,1,0.266223187500
 'Teresa Giudice',fr,unknown,#111111,#111111,1,0.266204915350
 'Bridget Moynahan',fr,unknown,#111111,#111111,1,0.266106400056
-'Jacoby Brissett',fr,unknown,#111111,#111111,1,0.265763998719
 'Andrew Schulz',fr,USA,#18e8e8,#18e8e8,1,0.265428109377
 'Anthony Fauci',fr,USA,#18e8e8,#18e8e8,2,0.265362167491
 'Joy Behar',fr,unknown,#111111,#111111,1,0.264790877157
@@ -745,6 +744,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Don Lemon',fr,USA,#18e8e8,#18e8e8,1,0.226289709375
 'Steve Doocy',fr,unknown,#111111,#111111,1,0.226101835999
 'Leah McSweeney',fr,unknown,#111111,#111111,1,0.225991347630
+'Jacoby Brissett',fr,unknown,#111111,#111111,1,0.225899398911
 'Billionaire Bunker',fr,unknown,#111111,#111111,1,0.225386923480
 'Petro Poroshenko',fr,unknown,#111111,#111111,1,0.224986234320
 'Matty Healy',fr,unknown,#111111,#111111,1,0.224772322077
