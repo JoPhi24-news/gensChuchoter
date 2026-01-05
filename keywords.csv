@@ -1,4 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Steve Bannon',fr,unknown,#111111,#111111,2,0.507077263497
+'Sarah Ferguson',fr,unknown,#111111,#111111,2,0.502693878412
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.482869421167
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.480207889314
 'Kamel Daoud',fr,unknown,#111111,#111111,2,0.480184375691
@@ -836,7 +838,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Roberta Metsola',fr,EU,#88cc44,#88cc44,1,0.186745710274
 'Richard Feynman',fr,USA,#18e8e8,#18e8e8,2,0.185937487052
 'Königin Camilla',fr,UK,#e838e8,#e838e8,1,0.185576191160
-'Sergej Schoigu',fr,Russland,#e81818,#e81818,2,0.185051556466
 'Paul Kagame',fr,Ruanda,#33ddaa,#33ddaa,1,0.184937494097
 'Jack Teixeira',fr,USA,#18e8e8,#18e8e8,1,0.182231224380
 'Richard David Precht',fr,Deutschland,#1818e8,#1818e8,1,0.181751097335
@@ -884,6 +885,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Mann',fr,USA,#18e8e8,#18e8e8,1,0.159606230871
 'Antonio Guterres',fr,UN,#e888e8,#e888e8,2,0.159141133808
 'Gautam Adani',fr,Indien,#995533,#995533,1,0.158833200126
+'Sergej Schoigu',fr,Russland,#e81818,#e81818,1,0.157293822996
 'Lukaschenko',fr,Belarus,#e81858,#e81858,2,0.156151364972
 'Martin Schirdewan',fr,Deutschland,#1818e8,#1818e8,1,0.155018206661
 'Lothar Wieler',fr,Deutschland,#1818e8,#1818e8,1,0.154958652095
