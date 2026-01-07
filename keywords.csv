@@ -620,7 +620,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yevgeny Prigozhin',fr,Russland,#e81818,#e81818,1,0.278712704778
 'Tyson Fury',fr,unknown,#111111,#111111,1,0.278641016022
 'Pat McAfee',fr,USA,#18e8e8,#18e8e8,1,0.278613938947
-'Martin Scorsese',fr,USA,#18e8e8,#18e8e8,2,0.277759513537
 'Jackson Hole',fr,unknown,#111111,#111111,1,0.277670329302
 'Jonathan Turley',fr,unknown,#111111,#111111,1,0.277351200977
 'Matt Damon',fr,USA,#18e8e8,#18e8e8,1,0.277187025588
@@ -727,6 +726,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Paul II',fr,Vatikan,#58b8e8,#58b8e8,1,0.236790276367
 'Robert Habeck',fr,Deutschland,#1818e8,#1818e8,3,0.236752309866
 'Harry Belafonte',fr,USA,#18e8e8,#18e8e8,1,0.236547611411
+'Martin Scorsese',fr,USA,#18e8e8,#18e8e8,1,0.236096036506
 'Stephen Hawking',fr,UK,#e838e8,#e838e8,1,0.236015281406
 'Nadja Abd el Farrag',fr,Deutschland,#1818e8,#1818e8,1,0.233825497678
 'Lee Hsien Loong',fr,Singapur,#cc4488,#cc4488,2,0.233609797535
