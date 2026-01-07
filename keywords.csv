@@ -98,11 +98,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Francis Ngannou',fr,unknown,#111111,#111111,1,0.428233219510
 'Bruna Caroline Ferreira',fr,unknown,#111111,#111111,2,0.428006351212
 'Paul Konerko',fr,USA,#18e8e8,#18e8e8,1,0.427902059977
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.427629441905
 'Dan Hooker',fr,unknown,#111111,#111111,1,0.427549166499
 'Francesca Albanese',fr,Italien,#33dd55,#33dd55,2,0.427463404751
 'Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.427303186942
 'Sarah Ferguson',fr,unknown,#111111,#111111,1,0.427289916650
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.426848564401
 'Steve Witkoff',fr,unknown,#111111,#111111,3,0.426398382369
 'David Beckham',fr,UK,#e838e8,#e838e8,2,0.426328808091
 'László Krasznahorkai',fr,Ungarn,#99aa33,#99aa33,1,0.426324337111
@@ -195,13 +195,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Victoria Beckham',fr,UK,#e838e8,#e838e8,1,0.368275491746
 'Shimon Sakaguchi',fr,Japan,#33aa99,#33aa99,1,0.368221925409
 'Duke Henri',fr,Luxemburg,#55dd33,#55dd33,1,0.368187357295
+'Jimmy Kimmel',fr,USA,#18e8e8,#18e8e8,2,0.367615665884
 'Jennifer Garner',fr,USA,#18e8e8,#18e8e8,2,0.367533489993
 'Olivia Nuzzi',fr,USA,#18e8e8,#18e8e8,1,0.367079183712
 'Jon Jones',fr,USA,#18e8e8,#18e8e8,1,0.366930863077
 'Sarah Stier',fr,unknown,#111111,#111111,1,0.366300418412
 'Nicola Peltz',fr,USA,#18e8e8,#18e8e8,1,0.365934249802
 'Brooklyn Beckham',fr,UK,#e838e8,#e838e8,2,0.365914573202
-'Jimmy Kimmel',fr,USA,#18e8e8,#18e8e8,2,0.365824751497
 'Cheryl Hines',fr,USA,#18e8e8,#18e8e8,1,0.365736904856
 'Alois Rainer',fr,Deutschland,#335599,#335599,1,0.365704405000
 'Taylor Swift',fr,USA,#18e8e8,#18e8e8,2,0.365508157033
@@ -672,6 +672,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Hanks',fr,unknown,#111111,#111111,1,0.262340707580
 'Jason Whitlock',fr,unknown,#111111,#111111,1,0.261952567552
 'Nikki Glaser',fr,unknown,#111111,#111111,1,0.261854242355
+'Edward Snowden',fr,USA,#18e8e8,#18e8e8,2,0.261288725915
 'Shahzada Dawood',fr,Pakistan,#bb33ff,#bb33ff,1,0.261186821097
 'Oisin Fanning',fr,Irland,#4488cc,#4488cc,1,0.261003125000
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.261003125000
@@ -795,7 +796,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Antony Blinken',fr,USA,#18e8e8,#18e8e8,2,0.202128178476
 'Angela Merkel',fr,Deutschland,#1818e8,#1818e8,2,0.201603227124
 'Ricarda Lang',fr,Deutschland,#1818e8,#1818e8,1,0.200877537207
-'Edward Snowden',fr,USA,#18e8e8,#18e8e8,1,0.200633706959
 'Gabor Steingart',fr,Deutschland,#1818e8,#1818e8,1,0.200115677410
 'Giorgia Meloni',fr,Italien,#33dd55,#33dd55,3,0.200090651080
 'Faisal Kawusi',fr,Deutschland,#1818e8,#1818e8,1,0.199949052960
