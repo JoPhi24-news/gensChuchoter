@@ -734,7 +734,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Michel',fr,EU,#88cc44,#88cc44,2,0.233118159004
 'Joschka Fischer',fr,Deutschland,#1818e8,#1818e8,1,0.232448751378
 'Pietro Lombardi',fr,Deutschland,#1818e8,#1818e8,1,0.232433602606
-'Michelle O\'Neill',fr,Irland,#4488cc,#4488cc,1,0.230194265227
 'Phoebe Bridgers',fr,unknown,#111111,#111111,1,0.229684893207
 'Selenskyj',fr,Ukraine,#e818e8,#e818e8,1,0.228601032633
 'Peter Urban',fr,Deutschland,#1818e8,#1818e8,1,0.228356903745
@@ -810,6 +809,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chez Krömer',fr,Deutschland,#1818e8,#1818e8,1,0.196397363044
 'Mike Pence',fr,USA,#18e8e8,#18e8e8,1,0.196391398584
 'Katharina König-Press',fr,Deutschland,#1818e8,#1818e8,2,0.195749463335
+'Michelle O\'Neill',fr,Irland,#4488cc,#4488cc,1,0.195665125443
 'Charles Koch',fr,USA,#18e8e8,#18e8e8,2,0.195358545707
 'Christine Lambrecht',fr,Deutschland,#1818e8,#1818e8,1,0.195197673561
 'Mateusz Morawiecki',fr,Polen,#cc8844,#cc8844,1,0.194628019876
