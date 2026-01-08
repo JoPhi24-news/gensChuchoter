@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.482869421167
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.480901985124
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.480207889314
 'Kamel Daoud',fr,unknown,#111111,#111111,2,0.480184375691
@@ -20,7 +19,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.469248849151
 'prince Andrew',fr,unknown,#111111,#111111,3,0.467109591244
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.467078969573
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.461972073740
+'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.465930439463
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.464103202443
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.456852024411
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,3,0.456764818400
@@ -51,7 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.439185006695
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,3,0.438860213576
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.437406934564
-'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.435984535716
+'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.436747577088
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.435928683158
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.435905483357
 'Fred Ramsdel',fr,USA,#18e8e8,#18e8e8,1,0.435844606955
