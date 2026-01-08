@@ -95,10 +95,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Dürr',fr,Deutschland,#335599,#335599,1,0.428593246867
 'Daniel Cormier',fr,unknown,#111111,#111111,1,0.428554483793
 'Justin Gaethje',fr,unknown,#111111,#111111,1,0.428501196318
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.428408799328
 'Francis Ngannou',fr,unknown,#111111,#111111,1,0.428233219510
 'Bruna Caroline Ferreira',fr,unknown,#111111,#111111,2,0.428006351212
 'Paul Konerko',fr,USA,#18e8e8,#18e8e8,1,0.427902059977
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.427629441905
 'Dan Hooker',fr,unknown,#111111,#111111,1,0.427549166499
 'Francesca Albanese',fr,Italien,#33dd55,#33dd55,2,0.427463404751
 'Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.427303186942
@@ -185,6 +185,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Valérie Hayer',fr,Frankreich,#e8e808,#e8e808,1,0.376343893204
 'Eric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.376252016044
 'George Miller',fr,Australien,#aa9933,#aa9933,2,0.376093231959
+'Nancy Mace',fr,unknown,#111111,#111111,2,0.374976925038
 'Hilda Nakabuye',fr,Uganda,#4411ee,#4411ee,1,0.374616250000
 'Chad Frischmann',fr,USA,#18e8e8,#18e8e8,1,0.374616250000
 'Guy Ritchie',fr,UK,#e838e8,#e838e8,1,0.374228753385
@@ -661,7 +662,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rand Paul',fr,unknown,#111111,#111111,1,0.264771545293
 'Jake Tapper',fr,unknown,#111111,#111111,1,0.264674070676
 'Giorgio Napolitano',fr,unknown,#111111,#111111,1,0.264611970440
-'Nancy Mace',fr,unknown,#111111,#111111,1,0.264502247103
 'Mark Kerr',fr,unknown,#111111,#111111,1,0.264296007079
 'Robert Kraft',fr,unknown,#111111,#111111,1,0.264103068585
 'Benjamin Hasselhorn',fr,unknown,#111111,#111111,1,0.264004660938
