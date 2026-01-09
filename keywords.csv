@@ -170,7 +170,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cristiano Ronaldo',fr,Portugal,#339933,#339933,3,0.388818898181
 'Tom Aspinall',fr,UK,#e838e8,#e838e8,1,0.388586259093
 'Keith Kellogg',fr,USA,#18e8e8,#18e8e8,2,0.388230512313
-'Bradley Cooper',fr,USA,#18e8e8,#18e8e8,2,0.385555413628
 'Radical Optimism',fr,unknown,#111111,#111111,1,0.384209541779
 'Narendra Modi',fr,Indien,#995533,#995533,3,0.383643254088
 'Ron Howard',fr,USA,#18e8e8,#18e8e8,1,0.381890005685
@@ -345,6 +344,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laurent Berger',fr,Frankreich,#e8e808,#e8e808,1,0.328318169231
 'Camille Cottin',fr,Frankreich,#e8e808,#e8e808,1,0.328016220455
 'Yorgos Lanthimos',fr,Griechenland,#1858e8,#1858e8,1,0.327807341612
+'Bradley Cooper',fr,USA,#18e8e8,#18e8e8,1,0.327722176584
 'Alexander Smirnov',fr,Israel,#3311cc,#3311cc,1,0.326808323006
 'Jerry Seinfeld',fr,USA,#18e8e8,#18e8e8,2,0.326412631438
 'Bill Belichick',fr,USA,#18e8e8,#18e8e8,1,0.326301033855
