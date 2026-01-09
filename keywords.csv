@@ -134,6 +134,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katherina Reiche',fr,Deutschland,#335599,#335599,2,0.417351196439
 'Benny Blanco',fr,USA,#18e8e8,#18e8e8,2,0.415845566696
 'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.415269807199
+'Guy Ritchie',fr,UK,#e838e8,#e838e8,2,0.415199150832
 'Dua Lipa',fr,UK,#e838e8,#e838e8,2,0.414822397504
 'Chris Wright',fr,USA,#18e8e8,#18e8e8,2,0.413317892528
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.413082229489
@@ -186,7 +187,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Miller',fr,Australien,#aa9933,#aa9933,2,0.376093231959
 'Nancy Mace',fr,unknown,#111111,#111111,2,0.374976925038
 'Chad Frischmann',fr,USA,#18e8e8,#18e8e8,1,0.374616250000
-'Guy Ritchie',fr,UK,#e838e8,#e838e8,1,0.374228753385
 'Christian Lindner',fr,Deutschland,#1818e8,#1818e8,3,0.372181692859
 'Chuck Schumer',fr,USA,#18e8e8,#18e8e8,1,0.371713023031
 'William Friedkin',fr,USA,#18e8e8,#18e8e8,2,0.369946252027
@@ -297,9 +297,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Denis Combrexelle',fr,Frankreich,#e8e808,#e8e808,1,0.337260877638
 'Lady Di',fr,UK,#e838e8,#e838e8,1,0.337047602231
 'Ayo Edebiri',fr,USA,#18e8e8,#18e8e8,1,0.337019660563
+'Britney Spears',fr,USA,#18e8e8,#18e8e8,2,0.336762545333
 'Ron DeSantis',fr,USA,#18e8e8,#18e8e8,3,0.335952659678
 'Markus Lanz',fr,Deutschland,#1818e8,#1818e8,1,0.335897419045
-'Britney Spears',fr,USA,#18e8e8,#18e8e8,2,0.335812746687
 'Sam H',fr,unknown,#111111,#111111,2,0.335716503982
 'Lula da Silva',fr,Brasilien,#58e838,#58e848,2,0.335608084458
 'Robert Francis Prevost',fr,USA,#18e8e8,#18e8e8,1,0.335550554908
@@ -387,9 +387,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ottmar Edenhofer',fr,Deutschland,#1818e8,#1818e8,1,0.318423812500
 'Maja Göpel',fr,Deutschland,#1818e8,#1818e8,1,0.318423812500
 'Lea Bonasera',fr,Deutschland,#1818e8,#1818e8,1,0.318423812500
+'Hilda Nakabuye',fr,Uganda,#4411ee,#4411ee,1,0.318423812500
 'Christian Kroll',fr,Deutschland,#1818e8,#1818e8,1,0.318423812500
 'Andrei Sacharow',fr,Russland,#e81818,#e81818,1,0.318423812500
-'Hilda Nakabuye',fr,Uganda,#4411ee,#4411ee,1,0.318423812500
 'Irina Shayk',fr,Russland,#e81818,#e81818,1,0.318200571534
 'Pablo Picasso',fr,Spanien,#33aa99,#33aa99,2,0.318182046112
 'Jared Kushner',fr,unknown,#111111,#111111,1,0.317954980499
@@ -402,11 +402,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maya Rudolph',fr,USA,#18e8e8,#18e8e8,1,0.316067632073
 'Andrew Tate',fr,USA,#18e8e8,#18e8e8,2,0.315783238111
 'Lawrence Jones',fr,USA,#18e8e8,#18e8e8,1,0.315379065385
+'Christopher Nolan',fr,USA,#18e8e8,#18e8e8,1,0.315193804044
 'Camille Etienne',fr,Frankreich,#e8e808,#e8e808,2,0.314570223459
 'Christian Günther',fr,Deutschland,#1818e8,#1818e8,1,0.314442217584
 'Drena De Niro',fr,USA,#18e8e8,#18e8e8,1,0.314372433849
 'Luc Terlinden',fr,Belgien,#2266bb,#2266bb,1,0.314233748835
-'Christopher Nolan',fr,USA,#18e8e8,#18e8e8,1,0.314207165340
 'Stockton Rush',fr,USA,#18e8e8,#18e8e8,1,0.313923650584
 'Robin Roberts',fr,USA,#18e8e8,#18e8e8,1,0.313278569349
 'Vinod Khosla',fr,Indien,#995533,#995533,1,0.313203750000
@@ -461,6 +461,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Berkshire Hathaway',fr,USA,#18e8e8,#18e8e8,1,0.309463895791
 'Eliot Wolf',fr,unknown,#111111,#111111,1,0.309427733262
 'Selena Gomez',fr,unknown,#111111,#111111,2,0.309367638711
+'Robert Downey Jr',fr,unknown,#111111,#111111,2,0.309359181155
 'Eric Trump',fr,unknown,#111111,#111111,3,0.309338634588
 'Evgueni Prigojine',fr,Russland,#e81818,#e81818,1,0.309232936393
 'Drew Bledsoe',fr,unknown,#111111,#111111,1,0.309217158069
@@ -480,7 +481,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hailey Van Lith',fr,unknown,#111111,#111111,1,0.307819210408
 'Matt Winkelmeyer',fr,unknown,#111111,#111111,1,0.307645118435
 'Drake Maye',fr,unknown,#111111,#111111,1,0.307462169110
-'Robert Downey Jr',fr,unknown,#111111,#111111,2,0.307364868361
 'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.307362530000
 'Mareike Fallwickl',fr,Oesterreich,#5522dd,#5522dd,1,0.307229490406
 'Hugh Grant',fr,unknown,#111111,#111111,1,0.307229026268
@@ -666,9 +666,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Kraft',fr,unknown,#111111,#111111,1,0.264103068585
 'Benjamin Hasselhorn',fr,unknown,#111111,#111111,1,0.264004660938
 'Brittany Mahomes',fr,unknown,#111111,#111111,1,0.263625796050
+'Jake Gyllenhaal',fr,unknown,#111111,#111111,1,0.263487442016
 'Kim Jong-un',fr,NordKorea,#e85858,#e85858,3,0.263338643521
 'Aleksandar Vučić',fr,Serbien,#8844cc,#8844cc,2,0.263133522331
-'Jake Gyllenhaal',fr,unknown,#111111,#111111,1,0.262419350979
 'Tom Hanks',fr,unknown,#111111,#111111,1,0.262340707580
 'Jason Whitlock',fr,unknown,#111111,#111111,1,0.261952567552
 'Nikki Glaser',fr,unknown,#111111,#111111,1,0.261854242355
