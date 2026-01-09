@@ -740,7 +740,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Urban',fr,Deutschland,#1818e8,#1818e8,1,0.228356903745
 'Napoleon Bonaparte',fr,Frankreich,#e8e808,#e8e808,1,0.228008432683
 'Jacinda Ardern',fr,Neuseeland,#1818e8,#1818e8,1,0.227560529978
-'Isaac Newton',fr,UK,#e838e8,#e838e8,1,0.227518869965
 'Matthias Müller',fr,Deutschland,#1818e8,#1818e8,1,0.226398095213
 'Trevian Kutti',fr,unknown,#111111,#111111,1,0.226381837337
 'Don Lemon',fr,USA,#18e8e8,#18e8e8,1,0.226289709375
@@ -752,6 +751,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matty Healy',fr,unknown,#111111,#111111,1,0.224772322077
 'Jessica Biel',fr,unknown,#111111,#111111,1,0.224708028676
 'Pippa Middleton',fr,UK,#e838e8,#e838e8,1,0.224269795531
+'Isaac Newton',fr,UK,#e838e8,#e838e8,1,0.224141114470
 'Eva Kaili',fr,EU,#88cc44,#88cc44,2,0.224105966235
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,2,0.223666279965
 'Michael Walzer',fr,USA,#18e8e8,#18e8e8,1,0.223109522518
