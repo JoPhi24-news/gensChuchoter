@@ -257,7 +257,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jennifer Lopez',fr,USA,#18e8e8,#18e8e8,1,0.349198551707
 'Castel Gandolfo',fr,Vatikan,#dd5544,#dd5544,1,0.349118148779
 'Aubrey Plaza',fr,USA,#18e8e8,#18e8e8,1,0.349105150271
-'Amber Heard',fr,USA,#18e8e8,#18e8e8,2,0.349093482138
 'Mindy Kaling',fr,USA,#18e8e8,#18e8e8,1,0.349084638957
 'Gérard Larcher',fr,Frankreich,#e8e808,#e8e808,2,0.348767387982
 'Alex Jones',fr,USA,#18e8e8,#18e8e8,1,0.348594402270
@@ -550,6 +549,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,1,0.297096616852
 'Kevin Hart',fr,unknown,#111111,#111111,1,0.297018620230
 'Sultan al-Jaber',fr,VAE,#ff33bb,#ff33bb,2,0.296990320647
+'Amber Heard',fr,USA,#18e8e8,#18e8e8,1,0.296729459817
 'Prinz Heinrich XIII',fr,Deutschland,#1818e8,#1818e8,1,0.296482564954
 'Tim Scott',fr,USA,#18e8e8,#18e8e8,1,0.296260332283
 'Daniel Penny',fr,USA,#18e8e8,#18e8e8,1,0.296236988518
