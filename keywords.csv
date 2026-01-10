@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.480901985124
+'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.491000004628
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.480207889314
 'Kamel Daoud',fr,unknown,#111111,#111111,2,0.480184375691
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.480115867336
@@ -20,9 +20,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'prince Andrew',fr,unknown,#111111,#111111,3,0.467109591244
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.467078969573
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.465930439463
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.464103202443
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.464810760376
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
-'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.456852024411
+'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.457573960477
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,3,0.456764818400
 'John Clarke',fr,USA,#18e8e8,#18e8e8,3,0.456207952827
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.456119884166
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julia Roberts',fr,USA,#18e8e8,#18e8e8,1,0.409754522170
 'Nikki Haley',fr,USA,#18e8e8,#18e8e8,1,0.408667292393
 'Stormy Daniels',fr,USA,#18e8e8,#18e8e8,1,0.408604237086
-'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.407215655776
+'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.408034442816
 'Lecornu II',fr,Frankreich,#e8e808,#e8e808,1,0.406403638863
 'Robert Prevost',fr,Vatikan,#dd5544,#dd5544,2,0.405430065831
 'Hans-Werner Sinn',fr,Deutschland,#1818e8,#1818e8,1,0.405414638799
@@ -795,9 +795,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olli Schulz',fr,Deutschland,#1818e8,#1818e8,1,0.202186417777
 'Antony Blinken',fr,USA,#18e8e8,#18e8e8,2,0.202128178476
 'Angela Merkel',fr,Deutschland,#1818e8,#1818e8,2,0.201603227124
+'Giorgia Meloni',fr,Italien,#33dd55,#33dd55,3,0.201241522495
 'Ricarda Lang',fr,Deutschland,#1818e8,#1818e8,1,0.200877537207
 'Gabor Steingart',fr,Deutschland,#1818e8,#1818e8,1,0.200115677410
-'Giorgia Meloni',fr,Italien,#33dd55,#33dd55,3,0.200090651080
 'Faisal Kawusi',fr,Deutschland,#1818e8,#1818e8,1,0.199949052960
 'Katalin Novák',fr,Ungarn,#111111,#111111,1,0.199620232362
 'Jim Jordan',fr,unknown,#111111,#111111,1,0.199011629374
