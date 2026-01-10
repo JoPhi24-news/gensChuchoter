@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.491000004628
+'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.535947002570
+'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.480791554891
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.480207889314
 'Kamel Daoud',fr,unknown,#111111,#111111,2,0.480184375691
-'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.480115867336
 'Jean Castex',fr,Frankreich,#e8e808,#e8e808,2,0.479877321468
 'reine Mathilde',fr,unknown,#111111,#111111,2,0.479755892217
 'Dick Cheney',fr,USA,#18e8e8,#18e8e8,2,0.479439419594
@@ -19,14 +19,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.469248849151
 'prince Andrew',fr,unknown,#111111,#111111,3,0.467109591244
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.467078969573
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.466221663452
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.465930439463
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.464810760376
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
-'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.457573960477
+'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.458294466895
+'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.456843269640
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,3,0.456764818400
 'John Clarke',fr,USA,#18e8e8,#18e8e8,3,0.456207952827
-'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.456119884166
-'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.454021441472
+'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.454748978642
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453093851415
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
@@ -49,8 +49,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.440410348011
 'Keir Starmer',fr,unknown,#111111,#111111,2,0.439388278667
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.439185006695
+'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.438925953542
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,3,0.438860213576
-'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.437406934564
 'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.436747577088
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.435928683158
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.435905483357
@@ -123,8 +123,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Iyad al-Rantisi',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Adnan al-Burj',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'John Martinis',fr,USA,#18e8e8,#18e8e8,1,0.424888280759
+'Élisabeth Borne',fr,Frankreich,#e8e808,#e8e808,3,0.424311875173
 'Tony Bennett',fr,USA,#18e8e8,#18e8e8,2,0.423854417755
-'Élisabeth Borne',fr,Frankreich,#e8e808,#e8e808,3,0.423524536807
 'Sam Altman',fr,USA,#18e8e8,#18e8e8,3,0.423211637518
 'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,1,0.422108881454
 'Alexander Dobrindt',fr,Deutschland,#335599,#335599,1,0.422011114581
@@ -153,10 +153,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greta Thunberg',fr,Schweden,#ddee11,#ddee11,2,0.405171310410
 'Laurent Wauquiez',fr,Frankreich,#e8e808,#e8e808,3,0.404738663487
 'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,1,0.402971242282
+'Edouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.402926252873
 'Premier ministre',fr,Frankreich,#e8e808,#e8e808,3,0.402751699690
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.402300970200
 'James Comey',fr,USA,#18e8e8,#18e8e8,3,0.402128980888
-'Edouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.402097691208
 'Éric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.400567580085
 'Emily Blunt',fr,UK,#e838e8,#e838e8,3,0.400191621811
 'Kim Jong Un',fr,NordKorea,#e85858,#e85858,3,0.399411776094
@@ -343,10 +343,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Camille Cottin',fr,Frankreich,#e8e808,#e8e808,1,0.328016220455
 'Yorgos Lanthimos',fr,Griechenland,#1858e8,#1858e8,1,0.327807341612
 'Bradley Cooper',fr,USA,#18e8e8,#18e8e8,1,0.327722176584
+'Elisabeth Borne',fr,Frankreich,#e8e808,#e8e808,1,0.327173389506
 'Alexander Smirnov',fr,Israel,#3311cc,#3311cc,1,0.326808323006
 'Jerry Seinfeld',fr,USA,#18e8e8,#18e8e8,2,0.326412631438
 'Bill Belichick',fr,USA,#18e8e8,#18e8e8,1,0.326301033855
-'Elisabeth Borne',fr,Frankreich,#e8e808,#e8e808,1,0.326207024131
 'Tim Cook',fr,USA,#18e8e8,#18e8e8,3,0.325778466156
 'Billy Crystal',fr,USA,#18e8e8,#18e8e8,1,0.325544548215
 'Geoffrey Hinton',fr,UK,#e838e8,#e838e8,3,0.325515172522
