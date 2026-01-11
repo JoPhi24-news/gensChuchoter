@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.492332599003
-'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.480791554891
+'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.481465894877
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.480207889314
 'Kamel Daoud',fr,unknown,#111111,#111111,2,0.480184375691
 'Jean Castex',fr,Frankreich,#e8e808,#e8e808,2,0.479877321468
@@ -17,16 +16,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Bannon',fr,unknown,#111111,#111111,1,0.474037988626
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.473427768050
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.469248849151
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.468327522881
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.469026687146
 'prince Andrew',fr,unknown,#111111,#111111,3,0.467109591244
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.467078969573
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.465930439463
+'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.464351310062
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
-'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.458294466895
+'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.459013546067
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.456843269640
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,3,0.456764818400
 'John Clarke',fr,USA,#18e8e8,#18e8e8,3,0.456207952827
-'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.454748978642
+'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.455475076842
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453093851415
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
@@ -46,10 +46,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.442273616079
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,2,0.441328102534
 'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.440509592569
+'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.440439019653
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.440410348011
 'Keir Starmer',fr,unknown,#111111,#111111,2,0.439388278667
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.439185006695
-'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.438925953542
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,3,0.438860213576
 'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.436747577088
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.435928683158
@@ -164,7 +164,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pedro Sánchez',fr,Spanien,#33aa99,#33aa99,3,0.395934383542
 'Sanae Takaichi',fr,Japan,#33aa99,#33aa99,2,0.393980140594
 'Lecornu II ',fr,Frankreich,#e8e808,#e8e808,2,0.393526249874
-'Sebastien Lecornu',fr,Frankreich,#e8e808,#e8e808,1,0.392590827499
+'Sebastien Lecornu',fr,Frankreich,#e8e808,#e8e808,1,0.393437412777
 'Mohammad Mustafa',fr,Palestina,#ee4488,#ee4488,2,0.392247018398
 'Bernie Sanders',fr,USA,#18e8e8,#18e8e8,1,0.390605511533
 'Bärbel Bas',fr,Deutschland,#335599,#335599,1,0.390052427513
