@@ -222,8 +222,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Curtis Yarvin',fr,USA,#18e8e8,#18e8e8,1,0.362101087888
 'Karol G',fr,Kolumbien,#dd5533,#dd5533,1,0.361888744282
 'George Santos',fr,USA,#18e8e8,#18e8e8,2,0.361764971186
-'Justus Haucap',fr,Deutschland,#335599,#335599,1,0.361250000000
 'Veronika Grimm',fr,Deutschland,#335599,#335599,1,0.361250000000
+'Justus Haucap',fr,Deutschland,#335599,#335599,1,0.361250000000
 'LeBron James',fr,USA,#18e8e8,#18e8e8,2,0.360570501986
 'Charles III',fr,UK,#e838e8,#e838e8,3,0.360550088000
 'Abraham Lincoln',fr,USA,#18e8e8,#18e8e8,1,0.360380811796
@@ -484,7 +484,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.307362530000
 'Mareike Fallwickl',fr,Oesterreich,#5522dd,#5522dd,1,0.307229490406
 'Hugh Grant',fr,unknown,#111111,#111111,1,0.307229026268
-'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.307190012750
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.307062619212
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.307062521675
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
@@ -674,6 +673,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nikki Glaser',fr,unknown,#111111,#111111,1,0.261854242355
 'Edward Snowden',fr,USA,#18e8e8,#18e8e8,2,0.261288725915
 'Shahzada Dawood',fr,Pakistan,#bb33ff,#bb33ff,1,0.261186821097
+'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.261111510838
 'Oisin Fanning',fr,Irland,#4488cc,#4488cc,1,0.261003125000
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.261003125000
 'Jan Lipavský',fr,Tschechien,#44cc88,#44cc88,1,0.261003125000
