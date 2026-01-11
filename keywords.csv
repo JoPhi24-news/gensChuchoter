@@ -115,7 +115,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zack Snyder',fr,USA,#18e8e8,#18e8e8,1,0.425026070982
 'Laura Loomer',fr,USA,#18e8e8,#18e8e8,1,0.425000420000
 'Volker Wieland',fr,Deutschland,#335599,#335599,1,0.425000000000
-'Veronika Grimm',fr,Deutschland,#335599,#335599,1,0.425000000000
 'Stefan Kolev',fr,Deutschland,#335599,#335599,1,0.425000000000
 'Philipp Aghion',fr,Frankreich,#e8e808,#e8e808,1,0.425000000000
 'Munther Amira',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
@@ -224,6 +223,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karol G',fr,Kolumbien,#dd5533,#dd5533,1,0.361888744282
 'George Santos',fr,USA,#18e8e8,#18e8e8,2,0.361764971186
 'Justus Haucap',fr,Deutschland,#335599,#335599,1,0.361250000000
+'Veronika Grimm',fr,Deutschland,#335599,#335599,1,0.361250000000
 'LeBron James',fr,USA,#18e8e8,#18e8e8,2,0.360570501986
 'Charles III',fr,UK,#e838e8,#e838e8,3,0.360550088000
 'Abraham Lincoln',fr,USA,#18e8e8,#18e8e8,1,0.360380811796
