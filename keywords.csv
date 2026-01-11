@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.535947002570
+'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.492332599003
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.480791554891
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.480207889314
 'Kamel Daoud',fr,unknown,#111111,#111111,2,0.480184375691
@@ -17,9 +17,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Bannon',fr,unknown,#111111,#111111,1,0.474037988626
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.473427768050
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.469248849151
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.468327522881
 'prince Andrew',fr,unknown,#111111,#111111,3,0.467109591244
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.467078969573
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.466221663452
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.465930439463
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.458294466895
@@ -31,8 +31,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453093851415
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.452083337076
+'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.451539764963
 'Richard Robson',fr,Australien,#aa9933,#aa9933,1,0.450946694000
-'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.450805873608
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.449380633374
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.449197570525
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.448620885557
@@ -479,6 +479,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fabien Roussel',fr,unknown,#111111,#111111,1,0.308048619344
 'Hailey Van Lith',fr,unknown,#111111,#111111,1,0.307819210408
 'Matt Winkelmeyer',fr,unknown,#111111,#111111,1,0.307645118435
+'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,2,0.307528291175
 'Drake Maye',fr,unknown,#111111,#111111,1,0.307462169110
 'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.307362530000
 'Mareike Fallwickl',fr,Oesterreich,#5522dd,#5522dd,1,0.307229490406
@@ -498,7 +499,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Pierre-Yves Dermagne',fr,Belgien,#2266bb,#2266bb,2,0.306584252816
-'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,2,0.306528938897
 'Kemal Kiliçdaroglu',fr,Türkei,#66bb22,#66bb22,3,0.305737039580
 'Meryl Streep',fr,unknown,#111111,#111111,1,0.305713874634
 'Dieter Bohlen',fr,Deutschland,#1818e8,#1818e8,1,0.305105974065
