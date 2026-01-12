@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Brigitte Bardot',fr,unknown,#111111,#111111,2,0.606913052953
+'Brigitte Bardot',fr,unknown,#111111,#111111,3,0.652649406828
 'Rob Reiner',fr,unknown,#111111,#111111,2,0.508346755315
 'Ben Shapiro',fr,unknown,#111111,#111111,2,0.508204695790
 'Pam Bondi',fr,unknown,#111111,#111111,2,0.507472319082
-'Nicolás Maduro',fr,unknown,#111111,#111111,2,0.506830950021
+'Nicolás Maduro',fr,unknown,#111111,#111111,2,0.507453286550
 'Jen Psaki',fr,unknown,#111111,#111111,2,0.505359618916
 'Woody Allen',fr,unknown,#111111,#111111,2,0.502789586546
 'Ro Khanna',fr,unknown,#111111,#111111,2,0.500159145222
@@ -519,6 +519,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Devon Archer',fr,unknown,#111111,#111111,1,0.303370293956
 'Theodor Herzl',fr,Ungarn,#111111,#111111,2,0.303310354683
 'Greta Gerwig',fr,unknown,#111111,#111111,1,0.303301698836
+'George Clooney',fr,USA,#18e8e8,#18e8e8,1,0.303115526582
 'Ramsan Kadyrow',fr,Russland,#e81818,#e81818,1,0.303089605506
 'Leonardo da Vinci',fr,Italien,#33dd55,#33dd55,2,0.303088773963
 'Gayle King',fr,unknown,#111111,#111111,1,0.303065859864
@@ -527,7 +528,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ronna McDaniel',fr,unknown,#111111,#111111,1,0.302846236792
 'Prince Charles',fr,UK,#e838e8,#e838e8,2,0.302499823630
 'Sandy Hook',fr,unknown,#111111,#111111,1,0.302363630788
-'George Clooney',fr,USA,#18e8e8,#18e8e8,1,0.302108950717
 'António Guterres',fr,unknown,#111111,#111111,1,0.302060985386
 'Jassir Arafat',fr,Palestina,#ee4488,#ee4488,1,0.301719612500
 'Jane Fonda',fr,unknown,#111111,#111111,1,0.301443486050
