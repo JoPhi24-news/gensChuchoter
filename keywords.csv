@@ -62,6 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.434374236262
 'Bezalel Smotrich',fr,Israel,#3311cc,#3311cc,3,0.433975359068
 'RFK Jr',fr,USA,#18e8e8,#18e8e8,1,0.433842013072
+'Rosa Parks',fr,USA,#18e8e8,#18e8e8,2,0.433543954333
 'Andrew Mountbatten-Windsor',fr,unknown,#111111,#111111,1,0.433451712814
 'Peter Howitt',fr,USA,#18e8e8,#18e8e8,1,0.433306936263
 'Yves Bournazel',fr,Frankreich,#e8e808,#e8e808,2,0.433038650513
@@ -308,7 +309,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helmut Kohl',fr,Deutschland,#1818e8,#1818e8,1,0.334236744520
 'Olivier Dussopt',fr,Frankreich,#e8e808,#e8e808,2,0.334028228943
 'Willem Dafoe',fr,USA,#18e8e8,#18e8e8,1,0.333452193872
-'Rosa Parks',fr,USA,#18e8e8,#18e8e8,2,0.333228146274
 'Ainsley Earhardt',fr,USA,#18e8e8,#18e8e8,1,0.333173990747
 'Clément Beaune',fr,Frankreich,#e8e808,#e8e808,2,0.332996456566
 'Matteo Salvini',fr,Italien,#33dd55,#33dd55,2,0.332453296676
