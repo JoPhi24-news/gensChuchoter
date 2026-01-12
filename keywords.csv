@@ -1,4 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Brigitte Bardot',fr,unknown,#111111,#111111,2,0.606913052953
+'Rob Reiner',fr,unknown,#111111,#111111,2,0.508346755315
+'Ben Shapiro',fr,unknown,#111111,#111111,2,0.508204695790
+'Pam Bondi',fr,unknown,#111111,#111111,2,0.507472319082
+'Nicolás Maduro',fr,unknown,#111111,#111111,2,0.506830950021
+'Jen Psaki',fr,unknown,#111111,#111111,2,0.505359618916
+'Woody Allen',fr,unknown,#111111,#111111,2,0.502789586546
+'Ro Khanna',fr,unknown,#111111,#111111,2,0.500159145222
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.481465894877
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.480207889314
 'Kamel Daoud',fr,unknown,#111111,#111111,2,0.480184375691
@@ -682,6 +690,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oleksandr Usyk',fr,unknown,#111111,#111111,1,0.260092471230
 'Noam Chomsky',fr,USA,#18e8e8,#18e8e8,1,0.259804559638
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.259702748737
+'Michelle Williams',fr,unknown,#111111,#111111,1,0.259560503683
 'Lauren Sánchez',fr,USA,#18e8e8,#18e8e8,1,0.259436319193
 'George Floyd',fr,USA,#18e8e8,#18e8e8,1,0.259097204784
 'Lily Gladstone',fr,unknown,#111111,#111111,1,0.258413900071
@@ -703,7 +712,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Mahomes',fr,unknown,#111111,#111111,1,0.247106755661
 'Gérard Biard',fr,Frankreich,#e8e808,#e8e808,1,0.246832408218
 'Jerome Powell',fr,USA,#18e8e8,#18e8e8,3,0.246311349945
-'Michelle Williams',fr,unknown,#111111,#111111,1,0.246012304333
 'Ursula von der Leyen',fr,EU,#88cc44,#88cc44,1,0.245662945145
 'Wolodimir Selenski',fr,Ukraine,#e818e8,#e818e8,1,0.245568263927
 'König Charles III',fr,UK,#e838e8,#e838e8,1,0.245515969352
