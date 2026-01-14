@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Rob Reiner',fr,unknown,#111111,#111111,3,0.574307877890
+'Rob Reiner',fr,unknown,#111111,#111111,3,0.574931333025
 'Ben Shapiro',fr,unknown,#111111,#111111,2,0.508204695790
 'Pam Bondi',fr,unknown,#111111,#111111,2,0.507472319082
 'Nicolás Maduro',fr,unknown,#111111,#111111,2,0.507453286550
@@ -140,8 +140,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brad Pitt',fr,USA,#18e8e8,#18e8e8,3,0.421254713532
 'Erika Kirk',fr,USA,#18e8e8,#18e8e8,2,0.420390015174
 'Katherina Reiche',fr,Deutschland,#335599,#335599,2,0.417351196439
+'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.416073117778
 'Benny Blanco',fr,USA,#18e8e8,#18e8e8,2,0.415845566696
-'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.415269807199
 'Guy Ritchie',fr,UK,#e838e8,#e838e8,2,0.415199150832
 'Dua Lipa',fr,UK,#e838e8,#e838e8,2,0.414822397504
 'Chris Wright',fr,USA,#18e8e8,#18e8e8,2,0.413317892528
