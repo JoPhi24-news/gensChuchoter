@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Pam Bondi',fr,unknown,#111111,#111111,2,0.507472319082
+'Pam Bondi',fr,unknown,#111111,#111111,3,0.511152266220
 'Nicolás Maduro',fr,unknown,#111111,#111111,2,0.507453286550
 'Jen Psaki',fr,unknown,#111111,#111111,2,0.505359618916
 'Brigitte Bardot',fr,unknown,#111111,#111111,3,0.502967204720
@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ro Khanna',fr,unknown,#111111,#111111,2,0.500159145222
 'Rob Reiner',fr,unknown,#111111,#111111,3,0.494768607720
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.481465894877
-'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.480207889314
+'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.480883393354
 'Kamel Daoud',fr,unknown,#111111,#111111,2,0.480184375691
 'Jean Castex',fr,Frankreich,#e8e808,#e8e808,2,0.479877321468
 'reine Mathilde',fr,unknown,#111111,#111111,2,0.479755892217
@@ -36,8 +36,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.455475076842
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453093851415
+'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.452814705224
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
-'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.452083337076
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.451539764963
 'Richard Robson',fr,Australien,#aa9933,#aa9933,1,0.450946694000
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.449380633374
@@ -50,8 +50,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,3,0.444815655762
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444066782960
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,2,0.442831743862
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.442273616079
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,2,0.441328102534
 'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.440509592569
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.440439019653
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.440410348011
@@ -69,13 +69,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.434374236262
 'Bezalel Smotrich',fr,Israel,#3311cc,#3311cc,3,0.433975359068
 'RFK Jr',fr,USA,#18e8e8,#18e8e8,1,0.433842013072
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.433821917081
 'Rosa Parks',fr,USA,#18e8e8,#18e8e8,2,0.433543954333
 'Andrew Mountbatten-Windsor',fr,unknown,#111111,#111111,1,0.433451712814
 'Peter Howitt',fr,USA,#18e8e8,#18e8e8,1,0.433306936263
 'Yves Bournazel',fr,Frankreich,#e8e808,#e8e808,2,0.433038650513
 'Susumu Kitagawa',fr,Japan,#33aa99,#33aa99,1,0.432776572270
 'Joy Reid',fr,unknown,#111111,#111111,1,0.432760259415
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.432282859251
 'Ian Machado Garry',fr,unknown,#111111,#111111,1,0.432253222026
 'Pete Hegseth',fr,USA,#18e8e8,#18e8e8,3,0.432047715745
 'Ben Shapiro',fr,unknown,#111111,#111111,1,0.431974036422
@@ -886,8 +886,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saskia Esken',fr,Deutschland,#1818e8,#1818e8,2,0.163399421866
 'Louis Klamroth',fr,Deutschland,#1818e8,#1818e8,1,0.162500858488
 'Horst Seehofer',fr,Deutschland,#1818e8,#1818e8,1,0.161989991352
+'Benjamin Netanyahu',fr,Israel,#3311cc,#3311cc,2,0.161814314570
 'Rishi Sunak',fr,UK,#e838e8,#e838e8,2,0.160721108046
-'Benjamin Netanyahu',fr,Israel,#3311cc,#3311cc,2,0.160620998358
 'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.160288544141
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.160288544141
 'Michael Mann',fr,USA,#18e8e8,#18e8e8,1,0.159606230871
@@ -905,9 +905,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Manning',fr,USA,#18e8e8,#18e8e8,1,0.149533277673
 'Nicola Beer',fr,EU,#88cc44,#88cc44,1,0.147252041960
 'Silvio Berlusconi',fr,Italien,#33dd55,#33dd55,2,0.147238879538
+'Thierry Breton',fr,EU,#88cc44,#88cc44,1,0.146327594418
 'Yoon Suk-yeol',fr,SüdKorea,#bbff33,#bbff33,3,0.145481018944
 'Julian Assange',fr,Australien,#aa9933,#aa9933,1,0.145298271911
-'Thierry Breton',fr,EU,#88cc44,#88cc44,1,0.145119911248
 'Nick Fuentes',fr,USA,#18e8e8,#18e8e8,1,0.141643479418
 'Karl Lauterbach',fr,Deutschland,#1818e8,#1818e8,1,0.141124958636
 'Millie Mackintosh',fr,UK,#e838e8,#e838e8,1,0.139499648433
