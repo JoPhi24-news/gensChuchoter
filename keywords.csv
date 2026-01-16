@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Pam Bondi',fr,unknown,#111111,#111111,3,0.511152266220
 'Nicolás Maduro',fr,unknown,#111111,#111111,2,0.507453286550
 'Jen Psaki',fr,unknown,#111111,#111111,2,0.505359618916
 'Brigitte Bardot',fr,unknown,#111111,#111111,3,0.502967204720
@@ -65,6 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kendrick Lamar',fr,USA,#18e8e8,#18e8e8,1,0.435261738560
 'Usha Vance',fr,unknown,#111111,#111111,1,0.434924441652
 'Charlie Kirk',fr,USA,#18e8e8,#18e8e8,3,0.434658085954
+'Pam Bondi',fr,unknown,#111111,#111111,2,0.434480266287
 'Gerald Darmanin',fr,Frankreich,#e8e808,#e8e808,2,0.434467599199
 'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.434374236262
 'Bezalel Smotrich',fr,Israel,#3311cc,#3311cc,3,0.433975359068
