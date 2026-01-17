@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Brigitte Bardot',fr,unknown,#111111,#111111,3,0.502967204720
 'Woody Allen',fr,unknown,#111111,#111111,2,0.502789586546
 'Ro Khanna',fr,unknown,#111111,#111111,2,0.500159145222
 'Rob Reiner',fr,unknown,#111111,#111111,3,0.494768607720
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.489394415990
+'Brigitte Bardot',fr,unknown,#111111,#111111,3,0.482477299012
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.481465894877
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.480883393354
 'Kamel Daoud',fr,unknown,#111111,#111111,2,0.480184375691
@@ -39,8 +39,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.451539764963
 'Richard Robson',fr,Australien,#aa9933,#aa9933,1,0.450946694000
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.449380633374
+'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.449359088991
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.449197570525
-'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.448620885557
 'Sergio Mattarella',fr,Italien,#33dd55,#33dd55,2,0.447946641298
 'Karsten Wildberger',fr,Deutschland,#335599,#335599,2,0.447877483614
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,2,0.447734405841
