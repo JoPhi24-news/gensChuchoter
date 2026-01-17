@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jen Psaki',fr,unknown,#111111,#111111,2,0.505359618916
 'Brigitte Bardot',fr,unknown,#111111,#111111,3,0.502967204720
 'Woody Allen',fr,unknown,#111111,#111111,2,0.502789586546
 'Ro Khanna',fr,unknown,#111111,#111111,2,0.500159145222
@@ -98,6 +97,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.429691390517
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.429592450782
 'Islam Makhachev',fr,unknown,#111111,#111111,1,0.429584561170
+'Jen Psaki',fr,unknown,#111111,#111111,1,0.429555676079
 'Belal Muhammad',fr,unknown,#111111,#111111,1,0.429288850765
 'Whoopi Goldberg',fr,USA,#18e8e8,#18e8e8,1,0.429119676187
 'James Gunn',fr,USA,#18e8e8,#18e8e8,2,0.428913624453
