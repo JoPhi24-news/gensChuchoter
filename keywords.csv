@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Woody Allen',fr,unknown,#111111,#111111,2,0.502789586546
 'Ro Khanna',fr,unknown,#111111,#111111,2,0.500159145222
 'Rob Reiner',fr,unknown,#111111,#111111,3,0.494768607720
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.489394415990
+'Woody Allen',fr,unknown,#111111,#111111,2,0.488421643564
 'Brigitte Bardot',fr,unknown,#111111,#111111,3,0.482477299012
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.481465894877
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.480883393354
@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reine Mathilde',fr,unknown,#111111,#111111,2,0.479755892217
 'Dick Cheney',fr,USA,#18e8e8,#18e8e8,2,0.479439419594
 'Larry Summers',fr,unknown,#111111,#111111,3,0.479270656092
-'Affaire Epstein',fr,unknown,#111111,#111111,3,0.478159693235
+'Affaire Epstein',fr,unknown,#111111,#111111,3,0.478839281109
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.477607550974
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.477357733762
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,3,0.477146759281
@@ -45,11 +45,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karsten Wildberger',fr,Deutschland,#335599,#335599,2,0.447877483614
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,2,0.447734405841
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.446817341324
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,2,0.445821326229
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,3,0.444815655762
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444066782960
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.443024318069
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,2,0.442831743862
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.441193325982
 'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.440509592569
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.440410348011
@@ -57,7 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.439185006695
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.438949308023
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,3,0.438860213576
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.436882014605
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.437643297992
 'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.436747577088
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.435928683158
 'Fred Ramsdel',fr,USA,#18e8e8,#18e8e8,1,0.435844606955
@@ -286,10 +286,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greg Brockman',fr,USA,#18e8e8,#18e8e8,1,0.343422121839
 'Charlize Theron',fr,Südafrika,#ee4411,#ee4411,1,0.341717538554
 'Sabrina Carpenter',fr,USA,#18e8e8,#18e8e8,1,0.341480842451
+'Steven Spielberg',fr,USA,#18e8e8,#18e8e8,3,0.341127505629
 'Gavin Newsom',fr,USA,#18e8e8,#18e8e8,2,0.341023691005
 'Margaret Thatcher',fr,UK,#e838e8,#e838e8,2,0.340914469394
 'Lady Gaga',fr,USA,#18e8e8,#18e8e8,1,0.340731118422
-'Steven Spielberg',fr,USA,#18e8e8,#18e8e8,3,0.340185343405
 'Paris Hilton',fr,USA,#18e8e8,#18e8e8,1,0.339847538335
 'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,1,0.339142297512
 'Julia Louis-Dreyfus',fr,USA,#18e8e8,#18e8e8,1,0.339007543002
@@ -514,6 +514,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Meg Bellamy',fr,UK,#e838e8,#e838e8,2,0.304574736796
 'Marguerite Cazeneuve',fr,unknown,#111111,#111111,1,0.304348799605
 'Yoon Suk Yeol',fr,SüdKorea,#bbff33,#bbff33,2,0.303986379820
+'Adam Driver',fr,unknown,#111111,#111111,1,0.303941950084
 'Tamim Hamad Thani',fr,Katar,#33ffbb,#33ffbb,2,0.303883390906
 'Peregrine Pearson',fr,unknown,#111111,#111111,1,0.303458232404
 'Devon Archer',fr,unknown,#111111,#111111,1,0.303370293956
@@ -523,7 +524,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ramsan Kadyrow',fr,Russland,#e81818,#e81818,1,0.303089605506
 'Leonardo da Vinci',fr,Italien,#33dd55,#33dd55,2,0.303088773963
 'Gayle King',fr,unknown,#111111,#111111,1,0.303065859864
-'Adam Driver',fr,unknown,#111111,#111111,1,0.302936721671
 'Jill Biden',fr,USA,#18e8e8,#18e8e8,1,0.302930582451
 'Ronna McDaniel',fr,unknown,#111111,#111111,1,0.302846236792
 'Prince Charles',fr,UK,#e838e8,#e838e8,2,0.302499823630
