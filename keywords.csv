@@ -99,7 +99,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Belal Muhammad',fr,unknown,#111111,#111111,1,0.429288850765
 'Whoopi Goldberg',fr,USA,#18e8e8,#18e8e8,1,0.429119676187
 'James Gunn',fr,USA,#18e8e8,#18e8e8,2,0.428913624453
-'Prince Philip',fr,unknown,#111111,#111111,1,0.428596754697
 'Christian Dürr',fr,Deutschland,#335599,#335599,1,0.428593246867
 'Daniel Cormier',fr,unknown,#111111,#111111,1,0.428554483793
 'Justin Gaethje',fr,unknown,#111111,#111111,1,0.428501196318
@@ -221,6 +220,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anant Ambani',fr,Indien,#995533,#995533,1,0.365087340868
 'Helene Fischer',fr,unknown,#111111,#111111,1,0.364932310634
 'Sherri Shepherd',fr,USA,#18e8e8,#18e8e8,1,0.364547183443
+'Prince Philip',fr,unknown,#111111,#111111,1,0.364457256492
 'Alexander De Croo',fr,Belgien,#2266bb,#2266bb,3,0.363839286260
 'Lil Yachty',fr,USA,#18e8e8,#18e8e8,1,0.363830425113
 'Eddie Hearn',fr,UK,#e838e8,#e838e8,1,0.363735105123
