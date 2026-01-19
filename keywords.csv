@@ -457,7 +457,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steffen Kotre',fr,Deutschland,#335599,#335599,1,0.310593718750
 'Karin Prien',fr,Deutschland,#335599,#335599,1,0.310593718750
 'Roger Federer',fr,unknown,#111111,#111111,3,0.310516458266
-'Laura Maria Rypa',fr,unknown,#111111,#111111,1,0.310433524542
 'Steve Wozniak',fr,USA,#18e8e8,#18e8e8,1,0.310313490800
 'Charles Barkley',fr,unknown,#111111,#111111,1,0.310272524743
 'Chris Stapleton',fr,unknown,#111111,#111111,1,0.310220116176
@@ -672,6 +671,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Kerr',fr,unknown,#111111,#111111,1,0.264296007079
 'Robert Kraft',fr,unknown,#111111,#111111,1,0.264103068585
 'Benjamin Hasselhorn',fr,unknown,#111111,#111111,1,0.264004660938
+'Laura Maria Rypa',fr,unknown,#111111,#111111,1,0.263868495861
 'Brittany Mahomes',fr,unknown,#111111,#111111,1,0.263625796050
 'Jake Gyllenhaal',fr,unknown,#111111,#111111,1,0.263487442016
 'Kim Jong-un',fr,NordKorea,#e85858,#e85858,3,0.263338643521
