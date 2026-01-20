@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Quand Harry',fr,unknown,#111111,#111111,2,0.523839022414
 'Michele Singer',fr,unknown,#111111,#111111,1,0.517938290531
 'Michele Reiner',fr,unknown,#111111,#111111,1,0.515297252365
 'Nick Reiner',fr,unknown,#111111,#111111,1,0.511607834918
@@ -37,6 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Bannon',fr,unknown,#111111,#111111,1,0.474037988626
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.473427768050
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.473192562448
+'Quand Harry',fr,unknown,#111111,#111111,2,0.470763964052
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.469248849151
 'prince Andrew',fr,unknown,#111111,#111111,3,0.467109591244
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.467078969573
@@ -193,7 +193,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammad Mustafa',fr,Palestina,#ee4488,#ee4488,2,0.392247018398
 'Bernie Sanders',fr,USA,#18e8e8,#18e8e8,1,0.390605511533
 'Bärbel Bas',fr,Deutschland,#335599,#335599,1,0.390052427513
-'Cristiano Ronaldo',fr,Portugal,#339933,#339933,3,0.388818898181
+'Cristiano Ronaldo',fr,Portugal,#339933,#339933,3,0.389672583624
 'Tom Aspinall',fr,UK,#e838e8,#e838e8,1,0.388586259093
 'Keith Kellogg',fr,USA,#18e8e8,#18e8e8,2,0.388230512313
 'Radical Optimism',fr,unknown,#111111,#111111,1,0.384209541779
