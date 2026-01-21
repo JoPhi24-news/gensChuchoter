@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Michele Reiner',fr,unknown,#111111,#111111,1,0.515297252365
 'Nick Reiner',fr,unknown,#111111,#111111,1,0.511607834918
 'Sohn Nick',fr,unknown,#111111,#111111,2,0.509619693999
 'Scott Jennings',fr,unknown,#111111,#111111,2,0.508998249249
@@ -72,6 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Keir Starmer',fr,unknown,#111111,#111111,2,0.440144647586
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.439918205176
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.439185006695
+'Michele Reiner',fr,unknown,#111111,#111111,1,0.439052769510
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.438949308023
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,3,0.438860213576
 'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.436747577088
