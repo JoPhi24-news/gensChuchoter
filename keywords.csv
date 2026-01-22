@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Joe Rogan',fr,unknown,#111111,#111111,2,0.508352746980
 'Michele Singer Reiner',fr,unknown,#111111,#111111,2,0.508221416445
 'Harry Met Sally',fr,unknown,#111111,#111111,2,0.507623948257
 'Candace Owens',fr,unknown,#111111,#111111,2,0.506733309662
@@ -92,6 +91,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Reid',fr,unknown,#111111,#111111,1,0.432760259415
 'Scott Jennings',fr,unknown,#111111,#111111,1,0.432648526862
 'Ian Machado Garry',fr,unknown,#111111,#111111,1,0.432253222026
+'Joe Rogan',fr,unknown,#111111,#111111,1,0.432100059933
 'Pete Hegseth',fr,USA,#18e8e8,#18e8e8,3,0.432047715745
 'Ben Shapiro',fr,unknown,#111111,#111111,1,0.431974036422
 'Bill Maher',fr,unknown,#111111,#111111,1,0.431788174780
