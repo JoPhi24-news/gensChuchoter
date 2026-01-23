@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Candace Owens',fr,unknown,#111111,#111111,2,0.506923433213
 'Bari Weiss',fr,unknown,#111111,#111111,2,0.506422939213
 'Cilia Flores',fr,unknown,#111111,#111111,2,0.506222013070
 'Mario Adorf',fr,unknown,#111111,#111111,2,0.504314104118
@@ -90,6 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scott Jennings',fr,unknown,#111111,#111111,1,0.432648526862
 'Ian Machado Garry',fr,unknown,#111111,#111111,1,0.432253222026
 'Joe Rogan',fr,unknown,#111111,#111111,1,0.432100059933
+'Candace Owens',fr,unknown,#111111,#111111,2,0.432085038231
 'Pete Hegseth',fr,USA,#18e8e8,#18e8e8,3,0.432047715745
 'Michele Singer Reiner',fr,unknown,#111111,#111111,1,0.431988278978
 'Ben Shapiro',fr,unknown,#111111,#111111,1,0.431974036422
