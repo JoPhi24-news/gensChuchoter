@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Thomas Massie',fr,unknown,#111111,#111111,2,0.503532419687
 'Margaret Brennan',fr,unknown,#111111,#111111,2,0.502843171421
 'Epstein Files',fr,unknown,#111111,#111111,2,0.502595091973
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.502550736126
@@ -121,6 +120,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Cormier',fr,unknown,#111111,#111111,1,0.428554483793
 'Justin Gaethje',fr,unknown,#111111,#111111,1,0.428501196318
 'Francis Ngannou',fr,unknown,#111111,#111111,1,0.428233219510
+'Thomas Massie',fr,unknown,#111111,#111111,2,0.428152571734
 'Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.428083179568
 'Bruna Caroline Ferreira',fr,unknown,#111111,#111111,2,0.428006351212
 'Paul Konerko',fr,USA,#18e8e8,#18e8e8,1,0.427902059977
