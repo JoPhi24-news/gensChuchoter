@@ -1,21 +1,22 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Delcy Rodriguez',fr,unknown,#111111,#111111,2,0.602685118136
+'Delcy Rodriguez',fr,unknown,#111111,#111111,2,0.580871969052
 'Kaitlan Collins',fr,unknown,#111111,#111111,2,0.507494677474
 'Tony Dokoupil',fr,unknown,#111111,#111111,2,0.505033934347
+'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.504439619163
 'Abby Phillip',fr,unknown,#111111,#111111,2,0.503757573872
 'Kristi Noem',fr,unknown,#111111,#111111,2,0.503179013071
 'Renee Good',fr,unknown,#111111,#111111,2,0.503127966129
 'Nanon Williams',fr,unknown,#111111,#111111,2,0.502793453106
 'Epstein Files',fr,unknown,#111111,#111111,2,0.502595091973
-'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.502550736126
 'MARGARET BRENNAN',fr,unknown,#111111,#111111,2,0.502333431899
 'Alan Jackson',fr,unknown,#111111,#111111,2,0.502113455876
 'Mark Kelly',fr,unknown,#111111,#111111,2,0.501639321918
 'Ilhan Omar',fr,unknown,#111111,#111111,2,0.501541207202
-'Delcy Rodríguez',fr,unknown,#111111,#111111,2,0.500728045963
+'Delcy Rodríguez',fr,unknown,#111111,#111111,2,0.501362574907
 'Jake Reiner',fr,unknown,#111111,#111111,2,0.500288432059
 'Margaret Brennan',fr,unknown,#111111,#111111,1,0.490931719102
 'Woody Allen',fr,unknown,#111111,#111111,2,0.488421643564
+'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.482928324787
 'Brigitte Bardot',fr,unknown,#111111,#111111,3,0.482477299012
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.481557550167
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.481465894877
@@ -25,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reine Mathilde',fr,unknown,#111111,#111111,2,0.479755892217
 'Dick Cheney',fr,USA,#18e8e8,#18e8e8,2,0.479439419594
 'Larry Summers',fr,unknown,#111111,#111111,3,0.479270656092
-'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.478879641332
 'Cilia Flores',fr,unknown,#111111,#111111,3,0.478358541666
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.477607550974
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.477357733762
@@ -48,7 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,3,0.456764818400
 'John Clarke',fr,USA,#18e8e8,#18e8e8,3,0.456207952827
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.455475076842
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.454018068009
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.455471716711
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453093851415
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
@@ -62,9 +62,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karsten Wildberger',fr,Deutschland,#335599,#335599,2,0.447877483614
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,2,0.447734405841
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.446817341324
+'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.446755734272
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,3,0.445561357315
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
-'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.444521296440
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444066782960
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.441193325982
 'Michele Singer',fr,unknown,#111111,#111111,1,0.440997621951
@@ -177,10 +177,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kamala Harris',fr,USA,#18e8e8,#18e8e8,3,0.412556976738
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,1,0.411385949949
 'John M. Martinis',fr,USA,#18e8e8,#18e8e8,1,0.411102944000
+'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.410481402036
 'Poutine',fr,Russland,#e81818,#e81818,3,0.410180890096
 'Bruno Le Maire',fr,Frankreich,#e8e808,#e8e808,3,0.409918577589
 'Julia Roberts',fr,USA,#18e8e8,#18e8e8,1,0.409754522170
-'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.409667314124
 'Nikki Haley',fr,USA,#18e8e8,#18e8e8,1,0.408667292393
 'Stormy Daniels',fr,USA,#18e8e8,#18e8e8,1,0.408604237086
 'Lecornu II',fr,Frankreich,#e8e808,#e8e808,1,0.406403638863
