@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Abby Phillip',fr,unknown,#111111,#111111,2,0.503757573872
 'Delcy Rodríguez',fr,unknown,#111111,#111111,2,0.503258565258
 'Kristi Noem',fr,unknown,#111111,#111111,2,0.503179013071
 'Renee Good',fr,unknown,#111111,#111111,2,0.503127966129
@@ -131,6 +130,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Cormier',fr,unknown,#111111,#111111,1,0.428554483793
 'Justin Gaethje',fr,unknown,#111111,#111111,1,0.428501196318
 'Francis Ngannou',fr,unknown,#111111,#111111,1,0.428233219510
+'Abby Phillip',fr,unknown,#111111,#111111,1,0.428193937791
 'Thomas Massie',fr,unknown,#111111,#111111,2,0.428152571734
 'Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.428083179568
 'Bruna Caroline Ferreira',fr,unknown,#111111,#111111,2,0.428006351212
