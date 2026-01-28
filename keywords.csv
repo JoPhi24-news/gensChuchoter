@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kaitlan Collins',fr,unknown,#111111,#111111,2,0.507494677474
 'Tony Dokoupil',fr,unknown,#111111,#111111,2,0.505033934347
 'Abby Phillip',fr,unknown,#111111,#111111,2,0.503757573872
 'Delcy Rodríguez',fr,unknown,#111111,#111111,2,0.503258565258
@@ -106,6 +105,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harry Met Sally',fr,unknown,#111111,#111111,2,0.431630371018
 'Justin Bieber',fr,Kanada,#55ee33,#55ee33,2,0.431485890178
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.431450283134
+'Kaitlan Collins',fr,unknown,#111111,#111111,1,0.431370475853
 'Kamaru Usman',fr,unknown,#111111,#111111,1,0.431339545692
 'Andrew Mountbatten Windsor',fr,unknown,#111111,#111111,1,0.431195094082
 'Arman Tsarukyan',fr,unknown,#111111,#111111,1,0.430885991557
