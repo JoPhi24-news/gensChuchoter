@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Renee Good',fr,unknown,#111111,#111111,2,0.504386176071
+'Renee Good',fr,unknown,#111111,#111111,3,0.524591735569
 'Kristi Noem',fr,unknown,#111111,#111111,3,0.503844767090
 'Ilhan Omar',fr,unknown,#111111,#111111,2,0.503436129000
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.503095339459
@@ -105,13 +105,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.431450283134
 'Kaitlan Collins',fr,unknown,#111111,#111111,1,0.431370475853
 'Kamaru Usman',fr,unknown,#111111,#111111,1,0.431339545692
+'JD Vance',fr,USA,#18e8e8,#18e8e8,2,0.431327588504
 'Andrew Mountbatten Windsor',fr,unknown,#111111,#111111,1,0.431195094082
 'Arman Tsarukyan',fr,unknown,#111111,#111111,1,0.430885991557
 'Omar Yaghi',fr,Jordanien,#335588,#335588,2,0.430819754240
 'Callum Turner',fr,UK,#e838e8,#e838e8,2,0.430742441075
 'Nawaz Sharif',fr,Pakistan,#bb33ff,#bb33ff,2,0.430631873479
 'Bruna Ferreira',fr,unknown,#111111,#111111,2,0.430626612059
-'JD Vance',fr,USA,#18e8e8,#18e8e8,2,0.430553931521
 'Ciryl Gane',fr,unknown,#111111,#111111,1,0.430433435222
 'Robert Kennedy',fr,USA,#18e8e8,#18e8e8,3,0.430353257073
 'Benyamin Netanyahou',fr,Israel,#3311cc,#3311cc,2,0.430234863249
@@ -168,7 +168,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rob Reiner',fr,unknown,#111111,#111111,2,0.420553676562
 'Erika Kirk',fr,USA,#18e8e8,#18e8e8,2,0.420390015174
 'Katherina Reiche',fr,Deutschland,#335599,#335599,2,0.417351196439
-'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.416073117778
+'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.416874878756
 'Benny Blanco',fr,USA,#18e8e8,#18e8e8,2,0.415845566696
 'Guy Ritchie',fr,UK,#e838e8,#e838e8,2,0.415199150832
 'Dua Lipa',fr,UK,#e838e8,#e838e8,2,0.414822397504
@@ -379,12 +379,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Camille Cottin',fr,Frankreich,#e8e808,#e8e808,1,0.328016220455
 'Yorgos Lanthimos',fr,Griechenland,#1858e8,#1858e8,1,0.327807341612
 'Bradley Cooper',fr,USA,#18e8e8,#18e8e8,1,0.327722176584
+'Tim Cook',fr,USA,#18e8e8,#18e8e8,3,0.327711008141
 'Elisabeth Borne',fr,Frankreich,#e8e808,#e8e808,1,0.327173389506
 'Alexander Smirnov',fr,Israel,#3311cc,#3311cc,1,0.326808323006
 'Billy Crystal',fr,USA,#18e8e8,#18e8e8,1,0.326512045275
 'Jerry Seinfeld',fr,USA,#18e8e8,#18e8e8,2,0.326412631438
 'Bill Belichick',fr,USA,#18e8e8,#18e8e8,1,0.326301033855
-'Tim Cook',fr,USA,#18e8e8,#18e8e8,3,0.325778466156
 'Geoffrey Hinton',fr,UK,#e838e8,#e838e8,3,0.325515172522
 'Ryan Gosling',fr,Kanada,#55ee33,#55ee33,1,0.325490744169
 'James Cameron',fr,USA,#18e8e8,#18e8e8,2,0.325434058213
