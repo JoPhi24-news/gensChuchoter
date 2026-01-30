@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kristi Noem',fr,unknown,#111111,#111111,3,0.503844767090
 'Ilhan Omar',fr,unknown,#111111,#111111,2,0.503436129000
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.503095339459
 'Nanon Williams',fr,unknown,#111111,#111111,2,0.502793453106
@@ -19,20 +18,21 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Castex',fr,Frankreich,#e8e808,#e8e808,2,0.479877321468
 'reine Mathilde',fr,unknown,#111111,#111111,2,0.479755892217
 'Dick Cheney',fr,USA,#18e8e8,#18e8e8,2,0.479439419594
+'Renee Good',fr,unknown,#111111,#111111,3,0.479314747522
 'Larry Summers',fr,unknown,#111111,#111111,3,0.479270656092
 'Cilia Flores',fr,unknown,#111111,#111111,3,0.478358541666
-'Renee Good',fr,unknown,#111111,#111111,3,0.477956115721
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.477607550974
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.477357733762
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.477308921864
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,3,0.477146759281
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.476597723853
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.475879575976
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.475759142292
 'Andrew Windsor',fr,unknown,#111111,#111111,1,0.475757348780
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.475228230031
 'Steve Bannon',fr,unknown,#111111,#111111,1,0.474037988626
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.473427768050
 'Quand Harry',fr,unknown,#111111,#111111,2,0.470763964052
+'Kristi Noem',fr,unknown,#111111,#111111,3,0.470570317027
 'Delcy Rodríguez',fr,unknown,#111111,#111111,2,0.470071220469
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.469248849151
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.469179726874
@@ -95,6 +95,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scott Jennings',fr,unknown,#111111,#111111,1,0.432648526862
 'Ian Machado Garry',fr,unknown,#111111,#111111,1,0.432253222026
 'Joe Rogan',fr,unknown,#111111,#111111,1,0.432100059933
+'JD Vance',fr,USA,#18e8e8,#18e8e8,2,0.432099735519
 'Candace Owens',fr,unknown,#111111,#111111,2,0.432085038231
 'Pete Hegseth',fr,USA,#18e8e8,#18e8e8,3,0.432047715745
 'Michele Singer Reiner',fr,unknown,#111111,#111111,1,0.431988278978
@@ -105,7 +106,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.431450283134
 'Kaitlan Collins',fr,unknown,#111111,#111111,1,0.431370475853
 'Kamaru Usman',fr,unknown,#111111,#111111,1,0.431339545692
-'JD Vance',fr,USA,#18e8e8,#18e8e8,2,0.431327588504
 'Andrew Mountbatten Windsor',fr,unknown,#111111,#111111,1,0.431195094082
 'Arman Tsarukyan',fr,unknown,#111111,#111111,1,0.430885991557
 'Omar Yaghi',fr,Jordanien,#335588,#335588,2,0.430819754240
@@ -315,10 +315,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charlize Theron',fr,Südafrika,#ee4411,#ee4411,1,0.341717538554
 'Sabrina Carpenter',fr,USA,#18e8e8,#18e8e8,1,0.341480842451
 'Steven Spielberg',fr,USA,#18e8e8,#18e8e8,3,0.341127505629
+'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,1,0.341028622477
 'Gavin Newsom',fr,USA,#18e8e8,#18e8e8,2,0.341023691005
 'Margaret Thatcher',fr,UK,#e838e8,#e838e8,2,0.340914469394
 'Lady Gaga',fr,USA,#18e8e8,#18e8e8,1,0.340731118422
-'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,1,0.340086286616
 'Paris Hilton',fr,USA,#18e8e8,#18e8e8,1,0.339847538335
 'Julia Louis-Dreyfus',fr,USA,#18e8e8,#18e8e8,1,0.339007543002
 'Ferdinand Dudenhöffer',fr,Deutschland,#1818e8,#1818e8,1,0.338544603119
@@ -715,13 +715,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.261003125000
 'Jan Lipavský',fr,Tschechien,#44cc88,#44cc88,1,0.261003125000
 'Jacques Doriot',fr,unknown,#111111,#111111,1,0.260549789354
+'George Floyd',fr,USA,#18e8e8,#18e8e8,1,0.260170154167
 'Prinzessin Kate',fr,UK,#e838e8,#e838e8,1,0.260133313674
 'Oleksandr Usyk',fr,unknown,#111111,#111111,1,0.260092471230
 'Noam Chomsky',fr,USA,#18e8e8,#18e8e8,1,0.259804559638
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.259702748737
 'Michelle Williams',fr,unknown,#111111,#111111,1,0.259560503683
 'Lauren Sánchez',fr,USA,#18e8e8,#18e8e8,1,0.259436319193
-'George Floyd',fr,USA,#18e8e8,#18e8e8,1,0.259097204784
 'Lily Gladstone',fr,unknown,#111111,#111111,1,0.258413900071
 'Jennifer Morgan',fr,unknown,#111111,#111111,1,0.258242564707
 'Ivanka Trump',fr,unknown,#111111,#111111,1,0.257486638313
