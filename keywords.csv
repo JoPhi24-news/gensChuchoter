@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Renee Good',fr,unknown,#111111,#111111,3,0.519039263415
 'Kristi Noem',fr,unknown,#111111,#111111,3,0.503844767090
 'Ilhan Omar',fr,unknown,#111111,#111111,2,0.503436129000
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.503095339459
@@ -22,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dick Cheney',fr,USA,#18e8e8,#18e8e8,2,0.479439419594
 'Larry Summers',fr,unknown,#111111,#111111,3,0.479270656092
 'Cilia Flores',fr,unknown,#111111,#111111,3,0.478358541666
+'Renee Good',fr,unknown,#111111,#111111,3,0.477956115721
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.477607550974
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.477357733762
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.477308921864
@@ -318,8 +318,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gavin Newsom',fr,USA,#18e8e8,#18e8e8,2,0.341023691005
 'Margaret Thatcher',fr,UK,#e838e8,#e838e8,2,0.340914469394
 'Lady Gaga',fr,USA,#18e8e8,#18e8e8,1,0.340731118422
+'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,1,0.340086286616
 'Paris Hilton',fr,USA,#18e8e8,#18e8e8,1,0.339847538335
-'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,1,0.339142297512
 'Julia Louis-Dreyfus',fr,USA,#18e8e8,#18e8e8,1,0.339007543002
 'Ferdinand Dudenhöffer',fr,Deutschland,#1818e8,#1818e8,1,0.338544603119
 'nan Si',fr,unknown,#111111,#111111,1,0.338439211509
