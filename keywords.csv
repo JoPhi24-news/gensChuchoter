@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ilhan Omar',fr,unknown,#111111,#111111,3,0.522421174650
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.503095339459
 'Nanon Williams',fr,unknown,#111111,#111111,2,0.502793453106
 'Epstein Files',fr,unknown,#111111,#111111,2,0.502595091973
@@ -63,6 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,3,0.445561357315
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444066782960
+'Ilhan Omar',fr,unknown,#111111,#111111,1,0.444058463453
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.441193325982
 'Michele Singer',fr,unknown,#111111,#111111,1,0.440997621951
 'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.440509592569
