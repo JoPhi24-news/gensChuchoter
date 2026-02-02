@@ -1,11 +1,20 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.502081276832
+'Renee Nicole Good',fr,unknown,#111111,#111111,2,0.605758972043
+'Tom Homan',fr,unknown,#111111,#111111,2,0.604505684818
+'Alex Pretti',fr,unknown,#111111,#111111,2,0.602012151611
+'María Corina Machado',fr,unknown,#111111,#111111,2,0.600643203761
+'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.554458148034
+'Romy Reiner',fr,unknown,#111111,#111111,2,0.507909752192
+'Jacob Frey',fr,unknown,#111111,#111111,2,0.507626699259
+'Lisa Müller',fr,unknown,#111111,#111111,2,0.507187807003
+'Jonathan Ross',fr,unknown,#111111,#111111,2,0.503211005800
+'Tim Walz',fr,unknown,#111111,#111111,2,0.502723098962
 'Margaret Brennan',fr,unknown,#111111,#111111,1,0.490931719102
 'Woody Allen',fr,unknown,#111111,#111111,2,0.488421643564
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.482693263777
 'Brigitte Bardot',fr,unknown,#111111,#111111,3,0.482477299012
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.481557550167
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.481465894877
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.481348147130
 'Affaire Epstein',fr,unknown,#111111,#111111,3,0.480194394907
 'Kamel Daoud',fr,unknown,#111111,#111111,2,0.480184375691
 'Renee Good',fr,unknown,#111111,#111111,3,0.479992032576
@@ -27,19 +36,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.470573278695
 'Kristi Noem',fr,unknown,#111111,#111111,3,0.470570317027
 'Delcy Rodríguez',fr,unknown,#111111,#111111,2,0.470071220469
+'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.469802515350
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.469248849151
 'prince Andrew',fr,unknown,#111111,#111111,3,0.467109591244
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.465930439463
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.465764036394
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.464408265358
-'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.462763483659
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.459013546067
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.456843269640
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,3,0.456764818400
 'John Clarke',fr,USA,#18e8e8,#18e8e8,3,0.456207952827
+'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.455562310823
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.455475076842
-'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.454109021560
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453093851415
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
@@ -52,15 +61,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergio Mattarella',fr,Italien,#33dd55,#33dd55,2,0.447946641298
 'Karsten Wildberger',fr,Deutschland,#335599,#335599,2,0.447877483614
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,2,0.447734405841
-'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.446817341324
+'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.447559100471
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,3,0.445561357315
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444066782960
 'Ilhan Omar',fr,unknown,#111111,#111111,1,0.444058463453
+'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.441216188044
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.441193325982
 'Michele Singer',fr,unknown,#111111,#111111,1,0.440997621951
 'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.440509592569
-'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.440461926695
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.440410348011
 'Keir Starmer',fr,unknown,#111111,#111111,2,0.440144647586
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.439185006695
