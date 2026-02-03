@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tom Homan',fr,unknown,#111111,#111111,2,0.604505684818
-'Alex Pretti',fr,unknown,#111111,#111111,2,0.602882638856
+'Alex Pretti',fr,unknown,#111111,#111111,2,0.605903494368
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.600643203761
+'Tom Homan',fr,unknown,#111111,#111111,3,0.598499962865
 'Renee Nicole Good',fr,unknown,#111111,#111111,2,0.560755807146
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.554458148034
 'Jacob Frey',fr,unknown,#111111,#111111,2,0.508247446326
@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Walz',fr,unknown,#111111,#111111,2,0.502723098962
 'Margaret Brennan',fr,unknown,#111111,#111111,1,0.490931719102
 'Woody Allen',fr,unknown,#111111,#111111,2,0.488421643564
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.482693263777
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.486696523788
 'Brigitte Bardot',fr,unknown,#111111,#111111,3,0.482477299012
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.481557550167
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.481465894877
@@ -718,13 +718,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Hanks',fr,unknown,#111111,#111111,1,0.262340707580
 'Jason Whitlock',fr,unknown,#111111,#111111,1,0.261952567552
 'Edward Snowden',fr,USA,#18e8e8,#18e8e8,2,0.261288725915
+'George Floyd',fr,USA,#18e8e8,#18e8e8,1,0.261241539615
 'Shahzada Dawood',fr,Pakistan,#bb33ff,#bb33ff,1,0.261186821097
 'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.261111510838
 'Oisin Fanning',fr,Irland,#4488cc,#4488cc,1,0.261003125000
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.261003125000
 'Jan Lipavský',fr,Tschechien,#44cc88,#44cc88,1,0.261003125000
 'Jacques Doriot',fr,unknown,#111111,#111111,1,0.260549789354
-'George Floyd',fr,USA,#18e8e8,#18e8e8,1,0.260170154167
 'Prinzessin Kate',fr,UK,#e838e8,#e838e8,1,0.260133313674
 'Oleksandr Usyk',fr,unknown,#111111,#111111,1,0.260092471230
 'Noam Chomsky',fr,USA,#18e8e8,#18e8e8,1,0.259804559638
