@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Renee Nicole Good',fr,unknown,#111111,#111111,2,0.560755807146
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.554458148034
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.552247413197
-'Alex Pretti',fr,unknown,#111111,#111111,3,0.524884300385
+'Alex Pretti',fr,unknown,#111111,#111111,3,0.528964085818
+'Renee Nicole Good',fr,unknown,#111111,#111111,2,0.524842443171
 'Tom Homan',fr,unknown,#111111,#111111,2,0.508725943435
 'Jacob Frey',fr,unknown,#111111,#111111,2,0.508247446326
 'Romy Reiner',fr,unknown,#111111,#111111,2,0.507909752192
@@ -10,10 +10,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.503211005800
 'Tim Walz',fr,unknown,#111111,#111111,2,0.502723098962
 'Margaret Brennan',fr,unknown,#111111,#111111,1,0.490931719102
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.489338824500
 'Woody Allen',fr,unknown,#111111,#111111,2,0.488421643564
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.488020314566
+'Renee Good',fr,unknown,#111111,#111111,3,0.482687692503
 'Brigitte Bardot',fr,unknown,#111111,#111111,3,0.482477299012
-'Renee Good',fr,unknown,#111111,#111111,3,0.482015794528
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.481557550167
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.481465894877
 'Affaire Epstein',fr,unknown,#111111,#111111,3,0.480194394907
@@ -314,6 +314,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greg Abbott',fr,USA,#18e8e8,#18e8e8,1,0.346074933839
 'Johann Wadephul',fr,Deutschland,#335599,#335599,1,0.346028311124
 'Lachlan Murdoch',fr,UK,#e838e8,#e838e8,1,0.345718116041
+'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,1,0.345715511842
 'Demi Moore',fr,USA,#18e8e8,#18e8e8,1,0.345631853856
 'François Braun',fr,Frankreich,#e8e808,#e8e808,3,0.345467275335
 'Justin Timberlake',fr,USA,#18e8e8,#18e8e8,2,0.345374834729
@@ -324,7 +325,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charlize Theron',fr,Südafrika,#ee4411,#ee4411,1,0.341717538554
 'Sabrina Carpenter',fr,USA,#18e8e8,#18e8e8,1,0.341480842451
 'Steven Spielberg',fr,USA,#18e8e8,#18e8e8,3,0.341127505629
-'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,1,0.341028622477
 'Gavin Newsom',fr,USA,#18e8e8,#18e8e8,2,0.341023691005
 'Margaret Thatcher',fr,UK,#e838e8,#e838e8,2,0.340914469394
 'Lady Gaga',fr,USA,#18e8e8,#18e8e8,1,0.340731118422
