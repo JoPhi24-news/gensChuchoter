@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Alex Pretti',fr,unknown,#111111,#111111,3,0.528964085818
+'Alex Pretti',fr,unknown,#111111,#111111,3,0.543485857945
 'Renee Nicole Good',fr,unknown,#111111,#111111,2,0.524842443171
 'Tom Homan',fr,unknown,#111111,#111111,2,0.508725943435
 'Jacob Frey',fr,unknown,#111111,#111111,2,0.508247446326
@@ -8,11 +8,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.503211005800
 'Tim Walz',fr,unknown,#111111,#111111,2,0.502723098962
 'Margaret Brennan',fr,unknown,#111111,#111111,1,0.490931719102
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.489996105491
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.490652073882
 'Woody Allen',fr,unknown,#111111,#111111,2,0.488421643564
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
+'Renee Good',fr,unknown,#111111,#111111,3,0.484695353708
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.483486167492
-'Renee Good',fr,unknown,#111111,#111111,3,0.482687692503
 'Brigitte Bardot',fr,unknown,#111111,#111111,3,0.482477299012
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.481557550167
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.481465894877
@@ -78,10 +78,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,3,0.438860213576
 'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.437509123875
 'Bari Weiss',fr,unknown,#111111,#111111,1,0.436838833377
+'Kendrick Lamar',fr,USA,#18e8e8,#18e8e8,1,0.436789154813
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.435928683158
 'Fred Ramsdel',fr,USA,#18e8e8,#18e8e8,1,0.435844606955
 'Nick Reiner',fr,unknown,#111111,#111111,1,0.435616734680
-'Kendrick Lamar',fr,USA,#18e8e8,#18e8e8,1,0.435261738560
 'Usha Vance',fr,unknown,#111111,#111111,1,0.434924441652
 'Charlie Kirk',fr,USA,#18e8e8,#18e8e8,3,0.434658085954
 'Pam Bondi',fr,unknown,#111111,#111111,2,0.434480266287
@@ -220,7 +220,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Narendra Modi',fr,Indien,#995533,#995533,3,0.383643254088
 'Javier Milei',fr,Argentinien,#6622bb,#6622bb,3,0.382570506034
 'Ron Howard',fr,USA,#18e8e8,#18e8e8,1,0.381890005685
-'Billie Eilish',fr,USA,#18e8e8,#18e8e8,2,0.380955663894
+'Billie Eilish',fr,USA,#18e8e8,#18e8e8,2,0.381824051972
 'Jake Paul',fr,USA,#18e8e8,#18e8e8,1,0.379627453276
 'Henry Samuel',fr,USA,#18e8e8,#18e8e8,2,0.379283430693
 'Paul Biya',fr,Kamerun,#2266cc,#2266cc,3,0.378915563375
@@ -307,6 +307,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mindy Kaling',fr,USA,#18e8e8,#18e8e8,1,0.349084638957
 'Gérard Larcher',fr,Frankreich,#e8e808,#e8e808,2,0.348767387982
 'Alex Jones',fr,USA,#18e8e8,#18e8e8,1,0.348594402270
+'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,1,0.348507824954
 'James Biden',fr,USA,#18e8e8,#18e8e8,1,0.347942878043
 'prince Harry',fr,UK,#e838e8,#e838e8,2,0.347243686381
 'Ron Johnson',fr,USA,#18e8e8,#18e8e8,1,0.346868482424
@@ -314,7 +315,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greg Abbott',fr,USA,#18e8e8,#18e8e8,1,0.346074933839
 'Johann Wadephul',fr,Deutschland,#335599,#335599,1,0.346028311124
 'Lachlan Murdoch',fr,UK,#e838e8,#e838e8,1,0.345718116041
-'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,1,0.345715511842
 'Demi Moore',fr,USA,#18e8e8,#18e8e8,1,0.345631853856
 'François Braun',fr,Frankreich,#e8e808,#e8e808,3,0.345467275335
 'Justin Timberlake',fr,USA,#18e8e8,#18e8e8,2,0.345374834729
@@ -782,13 +782,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joschka Fischer',fr,Deutschland,#1818e8,#1818e8,1,0.232448751378
 'Pietro Lombardi',fr,Deutschland,#1818e8,#1818e8,1,0.232433602606
 'Phoebe Bridgers',fr,unknown,#111111,#111111,1,0.229684893207
+'Don Lemon',fr,USA,#18e8e8,#18e8e8,1,0.229640209770
 'Selenskyj',fr,Ukraine,#e818e8,#e818e8,1,0.228601032633
 'Peter Urban',fr,Deutschland,#1818e8,#1818e8,1,0.228356903745
 'Napoleon Bonaparte',fr,Frankreich,#e8e808,#e8e808,1,0.228008432683
 'Jacinda Ardern',fr,Neuseeland,#1818e8,#1818e8,1,0.227560529978
 'Matthias Müller',fr,Deutschland,#1818e8,#1818e8,1,0.226398095213
 'Trevian Kutti',fr,unknown,#111111,#111111,1,0.226381837337
-'Don Lemon',fr,USA,#18e8e8,#18e8e8,1,0.226289709375
 'Steve Doocy',fr,unknown,#111111,#111111,1,0.226101835999
 'Leah McSweeney',fr,unknown,#111111,#111111,1,0.225991347630
 'Jacoby Brissett',fr,unknown,#111111,#111111,1,0.225899398911
