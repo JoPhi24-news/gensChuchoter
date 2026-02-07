@@ -1,9 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tim Walz',fr,unknown,#111111,#111111,3,0.495802148403
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.495207313230
 'Jacob Frey',fr,unknown,#111111,#111111,2,0.495007920110
 'Margaret Brennan',fr,unknown,#111111,#111111,1,0.490931719102
-'Alex Pretti',fr,unknown,#111111,#111111,3,0.489221624143
+'Alex Pretti',fr,unknown,#111111,#111111,3,0.490535341156
 'Renee Good',fr,unknown,#111111,#111111,3,0.488674756381
 'Woody Allen',fr,unknown,#111111,#111111,2,0.488421643564
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
@@ -70,6 +69,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.440509592569
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.440410348011
 'Keir Starmer',fr,unknown,#111111,#111111,2,0.440144647586
+'Tim Walz',fr,unknown,#111111,#111111,3,0.440019959779
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.439185006695
 'Michele Reiner',fr,unknown,#111111,#111111,1,0.439052769510
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.438949308023
