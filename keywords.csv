@@ -1,8 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jacob Frey',fr,unknown,#111111,#111111,2,0.495007920110
+'Peter Mandelson',fr,unknown,#111111,#111111,2,0.504798374765
+'Liveblog USA',fr,unknown,#111111,#111111,2,0.503816611865
+'Venezuelas Übergangspräsidentin',fr,unknown,#111111,#111111,2,0.503440630310
+'Peter Attia',fr,unknown,#111111,#111111,2,0.502922877534
+'Chris Cuomo',fr,unknown,#111111,#111111,2,0.501123850023
+'Todd Blanche',fr,unknown,#111111,#111111,2,0.500171788923
+'Alex Pretti',fr,unknown,#111111,#111111,3,0.491190232624
 'Margaret Brennan',fr,unknown,#111111,#111111,1,0.490931719102
-'Alex Pretti',fr,unknown,#111111,#111111,3,0.490535341156
-'Renee Good',fr,unknown,#111111,#111111,3,0.488674756381
+'Renee Good',fr,unknown,#111111,#111111,3,0.489333363437
 'Woody Allen',fr,unknown,#111111,#111111,2,0.488421643564
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.483486167492
@@ -70,6 +75,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.440410348011
 'Keir Starmer',fr,unknown,#111111,#111111,2,0.440144647586
 'Tim Walz',fr,unknown,#111111,#111111,3,0.440019959779
+'Jacob Frey',fr,unknown,#111111,#111111,2,0.439344955730
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.439185006695
 'Michele Reiner',fr,unknown,#111111,#111111,1,0.439052769510
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.438949308023
