@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Peter Mandelson',fr,unknown,#111111,#111111,2,0.504798374765
+'Peter Mandelson',fr,unknown,#111111,#111111,3,0.530429248550
 'Liveblog USA',fr,unknown,#111111,#111111,2,0.503816611865
 'Venezuelas Übergangspräsidentin',fr,unknown,#111111,#111111,2,0.503440630310
 'Peter Attia',fr,unknown,#111111,#111111,2,0.502922877534
@@ -46,12 +46,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.459013546067
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,2,0.457546364584
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.456843269640
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,3,0.456764818400
 'John Clarke',fr,USA,#18e8e8,#18e8e8,3,0.456207952827
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.455562310823
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.455475076842
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,2,0.454649798951
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453093851415
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
@@ -68,12 +68,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444066782960
 'Ilhan Omar',fr,unknown,#111111,#111111,1,0.444058463453
+'Keir Starmer',fr,unknown,#111111,#111111,2,0.442404855681
 'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.441968967978
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.441193325982
 'Michele Singer',fr,unknown,#111111,#111111,1,0.440997621951
 'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.440509592569
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.440410348011
-'Keir Starmer',fr,unknown,#111111,#111111,2,0.440144647586
 'Tim Walz',fr,unknown,#111111,#111111,3,0.440019959779
 'Jacob Frey',fr,unknown,#111111,#111111,2,0.439344955730
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.439185006695
