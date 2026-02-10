@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Liveblog USA',fr,unknown,#111111,#111111,2,0.503816611865
 'Venezuelas Übergangspräsidentin',fr,unknown,#111111,#111111,2,0.503440630310
 'Peter Attia',fr,unknown,#111111,#111111,2,0.502922877534
 'Chris Cuomo',fr,unknown,#111111,#111111,2,0.501123850023
@@ -139,6 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Dürr',fr,Deutschland,#335599,#335599,1,0.428593246867
 'Daniel Cormier',fr,unknown,#111111,#111111,1,0.428554483793
 'Justin Gaethje',fr,unknown,#111111,#111111,1,0.428501196318
+'Liveblog USA',fr,unknown,#111111,#111111,1,0.428244120085
 'Francis Ngannou',fr,unknown,#111111,#111111,1,0.428233219510
 'Abby Phillip',fr,unknown,#111111,#111111,1,0.428193937791
 'Thomas Massie',fr,unknown,#111111,#111111,2,0.428152571734
