@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Chris Cuomo',fr,unknown,#111111,#111111,2,0.501123850023
 'Todd Blanche',fr,unknown,#111111,#111111,2,0.500171788923
 'Alex Pretti',fr,unknown,#111111,#111111,3,0.491190232624
 'Peter Attia',fr,unknown,#111111,#111111,1,0.491116834518
@@ -158,6 +157,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'László Krasznahorkai',fr,Ungarn,#99aa33,#99aa33,1,0.426324337111
 'Itamar Ben-Gvir',fr,Israel,#3311cc,#3311cc,2,0.426276178250
 'Paddy Pimblett',fr,unknown,#111111,#111111,1,0.426096236820
+'Chris Cuomo',fr,unknown,#111111,#111111,1,0.425955272520
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.425852087747
 'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.425592540113
 'Tig Notaro',fr,USA,#18e8e8,#18e8e8,1,0.425358127032
