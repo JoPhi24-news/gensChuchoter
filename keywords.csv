@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Peter Attia',fr,unknown,#111111,#111111,2,0.502922877534
+'Peter Attia',fr,unknown,#111111,#111111,2,0.577784475904
 'Chris Cuomo',fr,unknown,#111111,#111111,2,0.501123850023
 'Todd Blanche',fr,unknown,#111111,#111111,2,0.500171788923
 'Alex Pretti',fr,unknown,#111111,#111111,3,0.491190232624
 'Margaret Brennan',fr,unknown,#111111,#111111,1,0.490931719102
 'Renee Good',fr,unknown,#111111,#111111,3,0.489333363437
 'Woody Allen',fr,unknown,#111111,#111111,2,0.488421643564
-'Affaire Epstein',fr,unknown,#111111,#111111,3,0.485561059952
+'Affaire Epstein',fr,unknown,#111111,#111111,3,0.486225883321
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.483486167492
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.483005009023
@@ -39,8 +39,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Homan',fr,unknown,#111111,#111111,3,0.468155178318
 'prince Andrew',fr,unknown,#111111,#111111,3,0.467811176715
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.466468295677
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,2,0.466099425114
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.465930439463
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,2,0.465394431582
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.459013546067
