@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Renee Good',fr,unknown,#111111,#111111,3,0.490646634609
 'Affaire Epstein',fr,unknown,#111111,#111111,3,0.490187043636
 'Woody Allen',fr,unknown,#111111,#111111,2,0.488421643564
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
@@ -53,6 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.450813254747
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.450117337975
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.449359088991
+'Renee Good',fr,unknown,#111111,#111111,3,0.449277886690
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.449197570525
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.448299397630
 'Sergio Mattarella',fr,Italien,#33dd55,#33dd55,2,0.447946641298
@@ -224,7 +224,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Keith Kellogg',fr,USA,#18e8e8,#18e8e8,2,0.388230512313
 'Radical Optimism',fr,unknown,#111111,#111111,1,0.384209541779
 'Narendra Modi',fr,Indien,#995533,#995533,3,0.383643254088
-'Billie Eilish',fr,USA,#18e8e8,#18e8e8,2,0.382690823108
+'Billie Eilish',fr,USA,#18e8e8,#18e8e8,2,0.383555978609
 'Javier Milei',fr,Argentinien,#6622bb,#6622bb,3,0.382570506034
 'Ron Howard',fr,USA,#18e8e8,#18e8e8,1,0.381890005685
 'Jake Paul',fr,USA,#18e8e8,#18e8e8,1,0.379627453276
@@ -419,12 +419,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Kardashian',fr,USA,#18e8e8,#18e8e8,2,0.322547572665
 'Sam Asghari',fr,Iran,#1144ee,#1144ee,1,0.322114972836
 'Cara Delevingne',fr,UK,#e838e8,#e838e8,1,0.321870981082
+'Jared Kushner',fr,unknown,#111111,#111111,1,0.321866510688
 'Jeff Ross',fr,USA,#18e8e8,#18e8e8,1,0.321730746221
 'Recep Tayyip Erdogan',fr,Türkei,#66bb22,#66bb22,3,0.321684063222
 'Friederike Otto',fr,Deutschland,#1818e8,#1818e8,1,0.321526066444
 'Omar Sy',fr,Frankreich,#e8e808,#e8e808,1,0.321096750314
 'Steve Jobs',fr,USA,#18e8e8,#18e8e8,2,0.321013605664
-'Jared Kushner',fr,unknown,#111111,#111111,1,0.320891104874
 'Carey Mulligan',fr,UK,#e838e8,#e838e8,1,0.320423043827
 'Robert Menendez',fr,USA,#18e8e8,#18e8e8,1,0.320256326844
 'Jimmy Carter',fr,USA,#18e8e8,#18e8e8,1,0.320030954010
