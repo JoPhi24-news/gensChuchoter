@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Affaire Epstein',fr,unknown,#111111,#111111,3,0.529479922754
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,2,0.491220518606
 'Woody Allen',fr,unknown,#111111,#111111,2,0.488421643564
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.485574340476
@@ -36,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Homan',fr,unknown,#111111,#111111,3,0.468155178318
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.466468295677
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.465930439463
+'Affaire Epstein',fr,unknown,#111111,#111111,3,0.464105533432
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.459013546067
@@ -78,12 +78,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.438269178291
 'Bari Weiss',fr,unknown,#111111,#111111,1,0.436838833377
 'Kendrick Lamar',fr,USA,#18e8e8,#18e8e8,1,0.436789154813
+'Pam Bondi',fr,unknown,#111111,#111111,2,0.436010738747
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.435928683158
 'Fred Ramsdel',fr,USA,#18e8e8,#18e8e8,1,0.435844606955
 'Nick Reiner',fr,unknown,#111111,#111111,1,0.435616734680
 'Usha Vance',fr,unknown,#111111,#111111,1,0.434924441652
 'Charlie Kirk',fr,USA,#18e8e8,#18e8e8,3,0.434658085954
-'Pam Bondi',fr,unknown,#111111,#111111,2,0.434480266287
 'Gerald Darmanin',fr,Frankreich,#e8e808,#e8e808,2,0.434467599199
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.434222998810
 'Andrew Mountbatten-Windsor',fr,unknown,#111111,#111111,1,0.434219710038
