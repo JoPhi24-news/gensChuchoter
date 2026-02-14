@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,2,0.491220518606
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.508860962179
 'Woody Allen',fr,unknown,#111111,#111111,2,0.488421643564
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.485574340476
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
@@ -52,10 +52,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard Robson',fr,Australien,#aa9933,#aa9933,1,0.450946694000
 'Peter Mandelson',fr,unknown,#111111,#111111,2,0.450884604661
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.450117337975
-'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.449359088991
+'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.450095836103
 'Renee Good',fr,unknown,#111111,#111111,3,0.449277886690
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.449197570525
-'Keir Starmer',fr,unknown,#111111,#111111,2,0.448367220103
+'Keir Starmer',fr,unknown,#111111,#111111,2,0.449105923841
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.448299397630
 'Sergio Mattarella',fr,Italien,#33dd55,#33dd55,2,0.447946641298
 'Karsten Wildberger',fr,Deutschland,#335599,#335599,2,0.447877483614
@@ -190,9 +190,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Wright',fr,USA,#18e8e8,#18e8e8,2,0.413317892528
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.413082229489
 'Kamala Harris',fr,USA,#18e8e8,#18e8e8,3,0.412556976738
+'Bruno Le Maire',fr,Frankreich,#e8e808,#e8e808,3,0.411544226879
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,1,0.411385949949
 'John M. Martinis',fr,USA,#18e8e8,#18e8e8,1,0.411102944000
-'Bruno Le Maire',fr,Frankreich,#e8e808,#e8e808,3,0.410732183303
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.410481402036
 'Poutine',fr,Russland,#e81818,#e81818,3,0.410180890096
 'Julia Roberts',fr,USA,#18e8e8,#18e8e8,1,0.409754522170
