@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.508860962179
 'Woody Allen',fr,unknown,#111111,#111111,2,0.488421643564
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.485574340476
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
@@ -7,6 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alex Pretti',fr,unknown,#111111,#111111,3,0.484363500054
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.484343521052
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.483486167492
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.482946308307
 'Brigitte Bardot',fr,unknown,#111111,#111111,3,0.482477299012
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.482097613194
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.481465894877
@@ -24,11 +24,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Bannon',fr,unknown,#111111,#111111,1,0.474725789089
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.473427768050
 'Renee Nicole Good',fr,unknown,#111111,#111111,3,0.473098872617
-'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.471961291160
+'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.472653226334
 'Kristi Noem',fr,unknown,#111111,#111111,3,0.471958341267
+'prince Andrew',fr,unknown,#111111,#111111,3,0.471298234217
 'Delcy Rodríguez',fr,unknown,#111111,#111111,2,0.470766916743
 'Quand Harry',fr,unknown,#111111,#111111,2,0.470763964052
-'prince Andrew',fr,unknown,#111111,#111111,3,0.470603597128
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.469802515350
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.469248849151
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.468628967114
