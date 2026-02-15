@@ -48,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.451547131527
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.451539764963
-'Richard Robson',fr,Australien,#aa9933,#aa9933,1,0.450946694000
 'Peter Mandelson',fr,unknown,#111111,#111111,2,0.450884604661
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.450117337975
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.450095836103
@@ -225,6 +224,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Radical Optimism',fr,unknown,#111111,#111111,1,0.384209541779
 'Narendra Modi',fr,Indien,#995533,#995533,3,0.383643254088
 'Billie Eilish',fr,USA,#18e8e8,#18e8e8,2,0.383555978609
+'Richard Robson',fr,Australien,#aa9933,#aa9933,1,0.383304689900
 'Javier Milei',fr,Argentinien,#6622bb,#6622bb,3,0.382570506034
 'Ron Howard',fr,USA,#18e8e8,#18e8e8,1,0.381890005685
 'Jake Paul',fr,USA,#18e8e8,#18e8e8,1,0.379627453276
