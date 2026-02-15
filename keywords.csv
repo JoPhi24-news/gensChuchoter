@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jean Castex',fr,Frankreich,#e8e808,#e8e808,3,0.492383703248
 'Woody Allen',fr,unknown,#111111,#111111,2,0.488421643564
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.487386736605
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.488047915405
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.485574340476
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
 'Alex Pretti',fr,unknown,#111111,#111111,3,0.484363500054
@@ -137,6 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abby Phillip',fr,unknown,#111111,#111111,1,0.428193937791
 'Thomas Massie',fr,unknown,#111111,#111111,2,0.428152571734
 'Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.428083179568
+'Jean Castex',fr,Frankreich,#e8e808,#e8e808,3,0.428014127761
 'Bruna Caroline Ferreira',fr,unknown,#111111,#111111,2,0.428006351212
 'Venezuelas Übergangspräsidentin',fr,unknown,#111111,#111111,1,0.427924535763
 'Paul Konerko',fr,USA,#18e8e8,#18e8e8,1,0.427902059977
