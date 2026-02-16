@@ -1,4 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Jack Lang',fr,unknown,#111111,#111111,2,0.603883858614
+'laffaire Epstein',fr,unknown,#111111,#111111,2,0.603877859626
+'Juan Pablo Guanipa',fr,unknown,#111111,#111111,2,0.504441106653
+'Casey Wasserman',fr,unknown,#111111,#111111,2,0.503101742684
+'James Carville',fr,unknown,#111111,#111111,2,0.501843642161
+'Howard Lutnick',fr,unknown,#111111,#111111,2,0.501744887826
 'Woody Allen',fr,unknown,#111111,#111111,2,0.488421643564
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.488047915405
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.485574340476
@@ -1018,4 +1024,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volker Wissing',fr,Deutschland,#1818e8,#1818e8,1,0.093007790365
 'Jürgen Grässlin',fr,Deutschland,#1818e8,#1818e8,1,0.092355944176
 'Milo Yiannopoulos',fr,UK,#e838e8,#e838e8,1,0.092038784029
-'Nicola Sturgeon',fr,UK,#e838e8,#e838e8,1,0.091977099947
+'Nicola Sturgeon',fr,UK,#e838e8,#e838e8,1,0.078180534955
