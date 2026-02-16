@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'laffaire Epstein',fr,unknown,#111111,#111111,2,0.604309982341
-'Jack Lang',fr,unknown,#111111,#111111,2,0.550073451640
+'Jack Lang',fr,unknown,#111111,#111111,2,0.550609807187
+'laffaire Epstein',fr,unknown,#111111,#111111,2,0.536798348172
 'Juan Pablo Guanipa',fr,unknown,#111111,#111111,2,0.504441106653
 'Casey Wasserman',fr,unknown,#111111,#111111,2,0.503101742684
 'James Carville',fr,unknown,#111111,#111111,2,0.501843642161
 'Howard Lutnick',fr,unknown,#111111,#111111,2,0.501744887826
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.488707774100
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.489366315225
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.488928763351
 'Woody Allen',fr,unknown,#111111,#111111,2,0.488421643564
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.486283171426
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.485574340476
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
 'Alex Pretti',fr,unknown,#111111,#111111,3,0.484363500054
@@ -51,8 +51,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453093851415
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
+'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.452272206946
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.451547131527
-'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.451539764963
 'Peter Mandelson',fr,unknown,#111111,#111111,2,0.450884604661
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.450117337975
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.450095836103
