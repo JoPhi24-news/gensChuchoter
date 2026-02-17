@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jack Lang',fr,unknown,#111111,#111111,3,0.617435110897
-'laffaire Epstein',fr,unknown,#111111,#111111,2,0.538482885045
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.508110414438
+'Jack Lang',fr,unknown,#111111,#111111,3,0.625228559717
+'laffaire Epstein',fr,unknown,#111111,#111111,2,0.540157418310
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.516675626094
 'Juan Pablo Guanipa',fr,unknown,#111111,#111111,2,0.504441106653
 'Casey Wasserman',fr,unknown,#111111,#111111,2,0.503731529107
 'Howard Lutnick',fr,unknown,#111111,#111111,2,0.502377385144
@@ -34,12 +34,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Delcy Rodríguez',fr,unknown,#111111,#111111,2,0.470766916743
 'Quand Harry',fr,unknown,#111111,#111111,2,0.470763964052
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.469802515350
+'Affaire Epstein',fr,unknown,#111111,#111111,3,0.469726755270
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.469248849151
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.468628967114
 'Tom Homan',fr,unknown,#111111,#111111,3,0.468155178318
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.467872618747
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.465930439463
-'Affaire Epstein',fr,unknown,#111111,#111111,3,0.465519234970
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.460447432309
@@ -137,6 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Dürr',fr,Deutschland,#335599,#335599,1,0.428593246867
 'Daniel Cormier',fr,unknown,#111111,#111111,1,0.428554483793
 'Justin Gaethje',fr,unknown,#111111,#111111,1,0.428501196318
+'Ro Khanna',fr,unknown,#111111,#111111,1,0.428444824561
 'Liveblog USA',fr,unknown,#111111,#111111,1,0.428244120085
 'Francis Ngannou',fr,unknown,#111111,#111111,1,0.428233219510
 'Abby Phillip',fr,unknown,#111111,#111111,1,0.428193937791
@@ -146,7 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruna Caroline Ferreira',fr,unknown,#111111,#111111,2,0.428006351212
 'Venezuelas Übergangspräsidentin',fr,unknown,#111111,#111111,1,0.427924535763
 'Paul Konerko',fr,USA,#18e8e8,#18e8e8,1,0.427902059977
-'Ro Khanna',fr,unknown,#111111,#111111,1,0.427665537423
 'Dan Hooker',fr,unknown,#111111,#111111,1,0.427549166499
 'Francesca Albanese',fr,Italien,#33dd55,#33dd55,2,0.427463404751
 'Nanon Williams',fr,unknown,#111111,#111111,1,0.427374435140
