@@ -1,14 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jack Lang',fr,unknown,#111111,#111111,3,0.625228559717
-'laffaire Epstein',fr,unknown,#111111,#111111,2,0.540157418310
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.516675626094
+'Jack Lang',fr,unknown,#111111,#111111,3,0.600034929396
+'laffaire Epstein',fr,unknown,#111111,#111111,2,0.540713384434
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.520869236428
 'Juan Pablo Guanipa',fr,unknown,#111111,#111111,2,0.504441106653
 'Casey Wasserman',fr,unknown,#111111,#111111,2,0.503731529107
 'Howard Lutnick',fr,unknown,#111111,#111111,2,0.502377385144
 'James Carville',fr,unknown,#111111,#111111,2,0.501843642161
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.491987354793
 'Woody Allen',fr,unknown,#111111,#111111,2,0.488421643564
-'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.486239137336
+'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.486902607171
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
 'Alex Pretti',fr,unknown,#111111,#111111,3,0.484363500054
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.484343521052
@@ -29,12 +29,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.473427768050
 'Renee Nicole Good',fr,unknown,#111111,#111111,3,0.473098872617
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.472653226334
+'prince Andrew',fr,unknown,#111111,#111111,3,0.471991489053
 'Kristi Noem',fr,unknown,#111111,#111111,3,0.471958341267
-'prince Andrew',fr,unknown,#111111,#111111,3,0.471298234217
 'Delcy Rodríguez',fr,unknown,#111111,#111111,2,0.470766916743
 'Quand Harry',fr,unknown,#111111,#111111,2,0.470763964052
+'Affaire Epstein',fr,unknown,#111111,#111111,3,0.470423136785
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.469802515350
-'Affaire Epstein',fr,unknown,#111111,#111111,3,0.469726755270
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.469248849151
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.468628967114
 'Tom Homan',fr,unknown,#111111,#111111,3,0.468155178318
@@ -53,7 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.452279558959
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.452272206946
-'Peter Mandelson',fr,unknown,#111111,#111111,2,0.450884604661
+'Peter Mandelson',fr,unknown,#111111,#111111,2,0.451618340553
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.450117337975
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.450095836103
 'Renee Good',fr,unknown,#111111,#111111,3,0.449277886690
@@ -81,7 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,3,0.438860213576
 'Bari Weiss',fr,unknown,#111111,#111111,1,0.436838833377
 'Kendrick Lamar',fr,USA,#18e8e8,#18e8e8,1,0.436789154813
-'Pam Bondi',fr,unknown,#111111,#111111,2,0.436010738747
+'Pam Bondi',fr,unknown,#111111,#111111,2,0.436773728806
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.435928683158
 'Fred Ramsdel',fr,USA,#18e8e8,#18e8e8,1,0.435844606955
 'Nick Reiner',fr,unknown,#111111,#111111,1,0.435616734680
@@ -139,6 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Gaethje',fr,unknown,#111111,#111111,1,0.428501196318
 'Ro Khanna',fr,unknown,#111111,#111111,1,0.428444824561
 'Liveblog USA',fr,unknown,#111111,#111111,1,0.428244120085
+'Francesca Albanese',fr,Italien,#33dd55,#33dd55,2,0.428243085460
 'Francis Ngannou',fr,unknown,#111111,#111111,1,0.428233219510
 'Abby Phillip',fr,unknown,#111111,#111111,1,0.428193937791
 'Thomas Massie',fr,unknown,#111111,#111111,2,0.428152571734
@@ -148,7 +149,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Venezuelas Übergangspräsidentin',fr,unknown,#111111,#111111,1,0.427924535763
 'Paul Konerko',fr,USA,#18e8e8,#18e8e8,1,0.427902059977
 'Dan Hooker',fr,unknown,#111111,#111111,1,0.427549166499
-'Francesca Albanese',fr,Italien,#33dd55,#33dd55,2,0.427463404751
 'Nanon Williams',fr,unknown,#111111,#111111,1,0.427374435140
 'Sarah Ferguson',fr,unknown,#111111,#111111,1,0.427289916650
 'Epstein Files',fr,unknown,#111111,#111111,1,0.427205858177
