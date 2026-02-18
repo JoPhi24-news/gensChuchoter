@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.521463554409
 'Jack Lang',fr,unknown,#111111,#111111,3,0.520126438864
 'Juan Pablo Guanipa',fr,unknown,#111111,#111111,2,0.504441106653
 'Casey Wasserman',fr,unknown,#111111,#111111,2,0.503731529107
@@ -7,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Carville',fr,unknown,#111111,#111111,2,0.501843642161
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.491987354793
 'Woody Allen',fr,unknown,#111111,#111111,2,0.488421643564
-'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.486902607171
+'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.488225575899
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
 'Alex Pretti',fr,unknown,#111111,#111111,3,0.484363500054
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.484343521052
@@ -30,6 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.472653226334
 'prince Andrew',fr,unknown,#111111,#111111,3,0.471991489053
 'Kristi Noem',fr,unknown,#111111,#111111,3,0.471958341267
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.470932318975
 'Delcy Rodríguez',fr,unknown,#111111,#111111,2,0.470766916743
 'Quand Harry',fr,unknown,#111111,#111111,2,0.470763964052
 'Affaire Epstein',fr,unknown,#111111,#111111,3,0.470423136785
@@ -296,9 +296,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dana White',fr,USA,#18e8e8,#18e8e8,1,0.356671929500
 'Stefanie Hubig',fr,Deutschland,#335599,#335599,1,0.356643147602
 'David Cameron',fr,UK,#e838e8,#e838e8,2,0.356422680523
+'Bill Clinton',fr,USA,#18e8e8,#18e8e8,2,0.355690716403
 'Leo XIV',fr,Vatikan,#dd5544,#dd5544,1,0.355379973169
 'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.354835029890
-'Bill Clinton',fr,USA,#18e8e8,#18e8e8,2,0.354774440798
 'Chris Hemsworth',fr,Australien,#aa9933,#aa9933,1,0.354039349134
 'Cruz Beckham',fr,Spanien,#33aa99,#33aa99,1,0.354013561220
 'Joe Jonas',fr,USA,#18e8e8,#18e8e8,2,0.353613284317
