@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'laffaire Epstein',fr,unknown,#111111,#111111,2,0.540713384434
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.520869236428
-'Jack Lang',fr,unknown,#111111,#111111,3,0.519529449532
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.521463554409
+'Jack Lang',fr,unknown,#111111,#111111,3,0.520126438864
 'Juan Pablo Guanipa',fr,unknown,#111111,#111111,2,0.504441106653
 'Casey Wasserman',fr,unknown,#111111,#111111,2,0.503731529107
 'Howard Lutnick',fr,unknown,#111111,#111111,2,0.502377385144
@@ -36,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Affaire Epstein',fr,unknown,#111111,#111111,3,0.470423136785
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.469802515350
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.469248849151
+'laffaire Epstein',fr,unknown,#111111,#111111,2,0.469105026314
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.468628967114
 'Tom Homan',fr,unknown,#111111,#111111,3,0.468155178318
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.467872618747
