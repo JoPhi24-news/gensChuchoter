@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Juan Pablo Guanipa',fr,unknown,#111111,#111111,2,0.554675045655
 'Casey Wasserman',fr,unknown,#111111,#111111,2,0.503731529107
 'Howard Lutnick',fr,unknown,#111111,#111111,2,0.502377385144
 'James Carville',fr,unknown,#111111,#111111,2,0.501843642161
+'Juan Pablo Guanipa',fr,unknown,#111111,#111111,2,0.497373893807
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.492639346150
 'Woody Allen',fr,unknown,#111111,#111111,2,0.488421643564
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.488225575899
@@ -43,8 +43,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.460447432309
+'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.457731478436
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.457565223040
-'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.457009854884
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,3,0.456764818400
 'John Clarke',fr,USA,#18e8e8,#18e8e8,3,0.456207952827
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.455475076842
