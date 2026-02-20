@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Juan Pablo Guanipa',fr,unknown,#111111,#111111,2,0.497373893807
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.492639346150
 'Woody Allen',fr,unknown,#111111,#111111,2,0.488421643564
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.488225575899
@@ -179,6 +178,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tony Bennett',fr,USA,#18e8e8,#18e8e8,2,0.423854417755
 'Sam Altman',fr,USA,#18e8e8,#18e8e8,3,0.423211637518
 'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,1,0.422898966473
+'Juan Pablo Guanipa',fr,unknown,#111111,#111111,1,0.422767914736
 'Alexander Dobrindt',fr,Deutschland,#335599,#335599,1,0.422011114581
 'Ilia Topuria',fr,unknown,#111111,#111111,1,0.421383988718
 'Brad Pitt',fr,USA,#18e8e8,#18e8e8,3,0.421254713532
