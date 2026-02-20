@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'James Carville',fr,unknown,#111111,#111111,2,0.501843642161
 'Juan Pablo Guanipa',fr,unknown,#111111,#111111,2,0.497373893807
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.492639346150
 'Woody Allen',fr,unknown,#111111,#111111,2,0.488421643564
@@ -155,6 +154,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.427157658078
 'MARGARET BRENNAN',fr,unknown,#111111,#111111,2,0.427133432114
 'Alan Jackson',fr,unknown,#111111,#111111,1,0.426796482495
+'James Carville',fr,unknown,#111111,#111111,1,0.426567095837
 'Mark Kelly',fr,unknown,#111111,#111111,1,0.426393603630
 'David Beckham',fr,UK,#e838e8,#e838e8,2,0.426328808091
 'László Krasznahorkai',fr,Ungarn,#99aa33,#99aa33,1,0.426324337111
