@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Howard Lutnick',fr,unknown,#111111,#111111,3,0.503221392372
 'James Carville',fr,unknown,#111111,#111111,2,0.501843642161
 'Juan Pablo Guanipa',fr,unknown,#111111,#111111,2,0.497373893807
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.492639346150
@@ -148,6 +147,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruna Caroline Ferreira',fr,unknown,#111111,#111111,2,0.428006351212
 'Venezuelas Übergangspräsidentin',fr,unknown,#111111,#111111,1,0.427924535763
 'Paul Konerko',fr,USA,#18e8e8,#18e8e8,1,0.427902059977
+'Howard Lutnick',fr,unknown,#111111,#111111,2,0.427738798516
 'Dan Hooker',fr,unknown,#111111,#111111,1,0.427549166499
 'Nanon Williams',fr,unknown,#111111,#111111,1,0.427374435140
 'Sarah Ferguson',fr,unknown,#111111,#111111,1,0.427289916650
