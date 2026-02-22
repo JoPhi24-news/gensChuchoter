@@ -118,7 +118,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.430466729993
 'Ciryl Gane',fr,unknown,#111111,#111111,1,0.430433435222
 'Robert Kennedy',fr,USA,#18e8e8,#18e8e8,3,0.430353257073
-'Benyamin Netanyahou',fr,Israel,#3311cc,#3311cc,2,0.430234863249
 'Robert de Niro',fr,USA,#18e8e8,#18e8e8,3,0.429991504132
 'Nancy Pelosi',fr,unknown,#111111,#111111,1,0.429824530134
 'Islam Makhachev',fr,unknown,#111111,#111111,1,0.429584561170
@@ -259,6 +258,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles III',fr,UK,#e838e8,#e838e8,3,0.365960659872
 'Nicola Peltz',fr,USA,#18e8e8,#18e8e8,1,0.365934249802
 'Brooklyn Beckham',fr,UK,#e838e8,#e838e8,2,0.365914573202
+'Benyamin Netanyahou',fr,Israel,#3311cc,#3311cc,2,0.365850143762
 'Cheryl Hines',fr,USA,#18e8e8,#18e8e8,1,0.365736904856
 'Alois Rainer',fr,Deutschland,#335599,#335599,1,0.365704405000
 'Taylor Swift',fr,USA,#18e8e8,#18e8e8,2,0.365508157033
