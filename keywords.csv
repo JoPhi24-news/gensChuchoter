@@ -381,7 +381,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ana Navarro',fr,Nicaragua,#5611e5,#5611e5,2,0.330507759653
 'Tom Brady',fr,USA,#18e8e8,#18e8e8,1,0.330488961710
 'Xi Jinping',fr,China,#e88818,#e88818,3,0.330382823696
-'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.330336080337
 'Robert De Niro',fr,USA,#18e8e8,#18e8e8,1,0.330253466333
 'Robert Badinter',fr,Frankreich,#e8e808,#e8e808,1,0.329945436401
 'Rupert Murdoch',fr,USA,#18e8e8,#18e8e8,1,0.329931110852
@@ -670,6 +669,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Sesselmann',fr,Deutschland,#1818e8,#1818e8,1,0.282032648609
 'Queen Elizabeth II',fr,UK,#e838e8,#e838e8,1,0.281499937105
 'Lance Bass',fr,unknown,#111111,#111111,1,0.281267684084
+'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.280785668286
 'Kim Reynolds',fr,unknown,#111111,#111111,1,0.280630958368
 'Cillian Murphy',fr,Irland,#4488cc,#4488cc,3,0.280359390999
 'Mira Murati',fr,Albanien,#1167d4,#1167d4,1,0.280303170491
