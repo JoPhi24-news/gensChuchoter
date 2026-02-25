@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Caroline Lang',fr,unknown,#111111,#111111,3,0.530772032431
 'Noël Barrot',fr,unknown,#111111,#111111,3,0.519583299136
 'James Bond',fr,unknown,#111111,#111111,2,0.509229508771
 'Chappell Roan',fr,unknown,#111111,#111111,2,0.505018513398
@@ -49,6 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.457731478436
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,3,0.456764818400
 'John Clarke',fr,USA,#18e8e8,#18e8e8,3,0.456207952827
+'Caroline Lang',fr,unknown,#111111,#111111,3,0.456108807566
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.455475076842
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.453732752227
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
