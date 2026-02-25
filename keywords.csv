@@ -1,14 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'François Mitterrand',fr,unknown,#111111,#111111,3,0.532090811836
-'Caroline Lang',fr,unknown,#111111,#111111,3,0.530196288007
+'Caroline Lang',fr,unknown,#111111,#111111,3,0.530772032431
 'Noël Barrot',fr,unknown,#111111,#111111,3,0.519583299136
-'James Bond',fr,unknown,#111111,#111111,2,0.508610727103
+'James Bond',fr,unknown,#111111,#111111,2,0.509229508771
 'Chappell Roan',fr,unknown,#111111,#111111,2,0.505018513398
 'Mark Levin',fr,unknown,#111111,#111111,2,0.502966750245
 'Les Wexner',fr,unknown,#111111,#111111,2,0.500720420164
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.498919289196
+'François Mitterrand',fr,unknown,#111111,#111111,3,0.489047066879
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.488225575899
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.486598764473
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.487261516395
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.486341288738
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
 'Affaire Epstein',fr,unknown,#111111,#111111,3,0.484730965362
@@ -44,8 +44,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.462587617670
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
+'Jack Lang',fr,unknown,#111111,#111111,3,0.460377290526
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.458285746763
-'Jack Lang',fr,unknown,#111111,#111111,3,0.458223906447
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.457731478436
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,3,0.456764818400
 'John Clarke',fr,USA,#18e8e8,#18e8e8,3,0.456207952827
@@ -196,10 +196,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benny Blanco',fr,USA,#18e8e8,#18e8e8,2,0.415845566696
 'Guy Ritchie',fr,UK,#e838e8,#e838e8,2,0.415199150832
 'Dua Lipa',fr,UK,#e838e8,#e838e8,2,0.414822397504
+'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.414528438271
 'Chris Wright',fr,USA,#18e8e8,#18e8e8,2,0.413317892528
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.413082229489
 'Kamala Harris',fr,USA,#18e8e8,#18e8e8,3,0.412556976738
-'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.412104891589
 'Bruno Le Maire',fr,Frankreich,#e8e808,#e8e808,3,0.411544226879
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,1,0.411385949949
 'John M. Martinis',fr,USA,#18e8e8,#18e8e8,1,0.411102944000
