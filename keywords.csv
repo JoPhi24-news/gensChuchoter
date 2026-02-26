@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Noël Barrot',fr,unknown,#111111,#111111,3,0.507387714266
 'James Bond',fr,unknown,#111111,#111111,2,0.505977725637
 'Chappell Roan',fr,unknown,#111111,#111111,2,0.505018513398
 'Mark Levin',fr,unknown,#111111,#111111,2,0.502966750245
@@ -44,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
 'Jack Lang',fr,unknown,#111111,#111111,3,0.461092241506
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
+'Noël Barrot',fr,unknown,#111111,#111111,3,0.458961254853
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.458285746763
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.457731478436
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,3,0.456764818400
@@ -766,11 +766,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Washington',fr,USA,#18e8e8,#18e8e8,2,0.249608241513
 'Anne Will',fr,Deutschland,#1818e8,#1818e8,1,0.248951565346
 'Ulrich Reitz',fr,Deutschland,#1818e8,#1818e8,1,0.248413608419
+'Mark Rutte',fr,Niederlande,#ffbb33,#ffbb33,3,0.248048466001
 'Ursula von der Leyen',fr,EU,#88cc44,#88cc44,1,0.247845631095
 'Patrick Mahomes',fr,unknown,#111111,#111111,1,0.247106755661
 'Gérard Biard',fr,Frankreich,#e8e808,#e8e808,1,0.246832408218
 'Jerome Powell',fr,USA,#18e8e8,#18e8e8,3,0.246311349945
-'Mark Rutte',fr,Niederlande,#ffbb33,#ffbb33,3,0.245866348856
 'Wolodimir Selenski',fr,Ukraine,#e818e8,#e818e8,1,0.245568263927
 'König Charles III',fr,UK,#e838e8,#e838e8,1,0.245515969352
 'Robert Nozick',fr,USA,#18e8e8,#18e8e8,1,0.244728661107
