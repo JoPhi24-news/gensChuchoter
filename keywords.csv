@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'James Bond',fr,unknown,#111111,#111111,2,0.509229508771
 'Noël Barrot',fr,unknown,#111111,#111111,3,0.507387714266
+'James Bond',fr,unknown,#111111,#111111,2,0.505977725637
 'Chappell Roan',fr,unknown,#111111,#111111,2,0.505018513398
 'Mark Levin',fr,unknown,#111111,#111111,2,0.502966750245
 'Les Wexner',fr,unknown,#111111,#111111,2,0.500720420164
@@ -15,8 +15,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.484155131805
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.483480854615
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.483439742533
+'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.482541799493
 'Brigitte Bardot',fr,unknown,#111111,#111111,3,0.482477299012
-'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.481869609893
 'Dick Cheney',fr,USA,#18e8e8,#18e8e8,2,0.479439419594
 'Larry Summers',fr,unknown,#111111,#111111,3,0.479270656092
 'Cilia Flores',fr,unknown,#111111,#111111,3,0.478358541666
@@ -105,6 +105,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Susumu Kitagawa',fr,Japan,#33aa99,#33aa99,1,0.432776572270
 'Joy Reid',fr,unknown,#111111,#111111,1,0.432760259415
 'Scott Jennings',fr,unknown,#111111,#111111,1,0.432648526862
+'Callum Turner',fr,UK,#e838e8,#e838e8,2,0.432287509905
 'Ian Machado Garry',fr,unknown,#111111,#111111,1,0.432253222026
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.432222190609
 'Joe Rogan',fr,unknown,#111111,#111111,1,0.432100059933
@@ -121,7 +122,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lisa Müller',fr,unknown,#111111,#111111,1,0.431109635953
 'Arman Tsarukyan',fr,unknown,#111111,#111111,1,0.430885991557
 'Omar Yaghi',fr,Jordanien,#335588,#335588,2,0.430819754240
-'Callum Turner',fr,UK,#e838e8,#e838e8,2,0.430742441075
 'Nawaz Sharif',fr,Pakistan,#bb33ff,#bb33ff,2,0.430631873479
 'Bruna Ferreira',fr,unknown,#111111,#111111,2,0.430626612059
 'Ciryl Gane',fr,unknown,#111111,#111111,1,0.430433435222
@@ -378,11 +378,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gisele Bündchen',fr,Brasilien,#58e838,#58e838,1,0.332433752749
 'Barry Keoghan',fr,Irland,#4488cc,#4488cc,2,0.332386876959
 'Mike Johnson',fr,USA,#18e8e8,#18e8e8,2,0.332234079533
+'Indiana Jones',fr,USA,#18e8e8,#18e8e8,2,0.331941531932
 'Bronny James',fr,USA,#18e8e8,#18e8e8,2,0.331677759062
 'Benny Safdie',fr,USA,#18e8e8,#18e8e8,1,0.331175149671
 'Nathalie Emmanuel',fr,UK,#e838e8,#e838e8,2,0.331128240213
 'Mick Jagger',fr,UK,#e838e8,#e838e8,1,0.331041609624
-'Indiana Jones',fr,USA,#18e8e8,#18e8e8,2,0.330983367684
 'Maria Bartiromo',fr,USA,#18e8e8,#18e8e8,1,0.330980983348
 'Ana Navarro',fr,Nicaragua,#5611e5,#5611e5,2,0.330507759653
 'Tom Brady',fr,USA,#18e8e8,#18e8e8,1,0.330488961710
