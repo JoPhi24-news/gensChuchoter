@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.575206364970
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.507526383861
 'Les Wexner',fr,unknown,#111111,#111111,2,0.500720420164
 'Affaire Epstein',fr,unknown,#111111,#111111,3,0.498451074126
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.494213647044
@@ -18,17 +18,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chappell Roan',fr,unknown,#111111,#111111,3,0.478914069680
 'Cilia Flores',fr,unknown,#111111,#111111,3,0.478358541666
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.477607550974
+'laffaire Epstein',fr,unknown,#111111,#111111,2,0.477385409817
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,3,0.477146759281
-'laffaire Epstein',fr,unknown,#111111,#111111,2,0.476702918395
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.476563708010
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.476092291124
 'Andrew Windsor',fr,unknown,#111111,#111111,1,0.475757348780
 'Steve Bannon',fr,unknown,#111111,#111111,1,0.475412219651
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.474116783697
 'Renee Nicole Good',fr,unknown,#111111,#111111,3,0.473098872617
+'prince Andrew',fr,unknown,#111111,#111111,3,0.472683364119
 'reine Mathilde',fr,unknown,#111111,#111111,2,0.472107469267
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.472052201439
-'prince Andrew',fr,unknown,#111111,#111111,3,0.471991489053
 'Kristi Noem',fr,unknown,#111111,#111111,3,0.471958341267
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.471193591869
 'Delcy Rodríguez',fr,unknown,#111111,#111111,2,0.470766916743
@@ -48,8 +48,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Clarke',fr,USA,#18e8e8,#18e8e8,3,0.456207952827
 'Caroline Lang',fr,unknown,#111111,#111111,3,0.456108807566
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.455475076842
+'Peter Mandelson',fr,unknown,#111111,#111111,2,0.455265330445
 'James Bond',fr,unknown,#111111,#111111,3,0.453836437246
-'Peter Mandelson',fr,unknown,#111111,#111111,2,0.453810862946
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.453732752227
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453093851415
