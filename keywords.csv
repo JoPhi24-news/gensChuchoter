@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.507526383861
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.576837201282
 'Les Wexner',fr,unknown,#111111,#111111,2,0.500720420164
-'Affaire Epstein',fr,unknown,#111111,#111111,3,0.498451074126
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.494213647044
-'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.491509952220
+'Affaire Epstein',fr,unknown,#111111,#111111,3,0.499727953905
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.494861191224
+'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.492162897133
 'François Mitterrand',fr,unknown,#111111,#111111,3,0.489047066879
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.487261516395
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.487922945197
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
 'Alex Pretti',fr,unknown,#111111,#111111,3,0.484363500054
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.484155131805
@@ -17,8 +17,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dick Cheney',fr,USA,#18e8e8,#18e8e8,2,0.479439419594
 'Chappell Roan',fr,unknown,#111111,#111111,3,0.478914069680
 'Cilia Flores',fr,unknown,#111111,#111111,3,0.478358541666
+'laffaire Epstein',fr,unknown,#111111,#111111,2,0.478066541057
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.477607550974
-'laffaire Epstein',fr,unknown,#111111,#111111,2,0.477385409817
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,3,0.477146759281
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.476563708010
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.476092291124
@@ -38,8 +38,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Homan',fr,unknown,#111111,#111111,3,0.468155178318
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.465930439463
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.462587617670
+'Jack Lang',fr,unknown,#111111,#111111,3,0.462517892418
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
-'Jack Lang',fr,unknown,#111111,#111111,3,0.461092241506
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
 'Noël Barrot',fr,unknown,#111111,#111111,3,0.458961254853
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.458285746763
@@ -49,8 +49,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caroline Lang',fr,unknown,#111111,#111111,3,0.456108807566
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.455475076842
 'Peter Mandelson',fr,unknown,#111111,#111111,2,0.455265330445
+'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.454460860255
 'James Bond',fr,unknown,#111111,#111111,3,0.453836437246
-'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.453732752227
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453093851415
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
@@ -59,17 +59,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.450095836103
 'Keir Starmer',fr,unknown,#111111,#111111,2,0.449843170456
 'Renee Good',fr,unknown,#111111,#111111,3,0.449277886690
+'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.449270386107
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.449197570525
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.448299397630
 'Sergio Mattarella',fr,Italien,#33dd55,#33dd55,2,0.447946641298
 'Karsten Wildberger',fr,Deutschland,#335599,#335599,2,0.447877483614
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,2,0.447734405841
-'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.446308108271
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,3,0.445561357315
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
+'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.444296156607
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444066782960
 'Ilhan Omar',fr,unknown,#111111,#111111,1,0.444058463453
-'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.443547960489
 'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.443470092656
 'Francesca Albanese',fr,Italien,#33dd55,#33dd55,2,0.442019771448
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.441946150828
@@ -166,6 +166,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paddy Pimblett',fr,unknown,#111111,#111111,1,0.426096236820
 'Chris Cuomo',fr,unknown,#111111,#111111,1,0.425955272520
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.425852087747
+'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.425654334450
 'Tig Notaro',fr,USA,#18e8e8,#18e8e8,1,0.425358127032
 'Mary Brunkow',fr,USA,#18e8e8,#18e8e8,1,0.425347780013
 'Valentina Shevchenko',fr,unknown,#111111,#111111,1,0.425271915252
@@ -196,7 +197,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benny Blanco',fr,USA,#18e8e8,#18e8e8,2,0.415845566696
 'Dua Lipa',fr,UK,#e838e8,#e838e8,2,0.415626570686
 'Guy Ritchie',fr,UK,#e838e8,#e838e8,2,0.415199150832
-'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.414528438271
 'Chris Wright',fr,USA,#18e8e8,#18e8e8,2,0.413317892528
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.413082229489
 'Kamala Harris',fr,USA,#18e8e8,#18e8e8,3,0.412556976738
@@ -245,6 +245,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Al Nassr',fr,SaudiArabien,#22bb66,#22bb66,2,0.378163616220
 'Valérie Hayer',fr,Frankreich,#e8e808,#e8e808,1,0.378096161881
 'Michel H. Devoret',fr,USA,#18e8e8,#18e8e8,1,0.376536656136
+'Bill Clinton',fr,USA,#18e8e8,#18e8e8,2,0.376312375060
 'Eric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.376252016044
 'George Miller',fr,Australien,#aa9933,#aa9933,2,0.376093231959
 'Nancy Mace',fr,unknown,#111111,#111111,2,0.374976925038
@@ -253,7 +254,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Lindner',fr,Deutschland,#1818e8,#1818e8,3,0.372181692859
 'William Friedkin',fr,USA,#18e8e8,#18e8e8,2,0.369946252027
 'Jimmy Kimmel',fr,USA,#18e8e8,#18e8e8,2,0.369400039288
-'Bill Clinton',fr,USA,#18e8e8,#18e8e8,2,0.369237753745
 'Kara Hurst',fr,USA,#18e8e8,#18e8e8,1,0.368475000000
 'Gervonta Davis',fr,USA,#18e8e8,#18e8e8,1,0.368458726253
 'Victoria Beckham',fr,UK,#e838e8,#e838e8,1,0.368275491746
