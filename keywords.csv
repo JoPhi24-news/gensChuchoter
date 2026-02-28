@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.576124176397
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.526487996756
 'Les Wexner',fr,unknown,#111111,#111111,2,0.500720420164
-'Affaire Epstein',fr,unknown,#111111,#111111,3,0.493292174547
+'Affaire Epstein',fr,unknown,#111111,#111111,3,0.493941559511
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.491610483196
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.490855700576
 'François Mitterrand',fr,unknown,#111111,#111111,3,0.489047066879
@@ -23,8 +23,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.476092291124
 'Andrew Windsor',fr,unknown,#111111,#111111,1,0.475757348780
 'Steve Bannon',fr,unknown,#111111,#111111,1,0.475412219651
+'laffaire Epstein',fr,unknown,#111111,#111111,2,0.474647258004
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.474116783697
-'laffaire Epstein',fr,unknown,#111111,#111111,2,0.473269970982
 'Renee Nicole Good',fr,unknown,#111111,#111111,3,0.473098872617
 'reine Mathilde',fr,unknown,#111111,#111111,2,0.472107469267
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.472052201439
@@ -52,8 +52,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.453732752227
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453093851415
+'Peter Mandelson',fr,unknown,#111111,#111111,2,0.453081467336
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
-'Peter Mandelson',fr,unknown,#111111,#111111,2,0.452350627326
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.452279558959
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.450117337975
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.450095836103
@@ -802,11 +802,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pietro Lombardi',fr,Deutschland,#1818e8,#1818e8,1,0.232433602606
 'Phoebe Bridgers',fr,unknown,#111111,#111111,1,0.229684893207
 'Don Lemon',fr,USA,#18e8e8,#18e8e8,1,0.229640209770
+'Bill Gates',fr,USA,#18e8e8,#18e8e8,3,0.229167398092
 'Selenskyj',fr,Ukraine,#e818e8,#e818e8,1,0.228601032633
 'Peter Urban',fr,Deutschland,#1818e8,#1818e8,1,0.228356903745
 'Napoleon Bonaparte',fr,Frankreich,#e8e808,#e8e808,1,0.228008432683
 'Jacinda Ardern',fr,Neuseeland,#1818e8,#1818e8,1,0.227560529978
-'Bill Gates',fr,USA,#18e8e8,#18e8e8,3,0.226933952219
 'Matthias Müller',fr,Deutschland,#1818e8,#1818e8,1,0.226398095213
 'Trevian Kutti',fr,unknown,#111111,#111111,1,0.226381837337
 'Steve Doocy',fr,unknown,#111111,#111111,1,0.226101835999
