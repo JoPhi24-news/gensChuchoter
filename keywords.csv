@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Les Wexner',fr,unknown,#111111,#111111,2,0.521762597139
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.499767457799
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.500403905995
 'Affaire Epstein',fr,unknown,#111111,#111111,3,0.499727953905
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.494861191224
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.493464876933
@@ -48,6 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Clarke',fr,USA,#18e8e8,#18e8e8,3,0.456207952827
 'Caroline Lang',fr,unknown,#111111,#111111,3,0.456108807566
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.455475076842
+'Les Wexner',fr,unknown,#111111,#111111,2,0.455273447568
 'Peter Mandelson',fr,unknown,#111111,#111111,2,0.455265330445
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.454460860255
 'James Bond',fr,unknown,#111111,#111111,3,0.453836437246
