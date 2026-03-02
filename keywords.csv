@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Affaire Epstein',fr,unknown,#111111,#111111,3,0.500364481030
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.495507441779
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.493464876933
 'François Mitterrand',fr,unknown,#111111,#111111,3,0.489047066879
@@ -13,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.482541799493
 'Brigitte Bardot',fr,unknown,#111111,#111111,3,0.482477299012
 'Dick Cheney',fr,USA,#18e8e8,#18e8e8,2,0.479439419594
+'laffaire Epstein',fr,unknown,#111111,#111111,2,0.479424733024
 'Chappell Roan',fr,unknown,#111111,#111111,3,0.478914069680
-'laffaire Epstein',fr,unknown,#111111,#111111,2,0.478746314623
 'Cilia Flores',fr,unknown,#111111,#111111,3,0.478358541666
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.477607550974
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,3,0.477146759281
@@ -23,8 +22,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.476092291124
 'Andrew Windsor',fr,unknown,#111111,#111111,1,0.475757348780
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.474116783697
+'prince Andrew',fr,unknown,#111111,#111111,3,0.474062984886
 'Renee Nicole Good',fr,unknown,#111111,#111111,3,0.473098872617
-'prince Andrew',fr,unknown,#111111,#111111,3,0.472683364119
 'reine Mathilde',fr,unknown,#111111,#111111,2,0.472107469267
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.472052201439
 'Kristi Noem',fr,unknown,#111111,#111111,3,0.471958341267
@@ -45,15 +44,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,3,0.456764818400
 'John Clarke',fr,USA,#18e8e8,#18e8e8,3,0.456207952827
 'Caroline Lang',fr,unknown,#111111,#111111,3,0.456108807566
+'Peter Mandelson',fr,unknown,#111111,#111111,2,0.455990407088
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.455776369316
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.455475076842
 'Les Wexner',fr,unknown,#111111,#111111,2,0.455273447568
-'Peter Mandelson',fr,unknown,#111111,#111111,2,0.455265330445
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.454460860255
 'James Bond',fr,unknown,#111111,#111111,3,0.453836437246
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.453595550096
+'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.453670151863
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453093851415
-'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.452940477569
+'Affaire Epstein',fr,unknown,#111111,#111111,3,0.452996711603
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.452279558959
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.450117337975
@@ -262,8 +262,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jennifer Garner',fr,USA,#18e8e8,#18e8e8,2,0.367533489993
 'Olivia Nuzzi',fr,USA,#18e8e8,#18e8e8,1,0.367079183712
 'Jon Jones',fr,USA,#18e8e8,#18e8e8,1,0.366930863077
+'Charles III',fr,UK,#e838e8,#e838e8,3,0.366856687191
 'Sarah Stier',fr,unknown,#111111,#111111,1,0.366300418412
-'Charles III',fr,UK,#e838e8,#e838e8,3,0.365960659872
 'Nicola Peltz',fr,USA,#18e8e8,#18e8e8,1,0.365934249802
 'Brooklyn Beckham',fr,UK,#e838e8,#e838e8,2,0.365914573202
 'Benyamin Netanyahou',fr,Israel,#3311cc,#3311cc,2,0.365850143762
