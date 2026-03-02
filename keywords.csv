@@ -1,5 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.495507441779
+'Claire Legendre',fr,unknown,#111111,#111111,2,0.609023011785
+'Fabrice Aidan',fr,unknown,#111111,#111111,2,0.603350402474
+'Quentin Deranque',fr,unknown,#111111,#111111,2,0.601098975203
+'Leslie Wexner',fr,unknown,#111111,#111111,2,0.509029033795
+'Conan O’Brien',fr,unknown,#111111,#111111,2,0.504914441830
+'Alexandria Ocasio-Cortez',fr,unknown,#111111,#111111,2,0.504853064813
+'Nathan Hochman',fr,unknown,#111111,#111111,2,0.502612434376
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.493464876933
 'François Mitterrand',fr,unknown,#111111,#111111,3,0.489047066879
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.487922945197
@@ -11,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.483439742533
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.482541799493
 'Brigitte Bardot',fr,unknown,#111111,#111111,3,0.482477299012
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.480725320058
 'Dick Cheney',fr,USA,#18e8e8,#18e8e8,2,0.479439419594
 'laffaire Epstein',fr,unknown,#111111,#111111,2,0.479424733024
 'Chappell Roan',fr,unknown,#111111,#111111,3,0.478914069680
@@ -30,8 +37,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.471193591869
 'Delcy Rodríguez',fr,unknown,#111111,#111111,2,0.470766916743
 'Quand Harry',fr,unknown,#111111,#111111,2,0.470763964052
+'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.469327531976
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.469248849151
-'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.468628967114
 'Tom Homan',fr,unknown,#111111,#111111,3,0.468155178318
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.465930439463
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.462587617670
@@ -227,7 +234,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecornu II ',fr,Frankreich,#e8e808,#e8e808,2,0.393526249874
 'Sebastien Lecornu',fr,Frankreich,#e8e808,#e8e808,1,0.393437412777
 'Mohammad Mustafa',fr,Palestina,#ee4488,#ee4488,2,0.392247018398
-'Bernie Sanders',fr,USA,#18e8e8,#18e8e8,1,0.390605511533
+'Bernie Sanders',fr,USA,#18e8e8,#18e8e8,1,0.391455837637
 'Bärbel Bas',fr,Deutschland,#335599,#335599,1,0.390052427513
 'Cristiano Ronaldo',fr,Portugal,#339933,#339933,3,0.389672583624
 'Tom Aspinall',fr,UK,#e838e8,#e838e8,1,0.388586259093
