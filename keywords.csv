@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Quentin Deranque',fr,unknown,#111111,#111111,3,0.655702221418
+'Quentin Deranque',fr,unknown,#111111,#111111,3,0.585596793205
 'Fabrice Aidan',fr,unknown,#111111,#111111,2,0.564523742103
 'Claire Legendre',fr,unknown,#111111,#111111,1,0.517669875017
 'Leslie Wexner',fr,unknown,#111111,#111111,2,0.509029033795
@@ -63,7 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453093851415
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.452279558959
-'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.450707448431
+'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.452174170138
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.450117337975
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.450095836103
 'Keir Starmer',fr,unknown,#111111,#111111,2,0.449843170456
