@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Claire Legendre',fr,unknown,#111111,#111111,3,0.521741137336
 'Quentin Deranque',fr,unknown,#111111,#111111,3,0.511810588315
 'Leslie Wexner',fr,unknown,#111111,#111111,2,0.509029033795
 'Conan O’Brien',fr,unknown,#111111,#111111,2,0.504914441830
@@ -78,6 +77,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444066782960
 'Ilhan Omar',fr,unknown,#111111,#111111,1,0.444058463453
+'Claire Legendre',fr,unknown,#111111,#111111,2,0.443480281736
 'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.443470092656
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.442720622540
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.442697496453
