@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Fabrice Aidan',fr,unknown,#111111,#111111,3,0.578340525232
 'Claire Legendre',fr,unknown,#111111,#111111,1,0.517669875017
 'Quentin Deranque',fr,unknown,#111111,#111111,3,0.511810588315
 'Leslie Wexner',fr,unknown,#111111,#111111,2,0.509029033795
 'Conan O’Brien',fr,unknown,#111111,#111111,2,0.504914441830
 'Alexandria Ocasio-Cortez',fr,unknown,#111111,#111111,2,0.504853064813
 'Nathan Hochman',fr,unknown,#111111,#111111,2,0.502612434376
+'Fabrice Aidan',fr,unknown,#111111,#111111,3,0.501077846447
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.493464876933
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.491863874519
 'François Mitterrand',fr,unknown,#111111,#111111,3,0.489047066879
@@ -17,8 +17,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.483439742533
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.482541799493
 'Brigitte Bardot',fr,unknown,#111111,#111111,3,0.482477299012
+'laffaire Epstein',fr,unknown,#111111,#111111,2,0.481451882373
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.481399792148
-'laffaire Epstein',fr,unknown,#111111,#111111,2,0.480777514384
 'Dick Cheney',fr,USA,#18e8e8,#18e8e8,2,0.479439419594
 'Chappell Roan',fr,unknown,#111111,#111111,3,0.478914069680
 'Cilia Flores',fr,unknown,#111111,#111111,3,0.478358541666
