@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Leslie Wexner',fr,unknown,#111111,#111111,2,0.509029033795
 'Conan O’Brien',fr,unknown,#111111,#111111,2,0.504914441830
 'Alexandria Ocasio-Cortez',fr,unknown,#111111,#111111,2,0.504853064813
 'Nathan Hochman',fr,unknown,#111111,#111111,2,0.502612434376
@@ -41,7 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Homan',fr,unknown,#111111,#111111,3,0.468155178318
 'Noël Barrot',fr,unknown,#111111,#111111,3,0.467480992615
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.465930439463
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.463662658657
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.464371091253
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.462587617670
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
@@ -72,6 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergio Mattarella',fr,Italien,#33dd55,#33dd55,2,0.447946641298
 'Karsten Wildberger',fr,Deutschland,#335599,#335599,2,0.447877483614
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,2,0.447734405841
+'Leslie Wexner',fr,unknown,#111111,#111111,2,0.446163335264
 'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.445788134876
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,3,0.445561357315
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
