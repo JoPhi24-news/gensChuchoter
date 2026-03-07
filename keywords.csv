@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.521056610863
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.556957013324
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.493464876933
 'François Mitterrand',fr,unknown,#111111,#111111,3,0.489047066879
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
@@ -64,11 +64,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.449197570525
 'Quentin Deranque',fr,unknown,#111111,#111111,3,0.449092689159
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.448299397630
+'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.448015101839
 'Sergio Mattarella',fr,Italien,#33dd55,#33dd55,2,0.447946641298
 'Karsten Wildberger',fr,Deutschland,#335599,#335599,2,0.447877483614
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,2,0.447734405841
 'Leslie Wexner',fr,unknown,#111111,#111111,2,0.446163335264
-'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.445788134876
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,3,0.445561357315
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444066782960
@@ -188,8 +188,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Iyad al-Rantisi',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Adnan al-Burj',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'John Martinis',fr,USA,#18e8e8,#18e8e8,1,0.424888280759
+'Sam Altman',fr,USA,#18e8e8,#18e8e8,3,0.423999583229
 'Tony Bennett',fr,USA,#18e8e8,#18e8e8,2,0.423854417755
-'Sam Altman',fr,USA,#18e8e8,#18e8e8,3,0.423211637518
 'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,1,0.422898966473
 'Juan Pablo Guanipa',fr,unknown,#111111,#111111,1,0.422767914736
 'Alexander Dobrindt',fr,Deutschland,#335599,#335599,1,0.422011114581
@@ -762,7 +762,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ivanka Trump',fr,unknown,#111111,#111111,1,0.257486638313
 'Joey Fatone',fr,unknown,#111111,#111111,1,0.257431835468
 'Alvin Bragg',fr,USA,#18e8e8,#18e8e8,1,0.256935814183
-'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,3,0.255723802733
+'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,3,0.256801636888
 'Jair Bolsonaro',fr,Brasilien,#58e838,#58e848,3,0.255491627554
 'Willy Brandt',fr,Deutschland,#1818e8,#1818e8,1,0.254272689006
 'Markus Söder',fr,Deutschland,#1818e8,#1818e8,1,0.253983484564
