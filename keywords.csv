@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.494319741354
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.493464876933
 'François Mitterrand',fr,unknown,#111111,#111111,3,0.489047066879
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
@@ -177,6 +176,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tig Notaro',fr,USA,#18e8e8,#18e8e8,1,0.425358127032
 'Mary Brunkow',fr,USA,#18e8e8,#18e8e8,1,0.425347780013
 'Valentina Shevchenko',fr,unknown,#111111,#111111,1,0.425271915252
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.425139990151
 'Élisabeth Borne',fr,Frankreich,#e8e808,#e8e808,3,0.425097684657
 'Zack Snyder',fr,USA,#18e8e8,#18e8e8,1,0.425026070982
 'Laura Loomer',fr,USA,#18e8e8,#18e8e8,1,0.425000420000
