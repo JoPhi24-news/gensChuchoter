@@ -1,20 +1,25 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.502053200698
+'Ali Khamenei',fr,unknown,#111111,#111111,2,0.609529432090
+'Charles Kushner',fr,unknown,#111111,#111111,2,0.608651211046
+'Maud Bregeon',fr,unknown,#111111,#111111,2,0.604158376901
+'Raphaël Arnault',fr,unknown,#111111,#111111,2,0.603775695631
+'Michelle Reiner',fr,unknown,#111111,#111111,2,0.507327637751
+'Kash Patel',fr,unknown,#111111,#111111,2,0.501458953367
 'François Mitterrand',fr,unknown,#111111,#111111,3,0.489047066879
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.486083569710
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.486747350090
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.485442910574
 'Alex Pretti',fr,unknown,#111111,#111111,3,0.484363500054
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.484155131805
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.484149829529
+'laffaire Epstein',fr,unknown,#111111,#111111,2,0.484135928515
 'Larry Summers',fr,unknown,#111111,#111111,3,0.483983990102
-'laffaire Epstein',fr,unknown,#111111,#111111,2,0.483466925807
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.482541799493
 'Brigitte Bardot',fr,unknown,#111111,#111111,3,0.482477299012
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.480281809878
 'Dick Cheney',fr,USA,#18e8e8,#18e8e8,2,0.479439419594
 'Chappell Roan',fr,unknown,#111111,#111111,3,0.478914069680
 'Cilia Flores',fr,unknown,#111111,#111111,3,0.478358541666
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.478247633149
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.477607550974
 'prince Andrew',fr,unknown,#111111,#111111,3,0.477488065184
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,3,0.477146759281
@@ -37,6 +42,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Homan',fr,unknown,#111111,#111111,3,0.468155178318
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.465930439463
 'Affaire Epstein',fr,unknown,#111111,#111111,3,0.465910128314
+'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.463515397411
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.462587617670
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
@@ -242,10 +248,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Narendra Modi',fr,Indien,#995533,#995533,3,0.385368397764
 'Billie Eilish',fr,USA,#18e8e8,#18e8e8,2,0.384419519802
 'Radical Optimism',fr,unknown,#111111,#111111,1,0.384209541779
+'Bill Clinton',fr,USA,#18e8e8,#18e8e8,2,0.384147070036
 'Richard Robson',fr,Australien,#aa9933,#aa9933,1,0.383304689900
 'Javier Milei',fr,Argentinien,#6622bb,#6622bb,3,0.382570506034
 'Ron Howard',fr,USA,#18e8e8,#18e8e8,1,0.381890005685
-'Bill Clinton',fr,USA,#18e8e8,#18e8e8,2,0.381550072448
 'Jake Paul',fr,USA,#18e8e8,#18e8e8,1,0.379627453276
 'Henry Samuel',fr,USA,#18e8e8,#18e8e8,2,0.379283430693
 'Paul Biya',fr,Kamerun,#2266cc,#2266cc,3,0.378915563375
@@ -791,11 +797,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stefan Rahmstorf',fr,Deutschland,#1818e8,#1818e8,1,0.240538893344
 'Melinda Gates',fr,USA,#18e8e8,#18e8e8,2,0.239445180794
 'Papst Benedikt XVI',fr,Vatikan,#58b8e8,#58b8e8,2,0.238271904683
+'Bill Gates',fr,USA,#18e8e8,#18e8e8,3,0.238042047475
 'Joseph Ratzinger',fr,Vatikan,#58b8e8,#58b8e8,1,0.238018838372
 'Michael Cohen',fr,USA,#18e8e8,#18e8e8,2,0.237648911794
 'Justin Trudeau',fr,Kanada,#55ee33,#55ee33,3,0.237319103729
 'Wolfgang Kubicki',fr,Deutschland,#1818e8,#1818e8,1,0.236949998009
-'Bill Gates',fr,USA,#18e8e8,#18e8e8,3,0.236937930287
 'Reed Richards',fr,unknown,#111111,#111111,1,0.236837359268
 'John Paul II',fr,Vatikan,#58b8e8,#58b8e8,1,0.236790276367
 'Robert Habeck',fr,Deutschland,#1818e8,#1818e8,3,0.236752309866
