@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ali Khamenei',fr,unknown,#111111,#111111,2,0.609529432090
+'Ali Khamenei',fr,unknown,#111111,#111111,3,0.641240175458
 'Charles Kushner',fr,unknown,#111111,#111111,2,0.608651211046
 'Maud Bregeon',fr,unknown,#111111,#111111,2,0.604158376901
 'Raphaël Arnault',fr,unknown,#111111,#111111,2,0.603775695631
 'Michelle Reiner',fr,unknown,#111111,#111111,2,0.507327637751
 'Kash Patel',fr,unknown,#111111,#111111,2,0.501458953367
 'François Mitterrand',fr,unknown,#111111,#111111,3,0.489047066879
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.486747350090
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.487409805385
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.485442910574
 'Alex Pretti',fr,unknown,#111111,#111111,3,0.484363500054
@@ -299,11 +299,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Della Maddalena',fr,unknown,#111111,#111111,1,0.362991420606
 'Suleika Jaouad',fr,USA,#18e8e8,#18e8e8,1,0.362871379895
 'Omar M. Yaghi',fr,USA,#18e8e8,#18e8e8,1,0.362652655250
+'Abraham Lincoln',fr,USA,#18e8e8,#18e8e8,1,0.362191508241
 'Curtis Yarvin',fr,USA,#18e8e8,#18e8e8,1,0.362101087888
 'Karol G',fr,Kolumbien,#dd5533,#dd5533,1,0.361888744282
 'George Santos',fr,USA,#18e8e8,#18e8e8,2,0.361764971186
 'Jake Reiner',fr,unknown,#111111,#111111,1,0.361458392162
-'Abraham Lincoln',fr,USA,#18e8e8,#18e8e8,1,0.361286980753
 'Veronika Grimm',fr,Deutschland,#335599,#335599,1,0.361250000000
 'Justus Haucap',fr,Deutschland,#335599,#335599,1,0.361250000000
 'LeBron James',fr,USA,#18e8e8,#18e8e8,2,0.360570501986
