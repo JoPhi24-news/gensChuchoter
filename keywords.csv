@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Raphaël Arnault',fr,unknown,#111111,#111111,3,0.569842303591
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.553142241473
 'Ali Khamenei',fr,unknown,#111111,#111111,3,0.545834727040
+'Raphaël Arnault',fr,unknown,#111111,#111111,3,0.534776773507
 'Charles Kushner',fr,unknown,#111111,#111111,3,0.532091344412
 'Michelle Reiner',fr,unknown,#111111,#111111,2,0.507327637751
 'Kash Patel',fr,unknown,#111111,#111111,2,0.501458953367
-'Quentin Deranque',fr,unknown,#111111,#111111,3,0.494742780711
+'Quentin Deranque',fr,unknown,#111111,#111111,3,0.500514882876
 'François Mitterrand',fr,unknown,#111111,#111111,3,0.489047066879
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.488070938128
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
@@ -45,8 +45,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.465930439463
 'Affaire Epstein',fr,unknown,#111111,#111111,3,0.465910128314
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.463515397411
+'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.462280186474
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
-'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.461567596213
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.459004843212
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.457731478436
