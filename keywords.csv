@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Charles Kushner',fr,unknown,#111111,#111111,3,0.532091344412
 'Quentin Deranque',fr,unknown,#111111,#111111,3,0.509907157323
 'Michelle Reiner',fr,unknown,#111111,#111111,2,0.507327637751
 'Kash Patel',fr,unknown,#111111,#111111,2,0.501458953367
@@ -63,6 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453093851415
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.452279558959
+'Charles Kushner',fr,unknown,#111111,#111111,2,0.452278482750
 'Keir Starmer',fr,unknown,#111111,#111111,2,0.451313301664
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.450831129230
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.450117337975
