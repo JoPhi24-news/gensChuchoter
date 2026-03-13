@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Raphaël Arnault',fr,unknown,#111111,#111111,3,0.539054027481
 'Charles Kushner',fr,unknown,#111111,#111111,3,0.532091344412
-'Quentin Deranque',fr,unknown,#111111,#111111,3,0.509289731733
+'Quentin Deranque',fr,unknown,#111111,#111111,3,0.509907157323
 'Michelle Reiner',fr,unknown,#111111,#111111,2,0.507327637751
 'Kash Patel',fr,unknown,#111111,#111111,2,0.501458953367
 'François Mitterrand',fr,unknown,#111111,#111111,3,0.489047066879
@@ -41,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.469327531976
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.469248849151
 'Tom Homan',fr,unknown,#111111,#111111,3,0.468155178318
+'Raphaël Arnault',fr,unknown,#111111,#111111,3,0.467697647904
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.466126371247
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.465930439463
 'Affaire Epstein',fr,unknown,#111111,#111111,3,0.465910128314
