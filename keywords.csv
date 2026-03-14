@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Michelle Reiner',fr,unknown,#111111,#111111,2,0.507327637751
 'Quentin Deranque',fr,unknown,#111111,#111111,3,0.502021232361
 'Kash Patel',fr,unknown,#111111,#111111,2,0.501458953367
 'François Mitterrand',fr,unknown,#111111,#111111,3,0.489047066879
@@ -128,6 +127,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harry Met Sally',fr,unknown,#111111,#111111,2,0.431630371018
 'Kaitlan Collins',fr,unknown,#111111,#111111,1,0.431370475853
 'Kamaru Usman',fr,unknown,#111111,#111111,1,0.431339545692
+'Michelle Reiner',fr,unknown,#111111,#111111,1,0.431228537088
 'Lisa Müller',fr,unknown,#111111,#111111,1,0.431109635953
 'Arman Tsarukyan',fr,unknown,#111111,#111111,1,0.430885991557
 'Omar Yaghi',fr,Jordanien,#335588,#335588,2,0.430819754240
