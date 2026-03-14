@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Quentin Deranque',fr,unknown,#111111,#111111,3,0.502021232361
 'Kash Patel',fr,unknown,#111111,#111111,2,0.501458953367
 'François Mitterrand',fr,unknown,#111111,#111111,3,0.489047066879
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.488070938128
@@ -124,6 +123,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ben Shapiro',fr,unknown,#111111,#111111,1,0.431974036422
 'Andrew Mountbatten Windsor',fr,unknown,#111111,#111111,1,0.431967499747
 'Bill Maher',fr,unknown,#111111,#111111,1,0.431788174780
+'Quentin Deranque',fr,unknown,#111111,#111111,3,0.431681877507
 'Harry Met Sally',fr,unknown,#111111,#111111,2,0.431630371018
 'Kaitlan Collins',fr,unknown,#111111,#111111,1,0.431370475853
 'Kamaru Usman',fr,unknown,#111111,#111111,1,0.431339545692
