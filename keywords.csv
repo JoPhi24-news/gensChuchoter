@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'François Mitterrand',fr,unknown,#111111,#111111,3,0.489047066879
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.488070938128
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.485483777014
@@ -57,12 +56,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Bond',fr,unknown,#111111,#111111,3,0.453836437246
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453093851415
+'François Mitterrand',fr,unknown,#111111,#111111,3,0.452459148665
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.452279558959
 'Charles Kushner',fr,unknown,#111111,#111111,2,0.452278482750
 'Keir Starmer',fr,unknown,#111111,#111111,2,0.451313301664
+'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.450963954233
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.450831129230
-'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.450228923814
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.450117337975
 'Renee Good',fr,unknown,#111111,#111111,3,0.449277886690
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.449197570525
@@ -89,11 +89,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacob Frey',fr,unknown,#111111,#111111,2,0.439344955730
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.439185006695
 'Michele Reiner',fr,unknown,#111111,#111111,1,0.439052769510
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.437505425100
 'Bari Weiss',fr,unknown,#111111,#111111,1,0.436838833377
 'Pam Bondi',fr,unknown,#111111,#111111,2,0.436773728806
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.436691833901
 'Nick Reiner',fr,unknown,#111111,#111111,1,0.436380496213
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.435980822409
 'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.435851881049
 'Fred Ramsdel',fr,USA,#18e8e8,#18e8e8,1,0.435844606955
 'Andrew Mountbatten-Windsor',fr,unknown,#111111,#111111,1,0.435751201148
@@ -225,8 +225,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laurent Wauquiez',fr,Frankreich,#e8e808,#e8e808,3,0.405562187269
 'Robert Prevost',fr,Vatikan,#dd5544,#dd5544,2,0.405430065831
 'Hans-Werner Sinn',fr,Deutschland,#1818e8,#1818e8,1,0.405414638799
+'Edouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.405402469886
 'Greta Thunberg',fr,Schweden,#ddee11,#ddee11,2,0.405171310410
-'Edouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.403753235387
 'Premier ministre',fr,Frankreich,#e8e808,#e8e808,3,0.403579014991
 'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,1,0.402971242282
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.402300970200
