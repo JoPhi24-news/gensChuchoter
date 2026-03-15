@@ -1,8 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.488070938128
+'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.486771701445
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.485483777014
-'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.485442910574
 'Alex Pretti',fr,unknown,#111111,#111111,3,0.484363500054
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.484214589343
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.484155131805
@@ -39,6 +38,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.466126371247
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.465930439463
 'Affaire Epstein',fr,unknown,#111111,#111111,3,0.465910128314
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.465311102863
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.464409484311
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.463515397411
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
@@ -149,6 +149,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexandria Ocasio-Cortez',fr,unknown,#111111,#111111,1,0.429125255091
 'Whoopi Goldberg',fr,USA,#18e8e8,#18e8e8,1,0.429119676187
 'James Gunn',fr,USA,#18e8e8,#18e8e8,2,0.428913624453
+'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.428716690660
 'Mario Adorf',fr,unknown,#111111,#111111,1,0.428666988500
 'Christian Dürr',fr,Deutschland,#335599,#335599,1,0.428593246867
 'Daniel Cormier',fr,unknown,#111111,#111111,1,0.428554483793
@@ -168,7 +169,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sarah Ferguson',fr,unknown,#111111,#111111,1,0.427289916650
 'Nathan Hochman',fr,unknown,#111111,#111111,1,0.427220569220
 'Epstein Files',fr,unknown,#111111,#111111,1,0.427205858177
-'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.427157658078
 'MARGARET BRENNAN',fr,unknown,#111111,#111111,2,0.427133432114
 'Alan Jackson',fr,unknown,#111111,#111111,1,0.426796482495
 'James Carville',fr,unknown,#111111,#111111,1,0.426567095837
@@ -249,8 +249,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Billie Eilish',fr,USA,#18e8e8,#18e8e8,2,0.384419519802
 'Radical Optimism',fr,unknown,#111111,#111111,1,0.384209541779
 'Bill Clinton',fr,USA,#18e8e8,#18e8e8,2,0.384147070036
+'Javier Milei',fr,Argentinien,#6622bb,#6622bb,3,0.383435885904
 'Richard Robson',fr,Australien,#aa9933,#aa9933,1,0.383304689900
-'Javier Milei',fr,Argentinien,#6622bb,#6622bb,3,0.382570506034
 'Ron Howard',fr,USA,#18e8e8,#18e8e8,1,0.381890005685
 'Jake Paul',fr,USA,#18e8e8,#18e8e8,1,0.379627453276
 'Henry Samuel',fr,USA,#18e8e8,#18e8e8,2,0.379283430693
