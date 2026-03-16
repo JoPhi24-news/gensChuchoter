@@ -1,14 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Amélie de Montchalin',fr,unknown,#111111,#111111,2,0.609368671649
+'Amélie de Montchalin',fr,unknown,#111111,#111111,3,0.609278057265
 'Elie Favrot',fr,unknown,#111111,#111111,2,0.604963449544
 'Mojtaba Khamenei',fr,unknown,#111111,#111111,2,0.603310799233
 'Catherine Pégard',fr,unknown,#111111,#111111,2,0.588792486372
 'Nancy Guthrie',fr,unknown,#111111,#111111,2,0.502934820353
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.486771701445
+'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.486293182438
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.485483777014
 'Alex Pretti',fr,unknown,#111111,#111111,3,0.484363500054
-'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.484295125556
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.484214589343
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.484155131805
 'laffaire Epstein',fr,unknown,#111111,#111111,2,0.484135928515
@@ -76,16 +76,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.446455015352
 'Leslie Wexner',fr,unknown,#111111,#111111,2,0.446163335264
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,3,0.445561357315
+'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,3,0.444877967016
+'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444813958353
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.444195759119
-'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,3,0.444130917822
-'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444066782960
 'Ilhan Omar',fr,unknown,#111111,#111111,1,0.444058463453
 'Claire Legendre',fr,unknown,#111111,#111111,2,0.443480281736
 'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.443470092656
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.442794641746
 'Francesca Albanese',fr,Italien,#33dd55,#33dd55,2,0.442019771448
 'Kendrick Lamar',fr,USA,#18e8e8,#18e8e8,1,0.441335607597
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.441290854174
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.441164710639
 'Michele Singer',fr,unknown,#111111,#111111,1,0.440997621951
 'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.440509592569
@@ -354,8 +354,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demi Moore',fr,USA,#18e8e8,#18e8e8,1,0.345631853856
 'François Braun',fr,Frankreich,#e8e808,#e8e808,3,0.345467275335
 'Justin Timberlake',fr,USA,#18e8e8,#18e8e8,2,0.345374834729
+'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,1,0.344860591675
 'Sophie Turner',fr,UK,#e838e8,#e838e8,2,0.343925232039
-'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,1,0.343925006177
 'Vo Van Thuong',fr,Vietnam,#117644,#117644,1,0.343470111841
 'Greg Brockman',fr,USA,#18e8e8,#18e8e8,1,0.343422121839
 'Sabrina Carpenter',fr,USA,#18e8e8,#18e8e8,1,0.343358967049
