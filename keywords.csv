@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kristi Noem',fr,unknown,#111111,#111111,3,0.513555844168
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.486771701445
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.485483777014
@@ -85,6 +84,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Singer',fr,unknown,#111111,#111111,1,0.440997621951
 'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.440509592569
 'Tim Walz',fr,unknown,#111111,#111111,3,0.440019959779
+'Kristi Noem',fr,unknown,#111111,#111111,3,0.439822812543
 'Jacob Frey',fr,unknown,#111111,#111111,2,0.439344955730
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.439185006695
 'Michele Reiner',fr,unknown,#111111,#111111,1,0.439052769510
