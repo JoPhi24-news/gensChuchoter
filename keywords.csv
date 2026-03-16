@@ -1,4 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Catherine Pégard',fr,unknown,#111111,#111111,2,0.609843042791
+'Amélie de Montchalin',fr,unknown,#111111,#111111,2,0.608946112903
+'Elie Favrot',fr,unknown,#111111,#111111,2,0.604963449544
+'Mojtaba Khamenei',fr,unknown,#111111,#111111,2,0.603310799233
+'Nancy Guthrie',fr,unknown,#111111,#111111,2,0.502934820353
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.486771701445
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.485483777014
@@ -568,7 +573,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.307062500000
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Gilbert Plass',fr,Kanada,#55ee33,#55ee33,1,0.307062500000
-'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Pierre-Yves Dermagne',fr,Belgien,#2266bb,#2266bb,2,0.306584252816
@@ -756,6 +760,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oisin Fanning',fr,Irland,#4488cc,#4488cc,1,0.261003125000
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.261003125000
 'Jan Lipavský',fr,Tschechien,#44cc88,#44cc88,1,0.261003125000
+'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.261003125000
 'Jacques Doriot',fr,unknown,#111111,#111111,1,0.260549789354
 'Prinzessin Kate',fr,UK,#e838e8,#e838e8,1,0.260133313674
 'Oleksandr Usyk',fr,unknown,#111111,#111111,1,0.260092471230
