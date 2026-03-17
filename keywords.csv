@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Amélie de Montchalin',fr,unknown,#111111,#111111,3,0.609278057265
 'Elie Favrot',fr,unknown,#111111,#111111,2,0.604963449544
 'Mojtaba Khamenei',fr,unknown,#111111,#111111,2,0.603310799233
 'Catherine Pégard',fr,unknown,#111111,#111111,2,0.588792486372
+'Amélie de Montchalin',fr,unknown,#111111,#111111,3,0.570924450449
 'Nancy Guthrie',fr,unknown,#111111,#111111,2,0.502934820353
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.486771701445
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.486293182438
@@ -81,9 +81,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.444195759119
 'Ilhan Omar',fr,unknown,#111111,#111111,1,0.444058463453
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.443544319409
 'Claire Legendre',fr,unknown,#111111,#111111,2,0.443480281736
 'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.443470092656
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.442794641746
 'Francesca Albanese',fr,Italien,#33dd55,#33dd55,2,0.442019771448
 'Kendrick Lamar',fr,USA,#18e8e8,#18e8e8,1,0.441335607597
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.441164710639
