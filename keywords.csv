@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Elie Favrot',fr,unknown,#111111,#111111,2,0.550989123931
 'Catherine Pégard',fr,unknown,#111111,#111111,3,0.533220652262
 'Mojtaba Khamenei',fr,unknown,#111111,#111111,3,0.523993543384
 'Nancy Guthrie',fr,unknown,#111111,#111111,2,0.502934820353
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'laffaire Epstein',fr,unknown,#111111,#111111,2,0.484135928515
 'Larry Summers',fr,unknown,#111111,#111111,3,0.483983990102
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.482541799493
+'Elie Favrot',fr,unknown,#111111,#111111,2,0.482383434432
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.480957166499
 'Dick Cheney',fr,USA,#18e8e8,#18e8e8,2,0.479439419594
 'Chappell Roan',fr,unknown,#111111,#111111,3,0.478914069680
@@ -35,9 +35,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.471193591869
 'Delcy Rodríguez',fr,unknown,#111111,#111111,2,0.470766916743
 'Quand Harry',fr,unknown,#111111,#111111,2,0.470763964052
+'Raphaël Arnault',fr,unknown,#111111,#111111,3,0.469794722379
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.469327531976
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.469248849151
-'Raphaël Arnault',fr,unknown,#111111,#111111,3,0.469097088457
 'Tom Homan',fr,unknown,#111111,#111111,3,0.468155178318
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.466829910635
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.465930439463
@@ -94,7 +94,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacob Frey',fr,unknown,#111111,#111111,2,0.439344955730
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.439185006695
 'Michele Reiner',fr,unknown,#111111,#111111,1,0.439052769510
-'Quentin Deranque',fr,unknown,#111111,#111111,3,0.437050497118
+'Quentin Deranque',fr,unknown,#111111,#111111,3,0.438570912133
 'Bari Weiss',fr,unknown,#111111,#111111,1,0.436838833377
 'Pam Bondi',fr,unknown,#111111,#111111,2,0.436773728806
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.436691833901
