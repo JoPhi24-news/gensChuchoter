@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Catherine Pégard',fr,unknown,#111111,#111111,3,0.533220652262
 'Mojtaba Khamenei',fr,unknown,#111111,#111111,3,0.523993543384
 'Nancy Guthrie',fr,unknown,#111111,#111111,2,0.502934820353
 'Ali Khamenei',fr,unknown,#111111,#111111,3,0.500205287868
@@ -44,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Affaire Epstein',fr,unknown,#111111,#111111,3,0.465910128314
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.464409484311
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.463515397411
+'Catherine Pégard',fr,unknown,#111111,#111111,3,0.462725939423
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.459004843212
@@ -220,8 +220,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruno Le Maire',fr,Frankreich,#e8e808,#e8e808,3,0.411544226879
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,1,0.411385949949
 'John M. Martinis',fr,USA,#18e8e8,#18e8e8,1,0.411102944000
+'Brigitte Bardot',fr,unknown,#111111,#111111,2,0.410919339941
 'Poutine',fr,Russland,#e81818,#e81818,3,0.410180890096
-'Brigitte Bardot',fr,unknown,#111111,#111111,2,0.410106094160
 'Julia Roberts',fr,USA,#18e8e8,#18e8e8,1,0.409754522170
 'Nikki Haley',fr,USA,#18e8e8,#18e8e8,1,0.408667292393
 'Stormy Daniels',fr,USA,#18e8e8,#18e8e8,1,0.408604237086
