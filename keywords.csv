@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ali Khamenei',fr,unknown,#111111,#111111,3,0.517039633452
 'Amélie de Montchalin',fr,unknown,#111111,#111111,3,0.499461757882
+'Ali Khamenei',fr,unknown,#111111,#111111,3,0.492532050208
 'Nancy Guthrie',fr,unknown,#111111,#111111,2,0.491980518705
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.487618582050
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.486771701445
@@ -14,9 +14,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.482541799493
 'Elie Favrot',fr,unknown,#111111,#111111,2,0.482383434432
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.480957166499
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.479828542447
 'Dick Cheney',fr,USA,#18e8e8,#18e8e8,2,0.479439419594
 'Chappell Roan',fr,unknown,#111111,#111111,3,0.478914069680
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.478471965406
 'Cilia Flores',fr,unknown,#111111,#111111,3,0.478358541666
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.477607550974
 'prince Andrew',fr,unknown,#111111,#111111,3,0.477488065184
@@ -68,13 +68,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.450117337975
 'Renee Good',fr,unknown,#111111,#111111,3,0.449277886690
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.449197570525
+'Mojtaba Khamenei',fr,unknown,#111111,#111111,3,0.448427300476
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.448299397630
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.448011503567
 'Sergio Mattarella',fr,Italien,#33dd55,#33dd55,2,0.447946641298
 'Karsten Wildberger',fr,Deutschland,#335599,#335599,2,0.447877483614
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,2,0.447734405841
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.447270637788
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.446455015352
-'Mojtaba Khamenei',fr,unknown,#111111,#111111,3,0.446202779867
 'Leslie Wexner',fr,unknown,#111111,#111111,2,0.446163335264
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,3,0.445561357315
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,3,0.444877967016
@@ -770,10 +770,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Sánchez',fr,USA,#18e8e8,#18e8e8,1,0.259436319193
 'Lily Gladstone',fr,unknown,#111111,#111111,1,0.258413900071
 'Jennifer Morgan',fr,unknown,#111111,#111111,1,0.258242564707
+'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,3,0.257877915661
 'Ivanka Trump',fr,unknown,#111111,#111111,1,0.257486638313
 'Joey Fatone',fr,unknown,#111111,#111111,1,0.257431835468
 'Alvin Bragg',fr,USA,#18e8e8,#18e8e8,1,0.256935814183
-'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,3,0.256801636888
 'Jair Bolsonaro',fr,Brasilien,#58e838,#58e848,3,0.255491627554
 'Willy Brandt',fr,Deutschland,#1818e8,#1818e8,1,0.254272689006
 'Markus Söder',fr,Deutschland,#1818e8,#1818e8,1,0.253983484564
