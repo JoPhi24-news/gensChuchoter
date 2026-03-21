@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Amélie de Montchalin',fr,unknown,#111111,#111111,3,0.499461757882
 'Ali Khamenei',fr,unknown,#111111,#111111,3,0.492532050208
 'Nancy Guthrie',fr,unknown,#111111,#111111,2,0.491980518705
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.487618582050
@@ -99,6 +98,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pam Bondi',fr,unknown,#111111,#111111,2,0.436773728806
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.436691833901
 'Nick Reiner',fr,unknown,#111111,#111111,1,0.436380496213
+'Amélie de Montchalin',fr,unknown,#111111,#111111,3,0.435916773611
 'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.435851881049
 'Fred Ramsdel',fr,USA,#18e8e8,#18e8e8,1,0.435844606955
 'Andrew Mountbatten-Windsor',fr,unknown,#111111,#111111,1,0.435751201148
