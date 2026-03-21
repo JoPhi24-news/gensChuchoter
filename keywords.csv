@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ali Khamenei',fr,unknown,#111111,#111111,3,0.492532050208
 'Nancy Guthrie',fr,unknown,#111111,#111111,2,0.491980518705
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.487618582050
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.486771701445
@@ -161,6 +160,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Liveblog USA',fr,unknown,#111111,#111111,1,0.428244120085
 'Francis Ngannou',fr,unknown,#111111,#111111,1,0.428233219510
 'Abby Phillip',fr,unknown,#111111,#111111,1,0.428193937791
+'Ali Khamenei',fr,unknown,#111111,#111111,3,0.428158992222
 'Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.428083179568
 'Jean Castex',fr,Frankreich,#e8e808,#e8e808,3,0.428014127761
 'Bruna Caroline Ferreira',fr,unknown,#111111,#111111,2,0.428006351212
