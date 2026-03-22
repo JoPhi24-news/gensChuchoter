@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.479828542447
 'Chappell Roan',fr,unknown,#111111,#111111,3,0.478914069680
 'Cilia Flores',fr,unknown,#111111,#111111,3,0.478358541666
-'Thomas Müller',fr,unknown,#111111,#111111,1,0.477607550974
 'prince Andrew',fr,unknown,#111111,#111111,3,0.477488065184
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.477458345111
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.477246476848
@@ -34,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.469248849151
 'Tom Homan',fr,unknown,#111111,#111111,3,0.468155178318
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.466829910635
+'Thomas Müller',fr,unknown,#111111,#111111,1,0.466716493328
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.465930439463
 'Affaire Epstein',fr,unknown,#111111,#111111,3,0.465910128314
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.464409484311
