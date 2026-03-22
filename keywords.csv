@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.492428977139
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.490253540539
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.486771701445
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
@@ -160,6 +159,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abby Phillip',fr,unknown,#111111,#111111,1,0.428193937791
 'Ali Khamenei',fr,unknown,#111111,#111111,3,0.428158992222
 'Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.428083179568
+'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.428061375114
 'Jean Castex',fr,Frankreich,#e8e808,#e8e808,3,0.428014127761
 'Bruna Caroline Ferreira',fr,unknown,#111111,#111111,2,0.428006351212
 'Venezuelas Übergangspräsidentin',fr,unknown,#111111,#111111,1,0.427924535763
