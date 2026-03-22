@@ -1,8 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.490253540539
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.486771701445
+'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.486148754642
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
-'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.485483777014
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.484882100063
 'Alex Pretti',fr,unknown,#111111,#111111,3,0.484363500054
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.484155131805
@@ -52,6 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Les Wexner',fr,unknown,#111111,#111111,2,0.455273447568
 'James Bond',fr,unknown,#111111,#111111,3,0.453836437246
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
+'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.453487576276
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453093851415
 'François Mitterrand',fr,unknown,#111111,#111111,3,0.452459148665
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
@@ -61,11 +61,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Keir Starmer',fr,unknown,#111111,#111111,2,0.452046190947
 'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.451697533436
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.450117337975
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.449488855740
 'Renee Good',fr,unknown,#111111,#111111,3,0.449277886690
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.449197570525
 'Mojtaba Khamenei',fr,unknown,#111111,#111111,3,0.448427300476
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.448299397630
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.448011503567
 'Sergio Mattarella',fr,Italien,#33dd55,#33dd55,2,0.447946641298
 'Karsten Wildberger',fr,Deutschland,#335599,#335599,2,0.447877483614
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,2,0.447734405841
@@ -231,8 +231,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Prevost',fr,Vatikan,#dd5544,#dd5544,2,0.405430065831
 'Hans-Werner Sinn',fr,Deutschland,#1818e8,#1818e8,1,0.405414638799
 'Edouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.405402469886
+'Premier ministre',fr,Frankreich,#e8e808,#e8e808,3,0.405228913965
 'Greta Thunberg',fr,Schweden,#ddee11,#ddee11,2,0.405171310410
-'Premier ministre',fr,Frankreich,#e8e808,#e8e808,3,0.404404752503
 'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,1,0.402971242282
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.402300970200
 'James Comey',fr,USA,#18e8e8,#18e8e8,3,0.402128980888
@@ -282,11 +282,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olivia Nuzzi',fr,USA,#18e8e8,#18e8e8,1,0.367079183712
 'Jon Jones',fr,USA,#18e8e8,#18e8e8,1,0.366930863077
 'Benyamin Netanyahou',fr,Israel,#3311cc,#3311cc,2,0.366746372731
+'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.366617026584
 'Sarah Stier',fr,unknown,#111111,#111111,1,0.366300418412
 'Nicola Peltz',fr,USA,#18e8e8,#18e8e8,1,0.365934249802
 'Brooklyn Beckham',fr,UK,#e838e8,#e838e8,2,0.365914573202
 'Cheryl Hines',fr,USA,#18e8e8,#18e8e8,1,0.365736904856
-'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.365720561216
 'Alois Rainer',fr,Deutschland,#335599,#335599,1,0.365704405000
 'Taylor Swift',fr,USA,#18e8e8,#18e8e8,2,0.365508157033
 'Carsten Schneider',fr,Deutschland,#335599,#335599,1,0.365404395049
@@ -870,10 +870,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Pistorius',fr,Deutschland,#1818e8,#1818e8,1,0.208286351931
 'King Charles III',fr,UK,#e838e8,#e838e8,1,0.208135379872
 'Andreas Jung',fr,Deutschland,#1818e8,#1818e8,1,0.207562761476
+'Giorgia Meloni',fr,Italien,#33dd55,#33dd55,3,0.205831363868
 'Mohammed bin Salman',fr,SaudiArabien,#22bb66,#22bb66,2,0.204975838011
 'Werner von Braun',fr,Deutschland,#1818e8,#1818e8,1,0.204775215013
 'Joachim Gauck',fr,Deutschland,#1818e8,#1818e8,1,0.204717067683
-'Giorgia Meloni',fr,Italien,#33dd55,#33dd55,3,0.204685960223
 'Maybrit Illner',fr,Deutschland,#1818e8,#1818e8,1,0.203896076570
 'Alfred Bernhard Nobel',fr,Schweden,#ddee11,#ddee11,1,0.203660738437
 'Olli Schulz',fr,Deutschland,#1818e8,#1818e8,1,0.202186417777
