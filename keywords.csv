@@ -809,7 +809,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Kubicki',fr,Deutschland,#1818e8,#1818e8,1,0.236949998009
 'Reed Richards',fr,unknown,#111111,#111111,1,0.236837359268
 'John Paul II',fr,Vatikan,#58b8e8,#58b8e8,1,0.236790276367
-'Robert Habeck',fr,Deutschland,#1818e8,#1818e8,3,0.236752309866
 'Harry Belafonte',fr,USA,#18e8e8,#18e8e8,1,0.236547611411
 'Martin Scorsese',fr,USA,#18e8e8,#18e8e8,1,0.236096036506
 'Stephen Hawking',fr,UK,#e838e8,#e838e8,1,0.236015281406
@@ -879,6 +878,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olli Schulz',fr,Deutschland,#1818e8,#1818e8,1,0.202186417777
 'Antony Blinken',fr,USA,#18e8e8,#18e8e8,2,0.202128178476
 'Angela Merkel',fr,Deutschland,#1818e8,#1818e8,2,0.201603227124
+'Robert Habeck',fr,Deutschland,#1818e8,#1818e8,2,0.201239478386
 'Ricarda Lang',fr,Deutschland,#1818e8,#1818e8,1,0.200877537207
 'Gabor Steingart',fr,Deutschland,#1818e8,#1818e8,1,0.200115677410
 'Faisal Kawusi',fr,Deutschland,#1818e8,#1818e8,1,0.199949052960
