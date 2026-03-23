@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Amélie de Montchalin',fr,unknown,#111111,#111111,2,0.605131748547
 'Ali Larijani',fr,unknown,#111111,#111111,2,0.604219049738
 'David Amiel',fr,unknown,#111111,#111111,2,0.600992501111
+'Amélie de Montchalin',fr,unknown,#111111,#111111,2,0.532379282932
 'Markwayne Mullin',fr,unknown,#111111,#111111,2,0.508311241344
 'Savannah Guthrie',fr,unknown,#111111,#111111,2,0.504212938635
 'Chris Nanos',fr,unknown,#111111,#111111,2,0.500150833397
@@ -55,9 +55,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.455850529306
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.455475076842
 'Les Wexner',fr,unknown,#111111,#111111,2,0.455273447568
+'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.454216169059
 'James Bond',fr,unknown,#111111,#111111,3,0.453836437246
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
-'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.453487576276
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453093851415
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.453028308171
 'François Mitterrand',fr,unknown,#111111,#111111,3,0.452459148665
@@ -66,8 +66,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Kushner',fr,unknown,#111111,#111111,2,0.452278482750
 'Keir Starmer',fr,unknown,#111111,#111111,2,0.452046190947
 'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.451697533436
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.450225346793
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.450117337975
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.449488855740
 'Renee Good',fr,unknown,#111111,#111111,3,0.449277886690
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.449197570525
 'Mojtaba Khamenei',fr,unknown,#111111,#111111,3,0.448427300476
