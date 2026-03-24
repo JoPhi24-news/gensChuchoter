@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ali Larijani',fr,unknown,#111111,#111111,3,0.608859570849
 'David Amiel',fr,unknown,#111111,#111111,2,0.600992501111
+'Ali Larijani',fr,unknown,#111111,#111111,3,0.560471474111
 'Amélie de Montchalin',fr,unknown,#111111,#111111,2,0.532379282932
 'Markwayne Mullin',fr,unknown,#111111,#111111,2,0.508311241344
 'Savannah Guthrie',fr,unknown,#111111,#111111,2,0.504212938635
@@ -957,13 +957,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holger Friedrich',fr,Deutschland,#1818e8,#1818e8,1,0.166542517981
 'Luisa Neubauer',fr,Deutschland,#1818e8,#1818e8,1,0.165924515367
 'Maria Kolesnikowa',fr,Belarus,#e81858,#e81858,1,0.165595944040
+'Benjamin Netanyahu',fr,Israel,#3311cc,#3311cc,2,0.165387270013
 'Winfried Kretschmann',fr,Deutschland,#1818e8,#1818e8,1,0.165113470512
 'Liz Truss',fr,UK,#e838e8,#e838e8,1,0.164922164965
 'Karl Jenkins',fr,UK,#e838e8,#e838e8,1,0.164913025303
 'Sergey Brin',fr,USA,#18e8e8,#18e8e8,1,0.164477473306
 'Viktor Orbán',fr,Ungarn,#111111,#111111,2,0.164350821372
 'Björn Höcke',fr,Deutschland,#1818e8,#1818e8,1,0.164223895101
-'Benjamin Netanyahu',fr,Israel,#3311cc,#3311cc,2,0.164197457030
 'Daniel Freund',fr,EU,#88cc44,#88cc44,1,0.163808053163
 'Francoise Bettencourt-Meyers',fr,Frankreich,#e8e808,#e8e808,1,0.163494315023
 'Saskia Esken',fr,Deutschland,#1818e8,#1818e8,2,0.163399421866
