@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Amélie de Montchalin',fr,unknown,#111111,#111111,2,0.532379282932
 'David Amiel',fr,unknown,#111111,#111111,1,0.510844090944
 'Ali Larijani',fr,unknown,#111111,#111111,3,0.510084946059
 'Markwayne Mullin',fr,unknown,#111111,#111111,2,0.508311241344
@@ -60,6 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453093851415
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.453028308171
+'Amélie de Montchalin',fr,unknown,#111111,#111111,1,0.452522780492
 'François Mitterrand',fr,unknown,#111111,#111111,3,0.452459148665
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.452279558959
