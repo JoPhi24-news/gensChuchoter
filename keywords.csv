@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'David Amiel',fr,unknown,#111111,#111111,1,0.510844090944
 'Ali Larijani',fr,unknown,#111111,#111111,3,0.510084946059
 'Markwayne Mullin',fr,unknown,#111111,#111111,2,0.508311241344
 'Savannah Guthrie',fr,unknown,#111111,#111111,2,0.504212938635
@@ -28,6 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Renee Nicole Good',fr,unknown,#111111,#111111,3,0.473098872617
 'reine Mathilde',fr,unknown,#111111,#111111,2,0.472107469267
 'Jack Lang',fr,unknown,#111111,#111111,3,0.471647733618
+'David Amiel',fr,unknown,#111111,#111111,2,0.471601230636
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.471193591869
 'Delcy Rodríguez',fr,unknown,#111111,#111111,2,0.470766916743
 'Quand Harry',fr,unknown,#111111,#111111,2,0.470763964052
@@ -50,11 +50,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caroline Lang',fr,unknown,#111111,#111111,3,0.456832214965
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,3,0.456764818400
 'Peter Mandelson',fr,unknown,#111111,#111111,2,0.456714048838
+'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.456393312655
 'John Clarke',fr,USA,#18e8e8,#18e8e8,3,0.456207952827
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.455850529306
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.455475076842
 'Les Wexner',fr,unknown,#111111,#111111,2,0.455273447568
-'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.454216169059
 'James Bond',fr,unknown,#111111,#111111,3,0.453836437246
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453093851415
@@ -232,11 +232,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kamel Daoud',fr,unknown,#111111,#111111,1,0.408156809337
 'Dick Cheney',fr,USA,#18e8e8,#18e8e8,1,0.407523521655
 'Lecornu II',fr,Frankreich,#e8e808,#e8e808,1,0.407223979946
+'Premier ministre',fr,Frankreich,#e8e808,#e8e808,3,0.406872515766
 'Laurent Wauquiez',fr,Frankreich,#e8e808,#e8e808,3,0.405562187269
 'Robert Prevost',fr,Vatikan,#dd5544,#dd5544,2,0.405430065831
 'Hans-Werner Sinn',fr,Deutschland,#1818e8,#1818e8,1,0.405414638799
 'Edouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.405402469886
-'Premier ministre',fr,Frankreich,#e8e808,#e8e808,3,0.405228913965
 'Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.405191253996
 'Greta Thunberg',fr,Schweden,#ddee11,#ddee11,2,0.405171310410
 'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,1,0.402971242282
