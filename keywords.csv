@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Markwayne Mullin',fr,unknown,#111111,#111111,2,0.508311241344
 'Savannah Guthrie',fr,unknown,#111111,#111111,2,0.504212938635
 'Chris Nanos',fr,unknown,#111111,#111111,2,0.500150833397
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.486771701445
@@ -13,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.482541799493
 'Elie Favrot',fr,unknown,#111111,#111111,2,0.482383434432
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.480957166499
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.479828542447
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.480504802981
 'Chappell Roan',fr,unknown,#111111,#111111,3,0.478914069680
 'Cilia Flores',fr,unknown,#111111,#111111,3,0.478358541666
 'prince Andrew',fr,unknown,#111111,#111111,3,0.477488065184
@@ -79,6 +78,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leslie Wexner',fr,unknown,#111111,#111111,2,0.446163335264
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,3,0.445623545908
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,3,0.445561357315
+'Markwayne Mullin',fr,unknown,#111111,#111111,2,0.444879065857
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444813958353
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.444195759119
@@ -89,9 +89,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kendrick Lamar',fr,USA,#18e8e8,#18e8e8,1,0.441335607597
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.441164710639
 'Michele Singer',fr,unknown,#111111,#111111,1,0.440997621951
+'Kristi Noem',fr,unknown,#111111,#111111,3,0.440578328635
 'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.440509592569
 'Tim Walz',fr,unknown,#111111,#111111,3,0.440019959779
-'Kristi Noem',fr,unknown,#111111,#111111,3,0.439822812543
 'Jacob Frey',fr,unknown,#111111,#111111,2,0.439344955730
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.439185006695
 'Michele Reiner',fr,unknown,#111111,#111111,1,0.439052769510
