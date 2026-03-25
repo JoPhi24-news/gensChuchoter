@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Savannah Guthrie',fr,unknown,#111111,#111111,2,0.504212938635
 'Chris Nanos',fr,unknown,#111111,#111111,2,0.500150833397
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.486771701445
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.486148754642
@@ -155,6 +154,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tony Dokoupil',fr,unknown,#111111,#111111,1,0.429278844195
 'Alexandria Ocasio-Cortez',fr,unknown,#111111,#111111,1,0.429125255091
 'Whoopi Goldberg',fr,USA,#18e8e8,#18e8e8,1,0.429119676187
+'Savannah Guthrie',fr,unknown,#111111,#111111,2,0.429031042840
 'James Gunn',fr,USA,#18e8e8,#18e8e8,2,0.428913624453
 'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.428716690660
 'Mario Adorf',fr,unknown,#111111,#111111,1,0.428666988500
