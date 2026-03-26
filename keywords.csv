@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Chris Nanos',fr,unknown,#111111,#111111,2,0.500150833397
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.486771701445
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.486148754642
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
@@ -190,6 +189,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tig Notaro',fr,USA,#18e8e8,#18e8e8,1,0.425358127032
 'Mary Brunkow',fr,USA,#18e8e8,#18e8e8,1,0.425347780013
 'Valentina Shevchenko',fr,unknown,#111111,#111111,1,0.425271915252
+'Chris Nanos',fr,unknown,#111111,#111111,1,0.425128208387
 'Élisabeth Borne',fr,Frankreich,#e8e808,#e8e808,3,0.425097684657
 'Zack Snyder',fr,USA,#18e8e8,#18e8e8,1,0.425026070982
 'Laura Loomer',fr,USA,#18e8e8,#18e8e8,1,0.425000420000
