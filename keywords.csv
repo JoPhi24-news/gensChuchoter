@@ -32,11 +32,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Raphaël Arnault',fr,unknown,#111111,#111111,3,0.469794722379
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.469327531976
 'Tom Homan',fr,unknown,#111111,#111111,3,0.468155178318
+'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.467930217409
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.466829910635
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.466716493328
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.465930439463
 'Affaire Epstein',fr,unknown,#111111,#111111,3,0.465910128314
-'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.465821979803
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.463515397411
 'Catherine Pégard',fr,unknown,#111111,#111111,3,0.462725939423
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
@@ -84,6 +84,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Claire Legendre',fr,unknown,#111111,#111111,2,0.443480281736
 'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.443470092656
 'Francesca Albanese',fr,Italien,#33dd55,#33dd55,2,0.442019771448
+'Quentin Deranque',fr,unknown,#111111,#111111,3,0.441376603949
 'Kendrick Lamar',fr,USA,#18e8e8,#18e8e8,1,0.441335607597
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.441164710639
 'Michele Singer',fr,unknown,#111111,#111111,1,0.440997621951
@@ -93,13 +94,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacob Frey',fr,unknown,#111111,#111111,2,0.439344955730
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.439185006695
 'Michele Reiner',fr,unknown,#111111,#111111,1,0.439052769510
-'Quentin Deranque',fr,unknown,#111111,#111111,3,0.438570912133
 'Bari Weiss',fr,unknown,#111111,#111111,1,0.436838833377
 'Pam Bondi',fr,unknown,#111111,#111111,2,0.436773728806
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.436691833901
+'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.436615182181
 'Nick Reiner',fr,unknown,#111111,#111111,1,0.436380496213
 'Amélie de Montchalin',fr,unknown,#111111,#111111,3,0.435916773611
-'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.435851881049
 'Fred Ramsdel',fr,USA,#18e8e8,#18e8e8,1,0.435844606955
 'Andrew Mountbatten-Windsor',fr,unknown,#111111,#111111,1,0.435751201148
 'Charlie Kirk',fr,USA,#18e8e8,#18e8e8,3,0.435423723741
