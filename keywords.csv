@@ -8,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'laffaire Epstein',fr,unknown,#111111,#111111,2,0.484135928515
 'Larry Summers',fr,unknown,#111111,#111111,3,0.483983990102
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.482541799493
-'Elie Favrot',fr,unknown,#111111,#111111,2,0.482383434432
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.480957166499
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.480504802981
 'Chappell Roan',fr,unknown,#111111,#111111,3,0.478914069680
@@ -226,6 +225,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John M. Martinis',fr,USA,#18e8e8,#18e8e8,1,0.411102944000
 'Brigitte Bardot',fr,unknown,#111111,#111111,2,0.410919339941
 'Poutine',fr,Russland,#e81818,#e81818,3,0.410180890096
+'Elie Favrot',fr,unknown,#111111,#111111,1,0.410026054267
 'Julia Roberts',fr,USA,#18e8e8,#18e8e8,1,0.409754522170
 'Nikki Haley',fr,USA,#18e8e8,#18e8e8,1,0.408667292393
 'Stormy Daniels',fr,USA,#18e8e8,#18e8e8,1,0.408604237086
