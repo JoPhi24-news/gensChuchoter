@@ -120,7 +120,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Bieber',fr,Kanada,#55ee33,#55ee33,2,0.432257728132
 'Ian Machado Garry',fr,unknown,#111111,#111111,1,0.432253222026
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.432222190609
-'Joe Rogan',fr,unknown,#111111,#111111,1,0.432100059933
 'Candace Owens',fr,unknown,#111111,#111111,2,0.432085038231
 'Romy Reiner',fr,unknown,#111111,#111111,2,0.432023319363
 'Michele Singer Reiner',fr,unknown,#111111,#111111,1,0.431988278978
@@ -250,6 +249,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sanae Takaichi',fr,Japan,#33aa99,#33aa99,2,0.394824103210
 'Lecornu II ',fr,Frankreich,#e8e808,#e8e808,2,0.393526249874
 'Sebastien Lecornu',fr,Frankreich,#e8e808,#e8e808,1,0.393437412777
+'Joe Rogan',fr,unknown,#111111,#111111,1,0.393185140943
 'Mohammad Mustafa',fr,Palestina,#ee4488,#ee4488,2,0.392247018398
 'Bernie Sanders',fr,USA,#18e8e8,#18e8e8,1,0.391455837637
 'Bärbel Bas',fr,Deutschland,#335599,#335599,1,0.390052427513
