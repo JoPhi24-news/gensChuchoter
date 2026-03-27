@@ -307,7 +307,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lil Yachty',fr,USA,#18e8e8,#18e8e8,1,0.363830425113
 'Eddie Hearn',fr,UK,#e838e8,#e838e8,1,0.363735105123
 'Shavkat Rakhmonov',fr,unknown,#111111,#111111,1,0.363145282841
-'Jack Della Maddalena',fr,unknown,#111111,#111111,1,0.362991420606
 'Suleika Jaouad',fr,USA,#18e8e8,#18e8e8,1,0.362871379895
 'Omar M. Yaghi',fr,USA,#18e8e8,#18e8e8,1,0.362652655250
 'Abraham Lincoln',fr,USA,#18e8e8,#18e8e8,1,0.362191508241
@@ -556,6 +555,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Kaulitz',fr,unknown,#111111,#111111,1,0.308676808992
 'Pete Davidson',fr,USA,#18e8e8,#18e8e8,1,0.308643624735
 'King Charles',fr,UK,#e838e8,#e838e8,2,0.308586553706
+'Jack Della Maddalena',fr,unknown,#111111,#111111,1,0.308542707515
 'Julian Edelman',fr,unknown,#111111,#111111,1,0.308398878303
 'Martin Luther King',fr,USA,#18e8e8,#18e8e8,2,0.308363441997
 'Angelina Jolie',fr,unknown,#111111,#111111,1,0.308289657471
