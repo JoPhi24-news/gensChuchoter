@@ -44,7 +44,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.457731478436
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.457358917063
 'Caroline Lang',fr,unknown,#111111,#111111,3,0.456832214965
-'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,3,0.456764818400
 'Peter Mandelson',fr,unknown,#111111,#111111,2,0.456714048838
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.456393312655
 'John Clarke',fr,USA,#18e8e8,#18e8e8,3,0.456207952827
@@ -255,6 +254,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bärbel Bas',fr,Deutschland,#335599,#335599,1,0.390052427513
 'Cristiano Ronaldo',fr,Portugal,#339933,#339933,3,0.389672583624
 'Tom Aspinall',fr,UK,#e838e8,#e838e8,1,0.388586259093
+'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,2,0.388250575640
 'Keith Kellogg',fr,USA,#18e8e8,#18e8e8,2,0.388230512313
 'Narendra Modi',fr,Indien,#995533,#995533,3,0.385368397764
 'Billie Eilish',fr,USA,#18e8e8,#18e8e8,2,0.384419519802
