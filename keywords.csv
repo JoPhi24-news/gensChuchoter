@@ -828,7 +828,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Don Lemon',fr,USA,#18e8e8,#18e8e8,1,0.229640209770
 'Selenskyj',fr,Ukraine,#e818e8,#e818e8,1,0.228601032633
 'Peter Urban',fr,Deutschland,#1818e8,#1818e8,1,0.228356903745
-'Napoleon Bonaparte',fr,Frankreich,#e8e808,#e8e808,1,0.228008432683
 'Jacinda Ardern',fr,Neuseeland,#1818e8,#1818e8,1,0.227560529978
 'Matthias Müller',fr,Deutschland,#1818e8,#1818e8,1,0.226398095213
 'Trevian Kutti',fr,unknown,#111111,#111111,1,0.226381837337
@@ -902,6 +901,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Koch',fr,USA,#18e8e8,#18e8e8,2,0.195358545707
 'Christine Lambrecht',fr,Deutschland,#1818e8,#1818e8,1,0.195197673561
 'Mateusz Morawiecki',fr,Polen,#cc8844,#cc8844,1,0.194628019876
+'Napoleon Bonaparte',fr,Frankreich,#e8e808,#e8e808,1,0.193807167781
 'Tino Chrupalla',fr,Deutschland,#1818e8,#1818e8,2,0.193789984578
 'Katja Krasavice',fr,Deutschland,#1818e8,#1818e8,1,0.193376967217
 'Jeffrey Donaldson',fr,Irland,#4488cc,#4488cc,1,0.192469256620
