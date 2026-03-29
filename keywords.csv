@@ -983,7 +983,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lula sa Silva',fr,Brasilien,#58e838,#58e838,2,0.151401118739
 'Ed McVey',fr,UK,#e838e8,#e838e8,1,0.151206026201
 'Julian Reichelt',fr,Deutschland,#1818e8,#1818e8,1,0.150951462242
-'Chelsea Manning',fr,USA,#18e8e8,#18e8e8,1,0.149533277673
 'Thierry Breton',fr,EU,#88cc44,#88cc44,1,0.148739740005
 'Nicola Beer',fr,EU,#88cc44,#88cc44,1,0.147252041960
 'Silvio Berlusconi',fr,Italien,#33dd55,#33dd55,2,0.147238879538
@@ -1013,6 +1012,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Ballweg',fr,Deutschland,#1818e8,#1818e8,1,0.129668706538
 'Volodymyr Zelenskiy',fr,Ukraine,#e818e8,#e818e8,1,0.127389320456
 'Alfred Nobel',fr,Schweden,#ddee11,#ddee11,1,0.127318113302
+'Chelsea Manning',fr,USA,#18e8e8,#18e8e8,1,0.127103286022
 'Hans Joachim Schellnhuber',fr,Deutschland,#1818e8,#1818e8,1,0.127079780203
 'Karl Nehammer',fr,Oesterreich,#5522dd,#5522dd,1,0.126946028108
 'Yanis Varoufakis',fr,Griechenland,#1858e8,#1858e8,1,0.124671126243
