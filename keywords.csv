@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.486148754642
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.484882100063
 'Alex Pretti',fr,unknown,#111111,#111111,3,0.484363500054
@@ -8,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Summers',fr,unknown,#111111,#111111,3,0.483983990102
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.482541799493
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.480957166499
+'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.480784032252
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.480504802981
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.479497233014
 'Chappell Roan',fr,unknown,#111111,#111111,3,0.478914069680
@@ -17,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Windsor',fr,unknown,#111111,#111111,1,0.475757348780
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.474116783697
 'Noël Barrot',fr,unknown,#111111,#111111,3,0.473738666262
+'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.473491021081
 'Renee Nicole Good',fr,unknown,#111111,#111111,3,0.473098872617
 'reine Mathilde',fr,unknown,#111111,#111111,2,0.472107469267
 'Ali Larijani',fr,unknown,#111111,#111111,3,0.472095121892
@@ -30,7 +31,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.469327531976
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.468626511501
 'Tom Homan',fr,unknown,#111111,#111111,3,0.468155178318
-'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.467930217409
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.466829910635
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.466716493328
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.465930439463
@@ -42,9 +42,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.459004843212
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.457731478436
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.457358917063
+'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.457116156879
 'Caroline Lang',fr,unknown,#111111,#111111,3,0.456832214965
 'Peter Mandelson',fr,unknown,#111111,#111111,2,0.456714048838
-'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.456393312655
 'John Clarke',fr,USA,#18e8e8,#18e8e8,3,0.456207952827
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.455850529306
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.455475076842
@@ -91,9 +91,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacob Frey',fr,unknown,#111111,#111111,2,0.439344955730
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.439185006695
 'Michele Reiner',fr,unknown,#111111,#111111,1,0.439052769510
+'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.437453489898
 'Bari Weiss',fr,unknown,#111111,#111111,1,0.436838833377
 'Pam Bondi',fr,unknown,#111111,#111111,2,0.436773728806
-'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.436691833901
 'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.436615182181
 'Nick Reiner',fr,unknown,#111111,#111111,1,0.436380496213
 'Amélie de Montchalin',fr,unknown,#111111,#111111,3,0.435916773611
@@ -231,10 +231,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dick Cheney',fr,USA,#18e8e8,#18e8e8,1,0.407523521655
 'Lecornu II',fr,Frankreich,#e8e808,#e8e808,1,0.407223979946
 'Cilia Flores',fr,unknown,#111111,#111111,2,0.406604835416
+'Edouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.406224725369
 'Laurent Wauquiez',fr,Frankreich,#e8e808,#e8e808,3,0.405562187269
 'Robert Prevost',fr,Vatikan,#dd5544,#dd5544,2,0.405430065831
 'Hans-Werner Sinn',fr,Deutschland,#1818e8,#1818e8,1,0.405414638799
-'Edouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.405402469886
 'Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.405191253996
 'Greta Thunberg',fr,Schweden,#ddee11,#ddee11,2,0.405171310410
 'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,1,0.402971242282
