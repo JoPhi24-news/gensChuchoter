@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Viktor Orban',fr,unknown,#111111,#111111,2,0.603703500172
+'Viktor Orban',fr,unknown,#111111,#111111,3,0.597636795146
 'Rashida Tlaib',fr,unknown,#111111,#111111,2,0.504792666187
 'Stephen Miller',fr,unknown,#111111,#111111,2,0.504778743908
 'Hoda Kotb',fr,unknown,#111111,#111111,2,0.501813935318
@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.480957166499
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.480784032252
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.480504802981
-'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.479497233014
+'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.480174154199
 'Chappell Roan',fr,unknown,#111111,#111111,3,0.478914069680
 'prince Andrew',fr,unknown,#111111,#111111,3,0.477488065184
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,3,0.477146759281
@@ -34,7 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.469946181243
 'Raphaël Arnault',fr,unknown,#111111,#111111,3,0.469794722379
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.469327531976
-'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.468626511501
+'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.469325081246
 'Tom Homan',fr,unknown,#111111,#111111,3,0.468155178318
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.466829910635
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.466716493328
@@ -791,9 +791,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Finnegan Biden',fr,USA,#18e8e8,#18e8e8,1,0.250985012725
 'Helge Schneider',fr,Deutschland,#1818e8,#1818e8,1,0.250665507544
 'Bettina Jarasch',fr,Deutschland,#1818e8,#1818e8,1,0.250231229158
+'Ursula von der Leyen',fr,EU,#88cc44,#88cc44,1,0.250022194051
 'George Washington',fr,USA,#18e8e8,#18e8e8,2,0.249608241513
 'Anne Will',fr,Deutschland,#1818e8,#1818e8,1,0.248951565346
-'Ursula von der Leyen',fr,EU,#88cc44,#88cc44,1,0.248934679523
 'Ulrich Reitz',fr,Deutschland,#1818e8,#1818e8,1,0.248413608419
 'Mark Rutte',fr,Niederlande,#ffbb33,#ffbb33,3,0.248048466001
 'Patrick Mahomes',fr,unknown,#111111,#111111,1,0.247106755661
@@ -945,6 +945,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Ma',fr,China,#e88818,#e88818,2,0.176523199500
 'Herschel Walker',fr,USA,#18e8e8,#18e8e8,1,0.176467413555
 'Wolodymyr Selenski',fr,Ukraine,#e818e8,#e818e8,1,0.176280755108
+'Viktor Orbán',fr,Ungarn,#111111,#111111,2,0.176193481833
 'David Malpass',fr,USA,#18e8e8,#18e8e8,1,0.175753767218
 'Fidel Castro',fr,Kuba,#dd33aa,#dd33aa,1,0.173605992460
 'Sahra Wagenknecht',fr,Deutschland,#1818e8,#1818e8,3,0.173142414839
@@ -957,7 +958,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Roland Busch',fr,Deutschland,#1818e8,#1818e8,1,0.168787989141
 'Bruno Kahl',fr,Deutschland,#1818e8,#1818e8,1,0.168654066240
 'Andreas Baum',fr,Deutschland,#1818e8,#1818e8,1,0.168427951670
-'Viktor Orbán',fr,Ungarn,#111111,#111111,2,0.167916253130
 'Vitali Klitschko',fr,Ukraine,#e818e8,#e818e8,1,0.167197337529
 'Frank Plasberg',fr,Deutschland,#1818e8,#1818e8,1,0.166619086441
 'Holger Friedrich',fr,Deutschland,#1818e8,#1818e8,1,0.166542517981
