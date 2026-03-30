@@ -58,7 +58,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.452429663773
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.452279558959
-'Charles Kushner',fr,unknown,#111111,#111111,2,0.452278482750
 'Keir Starmer',fr,unknown,#111111,#111111,2,0.452046190947
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.451693970525
 'Mojtaba Khamenei',fr,unknown,#111111,#111111,3,0.450638687754
@@ -257,6 +256,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,2,0.388250575640
 'Keith Kellogg',fr,USA,#18e8e8,#18e8e8,2,0.388230512313
 'Narendra Modi',fr,Indien,#995533,#995533,3,0.385368397764
+'Charles Kushner',fr,unknown,#111111,#111111,1,0.384436755337
 'Billie Eilish',fr,USA,#18e8e8,#18e8e8,2,0.384419519802
 'Radical Optimism',fr,unknown,#111111,#111111,1,0.384209541779
 'Bill Clinton',fr,USA,#18e8e8,#18e8e8,2,0.384147070036
