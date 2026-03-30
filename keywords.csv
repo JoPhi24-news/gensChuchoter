@@ -1,4 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Viktor Orban',fr,unknown,#111111,#111111,2,0.603703500172
+'Rashida Tlaib',fr,unknown,#111111,#111111,2,0.504792666187
+'Stephen Miller',fr,unknown,#111111,#111111,2,0.504778743908
+'Hoda Kotb',fr,unknown,#111111,#111111,2,0.501813935318
+'Corey Lewandowski',fr,unknown,#111111,#111111,2,0.501197507536
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.484882100063
 'Alex Pretti',fr,unknown,#111111,#111111,3,0.484363500054
@@ -384,7 +389,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ayo Edebiri',fr,USA,#18e8e8,#18e8e8,1,0.337019660563
 'Britney Spears',fr,USA,#18e8e8,#18e8e8,2,0.336762545333
 'Ron DeSantis',fr,USA,#18e8e8,#18e8e8,3,0.335952659678
-'Olivier Dussopt',fr,Frankreich,#e8e808,#e8e808,2,0.335932371647
 'Markus Lanz',fr,Deutschland,#1818e8,#1818e8,1,0.335897419045
 'Sam H',fr,unknown,#111111,#111111,2,0.335716503982
 'Lula da Silva',fr,Brasilien,#58e838,#58e848,2,0.335608084458
@@ -684,6 +688,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',fr,unknown,#111111,#111111,1,0.287103437500
 'Warren Buffett',fr,USA,#18e8e8,#18e8e8,2,0.286569954211
 'Jeff Bezos',fr,USA,#18e8e8,#18e8e8,3,0.286473608987
+'Olivier Dussopt',fr,Frankreich,#e8e808,#e8e808,1,0.285542515900
 'Larry Ellison',fr,USA,#18e8e8,#18e8e8,2,0.285251174512
 'Dorothée Pacaud',fr,Frankreich,#e8e808,#e8e808,1,0.284892524369
 'Bob Menendez',fr,unknown,#111111,#111111,1,0.284848446148
