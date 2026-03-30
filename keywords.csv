@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Viktor Orban',fr,unknown,#111111,#111111,3,0.597636795146
+'Viktor Orban',fr,unknown,#111111,#111111,3,0.536230095874
 'Rashida Tlaib',fr,unknown,#111111,#111111,2,0.504792666187
 'Stephen Miller',fr,unknown,#111111,#111111,2,0.504778743908
 'Hoda Kotb',fr,unknown,#111111,#111111,2,0.501813935318
@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Summers',fr,unknown,#111111,#111111,3,0.483983990102
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.482541799493
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.480957166499
+'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.480849725515
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.480784032252
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.480504802981
-'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.480174154199
 'Chappell Roan',fr,unknown,#111111,#111111,3,0.478914069680
 'prince Andrew',fr,unknown,#111111,#111111,3,0.477488065184
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,3,0.477146759281
@@ -941,11 +941,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sandra Maischberger',fr,Deutschland,#1818e8,#1818e8,1,0.179866065763
 'Larry Page',fr,USA,#18e8e8,#18e8e8,2,0.179044766282
 'Hun Sen',fr,Kambodscha,#33aadd,#33aadd,1,0.178567859374
+'Viktor Orbán',fr,Ungarn,#111111,#111111,2,0.177371037820
 'Ola Källenius',fr,Deutschland,#1818e8,#1818e8,2,0.176923180030
 'Jack Ma',fr,China,#e88818,#e88818,2,0.176523199500
 'Herschel Walker',fr,USA,#18e8e8,#18e8e8,1,0.176467413555
 'Wolodymyr Selenski',fr,Ukraine,#e818e8,#e818e8,1,0.176280755108
-'Viktor Orbán',fr,Ungarn,#111111,#111111,2,0.176193481833
 'David Malpass',fr,USA,#18e8e8,#18e8e8,1,0.175753767218
 'Fidel Castro',fr,Kuba,#dd33aa,#dd33aa,1,0.173605992460
 'Sahra Wagenknecht',fr,Deutschland,#1818e8,#1818e8,3,0.173142414839
