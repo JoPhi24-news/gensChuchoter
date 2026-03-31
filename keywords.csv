@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Rashida Tlaib',fr,unknown,#111111,#111111,2,0.504792666187
 'Stephen Miller',fr,unknown,#111111,#111111,2,0.504778743908
 'Hoda Kotb',fr,unknown,#111111,#111111,2,0.501813935318
 'Corey Lewandowski',fr,unknown,#111111,#111111,2,0.501197507536
@@ -153,6 +152,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tony Dokoupil',fr,unknown,#111111,#111111,1,0.429278844195
 'Alexandria Ocasio-Cortez',fr,unknown,#111111,#111111,1,0.429125255091
 'Whoopi Goldberg',fr,USA,#18e8e8,#18e8e8,1,0.429119676187
+'Rashida Tlaib',fr,unknown,#111111,#111111,1,0.429073781259
 'Savannah Guthrie',fr,unknown,#111111,#111111,2,0.429031042840
 'James Gunn',fr,USA,#18e8e8,#18e8e8,2,0.428913624453
 'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.428716690660
