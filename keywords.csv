@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hoda Kotb',fr,unknown,#111111,#111111,1,0.490315623767
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.484882100063
 'Alex Pretti',fr,unknown,#111111,#111111,3,0.484363500054
@@ -214,6 +213,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Attia',fr,unknown,#111111,#111111,1,0.417749339340
 'Margaret Brennan',fr,unknown,#111111,#111111,1,0.417441976237
 'Katherina Reiche',fr,Deutschland,#335599,#335599,2,0.417351196439
+'Hoda Kotb',fr,unknown,#111111,#111111,1,0.417068310202
 'Woody Allen',fr,unknown,#111111,#111111,2,0.416298024016
 'Benny Blanco',fr,USA,#18e8e8,#18e8e8,2,0.415845566696
 'Dua Lipa',fr,UK,#e838e8,#e838e8,2,0.415626570686
