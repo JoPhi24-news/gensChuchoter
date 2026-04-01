@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Corey Lewandowski',fr,unknown,#111111,#111111,2,0.501197507536
 'Hoda Kotb',fr,unknown,#111111,#111111,1,0.490315623767
 'María Corina Machado',fr,unknown,#111111,#111111,2,0.485530060284
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.484882100063
@@ -184,6 +183,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Itamar Ben-Gvir',fr,Israel,#3311cc,#3311cc,2,0.426276178250
 'Kash Patel',fr,unknown,#111111,#111111,1,0.426240470362
 'Paddy Pimblett',fr,unknown,#111111,#111111,1,0.426096236820
+'Corey Lewandowski',fr,unknown,#111111,#111111,1,0.426017881406
 'Chris Cuomo',fr,unknown,#111111,#111111,1,0.425955272520
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.425852087747
 'Tig Notaro',fr,USA,#18e8e8,#18e8e8,1,0.425358127032
