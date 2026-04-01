@@ -729,7 +729,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Cleverly',fr,UK,#e838e8,#e838e8,1,0.272953190844
 'Leonard Bernstein',fr,unknown,#111111,#111111,1,0.272529092384
 'Caroline Ellison',fr,USA,#18e8e8,#18e8e8,1,0.272234787766
-'Laura Ingraham',fr,USA,#18e8e8,#18e8e8,1,0.271685360167
 'Warren Buffet',fr,USA,#18e8e8,#18e8e8,1,0.271396869202
 'Johnny Depp',fr,USA,#18e8e8,#18e8e8,1,0.271384606797
 'Rudy Giuliani',fr,USA,#18e8e8,#18e8e8,1,0.270720323991
@@ -828,6 +827,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Michel',fr,EU,#88cc44,#88cc44,2,0.233118159004
 'Joschka Fischer',fr,Deutschland,#1818e8,#1818e8,1,0.232448751378
 'Pietro Lombardi',fr,Deutschland,#1818e8,#1818e8,1,0.232433602606
+'Laura Ingraham',fr,USA,#18e8e8,#18e8e8,1,0.231082571142
 'Phoebe Bridgers',fr,unknown,#111111,#111111,1,0.229684893207
 'Don Lemon',fr,USA,#18e8e8,#18e8e8,1,0.229640209770
 'Selenskyj',fr,Ukraine,#e818e8,#e818e8,1,0.228601032633
