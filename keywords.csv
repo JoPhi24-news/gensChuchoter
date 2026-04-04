@@ -169,7 +169,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Howard Lutnick',fr,unknown,#111111,#111111,2,0.427738798516
 'Dan Hooker',fr,unknown,#111111,#111111,1,0.427549166499
 'Mark Levin',fr,unknown,#111111,#111111,1,0.427521737708
-'Nanon Williams',fr,unknown,#111111,#111111,1,0.427374435140
 'Sarah Ferguson',fr,unknown,#111111,#111111,1,0.427289916650
 'Nathan Hochman',fr,unknown,#111111,#111111,1,0.427220569220
 'Epstein Files',fr,unknown,#111111,#111111,1,0.427205858177
@@ -310,6 +309,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander De Croo',fr,Belgien,#2266bb,#2266bb,3,0.363839286260
 'Lil Yachty',fr,USA,#18e8e8,#18e8e8,1,0.363830425113
 'Eddie Hearn',fr,UK,#e838e8,#e838e8,1,0.363735105123
+'Nanon Williams',fr,unknown,#111111,#111111,1,0.363268269869
 'Shavkat Rakhmonov',fr,unknown,#111111,#111111,1,0.363145282841
 'Suleika Jaouad',fr,USA,#18e8e8,#18e8e8,1,0.362871379895
 'Omar M. Yaghi',fr,USA,#18e8e8,#18e8e8,1,0.362652655250
