@@ -335,7 +335,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leo XIV',fr,Vatikan,#dd5544,#dd5544,1,0.355379973169
 'Chris Hemsworth',fr,Australien,#aa9933,#aa9933,1,0.354039349134
 'Cruz Beckham',fr,Spanien,#33aa99,#33aa99,1,0.354013561220
-'Joe Jonas',fr,USA,#18e8e8,#18e8e8,2,0.353613284317
 'Ayatollah Khomeini',fr,Iran,#1144ee,#1144ee,1,0.353419246902
 'Lara Trump',fr,USA,#18e8e8,#18e8e8,1,0.353191114947
 'Vivek Ramaswamy',fr,USA,#18e8e8,#18e8e8,2,0.352384338715
@@ -615,6 +614,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Alwyn',fr,unknown,#111111,#111111,1,0.301196052426
 'Jon Hamm',fr,unknown,#111111,#111111,1,0.301113422371
 'Pape François',fr,Vatikan,#58b8e8,#58b8e8,3,0.300578144832
+'Joe Jonas',fr,USA,#18e8e8,#18e8e8,1,0.300571306669
 'Leon Botstein',fr,USA,#18e8e8,#18e8e8,1,0.300324030479
 'George Bush',fr,USA,#18e8e8,#18e8e8,1,0.300140855634
 'Konrad Adenauer',fr,Deutschland,#1818e8,#1818e8,1,0.300058768253
