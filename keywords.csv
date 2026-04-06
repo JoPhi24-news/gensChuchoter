@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Joey Kelly',fr,unknown,#111111,#111111,2,0.506540095759
 'Craig Melvin',fr,unknown,#111111,#111111,2,0.503366481461
 'Tom Cotton',fr,unknown,#111111,#111111,2,0.500096814996
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,3,0.490062725389
@@ -137,6 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert de Niro',fr,USA,#18e8e8,#18e8e8,3,0.430766258314
 'Nawaz Sharif',fr,Pakistan,#bb33ff,#bb33ff,2,0.430631873479
 'Bruna Ferreira',fr,unknown,#111111,#111111,2,0.430626612059
+'Joey Kelly',fr,unknown,#111111,#111111,1,0.430559081395
 'Casey Wasserman',fr,unknown,#111111,#111111,1,0.430502454039
 'Ciryl Gane',fr,unknown,#111111,#111111,1,0.430433435222
 'Robert Kennedy',fr,USA,#18e8e8,#18e8e8,3,0.430353257073
