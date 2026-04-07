@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,3,0.490062725389
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.487855213575
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.487599193115
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.487193649278
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.486975065960
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.484882100063
 'Alex Pretti',fr,unknown,#111111,#111111,3,0.484363500054
@@ -86,6 +85,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.441164710639
 'Michele Singer',fr,unknown,#111111,#111111,1,0.440997621951
 'Kristi Noem',fr,unknown,#111111,#111111,3,0.440578328635
+'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,3,0.440558620290
 'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.440509592569
 'Tim Walz',fr,unknown,#111111,#111111,3,0.440019959779
 'Jacob Frey',fr,unknown,#111111,#111111,2,0.439344955730
@@ -335,9 +335,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stefanie Hubig',fr,Deutschland,#335599,#335599,1,0.356643147602
 'David Cameron',fr,UK,#e838e8,#e838e8,2,0.356422680523
 'Leo XIV',fr,Vatikan,#dd5544,#dd5544,1,0.355379973169
+'Marjorie Taylor Greene',fr,USA,#18e8e8,#18e8e8,1,0.354761815598
 'Chris Hemsworth',fr,Australien,#aa9933,#aa9933,1,0.354039349134
 'Cruz Beckham',fr,Spanien,#33aa99,#33aa99,1,0.354013561220
-'Marjorie Taylor Greene',fr,USA,#18e8e8,#18e8e8,1,0.353843870736
 'Ayatollah Khomeini',fr,Iran,#1144ee,#1144ee,1,0.353419246902
 'Lara Trump',fr,USA,#18e8e8,#18e8e8,1,0.353191114947
 'Vivek Ramaswamy',fr,USA,#18e8e8,#18e8e8,2,0.352384338715
