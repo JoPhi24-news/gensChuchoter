@@ -724,7 +724,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rosalynn Carter',fr,USA,#18e8e8,#18e8e8,1,0.276749523680
 'Lindsey Graham',fr,USA,#18e8e8,#18e8e8,1,0.276376052281
 'Zach Bryan',fr,unknown,#111111,#111111,1,0.276368900776
-'Queen Camilla',fr,UK,#e838e8,#e838e8,1,0.276335058923
 'Imran Khan',fr,unknown,#111111,#111111,1,0.275806097635
 'Mario Czaja',fr,Deutschland,#1818e8,#1818e8,1,0.275591892552
 'Ahmed Al Jaber',fr,unknown,#111111,#111111,1,0.274514141915
@@ -824,6 +823,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harry Belafonte',fr,USA,#18e8e8,#18e8e8,1,0.236547611411
 'Martin Scorsese',fr,USA,#18e8e8,#18e8e8,1,0.236096036506
 'Stephen Hawking',fr,UK,#e838e8,#e838e8,1,0.236015281406
+'Queen Camilla',fr,UK,#e838e8,#e838e8,1,0.234884800085
 'Nadja Abd el Farrag',fr,Deutschland,#1818e8,#1818e8,1,0.233825497678
 'Lee Hsien Loong',fr,Singapur,#cc4488,#cc4488,2,0.233609797535
 'Georg Bätzing',fr,Deutschland,#1818e8,#1818e8,1,0.233197906526
