@@ -196,7 +196,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Khaled al Serr',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Iyad al-Rantisi',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Adnan al-Burj',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
-'John Martinis',fr,USA,#18e8e8,#18e8e8,1,0.424888280759
 'Sam Altman',fr,USA,#18e8e8,#18e8e8,3,0.424785999242
 'Tony Bennett',fr,USA,#18e8e8,#18e8e8,2,0.423854417755
 'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,1,0.423687518940
@@ -321,6 +320,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karol G',fr,Kolumbien,#dd5533,#dd5533,1,0.361888744282
 'George Santos',fr,USA,#18e8e8,#18e8e8,2,0.361764971186
 'Jake Reiner',fr,unknown,#111111,#111111,1,0.361458392162
+'John Martinis',fr,USA,#18e8e8,#18e8e8,1,0.361305053645
 'Veronika Grimm',fr,Deutschland,#335599,#335599,1,0.361250000000
 'Justus Haucap',fr,Deutschland,#335599,#335599,1,0.361250000000
 'LeBron James',fr,USA,#18e8e8,#18e8e8,2,0.360570501986
