@@ -1006,7 +1006,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oliver Blume',fr,Deutschland,#1818e8,#1818e8,1,0.138300011863
 'Subrahmanyam Jaishankar',fr,Indien,#995533,#995533,1,0.138200098678
 'Sergej Lawrow',fr,Russland,#e81818,#e81818,1,0.137358973512
-'MacKenzie Scott',fr,USA,#18e8e8,#18e8e8,1,0.137161966949
 'Dalai Lama',fr,Tibet,#ddaa33,#ddaa33,1,0.136811762433
 'Barbara Walters',fr,USA,#18e8e8,#18e8e8,1,0.136756273949
 'Martin Sonneborn',fr,Deutschland,#1818e8,#1818e8,1,0.136335870511
@@ -1032,6 +1031,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patriarch Kyrill',fr,Ukraine,#e818e8,#e818e8,1,0.118577069372
 'Paul Gosar',fr,USA,#18e8e8,#18e8e8,1,0.118124642604
 'Steffi Lemke',fr,Deutschland,#1818e8,#1818e8,1,0.117698690464
+'MacKenzie Scott',fr,USA,#18e8e8,#18e8e8,1,0.116887701907
 'Alexei Nawalny',fr,Russland,#e81818,#e81818,1,0.116805889737
 'Prinz Archie',fr,UK,#e838e8,#e838e8,1,0.115655533276
 'Ulf Poschardt',fr,Deutschland,#1818e8,#1818e8,1,0.114575012808
