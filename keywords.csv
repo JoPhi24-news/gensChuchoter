@@ -440,6 +440,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerry Seinfeld',fr,USA,#18e8e8,#18e8e8,2,0.326412631438
 'Bill Belichick',fr,USA,#18e8e8,#18e8e8,1,0.326301033855
 'James Comer',fr,USA,#18e8e8,#18e8e8,1,0.326224034800
+'Jamie Dimon',fr,USA,#18e8e8,#18e8e8,2,0.326031088907
 'Geoffrey Hinton',fr,UK,#e838e8,#e838e8,3,0.325515172522
 'Ryan Gosling',fr,Kanada,#55ee33,#55ee33,1,0.325490744169
 'James Cameron',fr,USA,#18e8e8,#18e8e8,2,0.325434058213
@@ -650,7 +651,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nina Gummich',fr,Deutschland,#1818e8,#1818e8,1,0.295579277560
 'Patrick Graichen',fr,Deutschland,#1818e8,#1818e8,1,0.295270705300
 'Billy Graham',fr,USA,#18e8e8,#18e8e8,1,0.295155464364
-'Jamie Dimon',fr,USA,#18e8e8,#18e8e8,1,0.294977716361
 'Jean Carroll',fr,USA,#18e8e8,#18e8e8,1,0.294868767741
 'Henry Kissinger',fr,USA,#18e8e8,#18e8e8,1,0.294750491882
 'William Shakespeare',fr,UK,#e838e8,#e838e8,2,0.294437835001
