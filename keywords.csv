@@ -64,7 +64,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.450117337975
 'Renee Good',fr,unknown,#111111,#111111,3,0.449277886690
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.449197570525
-'Michele Reiner',fr,unknown,#111111,#111111,2,0.448494884084
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.448299397630
 'Sergio Mattarella',fr,Italien,#33dd55,#33dd55,2,0.447946641298
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,2,0.447734405841
@@ -264,6 +263,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Javier Milei',fr,Argentinien,#6622bb,#6622bb,3,0.383435885904
 'Richard Robson',fr,Australien,#aa9933,#aa9933,1,0.383304689900
 'Ron Howard',fr,USA,#18e8e8,#18e8e8,1,0.381890005685
+'Michele Reiner',fr,unknown,#111111,#111111,1,0.381220681471
 'Karsten Wildberger',fr,Deutschland,#335599,#335599,1,0.380695861072
 'Jake Paul',fr,USA,#18e8e8,#18e8e8,1,0.379627453276
 'Henry Samuel',fr,USA,#18e8e8,#18e8e8,2,0.379283430693
