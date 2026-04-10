@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.495691685209
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.558146209246
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.487599193115
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.486975065960
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.484882100063
@@ -46,9 +46,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.455850529306
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.455475076842
 'Les Wexner',fr,unknown,#111111,#111111,2,0.455273447568
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.453886045457
 'James Bond',fr,unknown,#111111,#111111,3,0.453836437246
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.453156798757
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453093851415
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.453028308171
 'Amélie de Montchalin',fr,unknown,#111111,#111111,1,0.452522780492
@@ -794,9 +794,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bettina Jarasch',fr,Deutschland,#1818e8,#1818e8,1,0.250231229158
 'Ursula von der Leyen',fr,EU,#88cc44,#88cc44,1,0.250022194051
 'George Washington',fr,USA,#18e8e8,#18e8e8,2,0.249608241513
+'Mark Rutte',fr,Niederlande,#ffbb33,#ffbb33,3,0.249137229140
 'Anne Will',fr,Deutschland,#1818e8,#1818e8,1,0.248951565346
 'Ulrich Reitz',fr,Deutschland,#1818e8,#1818e8,1,0.248413608419
-'Mark Rutte',fr,Niederlande,#ffbb33,#ffbb33,3,0.248048466001
 'Patrick Mahomes',fr,unknown,#111111,#111111,1,0.247106755661
 'Gérard Biard',fr,Frankreich,#e8e808,#e8e808,1,0.246832408218
 'Jerome Powell',fr,USA,#18e8e8,#18e8e8,3,0.246311349945
