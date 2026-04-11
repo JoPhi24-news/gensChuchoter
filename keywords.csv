@@ -122,7 +122,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert de Niro',fr,USA,#18e8e8,#18e8e8,3,0.431539500972
 'Alex Pretti',fr,unknown,#111111,#111111,2,0.431433799562
 'Kaitlan Collins',fr,unknown,#111111,#111111,1,0.431370475853
-'Savannah Guthrie',fr,unknown,#111111,#111111,2,0.431356383126
 'Kamaru Usman',fr,unknown,#111111,#111111,1,0.431339545692
 'Michelle Reiner',fr,unknown,#111111,#111111,1,0.431228537088
 'Lisa Müller',fr,unknown,#111111,#111111,1,0.431109635953
@@ -207,6 +206,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Attia',fr,unknown,#111111,#111111,1,0.417749339340
 'Margaret Brennan',fr,unknown,#111111,#111111,1,0.417441976237
 'Katherina Reiche',fr,Deutschland,#335599,#335599,2,0.417351196439
+'Savannah Guthrie',fr,unknown,#111111,#111111,2,0.417102970657
 'Hoda Kotb',fr,unknown,#111111,#111111,1,0.417068310202
 'Woody Allen',fr,unknown,#111111,#111111,2,0.416298024016
 'Benny Blanco',fr,USA,#18e8e8,#18e8e8,2,0.415845566696
