@@ -554,7 +554,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Downey Jr',fr,unknown,#111111,#111111,2,0.309359181155
 'Eric Trump',fr,unknown,#111111,#111111,3,0.309338634588
 'Evgueni Prigojine',fr,Russland,#e81818,#e81818,1,0.309232936393
-'Drew Bledsoe',fr,unknown,#111111,#111111,1,0.309217158069
 'Linda Yaccarino',fr,USA,#18e8e8,#18e8e8,2,0.309000383010
 'Victoria Monét',fr,unknown,#111111,#111111,1,0.308965552614
 'Cassidy Hutchinson',fr,unknown,#111111,#111111,1,0.308904662540
@@ -763,6 +762,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jake Gyllenhaal',fr,unknown,#111111,#111111,1,0.263487442016
 'Kim Jong-un',fr,NordKorea,#e85858,#e85858,3,0.263338643521
 'Aleksandar Vučić',fr,Serbien,#8844cc,#8844cc,2,0.263133522331
+'Drew Bledsoe',fr,unknown,#111111,#111111,1,0.262834584359
 'Tom Hanks',fr,unknown,#111111,#111111,1,0.262340707580
 'George Floyd',fr,USA,#18e8e8,#18e8e8,1,0.262311358490
 'Jason Whitlock',fr,unknown,#111111,#111111,1,0.261952567552
