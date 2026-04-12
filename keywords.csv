@@ -213,9 +213,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Guy Ritchie',fr,UK,#e838e8,#e838e8,2,0.415199150832
 'Chris Wright',fr,USA,#18e8e8,#18e8e8,2,0.413317892528
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.413082229489
+'Jack Antonoff',fr,unknown,#111111,#111111,2,0.412653366702
 'Kamala Harris',fr,USA,#18e8e8,#18e8e8,3,0.412556976738
+'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,1,0.412196737452
 'Bruno Le Maire',fr,Frankreich,#e8e808,#e8e808,3,0.411544226879
-'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,1,0.411385949949
 'John M. Martinis',fr,USA,#18e8e8,#18e8e8,1,0.411102944000
 'Brigitte Bardot',fr,unknown,#111111,#111111,2,0.410919339941
 'Poutine',fr,Russland,#e81818,#e81818,3,0.410180890096
@@ -557,7 +558,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Linda Yaccarino',fr,USA,#18e8e8,#18e8e8,2,0.309000383010
 'Victoria Monét',fr,unknown,#111111,#111111,1,0.308965552614
 'Cassidy Hutchinson',fr,unknown,#111111,#111111,1,0.308904662540
-'Jack Antonoff',fr,unknown,#111111,#111111,1,0.308827472591
 'Tom Kaulitz',fr,unknown,#111111,#111111,1,0.308676808992
 'Pete Davidson',fr,USA,#18e8e8,#18e8e8,1,0.308643624735
 'King Charles',fr,UK,#e838e8,#e838e8,2,0.308586553706
