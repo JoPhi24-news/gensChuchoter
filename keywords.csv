@@ -1,13 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Joe Kent',fr,unknown,#111111,#111111,2,0.496448827061
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.487599193115
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.486975065960
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.484882100063
 'laffaire Epstein',fr,unknown,#111111,#111111,2,0.484135928515
 'Larry Summers',fr,unknown,#111111,#111111,3,0.483983990102
 'prince Andrew',fr,unknown,#111111,#111111,3,0.483567753346
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.483380331583
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.482868365428
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.482709818222
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.482541799493
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.480784032252
 'Chappell Roan',fr,unknown,#111111,#111111,3,0.478914069680
@@ -93,10 +92,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Gaethje',fr,unknown,#111111,#111111,1,0.437219642090
 'Bari Weiss',fr,unknown,#111111,#111111,1,0.436838833377
 'Pam Bondi',fr,unknown,#111111,#111111,2,0.436773728806
+'JD Vance',fr,USA,#18e8e8,#18e8e8,2,0.436701029388
 'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.436615182181
 'Nick Reiner',fr,unknown,#111111,#111111,1,0.436380496213
 'Charlie Kirk',fr,USA,#18e8e8,#18e8e8,3,0.436187863125
-'JD Vance',fr,USA,#18e8e8,#18e8e8,2,0.435937896687
 'Amélie de Montchalin',fr,unknown,#111111,#111111,3,0.435916773611
 'Fred Ramsdel',fr,USA,#18e8e8,#18e8e8,1,0.435844606955
 'Yves Bournazel',fr,Frankreich,#e8e808,#e8e808,2,0.435340557655
@@ -109,6 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Howitt',fr,USA,#18e8e8,#18e8e8,1,0.433306936263
 'Susumu Kitagawa',fr,Japan,#33aa99,#33aa99,1,0.432776572270
 'Joy Reid',fr,unknown,#111111,#111111,1,0.432760259415
+'Joe Kent',fr,unknown,#111111,#111111,2,0.432726524844
 'Scott Jennings',fr,unknown,#111111,#111111,1,0.432648526862
 'Justin Bieber',fr,Kanada,#55ee33,#55ee33,2,0.432257728132
 'Ian Machado Garry',fr,unknown,#111111,#111111,1,0.432253222026
