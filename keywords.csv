@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Peter Magyar',fr,Ungarn,#33aa99,#33aa99,3,0.625449142732
 'Penny Green',fr,unknown,#111111,#111111,3,0.610000000000
 'Myron Ebell',fr,USA,#18e8e8,#111111,3,0.610000000000
 'Michael Lynk',fr,unknown,#111111,#111111,3,0.610000000000
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avi Dichter',fr,unknown,#111111,#111111,3,0.610000000000
 'Amos Goldberg',fr,unknown,#111111,#111111,3,0.610000000000
 'Amihai Eliyahu',fr,unknown,#111111,#111111,3,0.610000000000
+'Peter Magyar',fr,Ungarn,#33aa99,#33aa99,3,0.600220099959
 'Yoav Gallant ',fr,unknown,#111111,#111111,2,0.518500045000
 'William Schabas ',fr,unknown,#111111,#111111,1,0.518500000000
 'Thilo Jung',fr,unknown,#111111,#111111,1,0.518500000000
@@ -23,11 +23,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'René Gelber',fr,unknown,#111111,#111111,1,0.518500000000
 'Raz Segal',fr,unknown,#111111,#111111,2,0.518500000000
 'Norbert Rollinger',fr,Deutschland,#11dd44,#11dd44,1,0.518500000000
-'Viktor Orban',fr,unknown,#111111,#111111,3,0.490071866714
+'Viktor Orban',fr,unknown,#111111,#111111,3,0.495927282373
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.487599193115
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.486975065960
+'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.485541140053
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.484882100063
-'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.484874947241
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.484717347244
 'laffaire Epstein',fr,unknown,#111111,#111111,2,0.484135928515
 'Larry Summers',fr,unknown,#111111,#111111,3,0.483983990102
@@ -43,10 +43,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.473491021081
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.472579137885
 'reine Mathilde',fr,unknown,#111111,#111111,2,0.472107469267
+'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.472105492242
 'Ali Larijani',fr,unknown,#111111,#111111,3,0.472095121892
 'Jack Lang',fr,unknown,#111111,#111111,3,0.471647733618
 'David Amiel',fr,unknown,#111111,#111111,2,0.471601230636
-'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.471412464738
 'Delcy Rodríguez',fr,unknown,#111111,#111111,2,0.470766916743
 'Quand Harry',fr,unknown,#111111,#111111,2,0.470763964052
 'Affaire Epstein',fr,unknown,#111111,#111111,3,0.470113009623
@@ -914,6 +914,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joachim Gauck',fr,Deutschland,#1818e8,#1818e8,1,0.204717067683
 'Maybrit Illner',fr,Deutschland,#1818e8,#1818e8,1,0.203896076570
 'Alfred Bernhard Nobel',fr,Schweden,#ddee11,#ddee11,1,0.203660738437
+'Viktor Orbán',fr,Ungarn,#111111,#111111,2,0.202952042756
 'Olli Schulz',fr,Deutschland,#1818e8,#1818e8,1,0.202186417777
 'Antony Blinken',fr,USA,#18e8e8,#18e8e8,2,0.202128178476
 'Angela Merkel',fr,Deutschland,#1818e8,#1818e8,2,0.201603227124
@@ -930,7 +931,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Zuckerberg',fr,USA,#18e8e8,#18e8e8,3,0.196834400935
 'Chez Krömer',fr,Deutschland,#1818e8,#1818e8,1,0.196397363044
 'Mike Pence',fr,USA,#18e8e8,#18e8e8,1,0.196391398584
-'Viktor Orbán',fr,Ungarn,#111111,#111111,2,0.196038640494
 'Katharina König-Press',fr,Deutschland,#1818e8,#1818e8,2,0.195749463335
 'Michelle O\'Neill',fr,Irland,#4488cc,#4488cc,1,0.195665125443
 'Charles Koch',fr,USA,#18e8e8,#18e8e8,2,0.195358545707
