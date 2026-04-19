@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Isaac Herzog',fr,unknown,#111111,#111111,3,0.610000000000
 'Hannu Halinen',fr,unknown,#111111,#111111,3,0.610000000000
 'Giorgio Goacomelli',fr,unknown,#111111,#111111,3,0.610000000000
 'Daniel Hagari',fr,unknown,#111111,#111111,3,0.610000000000
@@ -9,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Amihai Eliyahu',fr,unknown,#111111,#111111,3,0.610000000000
 'Peter Magyar',fr,Ungarn,#33aa99,#33aa99,3,0.600220099959
 'Martin Shaw',fr,unknown,#111111,#111111,3,0.518650015000
+'Isaac Herzog',fr,unknown,#111111,#111111,1,0.518500165000
 'Yoav Gallant ',fr,unknown,#111111,#111111,2,0.518500045000
 'Penny Green',fr,unknown,#111111,#111111,1,0.518500015000
 'William Schabas ',fr,unknown,#111111,#111111,1,0.518500000000
