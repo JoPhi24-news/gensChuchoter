@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Amos Goldberg',fr,unknown,#111111,#111111,3,0.610000000000
 'Amihai Eliyahu',fr,unknown,#111111,#111111,3,0.610000000000
 'Péter Magyar',fr,unknown,#111111,#111111,2,0.609436816996
 'Peter Magyar',fr,Ungarn,#33aa99,#33aa99,3,0.600220099959
@@ -24,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Giorgio Goacomelli',fr,unknown,#111111,#111111,1,0.518500000000
 'Daniel Hagari',fr,unknown,#111111,#111111,1,0.518500000000
 'Avi Dichter',fr,unknown,#111111,#111111,2,0.518500000000
+'Amos Goldberg',fr,unknown,#111111,#111111,1,0.518500000000
 'Diane Keaton',fr,unknown,#111111,#111111,2,0.509856263182
 'Eric Dane',fr,unknown,#111111,#111111,2,0.507260285061
 'Kelly Ripa',fr,unknown,#111111,#111111,2,0.504164185274
