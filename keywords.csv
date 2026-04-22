@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Peter Magyar',fr,Ungarn,#33aa99,#33aa99,3,0.600659157251
 'Péter Magyar',fr,unknown,#111111,#111111,3,0.587234776677
+'Peter Magyar',fr,Ungarn,#33aa99,#33aa99,3,0.533694111845
 'Chris Soto',fr,unknown,#111111,#111111,3,0.519100060000
 'Martin Shaw',fr,unknown,#111111,#111111,3,0.518650015000
 'Isaac Herzog',fr,unknown,#111111,#111111,1,0.518500165000
@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Amos Goldberg',fr,unknown,#111111,#111111,1,0.518500000000
 'Diane Keaton',fr,unknown,#111111,#111111,2,0.509856263182
 'Eric Dane',fr,unknown,#111111,#111111,2,0.507260285061
-'Viktor Orban',fr,unknown,#111111,#111111,3,0.504828792946
+'Viktor Orban',fr,unknown,#111111,#111111,3,0.506704050053
 'Kelly Ripa',fr,unknown,#111111,#111111,2,0.504164185274
 'Howie Mandel',fr,unknown,#111111,#111111,2,0.501920418436
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.488852209522
@@ -827,8 +827,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Washington',fr,USA,#18e8e8,#18e8e8,2,0.249608241513
 'Mark Rutte',fr,Niederlande,#ffbb33,#ffbb33,3,0.249137229140
 'Anne Will',fr,Deutschland,#1818e8,#1818e8,1,0.248951565346
+'Viktor Orbán',fr,Ungarn,#111111,#111111,2,0.248825662578
 'Ulrich Reitz',fr,Deutschland,#1818e8,#1818e8,1,0.248413608419
-'Viktor Orbán',fr,Ungarn,#111111,#111111,2,0.247736460678
 'Patrick Mahomes',fr,unknown,#111111,#111111,1,0.247106755661
 'Gérard Biard',fr,Frankreich,#e8e808,#e8e808,1,0.246832408218
 'Jerome Powell',fr,USA,#18e8e8,#18e8e8,3,0.246311349945
