@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Péter Magyar',fr,unknown,#111111,#111111,3,0.527388905175
 'Chris Soto',fr,unknown,#111111,#111111,3,0.519100060000
 'Martin Shaw',fr,unknown,#111111,#111111,3,0.518650015000
 'Isaac Herzog',fr,unknown,#111111,#111111,1,0.518500165000
@@ -59,6 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.469946181243
 'Raphaël Arnault',fr,unknown,#111111,#111111,3,0.469794722379
 'Tom Homan',fr,unknown,#111111,#111111,3,0.468155178318
+'Péter Magyar',fr,unknown,#111111,#111111,3,0.466868883035
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.466829910635
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.466716493328
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.465930439463
@@ -321,10 +321,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sohn Nick',fr,unknown,#111111,#111111,1,0.368200228914
 'Duke Henri',fr,Luxemburg,#55dd33,#55dd33,1,0.368187357295
 'Callum Turner',fr,UK,#e838e8,#e838e8,1,0.368099144960
+'Benyamin Netanyahou',fr,Israel,#3311cc,#3311cc,2,0.367640965523
 'Jennifer Garner',fr,USA,#18e8e8,#18e8e8,2,0.367533489993
 'Olivia Nuzzi',fr,USA,#18e8e8,#18e8e8,1,0.367079183712
 'Jon Jones',fr,USA,#18e8e8,#18e8e8,1,0.366930863077
-'Benyamin Netanyahou',fr,Israel,#3311cc,#3311cc,2,0.366746372731
 'Sarah Stier',fr,unknown,#111111,#111111,1,0.366300418412
 'Nicola Peltz',fr,USA,#18e8e8,#18e8e8,1,0.365934249802
 'Brooklyn Beckham',fr,UK,#e838e8,#e838e8,2,0.365914573202
@@ -816,12 +816,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ivanka Trump',fr,unknown,#111111,#111111,1,0.257486638313
 'Joey Fatone',fr,unknown,#111111,#111111,1,0.257431835468
 'Alvin Bragg',fr,USA,#18e8e8,#18e8e8,1,0.256935814183
+'Viktor Orbán',fr,Ungarn,#111111,#111111,2,0.256406964960
 'Jair Bolsonaro',fr,Brasilien,#58e838,#58e848,3,0.255491627554
 'Willy Brandt',fr,Deutschland,#1818e8,#1818e8,1,0.254272689006
 'Markus Söder',fr,Deutschland,#1818e8,#1818e8,1,0.253983484564
 'Paul Ronzheimer',fr,Deutschland,#1818e8,#1818e8,2,0.253622557034
 'Ursula von der Leyen',fr,EU,#88cc44,#88cc44,1,0.253275503504
-'Viktor Orbán',fr,Ungarn,#111111,#111111,2,0.253167103531
 'Finnegan Biden',fr,USA,#18e8e8,#18e8e8,1,0.250985012725
 'Helge Schneider',fr,Deutschland,#1818e8,#1818e8,1,0.250665507544
 'Bettina Jarasch',fr,Deutschland,#1818e8,#1818e8,1,0.250231229158
