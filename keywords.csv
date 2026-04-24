@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'William Schabas ',fr,unknown,#111111,#111111,1,0.518500000000
 'Thilo Jung',fr,unknown,#111111,#111111,1,0.518500000000
 'Sebastian Hille',fr,unknown,#111111,#111111,1,0.518500000000
 'Richard Falk',fr,unknown,#111111,#111111,1,0.518500000000
@@ -111,6 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Singer',fr,unknown,#111111,#111111,1,0.440997621951
 'Yoav Gallant ',fr,unknown,#111111,#111111,1,0.440725068250
 'Amihai Eliyahu',fr,unknown,#111111,#111111,1,0.440725012750
+'William Schabas ',fr,unknown,#111111,#111111,1,0.440725000000
 'Kristi Noem',fr,unknown,#111111,#111111,3,0.440578328635
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,3,0.440558620290
 'Tim Walz',fr,unknown,#111111,#111111,3,0.440019959779
