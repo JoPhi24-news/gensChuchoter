@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Raz Segal',fr,unknown,#111111,#111111,2,0.518500000000
 'Norbert Rollinger',fr,Deutschland,#11dd44,#11dd44,1,0.518500000000
 'Myron Ebell',fr,USA,#18e8e8,#111111,1,0.518500000000
 'Michael Lynk',fr,unknown,#111111,#111111,1,0.518500000000
@@ -111,6 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard Falk',fr,unknown,#111111,#111111,1,0.440725000000
 'Revital Gottlieb',fr,unknown,#111111,#111111,1,0.440725000000
 'René Gelber',fr,unknown,#111111,#111111,1,0.440725000000
+'Raz Segal',fr,unknown,#111111,#111111,1,0.440725000000
 'Kristi Noem',fr,unknown,#111111,#111111,3,0.440578328635
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,3,0.440558620290
 'Tim Walz',fr,unknown,#111111,#111111,3,0.440019959779
