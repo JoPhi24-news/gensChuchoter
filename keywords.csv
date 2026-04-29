@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Viktor Orban',fr,unknown,#111111,#111111,3,0.510420986870
 'Diane Keaton',fr,unknown,#111111,#111111,2,0.509856263182
 'Mark Consuelos',fr,unknown,#111111,#111111,2,0.507643626012
 'Eric Dane',fr,unknown,#111111,#111111,2,0.507260285061
@@ -15,16 +14,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Summers',fr,unknown,#111111,#111111,3,0.483983990102
 'prince Andrew',fr,unknown,#111111,#111111,3,0.483567753346
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.482541799493
+'Viktor Orban',fr,unknown,#111111,#111111,3,0.482059615936
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.480784032252
 'Chappell Roan',fr,unknown,#111111,#111111,3,0.478914069680
 'Isaac Herzog',fr,unknown,#111111,#111111,1,0.477891674463
 'Noël Barrot',fr,unknown,#111111,#111111,3,0.477166964153
 'Steve Bannon',fr,unknown,#111111,#111111,1,0.476097282810
 'Andrew Windsor',fr,unknown,#111111,#111111,1,0.475757348780
+'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.474176308535
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.474116783697
 'Renee Nicole Good',fr,unknown,#111111,#111111,3,0.473788543142
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.473491021081
-'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.472797140385
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.472579137885
 'reine Mathilde',fr,unknown,#111111,#111111,2,0.472107469267
 'Ali Larijani',fr,unknown,#111111,#111111,3,0.472095121892
@@ -85,9 +85,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.443517384991
 'Claire Legendre',fr,unknown,#111111,#111111,2,0.443480281736
 'Francesca Albanese',fr,Italien,#33dd55,#33dd55,2,0.442019771448
+'JD Vance',fr,USA,#18e8e8,#18e8e8,2,0.442001230663
 'Quentin Deranque',fr,unknown,#111111,#111111,3,0.441376603949
 'Kendrick Lamar',fr,USA,#18e8e8,#18e8e8,1,0.441335607597
-'JD Vance',fr,USA,#18e8e8,#18e8e8,2,0.441248514234
 'Chris Soto',fr,unknown,#111111,#111111,2,0.441235111000
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.441164710639
 'Penny Green',fr,unknown,#111111,#111111,1,0.441025042750
