@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Amos Goldberg',fr,unknown,#111111,#111111,1,0.518500000000
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.510420986870
 'Diane Keaton',fr,unknown,#111111,#111111,2,0.509856263182
 'Mark Consuelos',fr,unknown,#111111,#111111,2,0.507643626012
@@ -112,6 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Giorgio Goacomelli',fr,unknown,#111111,#111111,1,0.440725000000
 'Daniel Hagari',fr,unknown,#111111,#111111,1,0.440725000000
 'Avi Dichter',fr,unknown,#111111,#111111,1,0.440725000000
+'Amos Goldberg',fr,unknown,#111111,#111111,1,0.440725000000
 'Kristi Noem',fr,unknown,#111111,#111111,3,0.440578328635
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,3,0.440558620290
 'Tim Walz',fr,unknown,#111111,#111111,3,0.440019959779
