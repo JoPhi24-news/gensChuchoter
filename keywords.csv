@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Howie Mandel',fr,unknown,#111111,#111111,2,0.501920418436
 'Peter Magyar',fr,Ungarn,#33aa99,#33aa99,3,0.495921671699
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.488852209522
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.487599193115
@@ -200,6 +199,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MARGARET BRENNAN',fr,unknown,#111111,#111111,2,0.427133432114
 'Kash Patel',fr,unknown,#111111,#111111,1,0.427022531002
 'Alan Jackson',fr,unknown,#111111,#111111,1,0.426796482495
+'Howie Mandel',fr,unknown,#111111,#111111,1,0.426632355671
 'James Van Der Beek',fr,unknown,#111111,#111111,1,0.426523648480
 'Mark Kelly',fr,unknown,#111111,#111111,1,0.426393603630
 'David Beckham',fr,UK,#e838e8,#e838e8,2,0.426328808091
