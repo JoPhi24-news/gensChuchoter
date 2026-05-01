@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'laffaire Epstein',fr,unknown,#111111,#111111,3,0.557208836057
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.493535901635
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.491976180742
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.488852209522
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.474116783697
 'Renee Nicole Good',fr,unknown,#111111,#111111,3,0.473788543142
 'Jack Lang',fr,unknown,#111111,#111111,3,0.473721278356
+'laffaire Epstein',fr,unknown,#111111,#111111,2,0.473628095648
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.473491021081
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.472579137885
 'reine Mathilde',fr,unknown,#111111,#111111,2,0.472107469267
