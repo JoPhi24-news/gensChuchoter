@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.495868778045
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.490118354975
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.488852209522
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.487599193115
 'prince Andrew',fr,unknown,#111111,#111111,3,0.486898439910
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.484882100063
 'Larry Summers',fr,unknown,#111111,#111111,3,0.483983990102
-'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.483212648075
+'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.483882158163
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.480784032252
 'Chappell Roan',fr,unknown,#111111,#111111,3,0.478914069680
 'Isaac Herzog',fr,unknown,#111111,#111111,1,0.477891674463
@@ -199,6 +199,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Epstein Files',fr,unknown,#111111,#111111,1,0.427205858177
 'MARGARET BRENNAN',fr,unknown,#111111,#111111,2,0.427133432114
 'Alan Jackson',fr,unknown,#111111,#111111,1,0.426796482495
+'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.426634903766
 'Howie Mandel',fr,unknown,#111111,#111111,1,0.426632355671
 'James Van Der Beek',fr,unknown,#111111,#111111,1,0.426523648480
 'Mark Kelly',fr,unknown,#111111,#111111,1,0.426393603630
@@ -208,7 +209,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paddy Pimblett',fr,unknown,#111111,#111111,1,0.426096236820
 'Corey Lewandowski',fr,unknown,#111111,#111111,1,0.426017881406
 'Chris Cuomo',fr,unknown,#111111,#111111,1,0.425955272520
-'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.425852087747
 'Tom Cotton',fr,unknown,#111111,#111111,2,0.425682352747
 'Tig Notaro',fr,USA,#18e8e8,#18e8e8,1,0.425358127032
 'Mary Brunkow',fr,USA,#18e8e8,#18e8e8,1,0.425347780013
@@ -442,6 +442,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mike Johnson',fr,USA,#18e8e8,#18e8e8,2,0.332234079533
 'Indiana Jones',fr,USA,#18e8e8,#18e8e8,2,0.331941531932
 'Bronny James',fr,USA,#18e8e8,#18e8e8,2,0.331677759062
+'Tim Cook',fr,USA,#18e8e8,#18e8e8,3,0.331556249431
 'Xi Jinping',fr,China,#e88818,#e88818,3,0.331342023103
 'Benny Safdie',fr,USA,#18e8e8,#18e8e8,1,0.331175149671
 'Nathalie Emmanuel',fr,UK,#e838e8,#e838e8,2,0.331128240213
@@ -451,7 +452,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Brady',fr,USA,#18e8e8,#18e8e8,1,0.330488961710
 'Robert Badinter',fr,Frankreich,#e8e808,#e8e808,1,0.329945436401
 'Rupert Murdoch',fr,USA,#18e8e8,#18e8e8,1,0.329931110852
-'Tim Cook',fr,USA,#18e8e8,#18e8e8,3,0.329636936292
 'Robert Oppenheimer',fr,USA,#18e8e8,#18e8e8,1,0.329527373526
 'Chris Christie',fr,USA,#18e8e8,#18e8e8,1,0.329516263013
 'Recep Tayyip Erdoan',fr,Türkei,#66bb22,#66bb22,2,0.329300123303
