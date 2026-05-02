@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.538240100431
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.503364781275
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.495868778045
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.488852209522
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.487599193115
+'prince Andrew',fr,unknown,#111111,#111111,3,0.486898439910
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
-'prince Andrew',fr,unknown,#111111,#111111,3,0.484904021744
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.484882100063
 'Larry Summers',fr,unknown,#111111,#111111,3,0.483983990102
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.483212648075
@@ -15,8 +15,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Bannon',fr,unknown,#111111,#111111,1,0.476097282810
 'Jack Lang',fr,unknown,#111111,#111111,3,0.475782461245
 'Andrew Windsor',fr,unknown,#111111,#111111,1,0.475757348780
-'laffaire Epstein',fr,unknown,#111111,#111111,2,0.474316712387
-'Affaire Epstein',fr,unknown,#111111,#111111,3,0.474265978096
+'laffaire Epstein',fr,unknown,#111111,#111111,2,0.475003957741
+'Affaire Epstein',fr,unknown,#111111,#111111,3,0.474953324496
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.474176308535
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.474116783697
 'Renee Nicole Good',fr,unknown,#111111,#111111,3,0.473788543142
@@ -71,10 +71,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.447938498385
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,2,0.447734405841
 'Leslie Wexner',fr,unknown,#111111,#111111,2,0.446163335264
+'Pam Bondi',fr,unknown,#111111,#111111,2,0.445813676837
 'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.445710725841
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,3,0.445623545908
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,3,0.445561357315
-'Pam Bondi',fr,unknown,#111111,#111111,2,0.445068472985
 'Markwayne Mullin',fr,unknown,#111111,#111111,2,0.444879065857
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444813958353
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
@@ -135,6 +135,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Howitt',fr,USA,#18e8e8,#18e8e8,1,0.433306936263
 'Susumu Kitagawa',fr,Japan,#33aa99,#33aa99,1,0.432776572270
 'Joy Reid',fr,unknown,#111111,#111111,1,0.432760259415
+'Andrew Mountbatten Windsor',fr,unknown,#111111,#111111,1,0.432738397226
 'Joe Kent',fr,unknown,#111111,#111111,2,0.432726524844
 'Scott Jennings',fr,unknown,#111111,#111111,1,0.432648526862
 'Justin Bieber',fr,Kanada,#55ee33,#55ee33,2,0.432257728132
@@ -144,7 +145,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Romy Reiner',fr,unknown,#111111,#111111,2,0.432023319363
 'Michele Singer Reiner',fr,unknown,#111111,#111111,1,0.431988278978
 'Ben Shapiro',fr,unknown,#111111,#111111,1,0.431974036422
-'Andrew Mountbatten Windsor',fr,unknown,#111111,#111111,1,0.431967499747
 'Bill Maher',fr,unknown,#111111,#111111,1,0.431788174780
 'Harry Met Sally',fr,unknown,#111111,#111111,2,0.431630371018
 'Robert de Niro',fr,USA,#18e8e8,#18e8e8,3,0.431539500972
@@ -427,8 +427,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam H',fr,unknown,#111111,#111111,2,0.335716503982
 'Lula da Silva',fr,Brasilien,#58e838,#58e848,2,0.335608084458
 'Robert Francis Prevost',fr,USA,#18e8e8,#18e8e8,1,0.335550554908
+'Gigi Hadid',fr,USA,#18e8e8,#18e8e8,1,0.335416352022
 'nan nan',fr,unknown,#dddddd,#dddddd,1,0.335411768553
-'Gigi Hadid',fr,USA,#18e8e8,#18e8e8,1,0.334464210080
 'Aurélien Rousseau',fr,Frankreich,#e8e808,#e8e808,1,0.334305013868
 'Helmut Kohl',fr,Deutschland,#1818e8,#1818e8,1,0.334236744520
 'Willem Dafoe',fr,USA,#18e8e8,#18e8e8,1,0.333452193872
@@ -840,7 +840,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gorbatschow',fr,unknown,#111111,#111111,1,0.244037921875
 'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.244037921875
 'Afida Turner',fr,Frankreich,#e8e808,#e8e808,1,0.243889550148
-'Bill Gates',fr,USA,#18e8e8,#18e8e8,3,0.242443474146
+'Bill Gates',fr,USA,#18e8e8,#18e8e8,3,0.243540052914
 'Cyril Ramaphosa',fr,Südafrika,#ee4411,#ee4411,3,0.241920832267
 'Buzz Aldrin',fr,USA,#18e8e8,#18e8e8,1,0.241406527147
 'Kevin Kühnert',fr,Deutschland,#1818e8,#1818e8,1,0.241224347799
