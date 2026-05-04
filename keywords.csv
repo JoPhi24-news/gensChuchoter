@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jacob Elordi',fr,unknown,#111111,#111111,2,0.505892540741
-'Sydney Sweeney',fr,unknown,#111111,#111111,2,0.505478064511
+'Jacob Elordi',fr,unknown,#111111,#111111,3,0.509509109630
+'Sydney Sweeney',fr,unknown,#111111,#111111,2,0.508590799134
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.489412666429
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.488852209522
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.487599193115
@@ -53,7 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.455850529306
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.455475076842
 'Les Wexner',fr,unknown,#111111,#111111,2,0.455273447568
-'James Bond',fr,unknown,#111111,#111111,3,0.453836437246
+'James Bond',fr,unknown,#111111,#111111,3,0.454564340254
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453093851415
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.453028308171
@@ -434,11 +434,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'nan nan',fr,unknown,#dddddd,#dddddd,1,0.335411768553
 'Aurélien Rousseau',fr,Frankreich,#e8e808,#e8e808,1,0.334305013868
 'Helmut Kohl',fr,Deutschland,#1818e8,#1818e8,1,0.334236744520
+'Pedro Pascal',fr,Chile,#11fe4211,#11fe4211,2,0.333911206609
 'Willem Dafoe',fr,USA,#18e8e8,#18e8e8,1,0.333452193872
 'Ainsley Earhardt',fr,USA,#18e8e8,#18e8e8,1,0.333173990747
 'Robert De Niro',fr,USA,#18e8e8,#18e8e8,1,0.333126771243
 'Clément Beaune',fr,Frankreich,#e8e808,#e8e808,2,0.332996456566
-'Pedro Pascal',fr,Chile,#11fe4211,#11fe4211,2,0.332956451388
 'Tim Cook',fr,USA,#18e8e8,#18e8e8,3,0.332513425137
 'Matteo Salvini',fr,Italien,#33dd55,#33dd55,2,0.332453296676
 'Gisele Bündchen',fr,Brasilien,#58e838,#58e838,1,0.332433752749
