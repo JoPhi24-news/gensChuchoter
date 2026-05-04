@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Angus Cloud',fr,unknown,#111111,#111111,2,0.507736006444
 'Jacob Elordi',fr,unknown,#111111,#111111,2,0.505892540741
 'Sydney Sweeney',fr,unknown,#111111,#111111,2,0.505478064511
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.489412666429
@@ -150,6 +149,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ben Shapiro',fr,unknown,#111111,#111111,1,0.431974036422
 'Bill Maher',fr,unknown,#111111,#111111,1,0.431788174780
 'Harry Met Sally',fr,unknown,#111111,#111111,2,0.431630371018
+'Angus Cloud',fr,unknown,#111111,#111111,1,0.431575695477
 'Robert de Niro',fr,USA,#18e8e8,#18e8e8,3,0.431539500972
 'Mark Consuelos',fr,unknown,#111111,#111111,1,0.431497082110
 'Alex Pretti',fr,unknown,#111111,#111111,2,0.431433799562
