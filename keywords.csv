@@ -1,4 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Angus Cloud',fr,unknown,#111111,#111111,2,0.507736006444
+'Jacob Elordi',fr,unknown,#111111,#111111,2,0.505892540741
+'Sydney Sweeney',fr,unknown,#111111,#111111,2,0.505478064511
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.489412666429
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.488852209522
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.487599193115
@@ -1064,7 +1067,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul Gosar',fr,USA,#18e8e8,#18e8e8,1,0.118124642604
 'Steffi Lemke',fr,Deutschland,#1818e8,#1818e8,1,0.117698690464
 'MacKenzie Scott',fr,USA,#18e8e8,#18e8e8,1,0.116887701907
-'Alexei Nawalny',fr,Russland,#e81818,#e81818,1,0.116805889737
 'Prinz Archie',fr,UK,#e838e8,#e838e8,1,0.115655533276
 'Ulf Poschardt',fr,Deutschland,#1818e8,#1818e8,1,0.114575012808
 'Otmar Issing',fr,EU,#88cc44,#88cc44,1,0.109172821038
@@ -1083,6 +1085,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Netanjahu',fr,Israel,#3311cc,#3311cc,1,0.100793601589
 'Joana Cotar',fr,Deutschland,#1818e8,#1818e8,1,0.099983010455
 'Erik Marquardt',fr,EU,#88cc44,#88cc44,1,0.099719316358
+'Alexei Nawalny',fr,Russland,#e81818,#e81818,1,0.099285006276
 'Steffen Große',fr,Deutschland,#1818e8,#1818e8,2,0.099137074521
 'Holger Münch',fr,Deutschland,#1818e8,#1818e8,1,0.099013491484
 'Ebrahim Raisi',fr,Iran,#1144ee,#1144ee,1,0.097302725633
