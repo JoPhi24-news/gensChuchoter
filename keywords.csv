@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Bannon',fr,unknown,#111111,#111111,1,0.476097282810
 'Jack Lang',fr,unknown,#111111,#111111,3,0.475782461245
 'Andrew Windsor',fr,unknown,#111111,#111111,1,0.475757348780
-'laffaire Epstein',fr,unknown,#111111,#111111,2,0.475003957741
 'Affaire Epstein',fr,unknown,#111111,#111111,3,0.474953324496
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.474176308535
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.474116783697
@@ -270,6 +269,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hans-Werner Sinn',fr,Deutschland,#1818e8,#1818e8,1,0.405414638799
 'Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.405191253996
 'Greta Thunberg',fr,Schweden,#ddee11,#ddee11,2,0.405171310410
+'laffaire Epstein',fr,unknown,#111111,#111111,2,0.403903874080
 'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,1,0.402971242282
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.402300970200
 'James Comey',fr,USA,#18e8e8,#18e8e8,3,0.402128980888
