@@ -1045,7 +1045,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barbara Walters',fr,USA,#18e8e8,#18e8e8,1,0.136756273949
 'Martin Sonneborn',fr,Deutschland,#1818e8,#1818e8,1,0.136335870511
 'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.136245262520
-'Schellnhuber',fr,Deutschland,#1818e8,#1818e8,2,0.135723200874
 'Alice Schwarzer',fr,Deutschland,#1818e8,#1818e8,1,0.134004862535
 'Miguel Díaz-Canel',fr,Kuba,#dd33aa,#dd33aa,2,0.133776206904
 'Andrés Manuel López Obrador',fr,Mexiko,#aadd33,#aadd33,1,0.131353741024
@@ -1068,6 +1067,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steffi Lemke',fr,Deutschland,#1818e8,#1818e8,1,0.117698690464
 'MacKenzie Scott',fr,USA,#18e8e8,#18e8e8,1,0.116887701907
 'Prinz Archie',fr,UK,#e838e8,#e838e8,1,0.115655533276
+'Schellnhuber',fr,Deutschland,#1818e8,#1818e8,1,0.115364720743
 'Ulf Poschardt',fr,Deutschland,#1818e8,#1818e8,1,0.114575012808
 'Otmar Issing',fr,EU,#88cc44,#88cc44,1,0.109172821038
 'Daniel Dillmann',fr,Deutschland,#1818e8,#1818e8,1,0.108280922387
