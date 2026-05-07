@@ -207,7 +207,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Kelly',fr,unknown,#111111,#111111,1,0.426393603630
 'David Beckham',fr,UK,#e838e8,#e838e8,2,0.426328808091
 'László Krasznahorkai',fr,Ungarn,#99aa33,#99aa33,1,0.426324337111
-'Itamar Ben-Gvir',fr,Israel,#3311cc,#3311cc,2,0.426276178250
 'Paddy Pimblett',fr,unknown,#111111,#111111,1,0.426096236820
 'Corey Lewandowski',fr,unknown,#111111,#111111,1,0.426017881406
 'Chris Cuomo',fr,unknown,#111111,#111111,1,0.425955272520
@@ -351,6 +350,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Suleika Jaouad',fr,USA,#18e8e8,#18e8e8,1,0.362871379895
 'Omar M. Yaghi',fr,USA,#18e8e8,#18e8e8,1,0.362652655250
 'James Carville',fr,unknown,#111111,#111111,1,0.362582031461
+'Itamar Ben-Gvir',fr,Israel,#3311cc,#3311cc,1,0.362334901512
 'Abraham Lincoln',fr,USA,#18e8e8,#18e8e8,1,0.362191508241
 'Curtis Yarvin',fr,USA,#18e8e8,#18e8e8,1,0.362101087888
 'Karol G',fr,Kolumbien,#dd5533,#dd5533,1,0.361888744282
