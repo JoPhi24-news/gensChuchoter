@@ -159,7 +159,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nawaz Sharif',fr,Pakistan,#bb33ff,#bb33ff,2,0.430631873479
 'Bruna Ferreira',fr,unknown,#111111,#111111,2,0.430626612059
 'Joey Kelly',fr,unknown,#111111,#111111,1,0.430559081395
-'Casey Wasserman',fr,unknown,#111111,#111111,1,0.430502454039
 'Ciryl Gane',fr,unknown,#111111,#111111,1,0.430433435222
 'Robert Kennedy',fr,USA,#18e8e8,#18e8e8,3,0.430353257073
 'Ro Khanna',fr,unknown,#111111,#111111,1,0.429998847317
@@ -331,6 +330,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jon Jones',fr,USA,#18e8e8,#18e8e8,1,0.366930863077
 'Sarah Stier',fr,unknown,#111111,#111111,1,0.366300418412
 'Nicola Peltz',fr,USA,#18e8e8,#18e8e8,1,0.365934249802
+'Casey Wasserman',fr,unknown,#111111,#111111,1,0.365927085933
 'Brooklyn Beckham',fr,UK,#e838e8,#e838e8,2,0.365914573202
 'Cheryl Hines',fr,USA,#18e8e8,#18e8e8,1,0.365736904856
 'Alois Rainer',fr,Deutschland,#335599,#335599,1,0.365704405000
