@@ -288,6 +288,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,2,0.388250575640
 'Keith Kellogg',fr,USA,#18e8e8,#18e8e8,2,0.388230512313
 'John Clarke',fr,USA,#18e8e8,#18e8e8,2,0.387776789903
+'Tyson Fury',fr,unknown,#111111,#111111,2,0.387294908619
 'Narendra Modi',fr,Indien,#995533,#995533,3,0.385368397764
 'Charles Kushner',fr,unknown,#111111,#111111,1,0.384436755337
 'Billie Eilish',fr,USA,#18e8e8,#18e8e8,2,0.384419519802
@@ -746,7 +747,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mira Murati',fr,Albanien,#1167d4,#1167d4,1,0.280303170491
 'Lars Klingbeil',fr,Deutschland,#1818e8,#1818e8,1,0.280013292536
 'Yevgeny Prigozhin',fr,Russland,#e81818,#e81818,1,0.278712704778
-'Tyson Fury',fr,unknown,#111111,#111111,1,0.278641016022
 'Pat McAfee',fr,USA,#18e8e8,#18e8e8,1,0.278613938947
 'Jackson Hole',fr,unknown,#111111,#111111,1,0.277670329302
 'Jonathan Turley',fr,unknown,#111111,#111111,1,0.277351200977
@@ -803,6 +803,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jason Whitlock',fr,unknown,#111111,#111111,1,0.261952567552
 'Edward Snowden',fr,USA,#18e8e8,#18e8e8,2,0.261288725915
 'Shahzada Dawood',fr,Pakistan,#bb33ff,#bb33ff,1,0.261186821097
+'Oleksandr Usyk',fr,unknown,#111111,#111111,1,0.261163970075
 'Oisin Fanning',fr,Irland,#4488cc,#4488cc,1,0.261003125000
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.261003125000
 'Jan Lipavský',fr,Tschechien,#44cc88,#44cc88,1,0.261003125000
@@ -810,7 +811,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacques Doriot',fr,unknown,#111111,#111111,1,0.260549789354
 'Lauren Sánchez',fr,USA,#18e8e8,#18e8e8,1,0.260508774815
 'Prinzessin Kate',fr,UK,#e838e8,#e838e8,1,0.260133313674
-'Oleksandr Usyk',fr,unknown,#111111,#111111,1,0.260092471230
 'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,3,0.260025796005
 'Noam Chomsky',fr,USA,#18e8e8,#18e8e8,1,0.259804559638
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.259702748737
