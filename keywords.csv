@@ -37,7 +37,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Catherine Pégard',fr,unknown,#111111,#111111,3,0.462725939423
 'Eric Dane',fr,unknown,#111111,#111111,2,0.462671392302
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
-'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
 'Keir Starmer',fr,unknown,#111111,#111111,2,0.460728617393
 'Peter Magyar',fr,Ungarn,#33aa99,#33aa99,3,0.459147990944
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.459004843212
@@ -279,6 +278,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sebastien Lecornu',fr,Frankreich,#e8e808,#e8e808,1,0.393437412777
 'Joe Rogan',fr,unknown,#111111,#111111,1,0.393185140943
 'Mohammad Mustafa',fr,Palestina,#ee4488,#ee4488,2,0.392247018398
+'Thorsten Frei',fr,Deutschland,#335599,#335599,1,0.391740570362
 'Bernie Sanders',fr,USA,#18e8e8,#18e8e8,1,0.391455837637
 'Bärbel Bas',fr,Deutschland,#335599,#335599,1,0.390052427513
 'Cristiano Ronaldo',fr,Portugal,#339933,#339933,3,0.389672583624
