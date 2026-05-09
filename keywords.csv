@@ -60,6 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
 'Stephen Miller',fr,unknown,#111111,#111111,2,0.451540608750
 'Mojtaba Khamenei',fr,unknown,#111111,#111111,3,0.451372909215
+'Quentin Deranque',fr,unknown,#111111,#111111,3,0.450470638357
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.450117337975
 'Renee Good',fr,unknown,#111111,#111111,3,0.450014794023
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.449197570525
@@ -72,15 +73,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pam Bondi',fr,unknown,#111111,#111111,2,0.445813676837
 'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.445757739532
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,3,0.445561357315
+'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.444942680720
 'Markwayne Mullin',fr,unknown,#111111,#111111,2,0.444879065857
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444813958353
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
-'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.444195759119
 'Claire Legendre',fr,unknown,#111111,#111111,2,0.443480281736
 'JD Vance',fr,USA,#18e8e8,#18e8e8,2,0.442752468036
 'Kristi Noem',fr,unknown,#111111,#111111,3,0.442084913111
 'Francesca Albanese',fr,Italien,#33dd55,#33dd55,2,0.442019771448
-'Quentin Deranque',fr,unknown,#111111,#111111,3,0.441376603949
 'Kendrick Lamar',fr,USA,#18e8e8,#18e8e8,1,0.441335607597
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,3,0.441312691763
 'Chris Soto',fr,unknown,#111111,#111111,2,0.441235111000
