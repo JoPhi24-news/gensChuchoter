@@ -1061,7 +1061,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robin Li',fr,China,#e88818,#e88818,2,0.122769090605
 'John Roberts',fr,USA,#18e8e8,#18e8e8,1,0.122563721239
 'Klaus-Michael Kühne',fr,Deutschland,#1818e8,#1818e8,1,0.120560994674
-'Ali Chamenei',fr,Iran,#1144ee,#1144ee,2,0.119089814680
 'Patriarch Kyrill',fr,Ukraine,#e818e8,#e818e8,1,0.118577069372
 'Paul Gosar',fr,USA,#18e8e8,#18e8e8,1,0.118124642604
 'Steffi Lemke',fr,Deutschland,#1818e8,#1818e8,1,0.117698690464
@@ -1081,6 +1080,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maybritt Illner',fr,Deutschland,#1818e8,#1818e8,1,0.102423566216
 'Andrew Forrest',fr,Australien,#aa9933,#aa9933,1,0.102085399731
 'Christian Drosten',fr,Deutschland,#1818e8,#1818e8,1,0.101807259270
+'Ali Chamenei',fr,Iran,#1144ee,#1144ee,1,0.101226342478
 'Megyn Kell',fr,USA,#18e8e8,#18e8e8,1,0.100921756664
 'Benjamin Netanjahu',fr,Israel,#3311cc,#3311cc,1,0.100793601589
 'Joana Cotar',fr,Deutschland,#1818e8,#1818e8,1,0.099983010455
