@@ -1,4 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Sam Levinson',fr,unknown,#111111,#111111,2,0.509922304638
+'Kendall Jenner',fr,unknown,#111111,#111111,2,0.508613577026
+'Scooter Braun',fr,unknown,#111111,#111111,2,0.504996556907
+'Hunter Schafer',fr,unknown,#111111,#111111,2,0.503937838862
+'Daniel Craig',fr,unknown,#111111,#111111,2,0.502806819583
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.489412666429
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.488852209522
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.487599193115
@@ -123,7 +128,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fred Ramsdel',fr,USA,#18e8e8,#18e8e8,1,0.435844606955
 'Yves Bournazel',fr,Frankreich,#e8e808,#e8e808,2,0.435340557655
 'Pete Hegseth',fr,USA,#18e8e8,#18e8e8,3,0.435121652836
-'Usha Vance',fr,unknown,#111111,#111111,1,0.434924441652
 'Gerald Darmanin',fr,Frankreich,#e8e808,#e8e808,2,0.434467599199
 'Bezalel Smotrich',fr,Israel,#3311cc,#3311cc,3,0.433975359068
 'RFK Jr',fr,USA,#18e8e8,#18e8e8,1,0.433842013072
@@ -314,6 +318,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Lindner',fr,Deutschland,#1818e8,#1818e8,3,0.372181692859
 'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.371074828060
 'William Friedkin',fr,USA,#18e8e8,#18e8e8,2,0.369946252027
+'Usha Vance',fr,unknown,#111111,#111111,1,0.369685775404
 'Jimmy Kimmel',fr,USA,#18e8e8,#18e8e8,2,0.369400039288
 'Benyamin Netanyahou',fr,Israel,#3311cc,#3311cc,2,0.368533923090
 'Kara Hurst',fr,USA,#18e8e8,#18e8e8,1,0.368475000000
