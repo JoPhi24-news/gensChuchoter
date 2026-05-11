@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kendall Jenner',fr,unknown,#111111,#111111,2,0.508613577026
 'Scooter Braun',fr,unknown,#111111,#111111,2,0.504996556907
 'Hunter Schafer',fr,unknown,#111111,#111111,2,0.503937838862
 'Daniel Craig',fr,unknown,#111111,#111111,2,0.502806819583
@@ -142,6 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Mountbatten Windsor',fr,unknown,#111111,#111111,1,0.432738397226
 'Joe Kent',fr,unknown,#111111,#111111,2,0.432726524844
 'Scott Jennings',fr,unknown,#111111,#111111,1,0.432648526862
+'Kendall Jenner',fr,unknown,#111111,#111111,1,0.432321630472
 'Justin Bieber',fr,Kanada,#55ee33,#55ee33,2,0.432257728132
 'Ian Machado Garry',fr,unknown,#111111,#111111,1,0.432253222026
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.432222190609
