@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sam Levinson',fr,unknown,#111111,#111111,2,0.509922304638
 'Kendall Jenner',fr,unknown,#111111,#111111,2,0.508613577026
 'Scooter Braun',fr,unknown,#111111,#111111,2,0.504996556907
 'Hunter Schafer',fr,unknown,#111111,#111111,2,0.503937838862
@@ -132,6 +131,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bezalel Smotrich',fr,Israel,#3311cc,#3311cc,3,0.433975359068
 'RFK Jr',fr,USA,#18e8e8,#18e8e8,1,0.433842013072
 'Rosa Parks',fr,USA,#18e8e8,#18e8e8,2,0.433543954333
+'Sam Levinson',fr,unknown,#111111,#111111,1,0.433434303942
 'Diane Keaton',fr,unknown,#111111,#111111,1,0.433377823705
 'Peter Howitt',fr,USA,#18e8e8,#18e8e8,1,0.433306936263
 'Jacob Elordi',fr,unknown,#111111,#111111,1,0.433083193185
