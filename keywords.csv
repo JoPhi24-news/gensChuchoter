@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Scooter Braun',fr,unknown,#111111,#111111,2,0.504996556907
+'Scooter Braun',fr,unknown,#111111,#111111,2,0.579397088371
 'Hunter Schafer',fr,unknown,#111111,#111111,2,0.503937838862
 'Daniel Craig',fr,unknown,#111111,#111111,2,0.502806819583
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.489412666429
@@ -135,6 +135,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Howitt',fr,USA,#18e8e8,#18e8e8,1,0.433306936263
 'Jacob Elordi',fr,unknown,#111111,#111111,1,0.433083193185
 'Sydney Sweeney',fr,unknown,#111111,#111111,2,0.433052749264
+'Justin Bieber',fr,Kanada,#55ee33,#55ee33,2,0.433028058711
 'Candace Owens',fr,unknown,#111111,#111111,2,0.432855706137
 'Susumu Kitagawa',fr,Japan,#33aa99,#33aa99,1,0.432776572270
 'Joy Reid',fr,unknown,#111111,#111111,1,0.432760259415
@@ -142,7 +143,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Kent',fr,unknown,#111111,#111111,2,0.432726524844
 'Scott Jennings',fr,unknown,#111111,#111111,1,0.432648526862
 'Kendall Jenner',fr,unknown,#111111,#111111,1,0.432321630472
-'Justin Bieber',fr,Kanada,#55ee33,#55ee33,2,0.432257728132
 'Ian Machado Garry',fr,unknown,#111111,#111111,1,0.432253222026
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.432222190609
 'Romy Reiner',fr,unknown,#111111,#111111,2,0.432023319363
@@ -402,12 +402,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ron Johnson',fr,USA,#18e8e8,#18e8e8,1,0.346868482424
 'Jack Smith',fr,USA,#18e8e8,#18e8e8,2,0.346717275903
 'Lady Gaga',fr,USA,#18e8e8,#18e8e8,1,0.346353561375
+'Justin Timberlake',fr,USA,#18e8e8,#18e8e8,2,0.346307859377
 'Greg Abbott',fr,USA,#18e8e8,#18e8e8,1,0.346074933839
 'Johann Wadephul',fr,Deutschland,#335599,#335599,1,0.346028311124
 'Lachlan Murdoch',fr,UK,#e838e8,#e838e8,1,0.345718116041
 'Demi Moore',fr,USA,#18e8e8,#18e8e8,1,0.345631853856
 'François Braun',fr,Frankreich,#e8e808,#e8e808,3,0.345467275335
-'Justin Timberlake',fr,USA,#18e8e8,#18e8e8,2,0.345374834729
 'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,1,0.344860591675
 'Sophie Turner',fr,UK,#e838e8,#e838e8,2,0.343925232039
 'Vo Van Thuong',fr,Vietnam,#117644,#117644,1,0.343470111841
