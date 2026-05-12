@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hunter Schafer',fr,unknown,#111111,#111111,2,0.503937838862
 'Daniel Craig',fr,unknown,#111111,#111111,2,0.502806819583
 'Scooter Braun',fr,unknown,#111111,#111111,1,0.492487540115
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.489412666429
@@ -41,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.462555845508
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
 'Keir Starmer',fr,unknown,#111111,#111111,2,0.460728617393
+'Hunter Schafer',fr,unknown,#111111,#111111,2,0.459847313033
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.459722514793
 'Peter Magyar',fr,Ungarn,#33aa99,#33aa99,3,0.459147990944
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.458231331443
@@ -133,6 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam Levinson',fr,unknown,#111111,#111111,1,0.433434303942
 'Diane Keaton',fr,unknown,#111111,#111111,1,0.433377823705
 'Peter Howitt',fr,USA,#18e8e8,#18e8e8,1,0.433306936263
+'Kendall Jenner',fr,unknown,#111111,#111111,1,0.433091836217
 'Jacob Elordi',fr,unknown,#111111,#111111,1,0.433083193185
 'Sydney Sweeney',fr,unknown,#111111,#111111,2,0.433052749264
 'Justin Bieber',fr,Kanada,#55ee33,#55ee33,2,0.433028058711
@@ -142,7 +143,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Mountbatten Windsor',fr,unknown,#111111,#111111,1,0.432738397226
 'Joe Kent',fr,unknown,#111111,#111111,2,0.432726524844
 'Scott Jennings',fr,unknown,#111111,#111111,1,0.432648526862
-'Kendall Jenner',fr,unknown,#111111,#111111,1,0.432321630472
 'Ian Machado Garry',fr,unknown,#111111,#111111,1,0.432253222026
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.432222190609
 'Romy Reiner',fr,unknown,#111111,#111111,2,0.432023319363
