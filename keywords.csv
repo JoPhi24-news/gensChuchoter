@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Scooter Braun',fr,unknown,#111111,#111111,1,0.492487540115
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.489412666429
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.488852209522
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.487599193115
@@ -233,6 +232,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brad Pitt',fr,USA,#18e8e8,#18e8e8,3,0.421254713532
 'Erika Kirk',fr,USA,#18e8e8,#18e8e8,2,0.420390015174
 'Nancy Guthrie',fr,unknown,#111111,#111111,1,0.418981185937
+'Scooter Braun',fr,unknown,#111111,#111111,1,0.418764424098
 'Peter Attia',fr,unknown,#111111,#111111,1,0.417749339340
 'Margaret Brennan',fr,unknown,#111111,#111111,1,0.417441976237
 'Katherina Reiche',fr,Deutschland,#335599,#335599,2,0.417351196439
