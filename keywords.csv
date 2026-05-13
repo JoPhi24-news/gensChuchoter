@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Daniel Craig',fr,unknown,#111111,#111111,3,0.531436201646
 'Scooter Braun',fr,unknown,#111111,#111111,1,0.492487540115
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.489412666429
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.488852209522
@@ -30,6 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Raphaël Arnault',fr,unknown,#111111,#111111,3,0.469794722379
 'Peter Mandelson',fr,unknown,#111111,#111111,2,0.469496983173
 'Tom Homan',fr,unknown,#111111,#111111,3,0.468155178318
+'Daniel Craig',fr,unknown,#111111,#111111,3,0.466882287510
 'Péter Magyar',fr,unknown,#111111,#111111,3,0.466868883035
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.466829910635
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.466716493328
