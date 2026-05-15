@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.489510462234
+'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.493765740626
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.487599193115
 'prince Andrew',fr,unknown,#111111,#111111,3,0.486898439910
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Lang',fr,unknown,#111111,#111111,3,0.475782461245
 'Andrew Windsor',fr,unknown,#111111,#111111,1,0.475757348780
 'Affaire Epstein',fr,unknown,#111111,#111111,3,0.474953324496
-'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.474176308535
+'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.474863833523
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.474116783697
 'Renee Nicole Good',fr,unknown,#111111,#111111,3,0.473788543142
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.473491021081
@@ -272,9 +272,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.402300970200
 'James Comey',fr,USA,#18e8e8,#18e8e8,3,0.402128980888
 'Éric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.400567580085
+'Kim Jong Un',fr,NordKorea,#e85858,#e85858,3,0.400245447858
 'Emily Blunt',fr,UK,#e838e8,#e838e8,3,0.400191621811
 'Pedro Sánchez',fr,Spanien,#33aa99,#33aa99,3,0.400119819771
-'Kim Jong Un',fr,NordKorea,#e85858,#e85858,3,0.399411776094
 "'Dwayne ""The Rock"" Johnson'",fr,USA,#18e8e8,#18e8e8,2,0.397800998044
 'Sanae Takaichi',fr,Japan,#33aa99,#33aa99,2,0.395666470718
 'Lecornu II ',fr,Frankreich,#e8e808,#e8e808,2,0.393526249874
@@ -819,8 +819,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,3,0.260025796005
 'Noam Chomsky',fr,USA,#18e8e8,#18e8e8,1,0.259804559638
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.259702748737
+'Viktor Orbán',fr,Ungarn,#111111,#111111,2,0.259632837459
 'Michelle Williams',fr,unknown,#111111,#111111,1,0.259560503683
-'Viktor Orbán',fr,Ungarn,#111111,#111111,2,0.258559105603
 'Lily Gladstone',fr,unknown,#111111,#111111,1,0.258413900071
 'Jennifer Morgan',fr,unknown,#111111,#111111,1,0.258242564707
 'Ivanka Trump',fr,unknown,#111111,#111111,1,0.257486638313
@@ -919,9 +919,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tamim bin Hamad Al-Thani',fr,Katar,#33ffbb,#33ffbb,2,0.212115772066
 'Christine Lagarde',fr,EU,#88cc44,#88cc44,3,0.209809543471
 'Rafael Grossi',fr,UN,#e888e8,#e888e8,1,0.209500071238
+'Boris Pistorius',fr,Deutschland,#1818e8,#1818e8,1,0.209427397608
 'Giorgia Meloni',fr,Italien,#33dd55,#33dd55,3,0.209259278953
 'Mukesh Ambani',fr,Indien,#995533,#995533,2,0.208911164236
-'Boris Pistorius',fr,Deutschland,#1818e8,#1818e8,1,0.208286351931
 'King Charles III',fr,UK,#e838e8,#e838e8,1,0.208135379872
 'Andreas Jung',fr,Deutschland,#1818e8,#1818e8,1,0.207562761476
 'Mohammed bin Salman',fr,SaudiArabien,#22bb66,#22bb66,2,0.204975838011
