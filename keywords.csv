@@ -86,7 +86,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Soto',fr,unknown,#111111,#111111,2,0.441235111000
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.441164710639
 'Penny Green',fr,unknown,#111111,#111111,1,0.441025042750
-'Martin Shaw',fr,unknown,#111111,#111111,3,0.441002527750
 'Michele Singer',fr,unknown,#111111,#111111,1,0.440997621951
 'Yoav Gallant ',fr,unknown,#111111,#111111,1,0.440725068250
 'Amihai Eliyahu',fr,unknown,#111111,#111111,1,0.440725012750
@@ -313,6 +312,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Miller',fr,Australien,#aa9933,#aa9933,2,0.376093231959
 'Charles III',fr,UK,#e838e8,#e838e8,3,0.375727141987
 'Nancy Mace',fr,unknown,#111111,#111111,2,0.374976925038
+'Martin Shaw',fr,unknown,#111111,#111111,2,0.374852163588
 'Chad Frischmann',fr,USA,#18e8e8,#18e8e8,1,0.374616250000
 'Chuck Schumer',fr,USA,#18e8e8,#18e8e8,1,0.372598511974
 'Christian Lindner',fr,Deutschland,#1818e8,#1818e8,3,0.372181692859
