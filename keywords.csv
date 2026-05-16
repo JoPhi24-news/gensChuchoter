@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.525263735142
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.487599193115
 'prince Andrew',fr,unknown,#111111,#111111,3,0.486898439910
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
@@ -15,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.474116783697
 'Renee Nicole Good',fr,unknown,#111111,#111111,3,0.473788543142
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.473491021081
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.472982294501
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.472579137885
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.472291015657
 'reine Mathilde',fr,unknown,#111111,#111111,2,0.472107469267
 'Ali Larijani',fr,unknown,#111111,#111111,3,0.472095121892
 'David Amiel',fr,unknown,#111111,#111111,2,0.471601230636
@@ -25,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.470642126265
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.470024707574
 'Raphaël Arnault',fr,unknown,#111111,#111111,3,0.469794722379
+'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.469610568053
 'Peter Mandelson',fr,unknown,#111111,#111111,2,0.469496983173
 'Tom Homan',fr,unknown,#111111,#111111,3,0.468155178318
 'Daniel Craig',fr,unknown,#111111,#111111,3,0.466882287510
@@ -271,9 +271,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,1,0.402971242282
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.402300970200
 'James Comey',fr,USA,#18e8e8,#18e8e8,3,0.402128980888
+'Kim Jong Un',fr,NordKorea,#e85858,#e85858,3,0.401077534997
 'Pedro Sánchez',fr,Spanien,#33aa99,#33aa99,3,0.400952145787
 'Éric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.400567580085
-'Kim Jong Un',fr,NordKorea,#e85858,#e85858,3,0.400245447858
 'Emily Blunt',fr,UK,#e838e8,#e838e8,3,0.400191621811
 "'Dwayne ""The Rock"" Johnson'",fr,USA,#18e8e8,#18e8e8,2,0.397800998044
 'Sanae Takaichi',fr,Japan,#33aa99,#33aa99,2,0.395666470718
