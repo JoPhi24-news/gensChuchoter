@@ -67,8 +67,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.448299397630
 'Sergio Mattarella',fr,Italien,#33dd55,#33dd55,2,0.447946641298
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.447938498385
+'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.447938149449
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,2,0.447734405841
-'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.447197138802
 'Leslie Wexner',fr,unknown,#111111,#111111,2,0.446163335264
 'Pam Bondi',fr,unknown,#111111,#111111,2,0.445813676837
 'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.445757739532
@@ -80,7 +80,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'JD Vance',fr,USA,#18e8e8,#18e8e8,2,0.443502228623
 'Claire Legendre',fr,unknown,#111111,#111111,2,0.443480281736
 'Kristi Noem',fr,unknown,#111111,#111111,3,0.442084913111
-'Francesca Albanese',fr,Italien,#33dd55,#33dd55,2,0.442019771448
 'Kendrick Lamar',fr,USA,#18e8e8,#18e8e8,1,0.441335607597
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,3,0.441312691763
 'Chris Soto',fr,unknown,#111111,#111111,2,0.441235111000
@@ -260,6 +259,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecornu II',fr,Frankreich,#e8e808,#e8e808,1,0.407223979946
 'Chappell Roan',fr,unknown,#111111,#111111,2,0.407077019228
 'María Corina Machado',fr,unknown,#111111,#111111,1,0.406787061859
+'Francesca Albanese',fr,Italien,#33dd55,#33dd55,2,0.406466895731
 'Edouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.406224725369
 'Laurent Wauquiez',fr,Frankreich,#e8e808,#e8e808,3,0.405562187269
 'Robert Prevost',fr,Vatikan,#dd5544,#dd5544,2,0.405430065831
@@ -995,10 +995,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sundar Pichai',fr,USA,#18e8e8,#18e8e8,2,0.172355936295
 'Aleksandar Vucic',fr,Serbien,#8844cc,#8844cc,2,0.172105204542
 'Prinz William',fr,UK,#e838e8,#e838e8,1,0.170188046091
+'Benjamin Netanyahu',fr,Israel,#3311cc,#3311cc,2,0.170134647688
 'Prinz George',fr,UK,#e838e8,#e838e8,1,0.169950633449
 'Wolodymyr Selenskyj',fr,Ukraine,#e818e8,#e818e8,1,0.169757041513
 'Prinz Andrew',fr,UK,#e838e8,#e838e8,1,0.169707124608
-'Benjamin Netanyahu',fr,Israel,#3311cc,#3311cc,2,0.168949597351
 'Roland Busch',fr,Deutschland,#1818e8,#1818e8,1,0.168787989141
 'Bruno Kahl',fr,Deutschland,#1818e8,#1818e8,1,0.168654066240
 'Andreas Baum',fr,Deutschland,#1818e8,#1818e8,1,0.168427951670
