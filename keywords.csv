@@ -941,6 +941,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Immanuel Kant',fr,Deutschland,#1818e8,#1818e8,1,0.198350186183
 'Boris Palmer',fr,Deutschland,#1818e8,#1818e8,2,0.198276329825
 'Franziska Giffey',fr,Deutschland,#1818e8,#1818e8,3,0.198223685399
+'Roberta Metsola',fr,EU,#88cc44,#88cc44,1,0.197825132329
 'Markus Krebber',fr,Deutschland,#1818e8,#1818e8,1,0.197764296198
 'Mark Zuckerberg',fr,USA,#18e8e8,#18e8e8,3,0.196834400935
 'Chez Krömer',fr,Deutschland,#1818e8,#1818e8,1,0.196397363044
@@ -969,7 +970,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michelle Neill',fr,Irland,#4488cc,#4488cc,1,0.188574757812
 'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.188574757812
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.188574757812
-'Roberta Metsola',fr,EU,#88cc44,#88cc44,1,0.187911849799
 'Jon Batiste',fr,unknown,#111111,#111111,1,0.187363149643
 'Fumio Kishida',fr,Japan,#33aa99,#33aa99,3,0.187035135023
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,1,0.186882150755
