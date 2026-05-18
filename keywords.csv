@@ -1,4 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Michaela Coel',fr,unknown,#111111,#111111,2,0.508633254754
+'Adam Mockler',fr,unknown,#111111,#111111,2,0.505127848835
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.487599193115
 'prince Andrew',fr,unknown,#111111,#111111,3,0.486898439910
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
@@ -767,7 +769,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ahmed Al Jaber',fr,unknown,#111111,#111111,1,0.274514141915
 'Noor Alfallah',fr,USA,#18e8e8,#18e8e8,1,0.273961831607
 'James Cleverly',fr,UK,#e838e8,#e838e8,1,0.272953190844
-'Leonard Bernstein',fr,unknown,#111111,#111111,1,0.272529092384
 'Caroline Ellison',fr,USA,#18e8e8,#18e8e8,1,0.272234787766
 'Warren Buffet',fr,USA,#18e8e8,#18e8e8,1,0.271396869202
 'Johnny Depp',fr,USA,#18e8e8,#18e8e8,1,0.271384606797
@@ -870,6 +871,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Michel',fr,EU,#88cc44,#88cc44,2,0.233118159004
 'Joschka Fischer',fr,Deutschland,#1818e8,#1818e8,1,0.232448751378
 'Pietro Lombardi',fr,Deutschland,#1818e8,#1818e8,1,0.232433602606
+'Leonard Bernstein',fr,unknown,#111111,#111111,1,0.231799743526
 'Laura Ingraham',fr,USA,#18e8e8,#18e8e8,1,0.231082571142
 'Phoebe Bridgers',fr,unknown,#111111,#111111,1,0.229684893207
 'Don Lemon',fr,USA,#18e8e8,#18e8e8,1,0.229640209770
