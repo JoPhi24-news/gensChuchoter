@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Adam Mockler',fr,unknown,#111111,#111111,2,0.505127848835
 'Nicolas Maduro',fr,unknown,#111111,#111111,3,0.487599193115
 'prince Andrew',fr,unknown,#111111,#111111,3,0.486898439910
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
@@ -171,6 +170,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Witkoff',fr,unknown,#111111,#111111,3,0.429516276848
 'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.429493930186
 'Conan O’Brien',fr,unknown,#111111,#111111,2,0.429477305556
+'Adam Mockler',fr,unknown,#111111,#111111,1,0.429358671510
 'Belal Muhammad',fr,unknown,#111111,#111111,1,0.429288850765
 'Tony Dokoupil',fr,unknown,#111111,#111111,1,0.429278844195
 'Alexandria Ocasio-Cortez',fr,unknown,#111111,#111111,1,0.429125255091
