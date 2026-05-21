@@ -111,6 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.439185006695
 'Andrew Mountbatten-Windsor',fr,unknown,#111111,#111111,2,0.438651921830
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.438117490940
+'Alan Jackson',fr,unknown,#111111,#111111,2,0.438077040121
 'Rashida Tlaib',fr,unknown,#111111,#111111,1,0.437888390209
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.437453489898
 'Ali Khamenei',fr,unknown,#111111,#111111,3,0.437399285160
@@ -197,7 +198,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dan Hooker',fr,unknown,#111111,#111111,1,0.427549166499
 'Epstein Files',fr,unknown,#111111,#111111,1,0.427205858177
 'MARGARET BRENNAN',fr,unknown,#111111,#111111,2,0.427133432114
-'Alan Jackson',fr,unknown,#111111,#111111,1,0.426796482495
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.426634903766
 'Howie Mandel',fr,unknown,#111111,#111111,1,0.426632355671
 'James Van Der Beek',fr,unknown,#111111,#111111,1,0.426523648480
@@ -468,6 +468,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Christie',fr,USA,#18e8e8,#18e8e8,1,0.329516263013
 'Recep Tayyip Erdoan',fr,Türkei,#66bb22,#66bb22,2,0.329300123303
 'Lauren Boebert',fr,USA,#18e8e8,#18e8e8,1,0.329082935042
+'Camille Cottin',fr,Frankreich,#e8e808,#e8e808,1,0.328979487998
 'Putin',fr,Russland,#e81818,#e81818,2,0.328897308196
 'Selenski',fr,Ukraine,#e818e8,#e818e8,3,0.328768896842
 'Ines de Ramon',fr,USA,#18e8e8,#18e8e8,1,0.328620707714
@@ -475,7 +476,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Melania Trump',fr,Slowenien,#e5237d,#e5237d,1,0.328374339414
 'Laurent Berger',fr,Frankreich,#e8e808,#e8e808,1,0.328318169231
 'Elisabeth Borne',fr,Frankreich,#e8e808,#e8e808,1,0.328138101519
-'Camille Cottin',fr,Frankreich,#e8e808,#e8e808,1,0.328016220455
 'Yorgos Lanthimos',fr,Griechenland,#1858e8,#1858e8,1,0.327807341612
 'Bradley Cooper',fr,USA,#18e8e8,#18e8e8,1,0.327722176584
 'Billy Crystal',fr,USA,#18e8e8,#18e8e8,1,0.327477889114
