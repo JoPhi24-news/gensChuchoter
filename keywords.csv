@@ -97,7 +97,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'René Gelber',fr,unknown,#111111,#111111,1,0.440725000000
 'Raz Segal',fr,unknown,#111111,#111111,1,0.440725000000
 'Norbert Rollinger',fr,Deutschland,#11dd44,#11dd44,1,0.440725000000
-'Myron Ebell',fr,USA,#18e8e8,#111111,1,0.440725000000
 'Michael Lynk',fr,unknown,#111111,#111111,1,0.440725000000
 'Makarim Wobisono',fr,unknown,#111111,#111111,1,0.440725000000
 'John Dugard',fr,unknown,#111111,#111111,1,0.440725000000
@@ -315,6 +314,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Miller',fr,Australien,#aa9933,#aa9933,2,0.376093231959
 'Nancy Mace',fr,unknown,#111111,#111111,2,0.374976925038
 'Martin Shaw',fr,unknown,#111111,#111111,2,0.374852163588
+'Myron Ebell',fr,USA,#18e8e8,#111111,1,0.374616250000
 'Chad Frischmann',fr,USA,#18e8e8,#18e8e8,1,0.374616250000
 'Chuck Schumer',fr,USA,#18e8e8,#18e8e8,1,0.372598511974
 'Christian Lindner',fr,Deutschland,#1818e8,#1818e8,3,0.372181692859
