@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ed Gallrein',fr,unknown,#111111,#111111,2,0.508253285501
 'David Lowery',fr,unknown,#111111,#111111,2,0.506111022711
 'Mark Ruffalo',fr,unknown,#111111,#111111,2,0.502705125866
 'Geraldo Rivera',fr,unknown,#111111,#111111,2,0.501944655122
@@ -147,6 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scott Jennings',fr,unknown,#111111,#111111,1,0.432648526862
 'Ian Machado Garry',fr,unknown,#111111,#111111,1,0.432253222026
 'Romy Reiner',fr,unknown,#111111,#111111,2,0.432023319363
+'Ed Gallrein',fr,unknown,#111111,#111111,1,0.432015442676
 'Michele Singer Reiner',fr,unknown,#111111,#111111,1,0.431988278978
 'Ben Shapiro',fr,unknown,#111111,#111111,1,0.431974036422
 'Bill Maher',fr,unknown,#111111,#111111,1,0.431788174780
