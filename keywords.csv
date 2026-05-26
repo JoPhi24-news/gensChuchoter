@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Mark Ruffalo',fr,unknown,#111111,#111111,2,0.502705125866
 'Geraldo Rivera',fr,unknown,#111111,#111111,2,0.501944655122
+'Mark Ruffalo',fr,unknown,#111111,#111111,2,0.490299656986
 'prince Andrew',fr,unknown,#111111,#111111,3,0.487560593573
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.481458387242
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.478463191275
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.479142174121
 'Noël Barrot',fr,unknown,#111111,#111111,3,0.477848530770
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.477603830981
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.477600264481
@@ -407,12 +407,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'prince Harry',fr,UK,#e838e8,#e838e8,2,0.347243686381
 'Ron Johnson',fr,USA,#18e8e8,#18e8e8,1,0.346868482424
 'Jack Smith',fr,USA,#18e8e8,#18e8e8,2,0.346717275903
+'Demi Moore',fr,USA,#18e8e8,#18e8e8,1,0.346564423887
 'Lady Gaga',fr,USA,#18e8e8,#18e8e8,1,0.346353561375
 'Justin Timberlake',fr,USA,#18e8e8,#18e8e8,2,0.346307859377
 'Greg Abbott',fr,USA,#18e8e8,#18e8e8,1,0.346074933839
 'Johann Wadephul',fr,Deutschland,#335599,#335599,1,0.346028311124
 'Lachlan Murdoch',fr,UK,#e838e8,#e838e8,1,0.345718116041
-'Demi Moore',fr,USA,#18e8e8,#18e8e8,1,0.345631853856
 'François Braun',fr,Frankreich,#e8e808,#e8e808,3,0.345467275335
 'Greg Brockman',fr,USA,#18e8e8,#18e8e8,1,0.345293414437
 'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,1,0.344860591675
