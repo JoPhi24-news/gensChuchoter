@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.527827432792
+'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.503604772873
 'prince Andrew',fr,unknown,#111111,#111111,3,0.487560593573
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
-'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.481667703518
+'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.482340295890
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.479142174121
 'Noël Barrot',fr,unknown,#111111,#111111,3,0.477848530770
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.477600264481
@@ -22,13 +22,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Mandelson',fr,unknown,#111111,#111111,2,0.469496983173
 'Tom Homan',fr,unknown,#111111,#111111,3,0.468155178318
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.467909263677
+'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.466898907177
 'Daniel Craig',fr,unknown,#111111,#111111,3,0.466882287510
 'Péter Magyar',fr,unknown,#111111,#111111,3,0.466868883035
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.466829910635
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.466716493328
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.465930439463
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.465637353356
-'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.464784497853
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.463975694048
 'James Bond',fr,unknown,#111111,#111111,3,0.463896949735
 'Catherine Pégard',fr,unknown,#111111,#111111,3,0.462725939423
@@ -311,9 +311,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,2,0.378780599022
 'Benjamin Nethanaju',fr,Israel,#3311cc,#3311cc,1,0.378183378568
 'Al Nassr',fr,SaudiArabien,#22bb66,#22bb66,2,0.378163616220
+'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.378122539562
 'Valérie Hayer',fr,Frankreich,#e8e808,#e8e808,1,0.378096161881
 'Ilhan Omar',fr,unknown,#111111,#111111,1,0.377449693935
-'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.377247265937
 'Eric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.377129132134
 'Michel H. Devoret',fr,USA,#18e8e8,#18e8e8,1,0.376536656136
 'George Miller',fr,Australien,#aa9933,#aa9933,2,0.376093231959
