@@ -147,7 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ben Shapiro',fr,unknown,#111111,#111111,1,0.431974036422
 'Bill Maher',fr,unknown,#111111,#111111,1,0.431788174780
 'Harry Met Sally',fr,unknown,#111111,#111111,2,0.431630371018
-'Angus Cloud',fr,unknown,#111111,#111111,1,0.431575695477
 'Robert de Niro',fr,USA,#18e8e8,#18e8e8,3,0.431539500972
 'Michaela Coel',fr,unknown,#111111,#111111,1,0.431492582060
 'Alex Pretti',fr,unknown,#111111,#111111,2,0.431433799562
@@ -336,6 +335,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jennifer Garner',fr,USA,#18e8e8,#18e8e8,2,0.367533489993
 'Olivia Nuzzi',fr,USA,#18e8e8,#18e8e8,1,0.367079183712
 'Jon Jones',fr,USA,#18e8e8,#18e8e8,1,0.366930863077
+'Angus Cloud',fr,unknown,#111111,#111111,1,0.366839341155
 'Brooklyn Beckham',fr,UK,#e838e8,#e838e8,2,0.366810684615
 'Mark Consuelos',fr,unknown,#111111,#111111,1,0.366772519793
 'Sarah Stier',fr,unknown,#111111,#111111,1,0.366300418412
