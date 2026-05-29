@@ -944,7 +944,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katalin Novák',fr,Ungarn,#111111,#111111,1,0.199620232362
 'Jim Jordan',fr,unknown,#111111,#111111,1,0.199011629374
 'Immanuel Kant',fr,Deutschland,#1818e8,#1818e8,1,0.198350186183
-'Boris Palmer',fr,Deutschland,#1818e8,#1818e8,2,0.198276329825
 'Franziska Giffey',fr,Deutschland,#1818e8,#1818e8,3,0.198223685399
 'Roberta Metsola',fr,EU,#88cc44,#88cc44,1,0.197825132329
 'Markus Krebber',fr,Deutschland,#1818e8,#1818e8,1,0.197764296198
@@ -1007,6 +1006,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz Andrew',fr,UK,#e838e8,#e838e8,1,0.169707124608
 'Roland Busch',fr,Deutschland,#1818e8,#1818e8,1,0.168787989141
 'Bruno Kahl',fr,Deutschland,#1818e8,#1818e8,1,0.168654066240
+'Boris Palmer',fr,Deutschland,#1818e8,#1818e8,1,0.168534910351
 'Andreas Baum',fr,Deutschland,#1818e8,#1818e8,1,0.168427951670
 'Vitali Klitschko',fr,Ukraine,#e818e8,#e818e8,1,0.167197337529
 'Frank Plasberg',fr,Deutschland,#1818e8,#1818e8,1,0.166619086441
