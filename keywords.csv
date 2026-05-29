@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Benny Blanco',fr,USA,#18e8e8,#18e8e8,2,0.503618746692
 'prince Andrew',fr,unknown,#111111,#111111,3,0.487560593573
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.485017272875
@@ -236,7 +237,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Savannah Guthrie',fr,unknown,#111111,#111111,2,0.417102970657
 'Hoda Kotb',fr,unknown,#111111,#111111,1,0.417068310202
 'Woody Allen',fr,unknown,#111111,#111111,2,0.416298024016
-'Benny Blanco',fr,USA,#18e8e8,#18e8e8,2,0.415845566696
 'Dua Lipa',fr,UK,#e838e8,#e838e8,2,0.415626570686
 'Guy Ritchie',fr,UK,#e838e8,#e838e8,2,0.415199150832
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.414695724800
@@ -416,9 +416,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'François Braun',fr,Frankreich,#e8e808,#e8e808,3,0.345467275335
 'Greg Brockman',fr,USA,#18e8e8,#18e8e8,1,0.345293414437
 'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,1,0.344860591675
+'Sabrina Carpenter',fr,USA,#18e8e8,#18e8e8,1,0.344295550672
 'Sophie Turner',fr,UK,#e838e8,#e838e8,2,0.343925232039
 'Vo Van Thuong',fr,Vietnam,#117644,#117644,1,0.343470111841
-'Sabrina Carpenter',fr,USA,#18e8e8,#18e8e8,1,0.343358967049
 'Gavin Newsom',fr,USA,#18e8e8,#18e8e8,2,0.341964382502
 'Charlize Theron',fr,Südafrika,#ee4411,#ee4411,1,0.341717538554
 'Steven Spielberg',fr,USA,#18e8e8,#18e8e8,3,0.341127505629
@@ -450,12 +450,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helmut Kohl',fr,Deutschland,#1818e8,#1818e8,1,0.334236744520
 'Pedro Pascal',fr,Chile,#11fe4211,#11fe4211,2,0.333911206609
 'Willem Dafoe',fr,USA,#18e8e8,#18e8e8,1,0.333452193872
+'Barry Keoghan',fr,Irland,#4488cc,#4488cc,2,0.333342617529
 'Ainsley Earhardt',fr,USA,#18e8e8,#18e8e8,1,0.333173990747
 'Robert De Niro',fr,USA,#18e8e8,#18e8e8,1,0.333126771243
 'Clément Beaune',fr,Frankreich,#e8e808,#e8e808,2,0.332996456566
 'Matteo Salvini',fr,Italien,#33dd55,#33dd55,2,0.332453296676
 'Gisele Bündchen',fr,Brasilien,#58e838,#58e838,1,0.332433752749
-'Barry Keoghan',fr,Irland,#4488cc,#4488cc,2,0.332386876959
 'Mike Johnson',fr,USA,#18e8e8,#18e8e8,2,0.332234079533
 'Indiana Jones',fr,USA,#18e8e8,#18e8e8,2,0.331941531932
 'Bronny James',fr,USA,#18e8e8,#18e8e8,2,0.331677759062
