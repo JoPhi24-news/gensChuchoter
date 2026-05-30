@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.526120090460
 'prince Andrew',fr,unknown,#111111,#111111,3,0.487560593573
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.486347761230
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
@@ -46,6 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.457569167724
 'Isaac Herzog',fr,unknown,#111111,#111111,1,0.457108013294
 'Caroline Lang',fr,unknown,#111111,#111111,3,0.456832214965
+'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.456699871436
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.456574447903
 'Les Wexner',fr,unknown,#111111,#111111,2,0.455273447568
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.454421287978
@@ -236,8 +236,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katherina Reiche',fr,Deutschland,#335599,#335599,2,0.417351196439
 'Savannah Guthrie',fr,unknown,#111111,#111111,2,0.417102970657
 'Hoda Kotb',fr,unknown,#111111,#111111,1,0.417068310202
+'Edouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.416771643882
 'Woody Allen',fr,unknown,#111111,#111111,2,0.416298024016
-'Edouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.415969683318
 'Dua Lipa',fr,UK,#e838e8,#e838e8,2,0.415626570686
 'Guy Ritchie',fr,UK,#e838e8,#e838e8,2,0.415199150832
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.414695724800
