@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'María Corina Machado',fr,unknown,#111111,#111111,2,0.495919017580
 'prince Andrew',fr,unknown,#111111,#111111,3,0.487560593573
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.486347761230
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
@@ -225,6 +224,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Juan Pablo Guanipa',fr,unknown,#111111,#111111,1,0.422767914736
 'Alexander Dobrindt',fr,Deutschland,#335599,#335599,1,0.422011114581
 'Stephen Miller',fr,unknown,#111111,#111111,2,0.421909577438
+'María Corina Machado',fr,unknown,#111111,#111111,1,0.421531179943
 'Ilia Topuria',fr,unknown,#111111,#111111,1,0.421383988718
 'Rob Reiner',fr,unknown,#111111,#111111,2,0.421346775496
 'Brad Pitt',fr,USA,#18e8e8,#18e8e8,3,0.421254713532
