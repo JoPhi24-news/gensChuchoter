@@ -1,4 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Javier Bardem',fr,unknown,#111111,#111111,2,0.605336577494
+'Sarah Kellen',fr,unknown,#111111,#111111,2,0.509392787587
+'Mother Mary',fr,unknown,#111111,#111111,2,0.502604946372
 'prince Andrew',fr,unknown,#111111,#111111,3,0.487560593573
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.486347761230
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
@@ -87,7 +90,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Soto',fr,unknown,#111111,#111111,2,0.441235111000
 'Penny Green',fr,unknown,#111111,#111111,1,0.441025042750
 'Michele Singer',fr,unknown,#111111,#111111,1,0.440997621951
-'Amihai Eliyahu',fr,unknown,#111111,#111111,1,0.440725012750
 'William Schabas ',fr,unknown,#111111,#111111,1,0.440725000000
 'Thilo Jung',fr,unknown,#111111,#111111,1,0.440725000000
 'Sebastian Hille',fr,unknown,#111111,#111111,1,0.440725000000
@@ -316,6 +318,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nancy Mace',fr,unknown,#111111,#111111,2,0.374976925038
 'Martin Shaw',fr,unknown,#111111,#111111,2,0.374852163588
 'Yoav Gallant ',fr,unknown,#111111,#111111,1,0.374766323013
+'Amihai Eliyahu',fr,unknown,#111111,#111111,1,0.374616260837
 'Myron Ebell',fr,USA,#18e8e8,#111111,1,0.374616250000
 'Giorgio Goacomelli',fr,unknown,#111111,#111111,1,0.374616250000
 'Chad Frischmann',fr,USA,#18e8e8,#18e8e8,1,0.374616250000
