@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Javier Bardem',fr,unknown,#111111,#111111,3,0.501970109194
 'prince Andrew',fr,unknown,#111111,#111111,3,0.487560593573
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.486347761230
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
@@ -75,6 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.446501586136
 'Leslie Wexner',fr,unknown,#111111,#111111,2,0.446163335264
 'Pam Bondi',fr,unknown,#111111,#111111,2,0.445813676837
+'Javier Bardem',fr,unknown,#111111,#111111,3,0.445262291451
 'Markwayne Mullin',fr,unknown,#111111,#111111,2,0.444879065857
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444813958353
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
