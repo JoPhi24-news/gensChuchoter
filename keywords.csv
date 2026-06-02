@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Mother Mary',fr,unknown,#111111,#111111,2,0.502604946372
 'Javier Bardem',fr,unknown,#111111,#111111,3,0.501970109194
 'prince Andrew',fr,unknown,#111111,#111111,3,0.487560593573
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.486347761230
@@ -188,6 +187,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Castex',fr,Frankreich,#e8e808,#e8e808,3,0.428014127761
 'Bruna Caroline Ferreira',fr,unknown,#111111,#111111,2,0.428006351212
 'Nathan Hochman',fr,unknown,#111111,#111111,1,0.428000722675
+'Mother Mary',fr,unknown,#111111,#111111,2,0.427964279416
 'Venezuelas Übergangspräsidentin',fr,unknown,#111111,#111111,1,0.427924535763
 'Craig Melvin',fr,unknown,#111111,#111111,1,0.427861509242
 'Kash Patel',fr,unknown,#111111,#111111,1,0.427803069932
