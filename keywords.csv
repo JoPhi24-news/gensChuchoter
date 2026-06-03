@@ -291,7 +291,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Clarke',fr,USA,#18e8e8,#18e8e8,2,0.387776789903
 'Tyson Fury',fr,unknown,#111111,#111111,2,0.387294908619
 'Narendra Modi',fr,Indien,#995533,#995533,3,0.386228551728
-'Billie Eilish',fr,USA,#18e8e8,#18e8e8,2,0.385281448032
+'Billie Eilish',fr,USA,#18e8e8,#18e8e8,2,0.386141764662
 'Charles Kushner',fr,unknown,#111111,#111111,1,0.384436755337
 'Radical Optimism',fr,unknown,#111111,#111111,1,0.384209541779
 'Bill Clinton',fr,USA,#18e8e8,#18e8e8,2,0.384147070036
@@ -422,8 +422,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sabrina Carpenter',fr,USA,#18e8e8,#18e8e8,1,0.344295550672
 'Sophie Turner',fr,UK,#e838e8,#e838e8,2,0.343925232039
 'Vo Van Thuong',fr,Vietnam,#117644,#117644,1,0.343470111841
+'Steven Spielberg',fr,USA,#18e8e8,#18e8e8,3,0.343006871336
 'Charlize Theron',fr,Südafrika,#ee4411,#ee4411,1,0.342657011231
-'Steven Spielberg',fr,USA,#18e8e8,#18e8e8,3,0.342068014855
 'Gavin Newsom',fr,USA,#18e8e8,#18e8e8,2,0.341964382502
 'Margaret Thatcher',fr,UK,#e838e8,#e838e8,2,0.340914469394
 'Xi Jinping',fr,China,#e88818,#e88818,3,0.339900391959
@@ -994,10 +994,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hun Sen',fr,Kambodscha,#33aadd,#33aadd,1,0.178567859374
 'Mukesh Ambani',fr,Indien,#995533,#995533,1,0.177574504601
 'Ola Källenius',fr,Deutschland,#1818e8,#1818e8,2,0.176923180030
-'Jack Ma',fr,China,#e88818,#e88818,2,0.176523199500
 'Herschel Walker',fr,USA,#18e8e8,#18e8e8,1,0.176467413555
 'Wolodymyr Selenski',fr,Ukraine,#e818e8,#e818e8,1,0.176280755108
 'David Malpass',fr,USA,#18e8e8,#18e8e8,1,0.175753767218
+'Jack Ma',fr,China,#e88818,#e88818,2,0.175084809747
 'Fidel Castro',fr,Kuba,#dd33aa,#dd33aa,1,0.173605992460
 'Sahra Wagenknecht',fr,Deutschland,#1818e8,#1818e8,3,0.173142414839
 'Sundar Pichai',fr,USA,#18e8e8,#18e8e8,2,0.172355936295
