@@ -1090,7 +1090,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Muhammad bin Zayid Al Nahyan',fr,VAE,#ff33bb,#ff33bb,1,0.106585300650
 'Heinrich XIII. Prinz Reuß',fr,Deutschland,#1818e8,#1818e8,1,0.105418163354
 'Kardinal Woelki',fr,Deutschland,#1818e8,#1818e8,1,0.104961114968
-'Andrea Lindholz',fr,Deutschland,#1818e8,#1818e8,1,0.103316148505
 'Maybritt Illner',fr,Deutschland,#1818e8,#1818e8,1,0.102423566216
 'Andrew Forrest',fr,Australien,#aa9933,#aa9933,1,0.102085399731
 'Christian Drosten',fr,Deutschland,#1818e8,#1818e8,1,0.101807259270
@@ -1102,3 +1101,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexei Nawalny',fr,Russland,#e81818,#e81818,1,0.099285006276
 'Steffen Große',fr,Deutschland,#1818e8,#1818e8,2,0.099137074521
 'Holger Münch',fr,Deutschland,#1818e8,#1818e8,1,0.099013491484
+'Andrea Lindholz',fr,Deutschland,#1818e8,#1818e8,1,0.087818726229
