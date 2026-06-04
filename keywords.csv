@@ -624,7 +624,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hugh Grant',fr,unknown,#111111,#111111,1,0.307229026268
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.307062619212
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.307062521675
-'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.307062500000
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.307062500000
 'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
@@ -817,6 +816,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shahzada Dawood',fr,Pakistan,#bb33ff,#bb33ff,1,0.261186821097
 'Oleksandr Usyk',fr,unknown,#111111,#111111,1,0.261163970075
 'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,3,0.261097392157
+'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.261003125000
 'Oisin Fanning',fr,Irland,#4488cc,#4488cc,1,0.261003125000
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.261003125000
 'Jan Lipavský',fr,Tschechien,#44cc88,#44cc88,1,0.261003125000
