@@ -436,7 +436,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Travis Kelce',fr,USA,#18e8e8,#18e8e8,2,0.338392547442
 'Jean Jouzel',fr,Frankreich,#e8e808,#e8e808,1,0.338294924938
 'Cem Özdemir',fr,Deutschland,#1818e8,#1818e8,2,0.337891482838
-'Eric Adams',fr,USA,#18e8e8,#18e8e8,2,0.337749361230
 'Mark Cuban',fr,USA,#18e8e8,#18e8e8,2,0.337739659438
 'Lewis Kaplan',fr,USA,#18e8e8,#18e8e8,2,0.337356182623
 'Jean-Denis Combrexelle',fr,Frankreich,#e8e808,#e8e808,1,0.337260877638
@@ -532,6 +531,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Kroll',fr,Deutschland,#1818e8,#1818e8,1,0.318423812500
 'Andrei Sacharow',fr,Russland,#e81818,#e81818,1,0.318423812500
 'Pablo Picasso',fr,Spanien,#33aa99,#33aa99,2,0.318182046112
+'Eric Adams',fr,USA,#18e8e8,#18e8e8,2,0.317837032045
 'Aurélien Pradié',fr,Frankreich,#e8e808,#e8e808,1,0.317402333768
 'Axel Springer',fr,Deutschland,#1818e8,#1818e8,2,0.317133188997
 'Kate Hudson',fr,USA,#18e8e8,#18e8e8,1,0.317104820415
