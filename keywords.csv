@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'prince Andrew',fr,unknown,#111111,#111111,3,0.487560593573
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.486347761230
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.480496081229
@@ -239,6 +238,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Guy Ritchie',fr,UK,#e838e8,#e838e8,2,0.415199150832
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.414695724800
 'Andrew Windsor',fr,unknown,#111111,#111111,1,0.414682942039
+'prince Andrew',fr,unknown,#111111,#111111,2,0.414426789537
 'Chris Wright',fr,USA,#18e8e8,#18e8e8,2,0.413317892528
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,1,0.413005966183
 'Jack Antonoff',fr,unknown,#111111,#111111,2,0.412653366702
