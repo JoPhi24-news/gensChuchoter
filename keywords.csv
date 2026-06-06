@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,3,0.530291629413
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.486347761230
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.480496081229
@@ -69,7 +70,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergio Mattarella',fr,Italien,#33dd55,#33dd55,2,0.447946641298
 'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.447293557931
 'Justin Gaethje',fr,unknown,#111111,#111111,2,0.447236755777
-'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,3,0.447048358133
 'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.446501586136
 'Leslie Wexner',fr,unknown,#111111,#111111,2,0.446163335264
 'Pam Bondi',fr,unknown,#111111,#111111,2,0.445813676837
@@ -531,13 +531,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Kroll',fr,Deutschland,#1818e8,#1818e8,1,0.318423812500
 'Andrei Sacharow',fr,Russland,#e81818,#e81818,1,0.318423812500
 'Pablo Picasso',fr,Spanien,#33aa99,#33aa99,2,0.318182046112
+'Christopher Nolan',fr,USA,#18e8e8,#18e8e8,1,0.318143826538
 'Eric Adams',fr,USA,#18e8e8,#18e8e8,2,0.317837032045
 'Aurélien Pradié',fr,Frankreich,#e8e808,#e8e808,1,0.317402333768
 'Axel Springer',fr,Deutschland,#1818e8,#1818e8,2,0.317133188997
 'Kate Hudson',fr,USA,#18e8e8,#18e8e8,1,0.317104820415
 'Tasneem Essop',fr,Südafrika,#ee4411,#ee4411,1,0.316797335311
 'Matt Gaetz',fr,USA,#18e8e8,#18e8e8,1,0.316399234899
-'Christopher Nolan',fr,USA,#18e8e8,#18e8e8,1,0.316178794190
 'Kamilla Cardoso',fr,Brasilien,#58e838,#58e838,1,0.316074211806
 'Maya Rudolph',fr,USA,#18e8e8,#18e8e8,1,0.316067632073
 'Andrew Tate',fr,USA,#18e8e8,#18e8e8,2,0.315783238111
