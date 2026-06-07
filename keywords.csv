@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,3,0.530291629413
+'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,3,0.532971137274
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.486347761230
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.480496081229
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.481171010519
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.478280967481
 'Noël Barrot',fr,unknown,#111111,#111111,3,0.477848530770
 'reine Mathilde',fr,unknown,#111111,#111111,3,0.476404328877
@@ -30,12 +30,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.465637353356
 'James Bond',fr,unknown,#111111,#111111,3,0.465311478839
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.463975694048
+'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.462847590733
 'Catherine Pégard',fr,unknown,#111111,#111111,3,0.462725939423
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.462686208402
 'Eric Dane',fr,unknown,#111111,#111111,2,0.462671392302
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
 'Keir Starmer',fr,unknown,#111111,#111111,2,0.462155709379
-'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.462136128411
 'Steve Bannon',fr,unknown,#111111,#111111,1,0.462132810389
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.461663139698
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.460328170907
@@ -376,8 +376,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Veronika Grimm',fr,Deutschland,#335599,#335599,1,0.361250000000
 'Justus Haucap',fr,Deutschland,#335599,#335599,1,0.361250000000
 'LeBron James',fr,USA,#18e8e8,#18e8e8,2,0.360570501986
+'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,1,0.360436409246
 'Dwayne Johnson',fr,USA,#18e8e8,#18e8e8,1,0.359683868229
-'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,1,0.359528698727
 'Ehud Olmert',fr,Israel,#3311cc,#3311cc,1,0.359169824603
 'Sean Hannity',fr,USA,#18e8e8,#18e8e8,1,0.359050741497
 'Lana Del Rey',fr,USA,#18e8e8,#18e8e8,1,0.359048466216
@@ -406,9 +406,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aubrey Plaza',fr,USA,#18e8e8,#18e8e8,1,0.349105150271
 'Mindy Kaling',fr,USA,#18e8e8,#18e8e8,1,0.349084638957
 'Gérard Larcher',fr,Frankreich,#e8e808,#e8e808,2,0.348767387982
+'prince Harry',fr,UK,#e838e8,#e838e8,2,0.348173401014
 'James Biden',fr,USA,#18e8e8,#18e8e8,1,0.347942878043
 'Nikki Haley',fr,USA,#18e8e8,#18e8e8,1,0.347517213534
-'prince Harry',fr,UK,#e838e8,#e838e8,2,0.347243686381
 'Ron Johnson',fr,USA,#18e8e8,#18e8e8,1,0.346868482424
 'Jack Smith',fr,USA,#18e8e8,#18e8e8,2,0.346717275903
 'Demi Moore',fr,USA,#18e8e8,#18e8e8,1,0.346564423887
@@ -421,9 +421,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greg Brockman',fr,USA,#18e8e8,#18e8e8,1,0.345293414437
 'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,1,0.344860591675
 'Sabrina Carpenter',fr,USA,#18e8e8,#18e8e8,1,0.344295550672
+'Steven Spielberg',fr,USA,#18e8e8,#18e8e8,3,0.343944075350
 'Sophie Turner',fr,UK,#e838e8,#e838e8,2,0.343925232039
 'Vo Van Thuong',fr,Vietnam,#117644,#117644,1,0.343470111841
-'Steven Spielberg',fr,USA,#18e8e8,#18e8e8,3,0.343006871336
 'Charlize Theron',fr,Südafrika,#ee4411,#ee4411,1,0.342657011231
 'Gavin Newsom',fr,USA,#18e8e8,#18e8e8,2,0.341964382502
 'Margaret Thatcher',fr,UK,#e838e8,#e838e8,2,0.340914469394
@@ -524,6 +524,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Simion',fr,Rumänien,#3355bb,#3355bb,1,0.319325413273
 'Al Pacino',fr,USA,#18e8e8,#18e8e8,1,0.319310249051
 'Pap Ndiaye',fr,Frankreich,#e8e808,#e8e808,1,0.319225063985
+'Christopher Nolan',fr,USA,#18e8e8,#18e8e8,1,0.319123867689
 'Ottmar Edenhofer',fr,Deutschland,#1818e8,#1818e8,1,0.318423812500
 'Maja Göpel',fr,Deutschland,#1818e8,#1818e8,1,0.318423812500
 'Lea Bonasera',fr,Deutschland,#1818e8,#1818e8,1,0.318423812500
@@ -531,7 +532,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Kroll',fr,Deutschland,#1818e8,#1818e8,1,0.318423812500
 'Andrei Sacharow',fr,Russland,#e81818,#e81818,1,0.318423812500
 'Pablo Picasso',fr,Spanien,#33aa99,#33aa99,2,0.318182046112
-'Christopher Nolan',fr,USA,#18e8e8,#18e8e8,1,0.318143826538
 'Eric Adams',fr,USA,#18e8e8,#18e8e8,2,0.317837032045
 'Aurélien Pradié',fr,Frankreich,#e8e808,#e8e808,1,0.317402333768
 'Axel Springer',fr,Deutschland,#1818e8,#1818e8,2,0.317133188997
