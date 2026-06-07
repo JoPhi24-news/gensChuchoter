@@ -935,6 +935,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammed bin Salman',fr,SaudiArabien,#22bb66,#22bb66,2,0.204975838011
 'Werner von Braun',fr,Deutschland,#1818e8,#1818e8,1,0.204775215013
 'Joachim Gauck',fr,Deutschland,#1818e8,#1818e8,1,0.204717067683
+'Anthony Albanese',fr,Australien,#aa9933,#aa9933,1,0.204182445313
 'Maybrit Illner',fr,Deutschland,#1818e8,#1818e8,1,0.203896076570
 'Alfred Bernhard Nobel',fr,Schweden,#ddee11,#ddee11,1,0.203660738437
 'Olli Schulz',fr,Deutschland,#1818e8,#1818e8,1,0.202186417777
@@ -988,7 +989,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard David Precht',fr,Deutschland,#1818e8,#1818e8,1,0.181751097335
 'Annalena Baerbock',fr,Deutschland,#1818e8,#1818e8,2,0.181431123015
 'Thomas Haldenwang',fr,Deutschland,#1818e8,#1818e8,1,0.180378689831
-'Anthony Albanese',fr,Australien,#aa9933,#aa9933,1,0.180332182721
 'Sandra Maischberger',fr,Deutschland,#1818e8,#1818e8,1,0.179866065763
 'Larry Page',fr,USA,#18e8e8,#18e8e8,2,0.179044766282
 'Hun Sen',fr,Kambodscha,#33aadd,#33aadd,1,0.178567859374
