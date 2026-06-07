@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,3,0.532971137274
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.486347761230
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.481171010519
@@ -53,6 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.453757808859
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453093851415
+'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,2,0.453025961683
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.453010539399
 'Amélie de Montchalin',fr,unknown,#111111,#111111,1,0.452522780492
 'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.452429663773
