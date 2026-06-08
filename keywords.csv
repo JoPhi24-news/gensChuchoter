@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Noël Barrot',fr,unknown,#111111,#111111,3,0.477848530770
 'reine Mathilde',fr,unknown,#111111,#111111,3,0.476404328877
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.476217899830
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.475789526052
 'Jack Lang',fr,unknown,#111111,#111111,3,0.475782461245
 'Affaire Epstein',fr,unknown,#111111,#111111,3,0.475639301822
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.474416802571
 'Renee Nicole Good',fr,unknown,#111111,#111111,3,0.473788543142
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.473269843161
 'Ali Larijani',fr,unknown,#111111,#111111,3,0.472095121892
@@ -51,10 +51,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'François Mitterrand',fr,unknown,#111111,#111111,3,0.453918955745
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.453757808859
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
+'Amélie de Montchalin',fr,unknown,#111111,#111111,1,0.453253280310
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453093851415
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,2,0.453025961683
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.453010539399
-'Amélie de Montchalin',fr,unknown,#111111,#111111,1,0.452522780492
 'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.452429663773
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.451599097659
@@ -103,10 +103,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Amos Goldberg',fr,unknown,#111111,#111111,1,0.440725000000
 'Tim Walz',fr,unknown,#111111,#111111,3,0.440019959779
 'Jacob Frey',fr,unknown,#111111,#111111,2,0.439344955730
+'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.438896124622
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.438876352658
 'Andrew Mountbatten-Windsor',fr,unknown,#111111,#111111,2,0.438651921830
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.438213653361
-'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.438137301751
 'Alan Jackson',fr,unknown,#111111,#111111,2,0.438077040121
 'Rashida Tlaib',fr,unknown,#111111,#111111,1,0.437888390209
 'Ali Khamenei',fr,unknown,#111111,#111111,3,0.437399285160
@@ -416,10 +416,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Timberlake',fr,USA,#18e8e8,#18e8e8,2,0.346307859377
 'Greg Abbott',fr,USA,#18e8e8,#18e8e8,1,0.346074933839
 'Johann Wadephul',fr,Deutschland,#335599,#335599,1,0.346028311124
+'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,1,0.345794525342
 'Lachlan Murdoch',fr,UK,#e838e8,#e838e8,1,0.345718116041
 'François Braun',fr,Frankreich,#e8e808,#e8e808,3,0.345467275335
 'Greg Brockman',fr,USA,#18e8e8,#18e8e8,1,0.345293414437
-'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,1,0.344860591675
 'Sabrina Carpenter',fr,USA,#18e8e8,#18e8e8,1,0.344295550672
 'Steven Spielberg',fr,USA,#18e8e8,#18e8e8,3,0.343944075350
 'Sophie Turner',fr,UK,#e838e8,#e838e8,2,0.343925232039
@@ -838,6 +838,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Willy Brandt',fr,Deutschland,#1818e8,#1818e8,1,0.254272689006
 'Markus Söder',fr,Deutschland,#1818e8,#1818e8,1,0.253983484564
 'Paul Ronzheimer',fr,Deutschland,#1818e8,#1818e8,2,0.253622557034
+'Christine Lagarde',fr,EU,#88cc44,#88cc44,3,0.251556642126
 'Finnegan Biden',fr,USA,#18e8e8,#18e8e8,1,0.250985012725
 'Helge Schneider',fr,Deutschland,#1818e8,#1818e8,1,0.250665507544
 'Bettina Jarasch',fr,Deutschland,#1818e8,#1818e8,1,0.250231229158
@@ -926,7 +927,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tamim bin Hamad Al Thani',fr,Katar,#33ffbb,#33ffbb,2,0.212958869968
 'Michael Sandel',fr,USA,#18e8e8,#18e8e8,2,0.212387524751
 'Tamim bin Hamad Al-Thani',fr,Katar,#33ffbb,#33ffbb,2,0.212115772066
-'Christine Lagarde',fr,EU,#88cc44,#88cc44,3,0.210948726031
 'Giorgia Meloni',fr,Italien,#33dd55,#33dd55,3,0.210399135906
 'Rafael Grossi',fr,UN,#e888e8,#e888e8,1,0.209500071238
 'Boris Pistorius',fr,Deutschland,#1818e8,#1818e8,1,0.209427397608
