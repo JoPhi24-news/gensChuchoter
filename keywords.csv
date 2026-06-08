@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Emmanuel Moulin',fr,unknown,#111111,#111111,2,0.606705624455
+'Emmanuel Moulin',fr,unknown,#111111,#111111,2,0.579741484878
 'David Letterman',fr,unknown,#111111,#111111,2,0.508746590798
 'HBO Max',fr,unknown,#111111,#111111,2,0.506771235239
 'Nicolas Cage',fr,unknown,#111111,#111111,2,0.505943192893
@@ -11,12 +11,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.486347761230
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.481171010519
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.479874991990
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.478280967481
 'Noël Barrot',fr,unknown,#111111,#111111,3,0.477848530770
 'Affaire Epstein',fr,unknown,#111111,#111111,3,0.477689044356
 'reine Mathilde',fr,unknown,#111111,#111111,3,0.476404328877
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.476217899830
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.475789526052
 'Jack Lang',fr,unknown,#111111,#111111,3,0.475782461245
 'Renee Nicole Good',fr,unknown,#111111,#111111,3,0.473788543142
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.473269843161
@@ -57,6 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.456699871436
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.456574447903
 'Les Wexner',fr,unknown,#111111,#111111,2,0.455273447568
+'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.454617385197
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.454421287978
 'François Mitterrand',fr,unknown,#111111,#111111,3,0.453918955745
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.453757808859
@@ -65,7 +66,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453093851415
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,2,0.453025961683
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.453010539399
-'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.452429663773
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.451599097659
 'Mojtaba Khamenei',fr,unknown,#111111,#111111,3,0.451372909215
