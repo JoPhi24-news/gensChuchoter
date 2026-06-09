@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'HBO Max',fr,unknown,#111111,#111111,2,0.506771235239
-'Nicolas Cage',fr,unknown,#111111,#111111,2,0.505943192893
+'Nicolas Cage',fr,unknown,#111111,#111111,2,0.506567302769
 'Robert Gates',fr,unknown,#111111,#111111,2,0.504492799066
 'Bill Cassidy',fr,unknown,#111111,#111111,2,0.503816044524
 'Alexander Yui',fr,unknown,#111111,#111111,2,0.503337561963
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.478280967481
 'Noël Barrot',fr,unknown,#111111,#111111,3,0.477848530770
 'Affaire Epstein',fr,unknown,#111111,#111111,3,0.477689044356
+'HBO Max',fr,unknown,#111111,#111111,2,0.476617100862
 'reine Mathilde',fr,unknown,#111111,#111111,3,0.476404328877
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.476217899830
 'Jack Lang',fr,unknown,#111111,#111111,3,0.475782461245
@@ -429,8 +429,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lachlan Murdoch',fr,UK,#e838e8,#e838e8,1,0.345718116041
 'François Braun',fr,Frankreich,#e8e808,#e8e808,3,0.345467275335
 'Greg Brockman',fr,USA,#18e8e8,#18e8e8,1,0.345293414437
+'Steven Spielberg',fr,USA,#18e8e8,#18e8e8,3,0.344879627206
 'Sabrina Carpenter',fr,USA,#18e8e8,#18e8e8,1,0.344295550672
-'Steven Spielberg',fr,USA,#18e8e8,#18e8e8,3,0.343944075350
 'Sophie Turner',fr,UK,#e838e8,#e838e8,2,0.343925232039
 'Vo Van Thuong',fr,Vietnam,#117644,#117644,1,0.343470111841
 'Charlize Theron',fr,Südafrika,#ee4411,#ee4411,1,0.342657011231
