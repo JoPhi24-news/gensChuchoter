@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Alexander Yui',fr,unknown,#111111,#111111,2,0.503337561963
 'Emmanuel Moulin',fr,unknown,#111111,#111111,2,0.502276511692
 'Jamieson Greer',fr,unknown,#111111,#111111,2,0.501832098386
 'Paul McCartney',fr,unknown,#111111,#111111,2,0.501722498074
@@ -196,6 +195,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mother Mary',fr,unknown,#111111,#111111,2,0.427964279416
 'Venezuelas Übergangspräsidentin',fr,unknown,#111111,#111111,1,0.427924535763
 'Craig Melvin',fr,unknown,#111111,#111111,1,0.427861509242
+'Alexander Yui',fr,unknown,#111111,#111111,1,0.427836927669
 'Kash Patel',fr,unknown,#111111,#111111,1,0.427803069932
 'Howard Lutnick',fr,unknown,#111111,#111111,2,0.427738798516
 'Dan Hooker',fr,unknown,#111111,#111111,1,0.427549166499
