@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nicolas Cage',fr,unknown,#111111,#111111,2,0.494623971445
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.486347761230
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
 'Paul McCartney',fr,unknown,#111111,#111111,2,0.485960162908
@@ -84,6 +83,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444813958353
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
 'Andrew Mountbatten-Windsor',fr,unknown,#111111,#111111,2,0.443925473211
+'Nicolas Cage',fr,unknown,#111111,#111111,2,0.443563063910
 'JD Vance',fr,USA,#18e8e8,#18e8e8,2,0.443502228623
 'Claire Legendre',fr,unknown,#111111,#111111,2,0.443480281736
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.442203175567
@@ -871,7 +871,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kevin Kühnert',fr,Deutschland,#1818e8,#1818e8,1,0.241224347799
 'Stefan Rahmstorf',fr,Deutschland,#1818e8,#1818e8,1,0.240538893344
 'Melinda Gates',fr,USA,#18e8e8,#18e8e8,2,0.239445180794
-'Martin Scorsese',fr,USA,#18e8e8,#18e8e8,1,0.238305053943
+'Martin Scorsese',fr,USA,#18e8e8,#18e8e8,1,0.239407312147
 'Papst Benedikt XVI',fr,Vatikan,#58b8e8,#58b8e8,2,0.238271904683
 'Joseph Ratzinger',fr,Vatikan,#58b8e8,#58b8e8,1,0.238018838372
 'John Paul II',fr,Vatikan,#58b8e8,#58b8e8,1,0.237894593817
