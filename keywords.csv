@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jamieson Greer',fr,unknown,#111111,#111111,2,0.501832098386
 'Paul McCartney',fr,unknown,#111111,#111111,2,0.501722498074
 'Nicolas Cage',fr,unknown,#111111,#111111,2,0.494623971445
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.486347761230
@@ -204,6 +203,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MARGARET BRENNAN',fr,unknown,#111111,#111111,2,0.427133432114
 'Geraldo Rivera',fr,unknown,#111111,#111111,2,0.426802971854
 'Howie Mandel',fr,unknown,#111111,#111111,1,0.426632355671
+'Jamieson Greer',fr,unknown,#111111,#111111,1,0.426557433628
 'James Van Der Beek',fr,unknown,#111111,#111111,1,0.426523648480
 'Mark Kelly',fr,unknown,#111111,#111111,1,0.426393603630
 'László Krasznahorkai',fr,Ungarn,#99aa33,#99aa33,1,0.426324337111
