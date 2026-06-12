@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reine Mathilde',fr,unknown,#111111,#111111,3,0.476404328877
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.476217899830
 'Jack Lang',fr,unknown,#111111,#111111,3,0.475782461245
-'Renee Nicole Good',fr,unknown,#111111,#111111,3,0.473788543142
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.473269843161
 'Ali Larijani',fr,unknown,#111111,#111111,3,0.472095121892
 'David Amiel',fr,unknown,#111111,#111111,2,0.471601230636
@@ -274,6 +273,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greta Thunberg',fr,Schweden,#ddee11,#ddee11,2,0.405171310410
 'laffaire Epstein',fr,unknown,#111111,#111111,2,0.403903874080
 'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,1,0.402971242282
+'Renee Nicole Good',fr,unknown,#111111,#111111,2,0.402720291671
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.402300970200
 'James Comey',fr,USA,#18e8e8,#18e8e8,3,0.402128980888
 'Kim Jong Un',fr,NordKorea,#e85858,#e85858,3,0.401077534997
