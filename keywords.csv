@@ -524,6 +524,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Omar Sy',fr,Frankreich,#e8e808,#e8e808,1,0.321096750314
 'Steve Jobs',fr,USA,#18e8e8,#18e8e8,2,0.321013605664
 'Carey Mulligan',fr,UK,#e838e8,#e838e8,1,0.320423043827
+'Al Pacino',fr,USA,#18e8e8,#18e8e8,1,0.320288325256
 'Robert Menendez',fr,USA,#18e8e8,#18e8e8,1,0.320256326844
 'Christopher Nolan',fr,USA,#18e8e8,#18e8e8,1,0.320102258178
 'Jimmy Carter',fr,USA,#18e8e8,#18e8e8,1,0.320030954010
@@ -532,7 +533,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yannick Morez',fr,Frankreich,#e8e808,#e8e808,2,0.319469788084
 'Chris Hipkins',fr,Neuseeland,#1818e8,#1818e8,1,0.319423762646
 'George Simion',fr,Rumänien,#3355bb,#3355bb,1,0.319325413273
-'Al Pacino',fr,USA,#18e8e8,#18e8e8,1,0.319310249051
 'Pap Ndiaye',fr,Frankreich,#e8e808,#e8e808,1,0.319225063985
 'Ottmar Edenhofer',fr,Deutschland,#1818e8,#1818e8,1,0.318423812500
 'Maja Göpel',fr,Deutschland,#1818e8,#1818e8,1,0.318423812500
@@ -655,6 +655,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Theodor Herzl',fr,Ungarn,#111111,#111111,2,0.304314974078
 'Yoon Suk Yeol',fr,SüdKorea,#bbff33,#bbff33,2,0.303986379820
 'Tamim Hamad Thani',fr,Katar,#33ffbb,#33ffbb,2,0.303883390906
+'Roman Pacino',fr,unknown,#111111,#111111,2,0.303574948502
 'Peregrine Pearson',fr,unknown,#111111,#111111,1,0.303458232404
 'Jane Fonda',fr,unknown,#111111,#111111,1,0.303457162498
 'Devon Archer',fr,unknown,#111111,#111111,1,0.303370293956
@@ -790,7 +791,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Irina Shayk',fr,Russland,#e81818,#e81818,1,0.270470485804
 'Brian Kilmeade',fr,unknown,#111111,#111111,1,0.269914372303
 'Jan Böhmermann',fr,Deutschland,#1818e8,#1818e8,3,0.269670745153
-'Roman Pacino',fr,unknown,#111111,#111111,1,0.268558727650
 'Jerod Mayo',fr,unknown,#111111,#111111,1,0.268411279183
 'Rudolf Steiner',fr,Oesterreich,#5522dd,#5522dd,1,0.267891876517
 'Viktor Shokin',fr,unknown,#111111,#111111,1,0.267479449704
