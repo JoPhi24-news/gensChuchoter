@@ -356,7 +356,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cheryl Hines',fr,USA,#18e8e8,#18e8e8,1,0.365736904856
 'Alois Rainer',fr,Deutschland,#335599,#335599,1,0.365704405000
 'Taylor Swift',fr,USA,#18e8e8,#18e8e8,2,0.365508157033
-'Carsten Schneider',fr,Deutschland,#335599,#335599,1,0.365404395049
 'Patrick Schnieder',fr,Deutschland,#335599,#335599,1,0.365404375000
 'Dorothee Bär',fr,Deutschland,#335599,#335599,1,0.365404375000
 'Christiane Schenderlein',fr,Deutschland,#335599,#335599,1,0.365404375000
@@ -596,6 +595,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Malone',fr,unknown,#111111,#111111,1,0.310736134667
 'Leandro De Niro-Rodriguez',fr,unknown,#111111,#111111,1,0.310710584970
 'Tina Turner',fr,USA,#18e8e8,#18e8e8,1,0.310655597937
+'Carsten Schneider',fr,Deutschland,#335599,#335599,1,0.310593735792
 'Steffen Kotre',fr,Deutschland,#335599,#335599,1,0.310593718750
 'Karin Prien',fr,Deutschland,#335599,#335599,1,0.310593718750
 'Henry Ford',fr,USA,#18e8e8,#18e8e8,2,0.310545277647
