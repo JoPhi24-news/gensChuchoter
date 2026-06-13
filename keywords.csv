@@ -1086,7 +1086,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patriarch Kyrill',fr,Ukraine,#e818e8,#e818e8,1,0.118577069372
 'Robin Li',fr,China,#e88818,#e88818,2,0.118529207014
 'Paul Gosar',fr,USA,#18e8e8,#18e8e8,1,0.118124642604
-'Steffi Lemke',fr,Deutschland,#1818e8,#1818e8,1,0.117698690464
 'MacKenzie Scott',fr,USA,#18e8e8,#18e8e8,1,0.116887701907
 'Prinz Archie',fr,UK,#e838e8,#e838e8,1,0.115655533276
 'Schellnhuber',fr,Deutschland,#1818e8,#1818e8,1,0.115364720743
@@ -1105,6 +1104,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ali Chamenei',fr,Iran,#1144ee,#1144ee,1,0.101226342478
 'Megyn Kell',fr,USA,#18e8e8,#18e8e8,1,0.100921756664
 'Benjamin Netanjahu',fr,Israel,#3311cc,#3311cc,1,0.100793601589
+'Steffi Lemke',fr,Deutschland,#1818e8,#1818e8,1,0.100043886894
 'Joana Cotar',fr,Deutschland,#1818e8,#1818e8,1,0.099983010455
 'Erik Marquardt',fr,EU,#88cc44,#88cc44,1,0.099719316358
 'Alexei Nawalny',fr,Russland,#e81818,#e81818,1,0.099285006276
