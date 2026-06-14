@@ -53,10 +53,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.454421287978
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.454079561687
 'François Mitterrand',fr,unknown,#111111,#111111,3,0.453918955745
+'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453823222545
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.453757808859
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Amélie de Montchalin',fr,unknown,#111111,#111111,1,0.453253280310
-'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,2,0.453093851415
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,2,0.453025961683
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.453010539399
 'David Letterman',fr,unknown,#111111,#111111,2,0.452384722178
@@ -280,6 +280,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Éric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.400567580085
 'Raphaël Arnault',fr,unknown,#111111,#111111,2,0.399325694022
 "'Dwayne ""The Rock"" Johnson'",fr,USA,#18e8e8,#18e8e8,2,0.397800998044
+'Britney Spears',fr,USA,#18e8e8,#18e8e8,2,0.396989237624
 'Sanae Takaichi',fr,Japan,#33aa99,#33aa99,2,0.395666470718
 'Lecornu II ',fr,Frankreich,#e8e808,#e8e808,2,0.393526249874
 'Sebastien Lecornu',fr,Frankreich,#e8e808,#e8e808,1,0.393437412777
@@ -449,7 +450,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Denis Combrexelle',fr,Frankreich,#e8e808,#e8e808,1,0.337260877638
 'Lady Di',fr,UK,#e838e8,#e838e8,1,0.337047602231
 'Ayo Edebiri',fr,USA,#18e8e8,#18e8e8,1,0.337019660563
-'Britney Spears',fr,USA,#18e8e8,#18e8e8,2,0.336762545333
 'Ron DeSantis',fr,USA,#18e8e8,#18e8e8,3,0.335952659678
 'Markus Lanz',fr,Deutschland,#1818e8,#1818e8,1,0.335897419045
 'Sam H',fr,unknown,#111111,#111111,2,0.335716503982
@@ -509,11 +509,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ben Wallace',fr,USA,#18e8e8,#18e8e8,1,0.325126701091
 'Harrison Ford',fr,USA,#18e8e8,#18e8e8,1,0.323854374579
 'Sam Bankman-Fried',fr,USA,#18e8e8,#18e8e8,1,0.323721363813
+'Kim Kardashian',fr,USA,#18e8e8,#18e8e8,2,0.323520171423
 'Lionel Richie',fr,USA,#18e8e8,#18e8e8,2,0.323374070355
 'Lauren Sanchez',fr,USA,#18e8e8,#18e8e8,1,0.323224594648
 'Mohammed Bin Salman',fr,SaudiArabien,#22bb66,#22bb66,1,0.322733071857
 'Paul-Henry Nargeolet',fr,Frankreich,#e8e808,#e8e808,1,0.322587885875
-'Kim Kardashian',fr,USA,#18e8e8,#18e8e8,2,0.322547572665
 'Sam Asghari',fr,Iran,#1144ee,#1144ee,1,0.322114972836
 'Cara Delevingne',fr,UK,#e838e8,#e838e8,1,0.321870981082
 'Jared Kushner',fr,unknown,#111111,#111111,1,0.321866510688
@@ -709,14 +709,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Henry Kissinger',fr,USA,#18e8e8,#18e8e8,1,0.294750491882
 'William Shakespeare',fr,UK,#e838e8,#e838e8,2,0.294437835001
 'Margaret Qualley',fr,unknown,#111111,#111111,1,0.293535713484
+'Marie Trintignant',fr,unknown,#111111,#111111,2,0.293500442896
 'Kanye West',fr,USA,#18e8e8,#18e8e8,2,0.293078243907
 'Norbert Röttgen',fr,Deutschland,#1818e8,#1818e8,2,0.292935119834
 'Dmitri Medwedew',fr,Russland,#e81818,#e81818,1,0.292875965569
 'Juliette Binoche',fr,unknown,#111111,#111111,1,0.292768226365
 'Marlène Schiappa',fr,unknown,#111111,#111111,1,0.292718918683
-'Marie Trintignant',fr,unknown,#111111,#111111,2,0.292478376088
+'Heidi Klum',fr,unknown,#111111,#111111,1,0.292554793314
 'Kemal Kılıçdaroğlu',fr,Türkei,#66bb22,#66bb22,1,0.291985758886
-'Heidi Klum',fr,unknown,#111111,#111111,1,0.291531221774
 'Verena Hubertz',fr,Deutschland,#335599,#335599,1,0.291196798047
 'Colin Farrell',fr,unknown,#111111,#111111,2,0.291133517764
 'Erich Honecker',fr,Deutschland,#1818e8,#1818e8,1,0.290665722305
