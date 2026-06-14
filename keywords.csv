@@ -61,9 +61,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.453010539399
 'David Letterman',fr,unknown,#111111,#111111,2,0.452384722178
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
+'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.451621337283
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.451599097659
 'Mojtaba Khamenei',fr,unknown,#111111,#111111,3,0.451372909215
-'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.450887607320
 'Quentin Deranque',fr,unknown,#111111,#111111,3,0.450470638357
 'Sam Levinson',fr,unknown,#111111,#111111,2,0.450381178057
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.450117337975
@@ -793,6 +793,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jan Böhmermann',fr,Deutschland,#1818e8,#1818e8,3,0.269670745153
 'Jerod Mayo',fr,unknown,#111111,#111111,1,0.268411279183
 'Rudolf Steiner',fr,Oesterreich,#5522dd,#5522dd,1,0.267891876517
+'Subrahmanyam Jaishankar',fr,Indien,#995533,#995533,2,0.267620098876
 'Viktor Shokin',fr,unknown,#111111,#111111,1,0.267479449704
 'John Rawls',fr,USA,#18e8e8,#18e8e8,1,0.267467446285
 'Leandro De Niro Rodriguez',fr,USA,#18e8e8,#18e8e8,1,0.267046152009
@@ -1062,7 +1063,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander Lukaschenko',fr,Belarus,#e81858,#e81858,1,0.138829039140
 'Michael Kretschmer',fr,Deutschland,#1818e8,#1818e8,1,0.138748936165
 'Oliver Blume',fr,Deutschland,#1818e8,#1818e8,1,0.138300011863
-'Subrahmanyam Jaishankar',fr,Indien,#995533,#995533,1,0.138200098678
 'Sergej Lawrow',fr,Russland,#e81818,#e81818,1,0.137358973512
 'Dalai Lama',fr,Tibet,#ddaa33,#ddaa33,1,0.136811762433
 'Barbara Walters',fr,USA,#18e8e8,#18e8e8,1,0.136756273949
