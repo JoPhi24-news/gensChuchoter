@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Delcy Rodríguez',fr,unknown,#111111,#111111,2,0.490901969232
+'Will Ferrell',fr,unknown,#111111,#111111,2,0.508696014516
+'Jack White',fr,unknown,#111111,#111111,2,0.507979633305
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.486522195229
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.486347761230
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
@@ -71,6 +72,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.449416138229
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.449197570525
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.448299397630
+'Delcy Rodríguez',fr,unknown,#111111,#111111,2,0.448016763847
 'Sergio Mattarella',fr,Italien,#33dd55,#33dd55,2,0.447946641298
 'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.447293557931
 'Justin Gaethje',fr,unknown,#111111,#111111,2,0.447236755777
