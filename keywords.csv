@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Will Ferrell',fr,unknown,#111111,#111111,2,0.508696014516
 'Jack White',fr,unknown,#111111,#111111,2,0.507979633305
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.486522195229
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.486347761230
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
 'Paul McCartney',fr,unknown,#111111,#111111,2,0.485960162908
+'Will Ferrell',fr,unknown,#111111,#111111,2,0.482841657339
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.480551159897
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.478280967481
 'Noël Barrot',fr,unknown,#111111,#111111,3,0.477848530770
@@ -677,13 +677,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Jonas',fr,USA,#18e8e8,#18e8e8,1,0.300571306669
 'Leon Botstein',fr,USA,#18e8e8,#18e8e8,1,0.300324030479
 'George Bush',fr,USA,#18e8e8,#18e8e8,1,0.300140855634
+'Katy Perry',fr,USA,#18e8e8,#18e8e8,1,0.300135759624
 'Konrad Adenauer',fr,Deutschland,#1818e8,#1818e8,1,0.300058768253
 'Lyna Khoudri',fr,unknown,#111111,#111111,1,0.299936411269
 'Königsgemahlin Camilla',fr,UK,#e838e8,#e838e8,1,0.299881195607
 'Anya Taylor-Joy',fr,unknown,#111111,#111111,1,0.299849678110
 'Mark Meadows',fr,unknown,#111111,#111111,1,0.299771492972
 'Bernard Arnault',fr,Frankreich,#e8e808,#e8e808,2,0.299423709414
-'Katy Perry',fr,USA,#18e8e8,#18e8e8,1,0.299124346182
 'Sergio Massa',fr,unknown,#111111,#111111,1,0.299050082381
 'Kai Wegner',fr,Deutschland,#1818e8,#1818e8,1,0.298836378921
 'Nicusor Dan',fr,unknown,#111111,#111111,1,0.298738663080
