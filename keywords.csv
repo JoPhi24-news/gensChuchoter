@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Delcy Rodríguez',fr,unknown,#111111,#111111,2,0.490901969232
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.486522195229
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.486347761230
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
@@ -13,9 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Lang',fr,unknown,#111111,#111111,3,0.475782461245
 'Ali Larijani',fr,unknown,#111111,#111111,3,0.472095121892
 'David Amiel',fr,unknown,#111111,#111111,2,0.471601230636
-'Delcy Rodríguez',fr,unknown,#111111,#111111,2,0.470766916743
+'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.471414900871
 'Quand Harry',fr,unknown,#111111,#111111,2,0.470763964052
-'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.470720496380
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.470307180682
 'Peter Mandelson',fr,unknown,#111111,#111111,2,0.469496983173
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.469379193306
