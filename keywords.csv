@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jack White',fr,unknown,#111111,#111111,2,0.507979633305
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.486522195229
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.486347761230
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
@@ -150,6 +149,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ben Shapiro',fr,unknown,#111111,#111111,1,0.431974036422
 'Sarah Ferguson',fr,unknown,#111111,#111111,1,0.431947286375
 'Bill Maher',fr,unknown,#111111,#111111,1,0.431788174780
+'Jack White',fr,unknown,#111111,#111111,1,0.431782898309
 'Harry Met Sally',fr,unknown,#111111,#111111,2,0.431630371018
 'Robert de Niro',fr,USA,#18e8e8,#18e8e8,3,0.431539500972
 'Michaela Coel',fr,unknown,#111111,#111111,1,0.431492582060
