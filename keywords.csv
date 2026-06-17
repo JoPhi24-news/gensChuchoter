@@ -214,7 +214,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Valentina Shevchenko',fr,unknown,#111111,#111111,1,0.425271915252
 'Chris Nanos',fr,unknown,#111111,#111111,1,0.425128208387
 'Zack Snyder',fr,USA,#18e8e8,#18e8e8,1,0.425026070982
-'Laura Loomer',fr,USA,#18e8e8,#18e8e8,1,0.425000420000
 'Volker Wieland',fr,Deutschland,#335599,#335599,1,0.425000000000
 'Stefan Kolev',fr,Deutschland,#335599,#335599,1,0.425000000000
 'Philipp Aghion',fr,Frankreich,#e8e808,#e8e808,1,0.425000000000
@@ -384,6 +383,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Santos',fr,USA,#18e8e8,#18e8e8,2,0.361764971186
 'Jake Reiner',fr,unknown,#111111,#111111,1,0.361458392162
 'John Martinis',fr,USA,#18e8e8,#18e8e8,1,0.361305053645
+'Laura Loomer',fr,USA,#18e8e8,#18e8e8,1,0.361250357000
 'Veronika Grimm',fr,Deutschland,#335599,#335599,1,0.361250000000
 'Justus Haucap',fr,Deutschland,#335599,#335599,1,0.361250000000
 'LeBron James',fr,USA,#18e8e8,#18e8e8,2,0.360570501986
