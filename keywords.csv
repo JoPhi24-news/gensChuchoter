@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.582618474174
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.604754172593
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.486347761230
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
 'Paul McCartney',fr,unknown,#111111,#111111,2,0.485960162908
@@ -61,7 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.453010539399
 'David Letterman',fr,unknown,#111111,#111111,2,0.452384722178
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
-'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.451621337283
+'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.452353618136
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.451599097659
 'Mojtaba Khamenei',fr,unknown,#111111,#111111,3,0.451372909215
 'Quentin Deranque',fr,unknown,#111111,#111111,3,0.450470638357
@@ -79,12 +79,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.446501586136
 'Leslie Wexner',fr,unknown,#111111,#111111,2,0.446163335264
 'Javier Bardem',fr,unknown,#111111,#111111,3,0.445262291451
+'JD Vance',fr,USA,#18e8e8,#18e8e8,2,0.444997328550
 'Markwayne Mullin',fr,unknown,#111111,#111111,2,0.444879065857
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444813958353
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
 'Andrew Mountbatten-Windsor',fr,unknown,#111111,#111111,2,0.443925473211
 'Nicolas Cage',fr,unknown,#111111,#111111,2,0.443563063910
-'JD Vance',fr,USA,#18e8e8,#18e8e8,2,0.443502228623
 'Claire Legendre',fr,unknown,#111111,#111111,2,0.443480281736
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.442203175567
 'Kristi Noem',fr,unknown,#111111,#111111,3,0.442084913111
@@ -330,10 +330,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Giorgio Goacomelli',fr,unknown,#111111,#111111,1,0.374616250000
 'Chad Frischmann',fr,USA,#18e8e8,#18e8e8,1,0.374616250000
 'Amos Goldberg',fr,unknown,#111111,#111111,1,0.374616250000
+'Benyamin Netanyahou',fr,Israel,#3311cc,#3311cc,2,0.373857384942
 'Chuck Schumer',fr,USA,#18e8e8,#18e8e8,1,0.372598511974
 'Christian Lindner',fr,Deutschland,#1818e8,#1818e8,3,0.372181692859
 'Victoria Beckham',fr,UK,#e838e8,#e838e8,1,0.371832880539
-'Benyamin Netanyahou',fr,Israel,#3311cc,#3311cc,2,0.371202994311
 'William Friedkin',fr,USA,#18e8e8,#18e8e8,2,0.369946252027
 'Usha Vance',fr,unknown,#111111,#111111,1,0.369685775404
 'Jimmy Kimmel',fr,USA,#18e8e8,#18e8e8,2,0.369400039288
@@ -926,12 +926,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barbara Sturm',fr,Deutschland,#1818e8,#1818e8,1,0.218171120851
 'Michael Kahle',fr,Deutschland,#1818e8,#1818e8,1,0.217415603125
 'Jens Stoltenberg',fr,Norwegen,#e818e8,#e818e8,2,0.216929738462
+'Michelle Obama',fr,USA,#18e8e8,#18e8e8,2,0.216859948094
 'Frank-Walter Steinmeier',fr,Deutschland,#1818e8,#1818e8,3,0.216832933149
 'Alexander von Humboldt',fr,Deutschland,#1818e8,#1818e8,1,0.216768833216
 'Rainer Maria Woelki',fr,Deutschland,#1818e8,#1818e8,1,0.216651872609
 'Derek Chauvin',fr,unknown,#111111,#111111,1,0.216381897404
 'Recep Tayyip Erdoğan',fr,Türkei,#66bb22,#66bb22,2,0.216266069377
-'Michelle Obama',fr,USA,#18e8e8,#18e8e8,2,0.215728113571
 'Adolf Hitler',fr,Deutschland,#1818e8,#1818e8,1,0.215102865522
 'Herbert Diess',fr,Deutschland,#1818e8,#1818e8,1,0.214900351293
 'John Kerry',fr,USA,#18e8e8,#18e8e8,2,0.214092510366
