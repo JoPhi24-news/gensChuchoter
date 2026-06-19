@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.532975515017
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.493145020636
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.493794699553
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.486347761230
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
 'Paul McCartney',fr,unknown,#111111,#111111,2,0.485960162908
@@ -36,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Keir Starmer',fr,unknown,#111111,#111111,2,0.462867132849
 'Catherine Pégard',fr,unknown,#111111,#111111,3,0.462725939423
 'Eric Dane',fr,unknown,#111111,#111111,2,0.462671392302
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.462559322310
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
 'Steve Bannon',fr,unknown,#111111,#111111,1,0.462132810389
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.461663139698
