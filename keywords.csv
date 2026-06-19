@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.593277438221
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.489219550702
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.595633673851
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.489877069875
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.486347761230
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
 'Paul McCartney',fr,unknown,#111111,#111111,2,0.485960162908
@@ -111,10 +111,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacob Frey',fr,unknown,#111111,#111111,2,0.439344955730
 'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.438896124622
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.438213653361
+'Pete Hegseth',fr,USA,#18e8e8,#18e8e8,3,0.438171601803
 'Alan Jackson',fr,unknown,#111111,#111111,2,0.438077040121
 'Rashida Tlaib',fr,unknown,#111111,#111111,1,0.437888390209
 'Nicolas Maduro',fr,unknown,#111111,#111111,2,0.437720436470
-'Pete Hegseth',fr,USA,#18e8e8,#18e8e8,3,0.437411355756
 'Ali Khamenei',fr,unknown,#111111,#111111,3,0.437399285160
 'Bari Weiss',fr,unknown,#111111,#111111,1,0.436838833377
 'Mark Levin',fr,unknown,#111111,#111111,2,0.436661983244
@@ -179,6 +179,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tony Dokoupil',fr,unknown,#111111,#111111,1,0.429278844195
 'Alexandria Ocasio-Cortez',fr,unknown,#111111,#111111,1,0.429125255091
 'Whoopi Goldberg',fr,USA,#18e8e8,#18e8e8,1,0.429119676187
+'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.428974223723
 'Robert Gates',fr,unknown,#111111,#111111,1,0.428818924206
 'Mario Adorf',fr,unknown,#111111,#111111,1,0.428666988500
 'Christian Dürr',fr,Deutschland,#335599,#335599,1,0.428593246867
@@ -187,7 +188,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kelly Ripa',fr,unknown,#111111,#111111,1,0.428539557483
 'Liveblog USA',fr,unknown,#111111,#111111,1,0.428244120085
 'Francis Ngannou',fr,unknown,#111111,#111111,1,0.428233219510
-'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.428195969657
 'Abby Phillip',fr,unknown,#111111,#111111,1,0.428193937791
 'Jean Castex',fr,Frankreich,#e8e808,#e8e808,3,0.428014127761
 'Bruna Caroline Ferreira',fr,unknown,#111111,#111111,2,0.428006351212
@@ -386,9 +386,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laura Loomer',fr,USA,#18e8e8,#18e8e8,1,0.361250357000
 'Veronika Grimm',fr,Deutschland,#335599,#335599,1,0.361250000000
 'Justus Haucap',fr,Deutschland,#335599,#335599,1,0.361250000000
+'Dwayne Johnson',fr,USA,#18e8e8,#18e8e8,1,0.360591298174
 'LeBron James',fr,USA,#18e8e8,#18e8e8,2,0.360570501986
 'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,1,0.360436409246
-'Dwayne Johnson',fr,USA,#18e8e8,#18e8e8,1,0.359683868229
 'Ehud Olmert',fr,Israel,#3311cc,#3311cc,1,0.359169824603
 'Sean Hannity',fr,USA,#18e8e8,#18e8e8,1,0.359050741497
 'Lana Del Rey',fr,USA,#18e8e8,#18e8e8,1,0.359048466216
@@ -489,11 +489,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Camille Cottin',fr,Frankreich,#e8e808,#e8e808,1,0.328979487998
 'Putin',fr,Russland,#e81818,#e81818,2,0.328897308196
 'Selenski',fr,Ukraine,#e818e8,#e818e8,3,0.328768896842
+'Bradley Cooper',fr,USA,#18e8e8,#18e8e8,1,0.328685948329
 'Ines de Ramon',fr,USA,#18e8e8,#18e8e8,1,0.328620707714
 'Charlie Munger',fr,USA,#18e8e8,#18e8e8,1,0.328410374343
 'Melania Trump',fr,Slowenien,#e5237d,#e5237d,1,0.328374339414
 'Laurent Berger',fr,Frankreich,#e8e808,#e8e808,1,0.328318169231
-'Bradley Cooper',fr,USA,#18e8e8,#18e8e8,1,0.327722176584
 'Billy Crystal',fr,USA,#18e8e8,#18e8e8,1,0.327477889114
 'Alexander Smirnov',fr,Israel,#3311cc,#3311cc,1,0.326808323006
 'Jerry Seinfeld',fr,USA,#18e8e8,#18e8e8,2,0.326412631438
@@ -702,11 +702,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz Heinrich XIII',fr,Deutschland,#1818e8,#1818e8,1,0.296482564954
 'Tim Scott',fr,USA,#18e8e8,#18e8e8,1,0.296260332283
 'Daniel Penny',fr,USA,#18e8e8,#18e8e8,1,0.296236988518
+'Jean Carroll',fr,USA,#18e8e8,#18e8e8,1,0.295887021858
 'Hendrik Wüst',fr,Deutschland,#1818e8,#1818e8,1,0.295774735074
 'Nina Gummich',fr,Deutschland,#1818e8,#1818e8,1,0.295579277560
 'Patrick Graichen',fr,Deutschland,#1818e8,#1818e8,1,0.295270705300
 'Billy Graham',fr,USA,#18e8e8,#18e8e8,1,0.295155464364
-'Jean Carroll',fr,USA,#18e8e8,#18e8e8,1,0.294868767741
 'Henry Kissinger',fr,USA,#18e8e8,#18e8e8,1,0.294750491882
 'William Shakespeare',fr,UK,#e838e8,#e838e8,2,0.294437835001
 'Margaret Qualley',fr,unknown,#111111,#111111,1,0.293535713484
