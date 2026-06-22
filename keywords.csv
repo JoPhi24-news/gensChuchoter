@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Chris Van Hollen',fr,unknown,#111111,#111111,2,0.508483853508
 'Peter Phillips',fr,unknown,#111111,#111111,2,0.507511099518
 'Deborah Birx',fr,unknown,#111111,#111111,2,0.507456846223
 'Chris Murphy',fr,unknown,#111111,#111111,2,0.506502181192
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
 'Paul McCartney',fr,unknown,#111111,#111111,2,0.485960162908
 'Will Ferrell',fr,unknown,#111111,#111111,2,0.482841657339
+'Chris Van Hollen',fr,unknown,#111111,#111111,2,0.482661320482
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.479638305341
 'Noël Barrot',fr,unknown,#111111,#111111,3,0.478528738910
 'Affaire Epstein',fr,unknown,#111111,#111111,3,0.477689044356
@@ -41,9 +41,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.465930439463
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.465679346013
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.464813093267
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.463979157063
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.463975694048
 'Bill Cassidy',fr,unknown,#111111,#111111,1,0.463675063918
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.463269944882
 'Keir Starmer',fr,unknown,#111111,#111111,2,0.462867132849
 'Catherine Pégard',fr,unknown,#111111,#111111,3,0.462725939423
 'Eric Dane',fr,unknown,#111111,#111111,2,0.462671392302
