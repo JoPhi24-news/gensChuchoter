@@ -91,7 +91,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.441917591699
 'Kendrick Lamar',fr,USA,#18e8e8,#18e8e8,1,0.441335607597
 'Chris Soto',fr,unknown,#111111,#111111,2,0.441235111000
-'Penny Green',fr,unknown,#111111,#111111,1,0.441025042750
 'Michele Singer',fr,unknown,#111111,#111111,1,0.440997621951
 'William Schabas ',fr,unknown,#111111,#111111,1,0.440725000000
 'Thilo Jung',fr,unknown,#111111,#111111,1,0.440725000000
@@ -320,6 +319,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michel H. Devoret',fr,USA,#18e8e8,#18e8e8,1,0.376536656136
 'George Miller',fr,Australien,#aa9933,#aa9933,2,0.376093231959
 'Nancy Mace',fr,unknown,#111111,#111111,2,0.374976925038
+'Penny Green',fr,unknown,#111111,#111111,1,0.374871286337
 'Martin Shaw',fr,unknown,#111111,#111111,2,0.374852163588
 'Yoav Gallant ',fr,unknown,#111111,#111111,1,0.374766323013
 'Amihai Eliyahu',fr,unknown,#111111,#111111,1,0.374616260837
