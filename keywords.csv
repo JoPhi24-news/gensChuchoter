@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Don Bacon',fr,unknown,#111111,#111111,2,0.504948836767
 'John Lennon',fr,unknown,#111111,#111111,2,0.503337006342
 'Jim Himes',fr,unknown,#111111,#111111,2,0.503101434685
 'Trevor Phillips',fr,unknown,#111111,#111111,2,0.500731978005
@@ -185,6 +184,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Conan O’Brien',fr,unknown,#111111,#111111,2,0.429477305556
 'Adam Mockler',fr,unknown,#111111,#111111,1,0.429358671510
 'Tony Dokoupil',fr,unknown,#111111,#111111,1,0.429278844195
+'Don Bacon',fr,unknown,#111111,#111111,1,0.429206541252
 'Alexandria Ocasio-Cortez',fr,unknown,#111111,#111111,1,0.429125255091
 'Whoopi Goldberg',fr,USA,#18e8e8,#18e8e8,1,0.429119676187
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.428974223723
