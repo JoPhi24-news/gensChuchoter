@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'John Lennon',fr,unknown,#111111,#111111,2,0.503337006342
 'Jim Himes',fr,unknown,#111111,#111111,2,0.503101434685
 'Trevor Phillips',fr,unknown,#111111,#111111,2,0.500731978005
 'Graham Platner',fr,unknown,#111111,#111111,2,0.500608785307
@@ -203,6 +202,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mother Mary',fr,unknown,#111111,#111111,2,0.427964279416
 'Venezuelas Übergangspräsidentin',fr,unknown,#111111,#111111,1,0.427924535763
 'Alexander Yui',fr,unknown,#111111,#111111,1,0.427836927669
+'John Lennon',fr,unknown,#111111,#111111,1,0.427836695391
 'Howard Lutnick',fr,unknown,#111111,#111111,2,0.427738798516
 'Dan Hooker',fr,unknown,#111111,#111111,1,0.427549166499
 'Epstein Files',fr,unknown,#111111,#111111,1,0.427205858177
