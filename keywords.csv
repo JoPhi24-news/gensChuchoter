@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Trevor Phillips',fr,unknown,#111111,#111111,2,0.500731978005
 'Graham Platner',fr,unknown,#111111,#111111,2,0.500608785307
 'Scott Pelley',fr,unknown,#111111,#111111,2,0.500397247814
 'Harriet Sperling',fr,unknown,#111111,#111111,2,0.500112039169
@@ -216,6 +215,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Corey Lewandowski',fr,unknown,#111111,#111111,1,0.426017881406
 'Chris Cuomo',fr,unknown,#111111,#111111,1,0.425955272520
 'Tom Cotton',fr,unknown,#111111,#111111,2,0.425682352747
+'Trevor Phillips',fr,unknown,#111111,#111111,1,0.425622181304
 'Tig Notaro',fr,USA,#18e8e8,#18e8e8,1,0.425358127032
 'Mary Brunkow',fr,USA,#18e8e8,#18e8e8,1,0.425347780013
 'Valentina Shevchenko',fr,unknown,#111111,#111111,1,0.425271915252
