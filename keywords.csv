@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jim Himes',fr,unknown,#111111,#111111,2,0.491268314310
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.486531810227
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
 'Paul McCartney',fr,unknown,#111111,#111111,2,0.485960162908
@@ -242,6 +241,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nancy Guthrie',fr,unknown,#111111,#111111,1,0.418981185937
 'Scooter Braun',fr,unknown,#111111,#111111,1,0.418764424098
 'Peter Attia',fr,unknown,#111111,#111111,1,0.417749339340
+'Jim Himes',fr,unknown,#111111,#111111,1,0.417578097163
 'Margaret Brennan',fr,unknown,#111111,#111111,1,0.417441976237
 'Katherina Reiche',fr,Deutschland,#335599,#335599,2,0.417351196439
 'Savannah Guthrie',fr,unknown,#111111,#111111,2,0.417102970657
