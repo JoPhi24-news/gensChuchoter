@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Harriet Sperling',fr,unknown,#111111,#111111,2,0.500112039169
 'Jim Himes',fr,unknown,#111111,#111111,2,0.491268314310
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.486531810227
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
@@ -220,6 +219,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scott Pelley',fr,unknown,#111111,#111111,1,0.425337750642
 'Valentina Shevchenko',fr,unknown,#111111,#111111,1,0.425271915252
 'Chris Nanos',fr,unknown,#111111,#111111,1,0.425128208387
+'Harriet Sperling',fr,unknown,#111111,#111111,1,0.425095233294
 'Zack Snyder',fr,USA,#18e8e8,#18e8e8,1,0.425026070982
 'Volker Wieland',fr,Deutschland,#335599,#335599,1,0.425000000000
 'Stefan Kolev',fr,Deutschland,#335599,#335599,1,0.425000000000
