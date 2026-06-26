@@ -574,7 +574,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maria Sacharowa',fr,Russland,#e81818,#e81818,1,0.313203750000
 'Henning Jeschke',fr,Deutschland,#1818e8,#1818e8,1,0.313203750000
 'Chris Luxon',fr,Neuseeland,#1818e8,#1818e8,1,0.313203750000
-'Brian Kozlowski',fr,USA,#18e8e8,#18e8e8,1,0.313203750000
 'Missy Elliott',fr,USA,#18e8e8,#18e8e8,1,0.313194904919
 'David Koch',fr,USA,#18e8e8,#18e8e8,1,0.313006346914
 'Peyton Manning',fr,USA,#18e8e8,#18e8e8,1,0.312961156557
@@ -812,6 +811,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Schulz',fr,USA,#18e8e8,#18e8e8,1,0.266491759888
 'Bill Barr',fr,unknown,#111111,#111111,1,0.266335087665
 'Merrill McCollum',fr,USA,#18e8e8,#18e8e8,1,0.266223187500
+'Brian Kozlowski',fr,USA,#18e8e8,#18e8e8,1,0.266223187500
 'Teresa Giudice',fr,unknown,#111111,#111111,1,0.266204915350
 'Bridget Moynahan',fr,unknown,#111111,#111111,1,0.266106400056
 'Anthony Fauci',fr,USA,#18e8e8,#18e8e8,2,0.265362167491
