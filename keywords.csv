@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Viktor Orban',fr,unknown,#111111,#111111,3,0.486070425190
 'Paul McCartney',fr,unknown,#111111,#111111,2,0.485960162908
 'Will Ferrell',fr,unknown,#111111,#111111,2,0.482841657339
 'Chris Van Hollen',fr,unknown,#111111,#111111,2,0.482661320482
@@ -25,8 +24,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.468130524463
 'prince Andrew',fr,unknown,#111111,#111111,2,0.467763071106
 'Daniel Craig',fr,unknown,#111111,#111111,3,0.467584324749
+'Péter Magyar',fr,unknown,#111111,#111111,3,0.467570946914
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.467418860063
-'Péter Magyar',fr,unknown,#111111,#111111,3,0.466868883035
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.466829910635
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.466341864315
 'James Bond',fr,unknown,#111111,#111111,3,0.466016637151
@@ -43,8 +42,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.461663139698
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.461011891151
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.460328170907
+'Peter Magyar',fr,Ungarn,#33aa99,#33aa99,3,0.459865378833
 'Hunter Schafer',fr,unknown,#111111,#111111,2,0.459847313033
-'Peter Magyar',fr,Ungarn,#33aa99,#33aa99,3,0.459147990944
+'Viktor Orban',fr,unknown,#111111,#111111,3,0.459660506411
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.457731478436
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.457569167724
 'Isaac Herzog',fr,unknown,#111111,#111111,1,0.457108013294
@@ -837,6 +837,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Hanks',fr,unknown,#111111,#111111,1,0.262340707580
 'George Floyd',fr,USA,#18e8e8,#18e8e8,1,0.262311358490
 'Jason Whitlock',fr,unknown,#111111,#111111,1,0.261952567552
+'Viktor Orbán',fr,Ungarn,#111111,#111111,2,0.261775610722
 'Edward Snowden',fr,USA,#18e8e8,#18e8e8,2,0.261288725915
 'Shahzada Dawood',fr,Pakistan,#bb33ff,#bb33ff,1,0.261186821097
 'Oleksandr Usyk',fr,unknown,#111111,#111111,1,0.261163970075
@@ -845,7 +846,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.261003125000
 'Jan Lipavský',fr,Tschechien,#44cc88,#44cc88,1,0.261003125000
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.261003125000
-'Viktor Orbán',fr,Ungarn,#111111,#111111,2,0.260705006719
 'Jacques Doriot',fr,unknown,#111111,#111111,1,0.260549789354
 'Lauren Sánchez',fr,USA,#18e8e8,#18e8e8,1,0.260508774815
 'Prinzessin Kate',fr,UK,#e838e8,#e838e8,1,0.260133313674
