@@ -317,7 +317,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karsten Wildberger',fr,Deutschland,#335599,#335599,1,0.380695861072
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,1,0.380574259965
 'Jake Paul',fr,USA,#18e8e8,#18e8e8,1,0.379627453276
-'Henry Samuel',fr,USA,#18e8e8,#18e8e8,2,0.379283430693
 'Paul Biya',fr,Kamerun,#2266cc,#2266cc,3,0.378915563375
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,2,0.378780599022
 'Benjamin Nethanaju',fr,Israel,#3311cc,#3311cc,1,0.378183378568
@@ -526,6 +525,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Sanchez',fr,USA,#18e8e8,#18e8e8,1,0.323224594648
 'Mohammed Bin Salman',fr,SaudiArabien,#22bb66,#22bb66,1,0.322733071857
 'Paul-Henry Nargeolet',fr,Frankreich,#e8e808,#e8e808,1,0.322587885875
+'Henry Samuel',fr,USA,#18e8e8,#18e8e8,1,0.322391051089
 'Sam Asghari',fr,Iran,#1144ee,#1144ee,1,0.322114972836
 'Cara Delevingne',fr,UK,#e838e8,#e838e8,1,0.321870981082
 'Jared Kushner',fr,unknown,#111111,#111111,1,0.321866510688
