@@ -1,4 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Raphaël Glucksmann',fr,unknown,#111111,#111111,2,0.608880102777
+'Susan Collins',fr,unknown,#111111,#111111,2,0.509829509497
+'Nick Bilton',fr,unknown,#111111,#111111,2,0.504707219521
+'Bill Pulte',fr,unknown,#111111,#111111,2,0.504463539751
+'Spencer Pratt',fr,unknown,#111111,#111111,2,0.502961863437
+'Ken Paxton',fr,unknown,#111111,#111111,2,0.501131963121
+'Andy Burnham',fr,unknown,#111111,#111111,2,0.501114714003
 'Paul McCartney',fr,unknown,#111111,#111111,2,0.485960162908
 'Chris Van Hollen',fr,unknown,#111111,#111111,2,0.482661320482
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.480298268110
@@ -313,7 +320,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard Robson',fr,Australien,#aa9933,#aa9933,1,0.383304689900
 'Charles III',fr,UK,#e838e8,#e838e8,3,0.382706422659
 'Ron Howard',fr,USA,#18e8e8,#18e8e8,1,0.381890005685
-'Michele Reiner',fr,unknown,#111111,#111111,1,0.381220681471
 'Karsten Wildberger',fr,Deutschland,#335599,#335599,1,0.380695861072
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,1,0.380574259965
 'Jake Paul',fr,USA,#18e8e8,#18e8e8,1,0.379627453276
@@ -519,6 +525,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Francis Ford Coppola',fr,USA,#18e8e8,#18e8e8,1,0.325199096927
 'Ben Wallace',fr,USA,#18e8e8,#18e8e8,1,0.325126701091
 'Sam Bankman-Fried',fr,USA,#18e8e8,#18e8e8,1,0.324691967961
+'Michele Reiner',fr,unknown,#111111,#111111,1,0.324037579250
 'Harrison Ford',fr,USA,#18e8e8,#18e8e8,1,0.323854374579
 'Kim Kardashian',fr,USA,#18e8e8,#18e8e8,2,0.323520171423
 'Lionel Richie',fr,USA,#18e8e8,#18e8e8,2,0.323374070355
