@@ -883,7 +883,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cyril Ramaphosa',fr,Südafrika,#ee4411,#ee4411,3,0.241920832267
 'Buzz Aldrin',fr,USA,#18e8e8,#18e8e8,1,0.241406527147
 'Kevin Kühnert',fr,Deutschland,#1818e8,#1818e8,1,0.241224347799
-'Stefan Rahmstorf',fr,Deutschland,#1818e8,#1818e8,1,0.240538893344
 'Melinda Gates',fr,USA,#18e8e8,#18e8e8,2,0.239445180794
 'Martin Scorsese',fr,USA,#18e8e8,#18e8e8,1,0.239407312147
 'Papst Benedikt XVI',fr,Vatikan,#58b8e8,#58b8e8,2,0.238271904683
@@ -957,6 +956,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammed bin Salman',fr,SaudiArabien,#22bb66,#22bb66,2,0.204975838011
 'Werner von Braun',fr,Deutschland,#1818e8,#1818e8,1,0.204775215013
 'Joachim Gauck',fr,Deutschland,#1818e8,#1818e8,1,0.204717067683
+'Stefan Rahmstorf',fr,Deutschland,#1818e8,#1818e8,1,0.204608074342
 'Anthony Albanese',fr,Australien,#aa9933,#aa9933,1,0.204182445313
 'Maybrit Illner',fr,Deutschland,#1818e8,#1818e8,1,0.203896076570
 'Alfred Bernhard Nobel',fr,Schweden,#ddee11,#ddee11,1,0.203660738437
