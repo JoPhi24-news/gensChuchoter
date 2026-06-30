@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Susan Collins',fr,unknown,#111111,#111111,2,0.509829509497
+'Susan Collins',fr,unknown,#111111,#111111,2,0.559255173072
 'Nick Bilton',fr,unknown,#111111,#111111,2,0.504707219521
 'Bill Pulte',fr,unknown,#111111,#111111,2,0.504463539751
 'Spencer Pratt',fr,unknown,#111111,#111111,2,0.502961863437
@@ -86,7 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.446501586136
 'Leslie Wexner',fr,unknown,#111111,#111111,2,0.446163335264
 'Javier Bardem',fr,unknown,#111111,#111111,3,0.446007113703
-'JD Vance',fr,USA,#18e8e8,#18e8e8,2,0.444997328550
+'JD Vance',fr,USA,#18e8e8,#18e8e8,2,0.445742672465
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444813958353
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
 'Andrew Mountbatten-Windsor',fr,unknown,#111111,#111111,2,0.443925473211
@@ -206,6 +206,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dan Hooker',fr,unknown,#111111,#111111,1,0.427549166499
 'Epstein Files',fr,unknown,#111111,#111111,1,0.427205858177
 'MARGARET BRENNAN',fr,unknown,#111111,#111111,2,0.427133432114
+'Graham Platner',fr,unknown,#111111,#111111,1,0.427083011669
 'Geraldo Rivera',fr,unknown,#111111,#111111,2,0.426802971854
 'Howie Mandel',fr,unknown,#111111,#111111,1,0.426632355671
 'Jamieson Greer',fr,unknown,#111111,#111111,1,0.426557433628
@@ -216,7 +217,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Cuomo',fr,unknown,#111111,#111111,1,0.425955272520
 'Tom Cotton',fr,unknown,#111111,#111111,2,0.425682352747
 'Trevor Phillips',fr,unknown,#111111,#111111,1,0.425622181304
-'Graham Platner',fr,unknown,#111111,#111111,1,0.425517602511
 'Tig Notaro',fr,USA,#18e8e8,#18e8e8,1,0.425358127032
 'Scott Pelley',fr,unknown,#111111,#111111,1,0.425337750642
 'Valentina Shevchenko',fr,unknown,#111111,#111111,1,0.425271915252
