@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Susan Collins',fr,unknown,#111111,#111111,2,0.559255173072
 'Nick Bilton',fr,unknown,#111111,#111111,2,0.504707219521
 'Bill Pulte',fr,unknown,#111111,#111111,2,0.504463539751
 'Spencer Pratt',fr,unknown,#111111,#111111,2,0.502961863437
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'HBO Max',fr,unknown,#111111,#111111,2,0.476617100862
 'reine Mathilde',fr,unknown,#111111,#111111,3,0.476404328877
 'Jack Lang',fr,unknown,#111111,#111111,3,0.475782461245
+'Susan Collins',fr,unknown,#111111,#111111,1,0.475366987111
 'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.473467676383
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.472850716231
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.472388713760
