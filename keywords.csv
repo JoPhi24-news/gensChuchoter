@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ken Paxton',fr,unknown,#111111,#111111,2,0.501131963121
 'Andy Burnham',fr,unknown,#111111,#111111,2,0.501114714003
 'Bill Pulte',fr,unknown,#111111,#111111,2,0.500276156970
 'Paul McCartney',fr,unknown,#111111,#111111,2,0.485960162908
@@ -214,6 +213,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'László Krasznahorkai',fr,Ungarn,#99aa33,#99aa33,1,0.426324337111
 'Paddy Pimblett',fr,unknown,#111111,#111111,1,0.426096236820
 'Corey Lewandowski',fr,unknown,#111111,#111111,1,0.426017881406
+'Ken Paxton',fr,unknown,#111111,#111111,1,0.425962213653
 'Chris Cuomo',fr,unknown,#111111,#111111,1,0.425955272520
 'Tom Cotton',fr,unknown,#111111,#111111,2,0.425682352747
 'Trevor Phillips',fr,unknown,#111111,#111111,1,0.425622181304
