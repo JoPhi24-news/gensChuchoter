@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Andy Burnham',fr,unknown,#111111,#111111,3,0.525903643277
+'Andy Burnham',fr,unknown,#111111,#111111,3,0.511060145876
 'Bill Pulte',fr,unknown,#111111,#111111,2,0.500276156970
-'Keir Starmer',fr,unknown,#111111,#111111,2,0.491502604666
+'Keir Starmer',fr,unknown,#111111,#111111,2,0.499890077802
 'Paul McCartney',fr,unknown,#111111,#111111,2,0.485960162908
 'Chris Van Hollen',fr,unknown,#111111,#111111,2,0.482661320482
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.481912595756
@@ -233,6 +233,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tony Bennett',fr,USA,#18e8e8,#18e8e8,2,0.423854417755
 'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,1,0.423687518940
 'Juan Pablo Guanipa',fr,unknown,#111111,#111111,1,0.422767914736
+'Premier ministre',fr,Frankreich,#e8e808,#e8e808,3,0.422175463649
 'Alexander Dobrindt',fr,Deutschland,#335599,#335599,1,0.422011114581
 'Stephen Miller',fr,unknown,#111111,#111111,2,0.421909577438
 'María Corina Machado',fr,unknown,#111111,#111111,1,0.421531179943
@@ -240,7 +241,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rob Reiner',fr,unknown,#111111,#111111,2,0.421346775496
 'Brad Pitt',fr,USA,#18e8e8,#18e8e8,3,0.421254713532
 'Erika Kirk',fr,USA,#18e8e8,#18e8e8,2,0.420390015174
-'Premier ministre',fr,Frankreich,#e8e808,#e8e808,3,0.419796381389
 'Nancy Guthrie',fr,unknown,#111111,#111111,1,0.418981185937
 'Scooter Braun',fr,unknown,#111111,#111111,1,0.418764424098
 'Peter Attia',fr,unknown,#111111,#111111,1,0.417749339340
