@@ -529,7 +529,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harrison Ford',fr,USA,#18e8e8,#18e8e8,1,0.323854374579
 'Kim Kardashian',fr,USA,#18e8e8,#18e8e8,2,0.323520171423
 'Lionel Richie',fr,USA,#18e8e8,#18e8e8,2,0.323374070355
-'Lauren Sanchez',fr,USA,#18e8e8,#18e8e8,1,0.323224594648
 'Mohammed Bin Salman',fr,SaudiArabien,#22bb66,#22bb66,1,0.322733071857
 'Paul-Henry Nargeolet',fr,Frankreich,#e8e808,#e8e808,1,0.322587885875
 'Henry Samuel',fr,USA,#18e8e8,#18e8e8,1,0.322391051089
@@ -797,6 +796,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zach Bryan',fr,unknown,#111111,#111111,1,0.276368900776
 'Imran Khan',fr,unknown,#111111,#111111,1,0.275806097635
 'Mario Czaja',fr,Deutschland,#1818e8,#1818e8,1,0.275591892552
+'Lauren Sanchez',fr,USA,#18e8e8,#18e8e8,1,0.274890920451
 'Ahmed Al Jaber',fr,unknown,#111111,#111111,1,0.274514141915
 'Noor Alfallah',fr,USA,#18e8e8,#18e8e8,1,0.273961831607
 'James Cleverly',fr,UK,#e838e8,#e838e8,1,0.272953190844
