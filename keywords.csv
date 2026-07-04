@@ -532,7 +532,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammed Bin Salman',fr,SaudiArabien,#22bb66,#22bb66,1,0.322733071857
 'Paul-Henry Nargeolet',fr,Frankreich,#e8e808,#e8e808,1,0.322587885875
 'Henry Samuel',fr,USA,#18e8e8,#18e8e8,1,0.322391051089
-'Sam Asghari',fr,Iran,#1144ee,#1144ee,1,0.322114972836
 'Cara Delevingne',fr,UK,#e838e8,#e838e8,1,0.321870981082
 'Jared Kushner',fr,unknown,#111111,#111111,1,0.321866510688
 'Jeff Ross',fr,USA,#18e8e8,#18e8e8,1,0.321730746221
@@ -799,6 +798,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Sanchez',fr,USA,#18e8e8,#18e8e8,1,0.274890920451
 'Ahmed Al Jaber',fr,unknown,#111111,#111111,1,0.274514141915
 'Noor Alfallah',fr,USA,#18e8e8,#18e8e8,1,0.273961831607
+'Sam Asghari',fr,Iran,#1144ee,#1144ee,1,0.273797726911
 'James Cleverly',fr,UK,#e838e8,#e838e8,1,0.272953190844
 'Caroline Ellison',fr,USA,#18e8e8,#18e8e8,1,0.272234787766
 'Warren Buffet',fr,USA,#18e8e8,#18e8e8,1,0.271396869202
