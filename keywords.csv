@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul McCartney',fr,unknown,#111111,#111111,2,0.485960162908
-'Chris Van Hollen',fr,unknown,#111111,#111111,2,0.482661320482
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.481912595756
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.481647568816
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.480314945225
@@ -266,6 +265,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brigitte Bardot',fr,unknown,#111111,#111111,2,0.410919339941
 'Julia Roberts',fr,USA,#18e8e8,#18e8e8,1,0.410568442734
 'Will Ferrell',fr,unknown,#111111,#111111,1,0.410415438738
+'Chris Van Hollen',fr,unknown,#111111,#111111,1,0.410262152410
 'Elie Favrot',fr,unknown,#111111,#111111,1,0.410026054267
 'Diane Keaton',fr,unknown,#111111,#111111,2,0.409850588627
 'Stormy Daniels',fr,USA,#18e8e8,#18e8e8,1,0.408604237086
