@@ -598,7 +598,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Margot Robbie',fr,unknown,#111111,#111111,1,0.311221734834
 'Sara Haines',fr,unknown,#111111,#111111,1,0.311168825655
 'Dawn Staley',fr,unknown,#111111,#111111,1,0.311135318315
-'Jean-Jacques Rousseau',fr,Schweiz,#33bbff,#33bbff,1,0.311094206957
 'Elizabeth Warren',fr,unknown,#111111,#111111,1,0.310931382286
 'Hazel Monét',fr,unknown,#111111,#111111,1,0.310892054985
 'Nina Warken',fr,Deutschland,#335599,#335599,1,0.310871246500
@@ -781,6 +780,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Reynolds',fr,unknown,#111111,#111111,1,0.280630958368
 'Cillian Murphy',fr,Irland,#4488cc,#4488cc,3,0.280359390999
 'Lars Klingbeil',fr,Deutschland,#1818e8,#1818e8,1,0.280013292536
+'Jean-Jacques Rousseau',fr,Schweiz,#33bbff,#33bbff,1,0.279716604550
 'Yevgeny Prigozhin',fr,Russland,#e81818,#e81818,1,0.278712704778
 'Pat McAfee',fr,USA,#18e8e8,#18e8e8,1,0.278613938947
 'Jackson Hole',fr,unknown,#111111,#111111,1,0.277670329302
@@ -857,9 +857,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Sánchez',fr,USA,#18e8e8,#18e8e8,1,0.260508774815
 'Prinzessin Kate',fr,UK,#e838e8,#e838e8,1,0.260133313674
 'Noam Chomsky',fr,USA,#18e8e8,#18e8e8,1,0.259804559638
+'Ursula von der Leyen',fr,EU,#88cc44,#88cc44,1,0.259740303221
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.259702748737
 'Michelle Williams',fr,unknown,#111111,#111111,1,0.259560503683
-'Ursula von der Leyen',fr,EU,#88cc44,#88cc44,1,0.258666727763
 'Lily Gladstone',fr,unknown,#111111,#111111,1,0.258413900071
 'Jennifer Morgan',fr,unknown,#111111,#111111,1,0.258242564707
 'Ivanka Trump',fr,unknown,#111111,#111111,1,0.257486638313
