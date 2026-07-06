@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tulsi Gabbard',fr,unknown,#111111,#111111,2,0.509988627941
 'James Talarico',fr,unknown,#111111,#111111,2,0.509241218013
 'Brendan Carr',fr,unknown,#111111,#111111,2,0.508848749565
 'Katie Couric',fr,unknown,#111111,#111111,2,0.506250011169
@@ -138,6 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kendall Jenner',fr,unknown,#111111,#111111,1,0.433860536929
 'RFK Jr',fr,USA,#18e8e8,#18e8e8,1,0.433842013072
 'Andrew Mountbatten Windsor',fr,unknown,#111111,#111111,1,0.433507788677
+'Tulsi Gabbard',fr,unknown,#111111,#111111,1,0.433490483750
 'Peter Howitt',fr,USA,#18e8e8,#18e8e8,1,0.433306936263
 'Justin Bieber',fr,Kanada,#55ee33,#55ee33,2,0.433028058711
 'Sarah Kellen',fr,unknown,#111111,#111111,1,0.432983869449
