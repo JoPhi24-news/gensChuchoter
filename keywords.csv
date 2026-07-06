@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Paul McCartney',fr,unknown,#111111,#111111,2,0.500880634186
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.481912595756
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.481647568816
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.480314945225
@@ -214,6 +213,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Corey Lewandowski',fr,unknown,#111111,#111111,1,0.426017881406
 'Ken Paxton',fr,unknown,#111111,#111111,1,0.425962213653
 'Chris Cuomo',fr,unknown,#111111,#111111,1,0.425955272520
+'Paul McCartney',fr,unknown,#111111,#111111,1,0.425748749058
 'Tom Cotton',fr,unknown,#111111,#111111,2,0.425682352747
 'Trevor Phillips',fr,unknown,#111111,#111111,1,0.425622181304
 'Tig Notaro',fr,USA,#18e8e8,#18e8e8,1,0.425358127032
