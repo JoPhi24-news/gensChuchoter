@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Brendan Carr',fr,unknown,#111111,#111111,2,0.508848749565
 'Katie Couric',fr,unknown,#111111,#111111,2,0.506250011169
 'Jay Clayton',fr,unknown,#111111,#111111,2,0.502666792781
 'John Cornyn',fr,unknown,#111111,#111111,2,0.500254361672
@@ -146,6 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Reid',fr,unknown,#111111,#111111,1,0.432760259415
 'Joe Kent',fr,unknown,#111111,#111111,2,0.432726524844
 'Scott Jennings',fr,unknown,#111111,#111111,1,0.432648526862
+'Brendan Carr',fr,unknown,#111111,#111111,1,0.432521452130
 'Robert de Niro',fr,USA,#18e8e8,#18e8e8,3,0.432311234252
 'Ian Machado Garry',fr,unknown,#111111,#111111,1,0.432253222026
 'Romy Reiner',fr,unknown,#111111,#111111,2,0.432023319363
