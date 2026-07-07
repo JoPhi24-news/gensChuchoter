@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Katie Couric',fr,unknown,#111111,#111111,2,0.506250011169
 'Jay Clayton',fr,unknown,#111111,#111111,2,0.502666792781
 'John Cornyn',fr,unknown,#111111,#111111,2,0.500254361672
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.481912595756
@@ -171,6 +170,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruna Ferreira',fr,unknown,#111111,#111111,2,0.430626612059
 'Joey Kelly',fr,unknown,#111111,#111111,1,0.430559081395
 'Chris Murphy',fr,unknown,#111111,#111111,1,0.430526899013
+'Katie Couric',fr,unknown,#111111,#111111,1,0.430312509494
 'David Lowery',fr,unknown,#111111,#111111,1,0.430194384304
 'Ro Khanna',fr,unknown,#111111,#111111,1,0.429998847317
 'Nancy Pelosi',fr,unknown,#111111,#111111,1,0.429824530134
