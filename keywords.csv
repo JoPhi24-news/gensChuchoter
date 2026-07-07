@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'James Talarico',fr,unknown,#111111,#111111,2,0.509241218013
 'Brendan Carr',fr,unknown,#111111,#111111,2,0.508848749565
 'Katie Couric',fr,unknown,#111111,#111111,2,0.506250011169
 'Jay Clayton',fr,unknown,#111111,#111111,2,0.502666792781
@@ -142,6 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Bieber',fr,Kanada,#55ee33,#55ee33,2,0.433028058711
 'Sarah Kellen',fr,unknown,#111111,#111111,1,0.432983869449
 'Candace Owens',fr,unknown,#111111,#111111,2,0.432855706137
+'James Talarico',fr,unknown,#111111,#111111,1,0.432855080311
 'Susumu Kitagawa',fr,Japan,#33aa99,#33aa99,1,0.432776572270
 'Joy Reid',fr,unknown,#111111,#111111,1,0.432760259415
 'Joe Kent',fr,unknown,#111111,#111111,2,0.432726524844
