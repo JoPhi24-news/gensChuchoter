@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jay Clayton',fr,unknown,#111111,#111111,2,0.502666792781
 'John Cornyn',fr,unknown,#111111,#111111,2,0.500254361672
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.481912595756
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.481647568816
@@ -207,6 +206,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Howard Lutnick',fr,unknown,#111111,#111111,2,0.427738798516
 'Dan Hooker',fr,unknown,#111111,#111111,1,0.427549166499
 'Spencer Pratt',fr,unknown,#111111,#111111,1,0.427517673921
+'Jay Clayton',fr,unknown,#111111,#111111,1,0.427267028864
 'Epstein Files',fr,unknown,#111111,#111111,1,0.427205858177
 'MARGARET BRENNAN',fr,unknown,#111111,#111111,2,0.427133432114
 'Graham Platner',fr,unknown,#111111,#111111,1,0.427083011669
