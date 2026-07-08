@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'John Cornyn',fr,unknown,#111111,#111111,2,0.500254361672
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.481912595756
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.481647568816
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.480314945225
@@ -226,6 +225,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tig Notaro',fr,USA,#18e8e8,#18e8e8,1,0.425358127032
 'Scott Pelley',fr,unknown,#111111,#111111,1,0.425337750642
 'Valentina Shevchenko',fr,unknown,#111111,#111111,1,0.425271915252
+'John Cornyn',fr,unknown,#111111,#111111,1,0.425216267421
 'Chris Nanos',fr,unknown,#111111,#111111,1,0.425128208387
 'Harriet Sperling',fr,unknown,#111111,#111111,1,0.425095233294
 'Zack Snyder',fr,USA,#18e8e8,#18e8e8,1,0.425026070982
