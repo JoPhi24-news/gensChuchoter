@@ -1079,7 +1079,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thierry Breton',fr,EU,#88cc44,#88cc44,1,0.149944187999
 'Nicola Beer',fr,EU,#88cc44,#88cc44,1,0.147252041960
 'Silvio Berlusconi',fr,Italien,#33dd55,#33dd55,2,0.147238879538
-'Yoon Suk-yeol',fr,SüdKorea,#bbff33,#bbff33,3,0.145481018944
 'Julian Assange',fr,Australien,#aa9933,#aa9933,1,0.145298271911
 'Nick Fuentes',fr,USA,#18e8e8,#18e8e8,1,0.142854200182
 'Karl Lauterbach',fr,Deutschland,#1818e8,#1818e8,1,0.141124958636
@@ -1106,6 +1105,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hans Joachim Schellnhuber',fr,Deutschland,#1818e8,#1818e8,1,0.127079780203
 'Karl Nehammer',fr,Oesterreich,#5522dd,#5522dd,1,0.126946028108
 'Yanis Varoufakis',fr,Griechenland,#1858e8,#1858e8,1,0.124671126243
+'Yoon Suk-yeol',fr,SüdKorea,#bbff33,#bbff33,2,0.123658971102
 'Macky Sall',fr,Senegal,#aa33dd,#aa33dd,1,0.123426671059
 'John Roberts',fr,USA,#18e8e8,#18e8e8,1,0.122563721239
 'Klaus-Michael Kühne',fr,Deutschland,#1818e8,#1818e8,1,0.120560994674
