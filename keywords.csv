@@ -238,7 +238,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,1,0.423687518940
 'Premier ministre',fr,Frankreich,#e8e808,#e8e808,3,0.422965419553
 'Juan Pablo Guanipa',fr,unknown,#111111,#111111,1,0.422767914736
-'Jack Lang',fr,unknown,#111111,#111111,3,0.422431893725
 'Alexander Dobrindt',fr,Deutschland,#335599,#335599,1,0.422011114581
 'Stephen Miller',fr,unknown,#111111,#111111,2,0.421909577438
 'María Corina Machado',fr,unknown,#111111,#111111,1,0.421531179943
@@ -413,6 +412,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LeBron James',fr,USA,#18e8e8,#18e8e8,2,0.360570501986
 'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,1,0.360436409246
 'Ehud Olmert',fr,Israel,#3311cc,#3311cc,1,0.359169824603
+'Jack Lang',fr,unknown,#111111,#111111,1,0.359067229666
 'Sean Hannity',fr,USA,#18e8e8,#18e8e8,1,0.359050741497
 'Lana Del Rey',fr,USA,#18e8e8,#18e8e8,1,0.359048466216
 'Jeanne du Barry',fr,Frankreich,#e8e808,#e8e808,2,0.358805348251
