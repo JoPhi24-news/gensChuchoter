@@ -967,7 +967,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'King Charles III',fr,UK,#e838e8,#e838e8,1,0.208135379872
 'Andreas Jung',fr,Deutschland,#1818e8,#1818e8,1,0.207562761476
 'Mohammed bin Salman',fr,SaudiArabien,#22bb66,#22bb66,2,0.204975838011
-'Werner von Braun',fr,Deutschland,#1818e8,#1818e8,1,0.204775215013
 'Joachim Gauck',fr,Deutschland,#1818e8,#1818e8,1,0.204717067683
 'Stefan Rahmstorf',fr,Deutschland,#1818e8,#1818e8,1,0.204608074342
 'Anthony Albanese',fr,Australien,#aa9933,#aa9933,1,0.204182445313
@@ -1033,6 +1032,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolodymyr Selenski',fr,Ukraine,#e818e8,#e818e8,1,0.176280755108
 'David Malpass',fr,USA,#18e8e8,#18e8e8,1,0.175753767218
 'Jack Ma',fr,China,#e88818,#e88818,2,0.175084809747
+'Werner von Braun',fr,Deutschland,#1818e8,#1818e8,1,0.174058932761
 'Benjamin Netanyahu',fr,Israel,#3311cc,#3311cc,2,0.173682533066
 'Fidel Castro',fr,Kuba,#dd33aa,#dd33aa,1,0.173605992460
 'Sahra Wagenknecht',fr,Deutschland,#1818e8,#1818e8,3,0.173142414839
