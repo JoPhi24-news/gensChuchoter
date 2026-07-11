@@ -10,15 +10,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.473467676383
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.473079798120
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.472850716231
+'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,3,0.471775592279
 'David Amiel',fr,unknown,#111111,#111111,2,0.471601230636
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.471414900871
 'Quand Harry',fr,unknown,#111111,#111111,2,0.470763964052
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.470581033035
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.470225021724
 'Peter Mandelson',fr,unknown,#111111,#111111,2,0.470193821732
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.468904356815
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.468301520240
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.468215646649
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.468204948835
 'Tom Homan',fr,unknown,#111111,#111111,3,0.468155178318
 'prince Andrew',fr,unknown,#111111,#111111,2,0.467763071106
 'Daniel Craig',fr,unknown,#111111,#111111,3,0.467584324749
@@ -62,11 +63,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.452353618136
 'Mojtaba Khamenei',fr,unknown,#111111,#111111,3,0.452105680769
 'Keir Starmer',fr,unknown,#111111,#111111,3,0.451451339291
+'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.450983079250
 'Quentin Deranque',fr,unknown,#111111,#111111,3,0.450470638357
 'Sam Levinson',fr,unknown,#111111,#111111,2,0.450381178057
-'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.450248086659
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.450152772772
-'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.450117337975
 'Renee Good',fr,unknown,#111111,#111111,3,0.450014794023
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.449197570525
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.448299397630
@@ -353,6 +353,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chuck Schumer',fr,USA,#18e8e8,#18e8e8,1,0.372598511974
 'Christian Lindner',fr,Deutschland,#1818e8,#1818e8,3,0.372181692859
 'Victoria Beckham',fr,UK,#e838e8,#e838e8,1,0.371832880539
+'Taylor Swift',fr,USA,#18e8e8,#18e8e8,2,0.370864744846
 'William Friedkin',fr,USA,#18e8e8,#18e8e8,2,0.369946252027
 'Usha Vance',fr,unknown,#111111,#111111,1,0.369685775404
 'Jimmy Kimmel',fr,USA,#18e8e8,#18e8e8,2,0.369400039288
@@ -360,7 +361,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gervonta Davis',fr,USA,#18e8e8,#18e8e8,1,0.368458726253
 'Shimon Sakaguchi',fr,Japan,#33aa99,#33aa99,1,0.368221925409
 'Sohn Nick',fr,unknown,#111111,#111111,1,0.368200228914
-'Taylor Swift',fr,USA,#18e8e8,#18e8e8,2,0.368193806677
 'Duke Henri',fr,Luxemburg,#55dd33,#55dd33,1,0.368187357295
 'Callum Turner',fr,UK,#e838e8,#e838e8,1,0.368099144960
 'Jennifer Garner',fr,USA,#18e8e8,#18e8e8,2,0.367533489993
@@ -453,12 +453,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,1,0.345794525342
 'François Braun',fr,Frankreich,#e8e808,#e8e808,3,0.345467275335
 'Greg Brockman',fr,USA,#18e8e8,#18e8e8,1,0.345293414437
+'Travis Kelce',fr,USA,#18e8e8,#18e8e8,2,0.344974935752
 'Steven Spielberg',fr,USA,#18e8e8,#18e8e8,3,0.344879627206
 'Sabrina Carpenter',fr,USA,#18e8e8,#18e8e8,1,0.344295550672
 'Sophie Turner',fr,UK,#e838e8,#e838e8,2,0.343925232039
 'Vo Van Thuong',fr,Vietnam,#117644,#117644,1,0.343470111841
 'Charlize Theron',fr,Südafrika,#ee4411,#ee4411,1,0.342657011231
-'Travis Kelce',fr,USA,#18e8e8,#18e8e8,2,0.342163828871
 'Gavin Newsom',fr,USA,#18e8e8,#18e8e8,2,0.341964382502
 'Xi Jinping',fr,China,#e88818,#e88818,3,0.341784062167
 'Margaret Thatcher',fr,UK,#e838e8,#e838e8,2,0.340914469394
