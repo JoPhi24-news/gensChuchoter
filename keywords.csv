@@ -87,7 +87,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Claire Legendre',fr,unknown,#111111,#111111,2,0.443480281736
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.442203175567
 'Kristi Noem',fr,unknown,#111111,#111111,3,0.442084913111
-'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,3,0.442065282111
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.441917591699
 'Kendrick Lamar',fr,USA,#18e8e8,#18e8e8,1,0.441335607597
 'Chris Soto',fr,unknown,#111111,#111111,2,0.441235111000
@@ -337,6 +336,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.377129132134
 'Michel H. Devoret',fr,USA,#18e8e8,#18e8e8,1,0.376536656136
 'George Miller',fr,Australien,#aa9933,#aa9933,2,0.376093231959
+'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,1,0.375755594794
 'Nancy Mace',fr,unknown,#111111,#111111,2,0.374976925038
 'Penny Green',fr,unknown,#111111,#111111,1,0.374871286337
 'Martin Shaw',fr,unknown,#111111,#111111,2,0.374852163588
