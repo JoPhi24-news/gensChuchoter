@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,3,0.471775592279
 'David Amiel',fr,unknown,#111111,#111111,2,0.471601230636
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.471414900871
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.470994246072
 'Quand Harry',fr,unknown,#111111,#111111,2,0.470763964052
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.470581033035
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.470225021724
 'Peter Mandelson',fr,unknown,#111111,#111111,2,0.470193821732
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.469602374033
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.468301520240
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.468215646649
 'Tom Homan',fr,unknown,#111111,#111111,3,0.468155178318
@@ -31,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.465930439463
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.465519241487
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.464683505153
+'Ali Khamenei',fr,unknown,#111111,#111111,3,0.464396035349
 'Isaac Herzog',fr,unknown,#111111,#111111,2,0.463841841300
 'Bill Cassidy',fr,unknown,#111111,#111111,1,0.463675063918
 'Catherine Pégard',fr,unknown,#111111,#111111,3,0.462725939423
@@ -58,10 +59,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Amélie de Montchalin',fr,unknown,#111111,#111111,1,0.453253280310
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,2,0.453025961683
+'Mojtaba Khamenei',fr,unknown,#111111,#111111,3,0.452837004770
 'David Letterman',fr,unknown,#111111,#111111,2,0.452384722178
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
 'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.452353618136
-'Mojtaba Khamenei',fr,unknown,#111111,#111111,3,0.452105680769
 'Keir Starmer',fr,unknown,#111111,#111111,3,0.451451339291
 'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.450983079250
 'Quentin Deranque',fr,unknown,#111111,#111111,3,0.450470638357
@@ -105,7 +106,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Hagari',fr,unknown,#111111,#111111,1,0.440725000000
 'Avi Dichter',fr,unknown,#111111,#111111,1,0.440725000000
 'Jacob Frey',fr,unknown,#111111,#111111,2,0.439344955730
-'Ali Khamenei',fr,unknown,#111111,#111111,3,0.438918334101
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.438213653361
 'Pete Hegseth',fr,USA,#18e8e8,#18e8e8,3,0.438171601803
 'Alan Jackson',fr,unknown,#111111,#111111,2,0.438077040121
@@ -168,6 +168,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joey Kelly',fr,unknown,#111111,#111111,1,0.430559081395
 'Chris Murphy',fr,unknown,#111111,#111111,1,0.430526899013
 'Katie Couric',fr,unknown,#111111,#111111,1,0.430312509494
+'Steve Witkoff',fr,unknown,#111111,#111111,3,0.430291957781
 'David Lowery',fr,unknown,#111111,#111111,1,0.430194384304
 'Ro Khanna',fr,unknown,#111111,#111111,1,0.429998847317
 'Nancy Pelosi',fr,unknown,#111111,#111111,1,0.429824530134
@@ -177,7 +178,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Gunn',fr,USA,#18e8e8,#18e8e8,2,0.429690480188
 'Islam Makhachev',fr,unknown,#111111,#111111,1,0.429584561170
 'Jen Psaki',fr,unknown,#111111,#111111,1,0.429555676079
-'Steve Witkoff',fr,unknown,#111111,#111111,3,0.429516276848
 'Conan O’Brien',fr,unknown,#111111,#111111,2,0.429477305556
 'Kash Patel',fr,unknown,#111111,#111111,1,0.429359591060
 'Adam Mockler',fr,unknown,#111111,#111111,1,0.429358671510
@@ -535,11 +535,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harrison Ford',fr,USA,#18e8e8,#18e8e8,1,0.323854374579
 'Kim Kardashian',fr,USA,#18e8e8,#18e8e8,2,0.323520171423
 'Lionel Richie',fr,USA,#18e8e8,#18e8e8,2,0.323374070355
+'Jared Kushner',fr,unknown,#111111,#111111,1,0.322840264679
 'Mohammed Bin Salman',fr,SaudiArabien,#22bb66,#22bb66,1,0.322733071857
 'Paul-Henry Nargeolet',fr,Frankreich,#e8e808,#e8e808,1,0.322587885875
 'Henry Samuel',fr,USA,#18e8e8,#18e8e8,1,0.322391051089
 'Cara Delevingne',fr,UK,#e838e8,#e838e8,1,0.321870981082
-'Jared Kushner',fr,unknown,#111111,#111111,1,0.321866510688
 'Jeff Ross',fr,USA,#18e8e8,#18e8e8,1,0.321730746221
 'Recep Tayyip Erdogan',fr,Türkei,#66bb22,#66bb22,3,0.321684063222
 'Friederike Otto',fr,Deutschland,#1818e8,#1818e8,1,0.321526066444
