@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Susan Collins',fr,unknown,#111111,#111111,2,0.517762059044
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.481912595756
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.481647568816
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.480314945225
@@ -104,6 +103,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hannu Halinen',fr,unknown,#111111,#111111,1,0.440725000000
 'Daniel Hagari',fr,unknown,#111111,#111111,1,0.440725000000
 'Avi Dichter',fr,unknown,#111111,#111111,1,0.440725000000
+'Susan Collins',fr,unknown,#111111,#111111,1,0.440097870187
 'Jacob Frey',fr,unknown,#111111,#111111,2,0.439344955730
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.438213653361
 'Pete Hegseth',fr,USA,#18e8e8,#18e8e8,3,0.438171601803
