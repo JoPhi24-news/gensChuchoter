@@ -211,7 +211,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Howie Mandel',fr,unknown,#111111,#111111,1,0.426632355671
 'Mark Kelly',fr,unknown,#111111,#111111,1,0.426393603630
 'László Krasznahorkai',fr,Ungarn,#99aa33,#99aa33,1,0.426324337111
-'Paddy Pimblett',fr,unknown,#111111,#111111,1,0.426096236820
 'Corey Lewandowski',fr,unknown,#111111,#111111,1,0.426017881406
 'Brad Pitt',fr,USA,#18e8e8,#18e8e8,3,0.425982178036
 'Ken Paxton',fr,unknown,#111111,#111111,1,0.425962213653
@@ -236,6 +235,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tony Bennett',fr,USA,#18e8e8,#18e8e8,2,0.423854417755
 'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,1,0.423687518940
 'Premier ministre',fr,Frankreich,#e8e808,#e8e808,3,0.422965419553
+'Paddy Pimblett',fr,unknown,#111111,#111111,1,0.422931876297
 'Juan Pablo Guanipa',fr,unknown,#111111,#111111,1,0.422767914736
 'Alexander Dobrindt',fr,Deutschland,#335599,#335599,1,0.422011114581
 'Stephen Miller',fr,unknown,#111111,#111111,2,0.421909577438
