@@ -80,6 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'JD Vance',fr,USA,#18e8e8,#18e8e8,2,0.445742672465
 'Tim Walz',fr,unknown,#111111,#111111,2,0.445541948690
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444813958353
+'Jack White',fr,unknown,#111111,#111111,2,0.444771242863
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
 'Andrew Mountbatten-Windsor',fr,unknown,#111111,#111111,2,0.443925473211
 'Nicolas Cage',fr,unknown,#111111,#111111,2,0.443563063910
@@ -139,7 +140,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Reid',fr,unknown,#111111,#111111,1,0.432760259415
 'Joe Kent',fr,unknown,#111111,#111111,2,0.432726524844
 'Scott Jennings',fr,unknown,#111111,#111111,1,0.432648526862
-'Jack White',fr,unknown,#111111,#111111,1,0.432554156309
 'Brendan Carr',fr,unknown,#111111,#111111,1,0.432521452130
 'Robert de Niro',fr,USA,#18e8e8,#18e8e8,3,0.432311234252
 'Ian Machado Garry',fr,unknown,#111111,#111111,1,0.432253222026
@@ -303,9 +303,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Rogan',fr,unknown,#111111,#111111,1,0.393185140943
 'Mohammad Mustafa',fr,Palestina,#ee4488,#ee4488,2,0.392247018398
 'Thorsten Frei',fr,Deutschland,#335599,#335599,1,0.391740570362
+'David Beckham',fr,UK,#e838e8,#e838e8,2,0.391666570779
 'Bernie Sanders',fr,USA,#18e8e8,#18e8e8,1,0.391455837637
 'John Clarke',fr,USA,#18e8e8,#18e8e8,2,0.391110421418
-'David Beckham',fr,UK,#e838e8,#e838e8,2,0.390816642106
 'Cristiano Ronaldo',fr,Portugal,#339933,#339933,3,0.390524664741
 'Bärbel Bas',fr,Deutschland,#335599,#335599,1,0.390052427513
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,2,0.389105328265
