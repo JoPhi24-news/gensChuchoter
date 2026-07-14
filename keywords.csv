@@ -488,7 +488,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert De Niro',fr,USA,#18e8e8,#18e8e8,1,0.333126771243
 'Clément Beaune',fr,Frankreich,#e8e808,#e8e808,2,0.332996456566
 'Mick Jagger',fr,UK,#e838e8,#e838e8,1,0.332956083259
-'Justin Timberlake',fr,USA,#18e8e8,#18e8e8,2,0.332461740470
 'Matteo Salvini',fr,Italien,#33dd55,#33dd55,2,0.332453296676
 'Gisele Bündchen',fr,Brasilien,#58e838,#58e838,1,0.332433752749
 'Mike Johnson',fr,USA,#18e8e8,#18e8e8,2,0.332234079533
@@ -776,6 +775,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',fr,unknown,#111111,#111111,1,0.283487885073
 'Georg Gänswein',fr,Deutschland,#1818e8,#1818e8,1,0.283465305781
 'Andrea Arnold',fr,UK,#e838e8,#e838e8,1,0.283422291374
+'Justin Timberlake',fr,USA,#18e8e8,#18e8e8,2,0.283192539400
 'Peter Thiel',fr,USA,#18e8e8,#18e8e8,1,0.283107703811
 'Chip Somodevilla',fr,USA,#18e8e8,#18e8e8,2,0.282916789799
 'Albert Einstein',fr,Deutschland,#1818e8,#1818e8,2,0.282413215257
