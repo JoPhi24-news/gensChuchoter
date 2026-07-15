@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.519125090938
+'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.528028469115
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.482320201353
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.480314945225
 'Noël Barrot',fr,unknown,#111111,#111111,3,0.478528738910
@@ -15,8 +15,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.471414900871
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.471275715019
 'Quand Harry',fr,unknown,#111111,#111111,2,0.470763964052
+'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.470309637077
 'Peter Mandelson',fr,unknown,#111111,#111111,2,0.470193821732
-'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.469613029344
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.468301520240
 'Tom Homan',fr,unknown,#111111,#111111,3,0.468155178318
 'prince Andrew',fr,unknown,#111111,#111111,2,0.467763071106
@@ -249,10 +249,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jim Himes',fr,unknown,#111111,#111111,1,0.417578097163
 'Margaret Brennan',fr,unknown,#111111,#111111,1,0.417441976237
 'Katherina Reiche',fr,Deutschland,#335599,#335599,2,0.417351196439
+'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.417104325833
 'Savannah Guthrie',fr,unknown,#111111,#111111,2,0.417102970657
 'Woody Allen',fr,unknown,#111111,#111111,2,0.417099350957
 'Hoda Kotb',fr,unknown,#111111,#111111,1,0.417068310202
-'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.416303008512
 'Dua Lipa',fr,UK,#e838e8,#e838e8,2,0.415626570686
 'Guy Ritchie',fr,UK,#e838e8,#e838e8,2,0.415199150832
 'Andrew Windsor',fr,unknown,#111111,#111111,1,0.414682942039
@@ -277,11 +277,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dick Cheney',fr,USA,#18e8e8,#18e8e8,1,0.407523521655
 'Lecornu II',fr,Frankreich,#e8e808,#e8e808,1,0.407223979946
 'Chappell Roan',fr,unknown,#111111,#111111,2,0.407077019228
+'Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.406834999645
 'Rosa Parks',fr,USA,#18e8e8,#18e8e8,2,0.406612421183
 'Francesca Albanese',fr,Italien,#33dd55,#33dd55,2,0.406466895731
 'Robert Prevost',fr,Vatikan,#dd5544,#dd5544,2,0.405430065831
 'Hans-Werner Sinn',fr,Deutschland,#1818e8,#1818e8,1,0.405414638799
-'Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.405191253996
 'Greta Thunberg',fr,Schweden,#ddee11,#ddee11,2,0.405171310410
 'laffaire Epstein',fr,unknown,#111111,#111111,2,0.403903874080
 'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,1,0.402971242282
