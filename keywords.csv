@@ -146,7 +146,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert de Niro',fr,USA,#18e8e8,#18e8e8,3,0.432311234252
 'Ian Machado Garry',fr,unknown,#111111,#111111,1,0.432253222026
 'Ali Larijani',fr,unknown,#111111,#111111,3,0.432030943608
-'Romy Reiner',fr,unknown,#111111,#111111,2,0.432023319363
 'Ed Gallrein',fr,unknown,#111111,#111111,1,0.432015442676
 'Michele Singer Reiner',fr,unknown,#111111,#111111,1,0.431988278978
 'Ben Shapiro',fr,unknown,#111111,#111111,1,0.431974036422
@@ -363,6 +362,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Duke Henri',fr,Luxemburg,#55dd33,#55dd33,1,0.368187357295
 'Callum Turner',fr,UK,#e838e8,#e838e8,1,0.368099144960
 'Jennifer Garner',fr,USA,#18e8e8,#18e8e8,2,0.367533489993
+'Romy Reiner',fr,unknown,#111111,#111111,1,0.367219821459
 'Olivia Nuzzi',fr,USA,#18e8e8,#18e8e8,1,0.367079183712
 'Jon Jones',fr,USA,#18e8e8,#18e8e8,1,0.366930863077
 'Angus Cloud',fr,unknown,#111111,#111111,1,0.366839341155
