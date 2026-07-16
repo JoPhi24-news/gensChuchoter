@@ -262,7 +262,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kamala Harris',fr,USA,#18e8e8,#18e8e8,3,0.412556976738
 'Bruno Le Maire',fr,Frankreich,#e8e808,#e8e808,3,0.412354710177
 'Larry Summers',fr,unknown,#111111,#111111,2,0.411386406587
-'John M. Martinis',fr,USA,#18e8e8,#18e8e8,1,0.411102944000
 'Poutine',fr,Russland,#e81818,#e81818,3,0.410993992291
 'Brigitte Bardot',fr,unknown,#111111,#111111,2,0.410919339941
 'Julia Roberts',fr,USA,#18e8e8,#18e8e8,1,0.410568442734
@@ -433,6 +432,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kevin McCarthy',fr,USA,#18e8e8,#18e8e8,2,0.350038302294
 'Mahmud Abbas',fr,Palestina,#ee4488,#ee4488,1,0.349744187500
 'Alex Jones',fr,USA,#18e8e8,#18e8e8,1,0.349521718304
+'John M. Martinis',fr,USA,#18e8e8,#18e8e8,1,0.349437502400
 'Jennifer Lopez',fr,USA,#18e8e8,#18e8e8,1,0.349198551707
 'Castel Gandolfo',fr,Vatikan,#dd5544,#dd5544,1,0.349118148779
 'Aubrey Plaza',fr,USA,#18e8e8,#18e8e8,1,0.349105150271
