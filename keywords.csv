@@ -464,6 +464,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paris Hilton',fr,USA,#18e8e8,#18e8e8,1,0.339847538335
 'Tim Cook',fr,USA,#18e8e8,#18e8e8,3,0.339167345300
 'Julia Louis-Dreyfus',fr,USA,#18e8e8,#18e8e8,1,0.339007543002
+'Kristen Wiig',fr,unknown,#111111,#111111,2,0.338863980792
 'Ferdinand Dudenhöffer',fr,Deutschland,#1818e8,#1818e8,1,0.338544603119
 'nan Si',fr,unknown,#111111,#111111,1,0.338439211509
 'Jean Jouzel',fr,Frankreich,#e8e808,#e8e808,1,0.338294924938
@@ -620,7 +621,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Wozniak',fr,USA,#18e8e8,#18e8e8,1,0.310313490800
 'Charles Barkley',fr,unknown,#111111,#111111,1,0.310272524743
 'Chris Stapleton',fr,unknown,#111111,#111111,1,0.310220116176
-'Kristen Wiig',fr,unknown,#111111,#111111,1,0.310075236226
 'Linda Yaccarino',fr,USA,#18e8e8,#18e8e8,2,0.309995665705
 'Wagner-Chef Prigoschin',fr,unknown,#111111,#111111,1,0.309906050805
 'Mo Lewis',fr,unknown,#111111,#111111,1,0.309578168797
