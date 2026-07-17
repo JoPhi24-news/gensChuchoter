@@ -132,7 +132,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'RFK Jr',fr,USA,#18e8e8,#18e8e8,1,0.433842013072
 'Andrew Mountbatten Windsor',fr,unknown,#111111,#111111,1,0.433507788677
 'Tulsi Gabbard',fr,unknown,#111111,#111111,1,0.433490483750
-'Peter Howitt',fr,USA,#18e8e8,#18e8e8,1,0.433306936263
 'Justin Bieber',fr,Kanada,#55ee33,#55ee33,2,0.433028058711
 'Sarah Kellen',fr,unknown,#111111,#111111,1,0.432983869449
 'Candace Owens',fr,unknown,#111111,#111111,2,0.432855706137
@@ -354,6 +353,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jimmy Kimmel',fr,USA,#18e8e8,#18e8e8,2,0.369400039288
 'Kara Hurst',fr,USA,#18e8e8,#18e8e8,1,0.368475000000
 'Gervonta Davis',fr,USA,#18e8e8,#18e8e8,1,0.368458726253
+'Peter Howitt',fr,USA,#18e8e8,#18e8e8,1,0.368310895824
 'Shimon Sakaguchi',fr,Japan,#33aa99,#33aa99,1,0.368221925409
 'Sohn Nick',fr,unknown,#111111,#111111,1,0.368200228914
 'Duke Henri',fr,Luxemburg,#55dd33,#55dd33,1,0.368187357295
