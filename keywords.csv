@@ -156,7 +156,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kaitlan Collins',fr,unknown,#111111,#111111,1,0.431370475853
 'Kamaru Usman',fr,unknown,#111111,#111111,1,0.431339545692
 'Deborah Birx',fr,unknown,#111111,#111111,1,0.431338319290
-'Michelle Reiner',fr,unknown,#111111,#111111,1,0.431228537088
 'Lisa Müller',fr,unknown,#111111,#111111,1,0.431109635953
 'Omar Yaghi',fr,Jordanien,#335588,#335588,2,0.430819754240
 'Nawaz Sharif',fr,Pakistan,#bb33ff,#bb33ff,2,0.430631873479
@@ -364,6 +363,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Angus Cloud',fr,unknown,#111111,#111111,1,0.366839341155
 'Brooklyn Beckham',fr,UK,#e838e8,#e838e8,2,0.366810684615
 'Mark Consuelos',fr,unknown,#111111,#111111,1,0.366772519793
+'Michelle Reiner',fr,unknown,#111111,#111111,1,0.366694271525
 'Mark Ruffalo',fr,unknown,#111111,#111111,2,0.366617102172
 'Sarah Stier',fr,unknown,#111111,#111111,1,0.366300418412
 'Arman Tsarukyan',fr,unknown,#111111,#111111,1,0.366253092823
