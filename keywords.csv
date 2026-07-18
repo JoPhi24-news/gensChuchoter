@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Mojtaba Khamenei',fr,unknown,#111111,#111111,3,0.483462699055
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.482991492040
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.480314945225
 'Noël Barrot',fr,unknown,#111111,#111111,3,0.478528738910
@@ -229,6 +228,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Iyad al-Rantisi',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Adnan al-Burj',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Tony Bennett',fr,USA,#18e8e8,#18e8e8,2,0.423854417755
+'Mojtaba Khamenei',fr,unknown,#111111,#111111,3,0.423758794911
 'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,1,0.423687518940
 'Premier ministre',fr,Frankreich,#e8e808,#e8e808,3,0.422965419553
 'Paddy Pimblett',fr,unknown,#111111,#111111,1,0.422931876297
