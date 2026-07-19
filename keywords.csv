@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Noël Barrot',fr,unknown,#111111,#111111,3,0.478528738910
 'Affaire Epstein',fr,unknown,#111111,#111111,3,0.477689044356
 'HBO Max',fr,unknown,#111111,#111111,2,0.476617100862
-'reine Mathilde',fr,unknown,#111111,#111111,3,0.476404328877
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.474917089954
 'Ali Khamenei',fr,unknown,#111111,#111111,3,0.474166831448
 'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.473467676383
@@ -276,6 +275,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Prevost',fr,Vatikan,#dd5544,#dd5544,2,0.405430065831
 'Hans-Werner Sinn',fr,Deutschland,#1818e8,#1818e8,1,0.405414638799
 'Greta Thunberg',fr,Schweden,#ddee11,#ddee11,2,0.405171310410
+'reine Mathilde',fr,unknown,#111111,#111111,2,0.404944114545
 'laffaire Epstein',fr,unknown,#111111,#111111,2,0.403903874080
 'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,1,0.402971242282
 'Renee Nicole Good',fr,unknown,#111111,#111111,2,0.402720291671
