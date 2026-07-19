@@ -696,7 +696,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,1,0.300135759624
 'Konrad Adenauer',fr,Deutschland,#1818e8,#1818e8,1,0.300058768253
 'Lyna Khoudri',fr,unknown,#111111,#111111,1,0.299936411269
-'Königsgemahlin Camilla',fr,UK,#e838e8,#e838e8,1,0.299881195607
 'Anya Taylor-Joy',fr,unknown,#111111,#111111,1,0.299849678110
 'Mark Meadows',fr,unknown,#111111,#111111,1,0.299771492972
 'Sergio Massa',fr,unknown,#111111,#111111,1,0.299050082381
@@ -872,6 +871,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joey Fatone',fr,unknown,#111111,#111111,1,0.257431835468
 'Alvin Bragg',fr,USA,#18e8e8,#18e8e8,1,0.256935814183
 'Jair Bolsonaro',fr,Brasilien,#58e838,#58e848,3,0.255491627554
+'Königsgemahlin Camilla',fr,UK,#e838e8,#e838e8,1,0.254899016266
 'Willy Brandt',fr,Deutschland,#1818e8,#1818e8,1,0.254272689006
 'Markus Söder',fr,Deutschland,#1818e8,#1818e8,1,0.253983484564
 'Paul Ronzheimer',fr,Deutschland,#1818e8,#1818e8,2,0.253622557034
