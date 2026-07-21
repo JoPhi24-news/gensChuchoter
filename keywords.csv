@@ -1,19 +1,19 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Marine Tondelier',fr,unknown,#111111,#111111,3,0.537834329749
 'Kevin Spacey',fr,unknown,#111111,#111111,2,0.506078474279
 'Mark Twain',fr,unknown,#111111,#111111,2,0.505742805593
 'Liveblog Ukrainekrieg',fr,unknown,#111111,#111111,2,0.501481560362
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.480314945225
+'Marine Tondelier',fr,unknown,#111111,#111111,3,0.480292483468
 'Noël Barrot',fr,unknown,#111111,#111111,3,0.478528738910
 'Affaire Epstein',fr,unknown,#111111,#111111,3,0.477689044356
 'HBO Max',fr,unknown,#111111,#111111,2,0.476617100862
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.475603139459
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.474376659138
 'Ali Khamenei',fr,unknown,#111111,#111111,3,0.474166831448
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.473688162012
 'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.473467676383
+'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.473351476906
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.473079798120
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.473071685303
-'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.471969014670
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,3,0.471775592279
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.471698697686
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.471414900871
@@ -304,9 +304,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Clarke',fr,USA,#18e8e8,#18e8e8,2,0.391110421418
 'Cristiano Ronaldo',fr,Portugal,#339933,#339933,3,0.390524664741
 'Bärbel Bas',fr,Deutschland,#335599,#335599,1,0.390052427513
+'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.389353934231
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,2,0.389105328265
 'Tom Aspinall',fr,UK,#e838e8,#e838e8,1,0.388586259093
-'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.388499649225
 'Keith Kellogg',fr,USA,#18e8e8,#18e8e8,2,0.388230512313
 'Tyson Fury',fr,unknown,#111111,#111111,2,0.387294908619
 'Narendra Modi',fr,Indien,#995533,#995533,3,0.386228551728
