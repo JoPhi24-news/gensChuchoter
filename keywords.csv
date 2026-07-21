@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Mark Twain',fr,unknown,#111111,#111111,2,0.505742805593
 'Liveblog Ukrainekrieg',fr,unknown,#111111,#111111,2,0.501481560362
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.480314945225
 'Marine Tondelier',fr,unknown,#111111,#111111,3,0.480292483468
@@ -168,6 +167,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Lowery',fr,unknown,#111111,#111111,1,0.430194384304
 'Kevin Spacey',fr,unknown,#111111,#111111,1,0.430166733137
 'Ro Khanna',fr,unknown,#111111,#111111,1,0.429998847317
+'Mark Twain',fr,unknown,#111111,#111111,1,0.429881474754
 'Nancy Pelosi',fr,unknown,#111111,#111111,1,0.429824530134
 'Fabrice Aidan',fr,unknown,#111111,#111111,3,0.429817069480
 'Élisabeth Borne',fr,Frankreich,#e8e808,#e8e808,3,0.429780551190
