@@ -959,7 +959,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander von Humboldt',fr,Deutschland,#1818e8,#1818e8,1,0.216768833216
 'Rainer Maria Woelki',fr,Deutschland,#1818e8,#1818e8,1,0.216651872609
 'Derek Chauvin',fr,unknown,#111111,#111111,1,0.216381897404
-'Recep Tayyip Erdoğan',fr,Türkei,#66bb22,#66bb22,2,0.216266069377
 'Adolf Hitler',fr,Deutschland,#1818e8,#1818e8,1,0.215102865522
 'Herbert Diess',fr,Deutschland,#1818e8,#1818e8,1,0.214900351293
 'John Kerry',fr,USA,#18e8e8,#18e8e8,2,0.214092510366
@@ -1024,6 +1023,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard Feynman',fr,USA,#18e8e8,#18e8e8,2,0.185937487052
 'Königin Camilla',fr,UK,#e838e8,#e838e8,1,0.185576191160
 'Paul Kagame',fr,Ruanda,#33ddaa,#33ddaa,1,0.184937494097
+'Recep Tayyip Erdoğan',fr,Türkei,#66bb22,#66bb22,1,0.183826173970
 'Jack Teixeira',fr,USA,#18e8e8,#18e8e8,1,0.182231224380
 'Richard David Precht',fr,Deutschland,#1818e8,#1818e8,1,0.181751097335
 'Annalena Baerbock',fr,Deutschland,#1818e8,#1818e8,2,0.181431123015
