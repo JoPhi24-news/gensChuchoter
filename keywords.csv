@@ -47,7 +47,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caroline Lang',fr,unknown,#111111,#111111,3,0.456832214965
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.456597216533
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.456574447903
-'Les Wexner',fr,unknown,#111111,#111111,2,0.455273447568
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.454079561687
 'François Mitterrand',fr,unknown,#111111,#111111,3,0.453918955745
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.453814185410
@@ -308,6 +307,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Aspinall',fr,UK,#e838e8,#e838e8,1,0.388586259093
 'Keith Kellogg',fr,USA,#18e8e8,#18e8e8,2,0.388230512313
 'Tyson Fury',fr,unknown,#111111,#111111,2,0.387294908619
+'Les Wexner',fr,unknown,#111111,#111111,1,0.386982430433
 'Narendra Modi',fr,Indien,#995533,#995533,3,0.386228551728
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,1,0.385749754163
 'Bill Clinton',fr,USA,#18e8e8,#18e8e8,2,0.385009507340
