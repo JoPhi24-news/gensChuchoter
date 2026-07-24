@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Mohammad Mustafa',fr,Palestina,#ee4488,#ee4488,2,0.483559980638
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.480314945225
 'Noël Barrot',fr,unknown,#111111,#111111,3,0.478528738910
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.476971140848
@@ -294,7 +295,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecornu II ',fr,Frankreich,#e8e808,#e8e808,2,0.393526249874
 'Sebastien Lecornu',fr,Frankreich,#e8e808,#e8e808,1,0.393437412777
 'Joe Rogan',fr,unknown,#111111,#111111,1,0.393185140943
-'Mohammad Mustafa',fr,Palestina,#ee4488,#ee4488,2,0.392247018398
 'Thorsten Frei',fr,Deutschland,#335599,#335599,1,0.391740570362
 'David Beckham',fr,UK,#e838e8,#e838e8,2,0.391666570779
 'Bernie Sanders',fr,USA,#18e8e8,#18e8e8,1,0.391455837637
