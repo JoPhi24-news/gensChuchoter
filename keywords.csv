@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Chris Murphy',fr,unknown,#111111,#111111,2,0.516097879161
 'Marine Tondelier',fr,unknown,#111111,#111111,3,0.480967818802
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.480314945225
 'Noël Barrot',fr,unknown,#111111,#111111,3,0.478528738910
@@ -104,6 +103,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avi Dichter',fr,unknown,#111111,#111111,1,0.440725000000
 'Susan Collins',fr,unknown,#111111,#111111,1,0.440097870187
 'Jacob Frey',fr,unknown,#111111,#111111,2,0.439344955730
+'Chris Murphy',fr,unknown,#111111,#111111,1,0.438683212287
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.438213653361
 'Pete Hegseth',fr,USA,#18e8e8,#18e8e8,3,0.438171601803
 'Alan Jackson',fr,unknown,#111111,#111111,2,0.438077040121
