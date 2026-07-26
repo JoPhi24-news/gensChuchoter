@@ -1,14 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.504131009350
 'Noël Barrot',fr,unknown,#111111,#111111,3,0.478528738910
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.477116960938
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.478478934825
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.476971140848
 'HBO Max',fr,unknown,#111111,#111111,2,0.476617100862
+'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.475830401913
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.474728439638
-'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.474457841761
 'Ali Khamenei',fr,unknown,#111111,#111111,3,0.474166831448
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.473761409960
 'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.473467676383
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.473071685303
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.472391155521
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,3,0.471775592279
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.471414900871
@@ -26,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,3,0.466341864315
 'James Bond',fr,unknown,#111111,#111111,3,0.466016637151
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.465519241487
+'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.465283829766
 'David Amiel',fr,unknown,#111111,#111111,2,0.464902510132
 'Isaac Herzog',fr,unknown,#111111,#111111,2,0.463841841300
 'Bill Cassidy',fr,unknown,#111111,#111111,1,0.463675063918
@@ -41,7 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Magyar',fr,Ungarn,#33aa99,#33aa99,3,0.459865378833
 'Hunter Schafer',fr,unknown,#111111,#111111,2,0.459847313033
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.459660506411
-'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.458234831425
+'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.458954028745
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.457731478436
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.457569167724
 'Caroline Lang',fr,unknown,#111111,#111111,3,0.456832214965
@@ -542,11 +542,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Kardashian',fr,USA,#18e8e8,#18e8e8,2,0.323520171423
 'Lionel Richie',fr,USA,#18e8e8,#18e8e8,2,0.323374070355
 'Mohammed Bin Salman',fr,SaudiArabien,#22bb66,#22bb66,1,0.322733071857
+'Recep Tayyip Erdogan',fr,Türkei,#66bb22,#66bb22,3,0.322658126423
 'Paul-Henry Nargeolet',fr,Frankreich,#e8e808,#e8e808,1,0.322587885875
 'Henry Samuel',fr,USA,#18e8e8,#18e8e8,1,0.322391051089
 'Cara Delevingne',fr,UK,#e838e8,#e838e8,1,0.321870981082
 'Jeff Ross',fr,USA,#18e8e8,#18e8e8,1,0.321730746221
-'Recep Tayyip Erdogan',fr,Türkei,#66bb22,#66bb22,3,0.321684063222
 'Friederike Otto',fr,Deutschland,#1818e8,#1818e8,1,0.321526066444
 'Omar Sy',fr,Frankreich,#e8e808,#e8e808,1,0.321096750314
 'Steve Jobs',fr,USA,#18e8e8,#18e8e8,2,0.321013605664
@@ -790,8 +790,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Jacques Rousseau',fr,Schweiz,#33bbff,#33bbff,1,0.279716604550
 'Yevgeny Prigozhin',fr,Russland,#e81818,#e81818,1,0.278712704778
 'Pat McAfee',fr,USA,#18e8e8,#18e8e8,1,0.278613938947
+'Lindsey Graham',fr,USA,#18e8e8,#18e8e8,1,0.278468799670
 'Jackson Hole',fr,unknown,#111111,#111111,1,0.277670329302
-'Lindsey Graham',fr,USA,#18e8e8,#18e8e8,1,0.277423226793
 'Jonathan Turley',fr,unknown,#111111,#111111,1,0.277351200977
 'Matt Damon',fr,USA,#18e8e8,#18e8e8,1,0.277187025588
 'John Fetterman',fr,unknown,#111111,#111111,1,0.277113856329
@@ -1037,8 +1037,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolodymyr Selenski',fr,Ukraine,#e818e8,#e818e8,1,0.176280755108
 'David Malpass',fr,USA,#18e8e8,#18e8e8,1,0.175753767218
 'Jack Ma',fr,China,#e88818,#e88818,2,0.175084809747
+'Benjamin Netanyahu',fr,Israel,#3311cc,#3311cc,2,0.174862718694
 'Werner von Braun',fr,Deutschland,#1818e8,#1818e8,1,0.174058932761
-'Benjamin Netanyahu',fr,Israel,#3311cc,#3311cc,2,0.173682533066
 'Sahra Wagenknecht',fr,Deutschland,#1818e8,#1818e8,3,0.173142414839
 'Sundar Pichai',fr,USA,#18e8e8,#18e8e8,2,0.172355936295
 'Aleksandar Vucic',fr,Serbien,#8844cc,#8844cc,2,0.172105204542
