@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Mohammad Mustafa',fr,Palestina,#ee4488,#ee4488,2,0.483559980638
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.480314945225
 'Noël Barrot',fr,unknown,#111111,#111111,3,0.478528738910
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.477116960938
@@ -255,6 +254,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kamala Harris',fr,USA,#18e8e8,#18e8e8,3,0.412556976738
 'Bruno Le Maire',fr,Frankreich,#e8e808,#e8e808,3,0.412354710177
 'Larry Summers',fr,unknown,#111111,#111111,2,0.411386406587
+'Mohammad Mustafa',fr,Palestina,#ee4488,#ee4488,2,0.411175998542
 'Poutine',fr,Russland,#e81818,#e81818,3,0.410993992291
 'Brigitte Bardot',fr,unknown,#111111,#111111,2,0.410919339941
 'Julia Roberts',fr,USA,#18e8e8,#18e8e8,1,0.410568442734
