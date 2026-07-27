@@ -1,4 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Alex Pereira',fr,unknown,#111111,#111111,2,0.509536230193
+'Max Holloway',fr,unknown,#111111,#111111,2,0.508066613291
+'Liveblog Irankrieg',fr,unknown,#111111,#111111,2,0.507910076065
+'Conor McGregor',fr,unknown,#111111,#111111,2,0.505284736746
+'Josh Hokit',fr,unknown,#111111,#111111,2,0.502080445900
+'Christian Bale',fr,unknown,#111111,#111111,2,0.500399226451
 'Noël Barrot',fr,unknown,#111111,#111111,3,0.478528738910
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.478478934825
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.476971140848
@@ -11,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.472391155521
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,3,0.471775592279
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.471414900871
-'Quand Harry',fr,unknown,#111111,#111111,2,0.470763964052
 'Peter Mandelson',fr,unknown,#111111,#111111,2,0.470193821732
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.469000736207
 'Tom Homan',fr,unknown,#111111,#111111,3,0.468155178318
@@ -224,6 +229,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Iyad al-Rantisi',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Adnan al-Burj',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Éric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.424970438072
+'Quand Harry',fr,unknown,#111111,#111111,3,0.424155828154
 'Tony Bennett',fr,USA,#18e8e8,#18e8e8,2,0.423854417755
 'Mojtaba Khamenei',fr,unknown,#111111,#111111,3,0.423758794911
 'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,1,0.423687518940
