@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Max Holloway',fr,unknown,#111111,#111111,2,0.508066613291
 'Liveblog Irankrieg',fr,unknown,#111111,#111111,2,0.507910076065
 'Conor McGregor',fr,unknown,#111111,#111111,2,0.505284736746
 'Josh Hokit',fr,unknown,#111111,#111111,2,0.502080445900
@@ -148,6 +147,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Singer Reiner',fr,unknown,#111111,#111111,1,0.431988278978
 'Ben Shapiro',fr,unknown,#111111,#111111,1,0.431974036422
 'Sarah Ferguson',fr,unknown,#111111,#111111,1,0.431947286375
+'Max Holloway',fr,unknown,#111111,#111111,1,0.431856681297
 'Bill Maher',fr,unknown,#111111,#111111,1,0.431788174780
 'Graham Platner',fr,unknown,#111111,#111111,1,0.431742789494
 'Harry Met Sally',fr,unknown,#111111,#111111,2,0.431630371018
