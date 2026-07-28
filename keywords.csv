@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Josh Hokit',fr,unknown,#111111,#111111,2,0.502080445900
 'Christian Bale',fr,unknown,#111111,#111111,2,0.500399226451
 'Noël Barrot',fr,unknown,#111111,#111111,3,0.478528738910
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.478478934825
@@ -202,6 +201,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Epstein Files',fr,unknown,#111111,#111111,1,0.427205858177
 'MARGARET BRENNAN',fr,unknown,#111111,#111111,2,0.427133432114
 'Geraldo Rivera',fr,unknown,#111111,#111111,2,0.426802971854
+'Josh Hokit',fr,unknown,#111111,#111111,1,0.426768379015
 'Howie Mandel',fr,unknown,#111111,#111111,1,0.426632355671
 'Mark Kelly',fr,unknown,#111111,#111111,1,0.426393603630
 'László Krasznahorkai',fr,Ungarn,#99aa33,#99aa33,1,0.426324337111
