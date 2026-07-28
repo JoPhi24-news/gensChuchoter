@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Conor McGregor',fr,unknown,#111111,#111111,2,0.555392116234
 'Josh Hokit',fr,unknown,#111111,#111111,2,0.502080445900
 'Christian Bale',fr,unknown,#111111,#111111,2,0.500399226451
 'Noël Barrot',fr,unknown,#111111,#111111,3,0.478528738910
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ali Khamenei',fr,unknown,#111111,#111111,3,0.474166831448
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.473761409960
 'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.473467676383
+'Conor McGregor',fr,unknown,#111111,#111111,2,0.472983388799
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.472391155521
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,3,0.471775592279
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.471414900871
