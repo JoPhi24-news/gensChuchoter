@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Christian Bale',fr,unknown,#111111,#111111,2,0.490981135361
 'Noël Barrot',fr,unknown,#111111,#111111,3,0.478528738910
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.478478934825
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.476971140848
@@ -247,6 +246,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jim Himes',fr,unknown,#111111,#111111,1,0.417578097163
 'Margaret Brennan',fr,unknown,#111111,#111111,1,0.417441976237
 'Katherina Reiche',fr,Deutschland,#335599,#335599,2,0.417351196439
+'Christian Bale',fr,unknown,#111111,#111111,1,0.417334070057
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.417104325833
 'Woody Allen',fr,unknown,#111111,#111111,2,0.417099350957
 'Hoda Kotb',fr,unknown,#111111,#111111,1,0.417068310202
