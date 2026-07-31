@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,3,0.471775592279
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.471414900871
 'Peter Mandelson',fr,unknown,#111111,#111111,2,0.470193821732
+'prince Andrew',fr,unknown,#111111,#111111,2,0.468463357597
 'Tom Homan',fr,unknown,#111111,#111111,3,0.468155178318
-'prince Andrew',fr,unknown,#111111,#111111,2,0.467763071106
 'Daniel Craig',fr,unknown,#111111,#111111,3,0.467584324749
 'Péter Magyar',fr,unknown,#111111,#111111,3,0.467570946914
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.467418860063
@@ -80,11 +80,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolas Cage',fr,unknown,#111111,#111111,2,0.443563063910
 'Claire Legendre',fr,unknown,#111111,#111111,2,0.443480281736
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.442668993451
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.442648380632
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.442203175567
 'Kristi Noem',fr,unknown,#111111,#111111,3,0.442084913111
 'Kendrick Lamar',fr,USA,#18e8e8,#18e8e8,1,0.441335607597
 'Chris Soto',fr,unknown,#111111,#111111,2,0.441235111000
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.441144016578
 'Michele Singer',fr,unknown,#111111,#111111,1,0.440997621951
 'William Schabas ',fr,unknown,#111111,#111111,1,0.440725000000
 'Thilo Jung',fr,unknown,#111111,#111111,1,0.440725000000
@@ -116,6 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charlie Kirk',fr,USA,#18e8e8,#18e8e8,3,0.436187863125
 'Amélie de Montchalin',fr,unknown,#111111,#111111,3,0.435916773611
 'Fred Ramsdel',fr,USA,#18e8e8,#18e8e8,1,0.435844606955
+'laffaire Epstein',fr,unknown,#111111,#111111,2,0.434818442968
 'Jacob Elordi',fr,unknown,#111111,#111111,1,0.434619125510
 'Sydney Sweeney',fr,unknown,#111111,#111111,2,0.434588800511
 'Gerald Darmanin',fr,Frankreich,#e8e808,#e8e808,2,0.434467599199
@@ -214,6 +215,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tig Notaro',fr,USA,#18e8e8,#18e8e8,1,0.425358127032
 'Premier ministre',fr,Frankreich,#e8e808,#e8e808,3,0.425326101163
 'Valentina Shevchenko',fr,unknown,#111111,#111111,1,0.425271915252
+'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,1,0.425260034396
 'John Cornyn',fr,unknown,#111111,#111111,1,0.425216267421
 'Chris Nanos',fr,unknown,#111111,#111111,1,0.425128208387
 'Harriet Sperling',fr,unknown,#111111,#111111,1,0.425095233294
@@ -229,7 +231,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Quand Harry',fr,unknown,#111111,#111111,3,0.424155828154
 'Tony Bennett',fr,USA,#18e8e8,#18e8e8,2,0.423854417755
 'Mojtaba Khamenei',fr,unknown,#111111,#111111,3,0.423758794911
-'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,1,0.423687518940
 'Catherine Pégard',fr,unknown,#111111,#111111,3,0.423530047475
 'Paddy Pimblett',fr,unknown,#111111,#111111,1,0.422931876297
 'Juan Pablo Guanipa',fr,unknown,#111111,#111111,1,0.422767914736
@@ -281,7 +282,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hans-Werner Sinn',fr,Deutschland,#1818e8,#1818e8,1,0.405414638799
 'Greta Thunberg',fr,Schweden,#ddee11,#ddee11,2,0.405171310410
 'reine Mathilde',fr,unknown,#111111,#111111,2,0.404944114545
-'laffaire Epstein',fr,unknown,#111111,#111111,2,0.403903874080
 'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,1,0.402971242282
 'Renee Nicole Good',fr,unknown,#111111,#111111,2,0.402720291671
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.402300970200
@@ -315,9 +315,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,1,0.385749754163
 'Bill Clinton',fr,USA,#18e8e8,#18e8e8,2,0.385009507340
 'Charles Kushner',fr,unknown,#111111,#111111,1,0.384436755337
+'Charles III',fr,UK,#e838e8,#e838e8,3,0.384435061192
 'Javier Milei',fr,Argentinien,#6622bb,#6622bb,3,0.384299651280
 'Radical Optimism',fr,unknown,#111111,#111111,1,0.384209541779
-'Charles III',fr,UK,#e838e8,#e838e8,3,0.383571549068
 'Richard Robson',fr,Australien,#aa9933,#aa9933,1,0.383304689900
 'Ron Howard',fr,USA,#18e8e8,#18e8e8,1,0.381890005685
 'Sergio Mattarella',fr,Italien,#33dd55,#33dd55,1,0.380754705103
