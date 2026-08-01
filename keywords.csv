@@ -50,7 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.453740075209
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Amélie de Montchalin',fr,unknown,#111111,#111111,1,0.453253280310
-'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,2,0.453025961683
+'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,2,0.453088869097
 'David Letterman',fr,unknown,#111111,#111111,2,0.452384722178
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
 'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.452353618136
@@ -526,9 +526,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Melania Trump',fr,Slowenien,#e5237d,#e5237d,1,0.328374339414
 'Laurent Berger',fr,Frankreich,#e8e808,#e8e808,1,0.328318169231
 'Billie Eilish',fr,USA,#18e8e8,#18e8e8,1,0.328220604963
+'Christopher Nolan',fr,USA,#18e8e8,#18e8e8,1,0.327869911879
 'Billy Crystal',fr,USA,#18e8e8,#18e8e8,1,0.327477889114
 'Rupert Murdoch',fr,USA,#18e8e8,#18e8e8,1,0.326941594224
-'Christopher Nolan',fr,USA,#18e8e8,#18e8e8,1,0.326904739928
 'Alexander Smirnov',fr,Israel,#3311cc,#3311cc,1,0.326808323006
 'Jerry Seinfeld',fr,USA,#18e8e8,#18e8e8,2,0.326412631438
 'James Cameron',fr,USA,#18e8e8,#18e8e8,2,0.326401743880
