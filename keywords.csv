@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.476971140848
-'HBO Max',fr,unknown,#111111,#111111,2,0.476617100862
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.475881321979
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.475830401913
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.475414864921
@@ -44,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caroline Lang',fr,unknown,#111111,#111111,3,0.456832214965
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.456597216533
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.456574447903
+'HBO Max',fr,unknown,#111111,#111111,3,0.455531466187
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.454079561687
 'François Mitterrand',fr,unknown,#111111,#111111,3,0.453918955745
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.453757808859
@@ -716,10 +716,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hamish Harding',fr,UK,#e838e8,#e838e8,2,0.298296727383
 'Demeke Mekonnen',fr,unknown,#111111,#111111,1,0.298170774121
 'David Weiss',fr,Deutschland,#1818e8,#1818e8,1,0.298087831230
+'Kevin Hart',fr,unknown,#111111,#111111,1,0.298033426972
 'Wolfgang Benz',fr,Deutschland,#1818e8,#1818e8,2,0.297493559709
 'Carter Reum',fr,unknown,#111111,#111111,1,0.297417373794
 'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.297150284362
-'Kevin Hart',fr,unknown,#111111,#111111,1,0.297018620230
 'Sultan al-Jaber',fr,VAE,#ff33bb,#ff33bb,2,0.296990320647
 'Amber Heard',fr,USA,#18e8e8,#18e8e8,1,0.296729459817
 'Patrick Pouyanné',fr,Frankreich,#e8e808,#e8e808,2,0.296671772711
