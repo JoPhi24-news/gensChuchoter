@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Noël Barrot',fr,unknown,#111111,#111111,3,0.478528738910
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.476971140848
 'HBO Max',fr,unknown,#111111,#111111,2,0.476617100862
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.475881321979
@@ -275,6 +274,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chappell Roan',fr,unknown,#111111,#111111,2,0.407077019228
 'Affaire Epstein',fr,unknown,#111111,#111111,2,0.406856957151
 'Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.406834999645
+'Noël Barrot',fr,unknown,#111111,#111111,2,0.406750313073
 'Rosa Parks',fr,USA,#18e8e8,#18e8e8,2,0.406612421183
 'Francesca Albanese',fr,Italien,#33dd55,#33dd55,2,0.406466895731
 'Robert Prevost',fr,Vatikan,#dd5544,#dd5544,2,0.405430065831
