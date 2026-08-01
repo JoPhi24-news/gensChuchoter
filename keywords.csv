@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.499383691719
 'Noël Barrot',fr,unknown,#111111,#111111,3,0.478528738910
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.476971140848
 'HBO Max',fr,unknown,#111111,#111111,2,0.476617100862
@@ -122,6 +121,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gerald Darmanin',fr,Frankreich,#e8e808,#e8e808,2,0.434467599199
 'Thomas Massie',fr,unknown,#111111,#111111,2,0.434336936412
 'Bezalel Smotrich',fr,Israel,#3311cc,#3311cc,3,0.433975359068
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.433972342507
 'Kendall Jenner',fr,unknown,#111111,#111111,1,0.433860536929
 'RFK Jr',fr,USA,#18e8e8,#18e8e8,1,0.433842013072
 'Candace Owens',fr,unknown,#111111,#111111,2,0.433624868345
