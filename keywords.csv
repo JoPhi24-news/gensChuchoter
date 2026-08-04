@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Logan Paul',fr,unknown,#111111,#111111,2,0.504888563583
 'Gable Steveson',fr,unknown,#111111,#111111,2,0.503822382749
 'Christina Ricci',fr,unknown,#111111,#111111,2,0.503734424216
 'Javier Mendez',fr,unknown,#111111,#111111,2,0.503485977885
@@ -176,6 +175,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Conan O’Brien',fr,unknown,#111111,#111111,2,0.429477305556
 'Kash Patel',fr,unknown,#111111,#111111,1,0.429359591060
 'Adam Mockler',fr,unknown,#111111,#111111,1,0.429358671510
+'Logan Paul',fr,unknown,#111111,#111111,2,0.429305294046
 'Tony Dokoupil',fr,unknown,#111111,#111111,1,0.429278844195
 'Don Bacon',fr,unknown,#111111,#111111,1,0.429206541252
 'Alexandria Ocasio-Cortez',fr,unknown,#111111,#111111,1,0.429125255091
