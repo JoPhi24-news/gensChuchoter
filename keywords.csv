@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Herb Dean',fr,unknown,#111111,#111111,2,0.506271842115
 'Logan Paul',fr,unknown,#111111,#111111,2,0.504888563583
 'Gable Steveson',fr,unknown,#111111,#111111,2,0.503822382749
 'Christina Ricci',fr,unknown,#111111,#111111,2,0.503734424216
@@ -162,6 +161,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nawaz Sharif',fr,Pakistan,#bb33ff,#bb33ff,2,0.430631873479
 'Bruna Ferreira',fr,unknown,#111111,#111111,2,0.430626612059
 'Joey Kelly',fr,unknown,#111111,#111111,1,0.430559081395
+'Herb Dean',fr,unknown,#111111,#111111,1,0.430331065798
 'Katie Couric',fr,unknown,#111111,#111111,1,0.430312509494
 'David Lowery',fr,unknown,#111111,#111111,1,0.430194384304
 'Kevin Spacey',fr,unknown,#111111,#111111,1,0.430166733137
