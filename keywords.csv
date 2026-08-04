@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Magomed Ankalaev',fr,unknown,#111111,#111111,2,0.507066612457
 'Herb Dean',fr,unknown,#111111,#111111,2,0.506271842115
 'Logan Paul',fr,unknown,#111111,#111111,2,0.504888563583
 'Gable Steveson',fr,unknown,#111111,#111111,2,0.503822382749
@@ -158,6 +157,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Deborah Birx',fr,unknown,#111111,#111111,1,0.431338319290
 'Lisa Müller',fr,unknown,#111111,#111111,1,0.431109635953
 'Steve Witkoff',fr,unknown,#111111,#111111,3,0.431066125883
+'Magomed Ankalaev',fr,unknown,#111111,#111111,1,0.431006620588
 'Omar Yaghi',fr,Jordanien,#335588,#335588,2,0.430819754240
 'Nawaz Sharif',fr,Pakistan,#bb33ff,#bb33ff,2,0.430631873479
 'Bruna Ferreira',fr,unknown,#111111,#111111,2,0.430626612059
