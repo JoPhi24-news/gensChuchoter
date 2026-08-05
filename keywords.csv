@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Javier Mendez',fr,unknown,#111111,#111111,2,0.503485977885
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.476971140848
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.475881321979
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.475830401913
@@ -192,6 +191,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruna Caroline Ferreira',fr,unknown,#111111,#111111,2,0.428006351212
 'Nathan Hochman',fr,unknown,#111111,#111111,1,0.428000722675
 'Mother Mary',fr,unknown,#111111,#111111,2,0.427964279416
+'Javier Mendez',fr,unknown,#111111,#111111,1,0.427963081202
 'Alexander Yui',fr,unknown,#111111,#111111,1,0.427836927669
 'John Lennon',fr,unknown,#111111,#111111,1,0.427836695391
 'Howard Lutnick',fr,unknown,#111111,#111111,2,0.427738798516
