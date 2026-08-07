@@ -688,6 +688,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marguerite Cazeneuve',fr,unknown,#111111,#111111,1,0.304348799605
 'Theodor Herzl',fr,Ungarn,#111111,#111111,2,0.304314974078
 'Yoon Suk Yeol',fr,SüdKorea,#bbff33,#bbff33,2,0.303986379820
+'Rafael Grossi',fr,UN,#e888e8,#e888e8,2,0.303975150552
 'Tamim Hamad Thani',fr,Katar,#33ffbb,#33ffbb,2,0.303883390906
 'Roman Pacino',fr,unknown,#111111,#111111,2,0.303574948502
 'Peregrine Pearson',fr,unknown,#111111,#111111,1,0.303458232404
@@ -980,7 +981,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Sandel',fr,USA,#18e8e8,#18e8e8,2,0.212387524751
 'Tamim bin Hamad Al-Thani',fr,Katar,#33ffbb,#33ffbb,2,0.212115772066
 'Giorgia Meloni',fr,Italien,#33dd55,#33dd55,3,0.211537594210
-'Rafael Grossi',fr,UN,#e888e8,#e888e8,1,0.209500071238
 'Boris Pistorius',fr,Deutschland,#1818e8,#1818e8,1,0.209427397608
 'King Charles III',fr,UK,#e838e8,#e838e8,1,0.208135379872
 'Andreas Jung',fr,Deutschland,#1818e8,#1818e8,1,0.207562761476
@@ -1080,10 +1080,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Louis Klamroth',fr,Deutschland,#1818e8,#1818e8,1,0.162500858488
 'Horst Seehofer',fr,Deutschland,#1818e8,#1818e8,1,0.161989991352
 'Rishi Sunak',fr,UK,#e838e8,#e838e8,2,0.160721108046
+'Antonio Guterres',fr,UN,#e888e8,#e888e8,2,0.160335879082
 'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.160288544141
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.160288544141
 'Michael Mann',fr,USA,#18e8e8,#18e8e8,1,0.159606230871
-'Antonio Guterres',fr,UN,#e888e8,#e888e8,2,0.159141133808
 'Gautam Adani',fr,Indien,#995533,#995533,1,0.158833200126
 'Sergej Schoigu',fr,Russland,#e81818,#e81818,1,0.157293822996
 'Lukaschenko',fr,Belarus,#e81858,#e81858,2,0.156151364972
@@ -1121,9 +1121,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Manning',fr,USA,#18e8e8,#18e8e8,1,0.127103286022
 'Hans Joachim Schellnhuber',fr,Deutschland,#1818e8,#1818e8,1,0.127079780203
 'Karl Nehammer',fr,Oesterreich,#5522dd,#5522dd,1,0.126946028108
+'Macky Sall',fr,Senegal,#aa33dd,#aa33dd,1,0.125876759605
 'Yanis Varoufakis',fr,Griechenland,#1858e8,#1858e8,1,0.124671126243
 'Yoon Suk-yeol',fr,SüdKorea,#bbff33,#bbff33,2,0.123658971102
-'Macky Sall',fr,Senegal,#aa33dd,#aa33dd,1,0.123426671059
 'John Roberts',fr,USA,#18e8e8,#18e8e8,1,0.122563721239
 'Klaus-Michael Kühne',fr,Deutschland,#1818e8,#1818e8,1,0.120560994674
 'Patriarch Kyrill',fr,Ukraine,#e818e8,#e818e8,1,0.118577069372
