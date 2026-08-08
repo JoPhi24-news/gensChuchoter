@@ -282,7 +282,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,1,0.402971242282
 'Renee Nicole Good',fr,unknown,#111111,#111111,2,0.402720291671
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.402300970200
-'James Comey',fr,USA,#18e8e8,#18e8e8,3,0.402128980888
 'Mark Levin',fr,unknown,#111111,#111111,2,0.401912760757
 'Pedro Sánchez',fr,Spanien,#33aa99,#33aa99,3,0.401782888602
 'Kim Jong Un',fr,NordKorea,#e85858,#e85858,3,0.401077534997
@@ -476,6 +475,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vo Van Thuong',fr,Vietnam,#117644,#117644,1,0.343470111841
 'Charlize Theron',fr,Südafrika,#ee4411,#ee4411,1,0.342657011231
 'Gavin Newsom',fr,USA,#18e8e8,#18e8e8,2,0.341964382502
+'James Comey',fr,USA,#18e8e8,#18e8e8,1,0.341809633755
 'Xi Jinping',fr,China,#e88818,#e88818,3,0.341784062167
 'Margaret Thatcher',fr,UK,#e838e8,#e838e8,2,0.340914469394
 'Sam H',fr,unknown,#111111,#111111,2,0.340850459855
