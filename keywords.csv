@@ -188,7 +188,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nathan Hochman',fr,unknown,#111111,#111111,1,0.428000722675
 'Mother Mary',fr,unknown,#111111,#111111,2,0.427964279416
 'Javier Mendez',fr,unknown,#111111,#111111,1,0.427963081202
-'Alexander Yui',fr,unknown,#111111,#111111,1,0.427836927669
 'John Lennon',fr,unknown,#111111,#111111,1,0.427836695391
 'Howard Lutnick',fr,unknown,#111111,#111111,2,0.427738798516
 'Dan Hooker',fr,unknown,#111111,#111111,1,0.427549166499
@@ -401,6 +400,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lil Yachty',fr,USA,#18e8e8,#18e8e8,1,0.363830425113
 'Venezuelas Übergangspräsidentin',fr,unknown,#111111,#111111,1,0.363735855399
 'Paul Konerko',fr,USA,#18e8e8,#18e8e8,1,0.363716750980
+'Alexander Yui',fr,unknown,#111111,#111111,1,0.363661388519
 'Nanon Williams',fr,unknown,#111111,#111111,1,0.363268269869
 'Shavkat Rakhmonov',fr,unknown,#111111,#111111,1,0.363145282841
 'Abraham Lincoln',fr,USA,#18e8e8,#18e8e8,1,0.363094395075
