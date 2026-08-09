@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.510764124605
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.482661565005
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.477653097736
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.475830401913
@@ -60,8 +59,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marine Tondelier',fr,unknown,#111111,#111111,3,0.450137707345
 'Renee Good',fr,unknown,#111111,#111111,3,0.450014794023
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.449197570525
+'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.448943509887
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.448299397630
-'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.448204485221
+'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.448194765005
 'Delcy Rodríguez',fr,unknown,#111111,#111111,2,0.448016763847
 'Pam Bondi',fr,unknown,#111111,#111111,2,0.447299684596
 'Justin Gaethje',fr,unknown,#111111,#111111,2,0.447236755777
