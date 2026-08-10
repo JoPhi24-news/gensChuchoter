@@ -1,9 +1,18 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.482661565005
+'Monique Barbut',fr,unknown,#111111,#111111,2,0.600089717533
+'Maite Kelly',fr,unknown,#111111,#111111,2,0.509737687003
+'Elisha Ellison',fr,unknown,#111111,#111111,2,0.509335492642
+'Carlos Ulberg',fr,unknown,#111111,#111111,2,0.507118724633
+'Bogdan Guskov',fr,unknown,#111111,#111111,2,0.507065860115
+'Usman Nurmagomedov',fr,unknown,#111111,#111111,2,0.506366502367
+'Abu Dhabi',fr,unknown,#111111,#111111,2,0.506243321262
+'Valter Walker',fr,unknown,#111111,#111111,2,0.505767212619
+'Charles Oliveira',fr,unknown,#111111,#111111,2,0.502389395208
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.477653097736
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.475830401913
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.475147228396
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.474449761221
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.474312944345
 'Ali Khamenei',fr,unknown,#111111,#111111,3,0.474166831448
 'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.473467676383
 'Conor McGregor',fr,unknown,#111111,#111111,2,0.472983388799
@@ -19,15 +28,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.467418860063
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.466829910635
 'James Bond',fr,unknown,#111111,#111111,3,0.466016637151
+'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.465989043000
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.465519241487
-'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.465283829766
 'David Amiel',fr,unknown,#111111,#111111,2,0.464902510132
 'Isaac Herzog',fr,unknown,#111111,#111111,2,0.463841841300
+'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.463796103941
 'Bill Cassidy',fr,unknown,#111111,#111111,1,0.463675063918
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.463326943124
-'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.463086527692
+'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.463239371448
 'Eric Dane',fr,unknown,#111111,#111111,2,0.462671392302
-'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.462528688083
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
 'Steve Bannon',fr,unknown,#111111,#111111,1,0.462132810389
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.461029158102
@@ -276,11 +285,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hans-Werner Sinn',fr,Deutschland,#1818e8,#1818e8,1,0.405414638799
 'Greta Thunberg',fr,Schweden,#ddee11,#ddee11,2,0.405171310410
 'reine Mathilde',fr,unknown,#111111,#111111,2,0.404944114545
+'Pedro Sánchez',fr,Spanien,#33aa99,#33aa99,3,0.403439631411
 'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,1,0.402971242282
 'Renee Nicole Good',fr,unknown,#111111,#111111,2,0.402720291671
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.402300970200
 'Mark Levin',fr,unknown,#111111,#111111,2,0.401912760757
-'Pedro Sánchez',fr,Spanien,#33aa99,#33aa99,3,0.401782888602
 'Kim Jong Un',fr,NordKorea,#e85858,#e85858,3,0.401077534997
 'Emily Blunt',fr,UK,#e838e8,#e838e8,3,0.401023811302
 'Peter Mandelson',fr,unknown,#111111,#111111,1,0.399664793472
@@ -320,8 +329,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergio Mattarella',fr,Italien,#33dd55,#33dd55,1,0.380754705103
 'Karsten Wildberger',fr,Deutschland,#335599,#335599,1,0.380695861072
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,1,0.380574259965
+'Paul Biya',fr,Kamerun,#2266cc,#2266cc,3,0.379787743340
 'Jake Paul',fr,USA,#18e8e8,#18e8e8,1,0.379627453276
-'Paul Biya',fr,Kamerun,#2266cc,#2266cc,3,0.378915563375
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,2,0.378780599022
 'Benjamin Nethanaju',fr,Israel,#3311cc,#3311cc,1,0.378183378568
 'Al Nassr',fr,SaudiArabien,#22bb66,#22bb66,2,0.378163616220
