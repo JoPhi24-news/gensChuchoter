@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Charles Oliveira',fr,unknown,#111111,#111111,2,0.502389395208
 'Abu Dhabi',fr,unknown,#111111,#111111,2,0.485978476644
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.481124172647
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.477653097736
@@ -203,6 +202,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jay Clayton',fr,unknown,#111111,#111111,1,0.427267028864
 'Epstein Files',fr,unknown,#111111,#111111,1,0.427205858177
 'MARGARET BRENNAN',fr,unknown,#111111,#111111,2,0.427133432114
+'Charles Oliveira',fr,unknown,#111111,#111111,1,0.427031060927
 'Geraldo Rivera',fr,unknown,#111111,#111111,2,0.426802971854
 'Josh Hokit',fr,unknown,#111111,#111111,1,0.426768379015
 'Howie Mandel',fr,unknown,#111111,#111111,1,0.426632355671
