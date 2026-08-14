@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abu Dhabi',fr,unknown,#111111,#111111,2,0.485978476644
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.481124172647
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.481797849208
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.477653097736
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.475830401913
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.475147228396
@@ -19,11 +19,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Péter Magyar',fr,unknown,#111111,#111111,3,0.467570946914
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.467418860063
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.466829910635
+'David Amiel',fr,unknown,#111111,#111111,2,0.466348097843
 'James Bond',fr,unknown,#111111,#111111,3,0.466016637151
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.465989043000
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.465519241487
-'David Amiel',fr,unknown,#111111,#111111,2,0.464902510132
-'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.464656509127
+'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.465362968325
 'Isaac Herzog',fr,unknown,#111111,#111111,2,0.463841841300
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.463796103941
 'Bill Cassidy',fr,unknown,#111111,#111111,1,0.463675063918
@@ -58,9 +58,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marine Tondelier',fr,unknown,#111111,#111111,3,0.450872917822
 'Francis Ngannou',fr,unknown,#111111,#111111,2,0.450762642298
 'Quentin Deranque',fr,unknown,#111111,#111111,3,0.450470638357
+'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.450407525841
 'Sam Levinson',fr,unknown,#111111,#111111,2,0.450381178057
 'Renee Good',fr,unknown,#111111,#111111,3,0.450014794023
-'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.449671395007
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.449197570525
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.448943509887
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.448299397630
