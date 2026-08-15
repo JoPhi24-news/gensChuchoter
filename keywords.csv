@@ -230,7 +230,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Khaled al Serr',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Iyad al-Rantisi',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Adnan al-Burj',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
-'Éric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.424970438072
 'Quand Harry',fr,unknown,#111111,#111111,3,0.424155828154
 'Tony Bennett',fr,USA,#18e8e8,#18e8e8,2,0.423854417755
 'Mojtaba Khamenei',fr,unknown,#111111,#111111,3,0.423758794911
@@ -427,6 +426,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laura Loomer',fr,USA,#18e8e8,#18e8e8,1,0.361250357000
 'Veronika Grimm',fr,Deutschland,#335599,#335599,1,0.361250000000
 'Justus Haucap',fr,Deutschland,#335599,#335599,1,0.361250000000
+'Éric Ciotti',fr,Frankreich,#e8e808,#e8e808,1,0.361225067361
 'Dwayne Johnson',fr,USA,#18e8e8,#18e8e8,1,0.360591298174
 'LeBron James',fr,USA,#18e8e8,#18e8e8,2,0.360570501986
 'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,1,0.360436409246
