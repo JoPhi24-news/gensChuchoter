@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.533959171626
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.482667475009
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.478333695427
-'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.475832819458
-'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.475830401913
+'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.476517044651
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.475136741580
 'Ali Khamenei',fr,unknown,#111111,#111111,3,0.474166831448
 'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.473467676383
@@ -18,10 +18,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Péter Magyar',fr,unknown,#111111,#111111,3,0.467570946914
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.467418860063
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.466829910635
+'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.466692855245
 'David Amiel',fr,unknown,#111111,#111111,2,0.466348097843
 'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.466068024357
 'James Bond',fr,unknown,#111111,#111111,3,0.466016637151
-'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.465989043000
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.465519241487
 'Isaac Herzog',fr,unknown,#111111,#111111,2,0.463841841300
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.463796103941
