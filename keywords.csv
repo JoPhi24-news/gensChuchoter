@@ -1,16 +1,16 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.533959171626
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.482667475009
+'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.517909534973
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.483338072851
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.478333695427
-'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.476517044651
+'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.477199906476
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.475136741580
 'Ali Khamenei',fr,unknown,#111111,#111111,3,0.474166831448
 'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.473467676383
 'Conor McGregor',fr,unknown,#111111,#111111,2,0.472983388799
-'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,3,0.471775592279
+'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,3,0.472467897068
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.471414900871
 'Daniel Siad',fr,unknown,#111111,#111111,1,0.470604137232
-'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.468785049268
+'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.469483303749
 'prince Andrew',fr,unknown,#111111,#111111,2,0.468463357597
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.468201526895
 'Tom Homan',fr,unknown,#111111,#111111,3,0.468155178318
@@ -20,9 +20,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.466829910635
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.466692855245
 'David Amiel',fr,unknown,#111111,#111111,2,0.466348097843
+'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.466223987085
 'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.466068024357
 'James Bond',fr,unknown,#111111,#111111,3,0.466016637151
-'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.465519241487
 'Isaac Herzog',fr,unknown,#111111,#111111,2,0.463841841300
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.463796103941
 'Bill Cassidy',fr,unknown,#111111,#111111,1,0.463675063918
@@ -30,7 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eric Dane',fr,unknown,#111111,#111111,2,0.462671392302
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
 'Steve Bannon',fr,unknown,#111111,#111111,1,0.462132810389
-'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.461029158102
+'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.461742816374
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.460328170907
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.460292027179
 'Peter Magyar',fr,Ungarn,#33aa99,#33aa99,3,0.459865378833
@@ -59,8 +59,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Quentin Deranque',fr,unknown,#111111,#111111,3,0.450470638357
 'Sam Levinson',fr,unknown,#111111,#111111,2,0.450381178057
 'Renee Good',fr,unknown,#111111,#111111,3,0.450014794023
+'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.449681076917
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.449197570525
-'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.448943509887
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.448299397630
 'Delcy Rodríguez',fr,unknown,#111111,#111111,2,0.448016763847
 'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.447984885803
@@ -242,12 +242,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erika Kirk',fr,USA,#18e8e8,#18e8e8,2,0.420390015174
 'Nancy Guthrie',fr,unknown,#111111,#111111,1,0.418981185937
 'Scooter Braun',fr,unknown,#111111,#111111,1,0.418764424098
+'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.417904096055
 'Peter Attia',fr,unknown,#111111,#111111,1,0.417749339340
 'Jim Himes',fr,unknown,#111111,#111111,1,0.417578097163
 'Margaret Brennan',fr,unknown,#111111,#111111,1,0.417441976237
 'Katherina Reiche',fr,Deutschland,#335599,#335599,2,0.417351196439
 'Christian Bale',fr,unknown,#111111,#111111,1,0.417334070057
-'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.417104325833
 'Woody Allen',fr,unknown,#111111,#111111,2,0.417099350957
 'Hoda Kotb',fr,unknown,#111111,#111111,1,0.417068310202
 'Dua Lipa',fr,UK,#e838e8,#e838e8,2,0.415626570686
@@ -481,10 +481,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sabrina Carpenter',fr,USA,#18e8e8,#18e8e8,1,0.344295550672
 'Sophie Turner',fr,UK,#e838e8,#e838e8,2,0.343925232039
 'Vo Van Thuong',fr,Vietnam,#117644,#117644,1,0.343470111841
+'Xi Jinping',fr,China,#e88818,#e88818,3,0.342723417912
 'Charlize Theron',fr,Südafrika,#ee4411,#ee4411,1,0.342657011231
 'Gavin Newsom',fr,USA,#18e8e8,#18e8e8,2,0.341964382502
 'James Comey',fr,USA,#18e8e8,#18e8e8,1,0.341809633755
-'Xi Jinping',fr,China,#e88818,#e88818,3,0.341784062167
 'Margaret Thatcher',fr,UK,#e838e8,#e838e8,2,0.340914469394
 'Sam H',fr,unknown,#111111,#111111,2,0.340850459855
 'Paris Hilton',fr,USA,#18e8e8,#18e8e8,1,0.339847538335
@@ -684,8 +684,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gilbert Plass',fr,Kanada,#55ee33,#55ee33,1,0.307062500000
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
+'Kemal Kiliçdaroglu',fr,Türkei,#66bb22,#66bb22,3,0.306737691230
 'Pierre-Yves Dermagne',fr,Belgien,#2266bb,#2266bb,2,0.306584252816
-'Kemal Kiliçdaroglu',fr,Türkei,#66bb22,#66bb22,3,0.305737039580
 'Meryl Streep',fr,unknown,#111111,#111111,1,0.305713874634
 'George Clooney',fr,USA,#18e8e8,#18e8e8,1,0.305123760797
 'Dieter Bohlen',fr,Deutschland,#1818e8,#1818e8,1,0.305105974065
@@ -1057,9 +1057,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ola Källenius',fr,Deutschland,#1818e8,#1818e8,2,0.176923180030
 'Herschel Walker',fr,USA,#18e8e8,#18e8e8,1,0.176467413555
 'Wolodymyr Selenski',fr,Ukraine,#e818e8,#e818e8,1,0.176280755108
+'Benjamin Netanyahu',fr,Israel,#3311cc,#3311cc,2,0.176041672545
 'David Malpass',fr,USA,#18e8e8,#18e8e8,1,0.175753767218
 'Jack Ma',fr,China,#e88818,#e88818,2,0.175084809747
-'Benjamin Netanyahu',fr,Israel,#3311cc,#3311cc,2,0.174862718694
 'Werner von Braun',fr,Deutschland,#1818e8,#1818e8,1,0.174058932761
 'Sahra Wagenknecht',fr,Deutschland,#1818e8,#1818e8,3,0.173142414839
 'Sundar Pichai',fr,USA,#18e8e8,#18e8e8,2,0.172355936295
