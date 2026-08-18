@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ali Abdelaziz',fr,unknown,#111111,#111111,2,0.501496113495
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.495176449727
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.483338072851
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.478333695427
@@ -213,6 +212,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Kelly',fr,unknown,#111111,#111111,1,0.426393603630
 'László Krasznahorkai',fr,Ungarn,#99aa33,#99aa33,1,0.426324337111
 'Edouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.426275000955
+'Ali Abdelaziz',fr,unknown,#111111,#111111,1,0.426271711471
 'Liveblog Ukrainekrieg',fr,unknown,#111111,#111111,1,0.426259326308
 'Corey Lewandowski',fr,unknown,#111111,#111111,1,0.426017881406
 'Brad Pitt',fr,USA,#18e8e8,#18e8e8,3,0.425982178036
