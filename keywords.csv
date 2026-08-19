@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Isaac Herzog',fr,unknown,#111111,#111111,2,0.544415580105
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.483338072851
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.478333695427
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.477199906476
@@ -22,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.466223987085
 'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.466068024357
 'James Bond',fr,unknown,#111111,#111111,3,0.466016637151
-'Isaac Herzog',fr,unknown,#111111,#111111,2,0.463841841300
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.463796103941
 'Bill Cassidy',fr,unknown,#111111,#111111,1,0.463675063918
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.463326943124
@@ -214,6 +214,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.426275000955
 'Ali Abdelaziz',fr,unknown,#111111,#111111,1,0.426271711471
 'Liveblog Ukrainekrieg',fr,unknown,#111111,#111111,1,0.426259326308
+'Premier ministre',fr,Frankreich,#e8e808,#e8e808,3,0.426109939845
 'Corey Lewandowski',fr,unknown,#111111,#111111,1,0.426017881406
 'Brad Pitt',fr,USA,#18e8e8,#18e8e8,3,0.425982178036
 'Ken Paxton',fr,unknown,#111111,#111111,1,0.425962213653
@@ -221,7 +222,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul McCartney',fr,unknown,#111111,#111111,1,0.425748749058
 'Trevor Phillips',fr,unknown,#111111,#111111,1,0.425622181304
 'Tig Notaro',fr,USA,#18e8e8,#18e8e8,1,0.425358127032
-'Premier ministre',fr,Frankreich,#e8e808,#e8e808,3,0.425326101163
 'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,1,0.425260034396
 'John Cornyn',fr,unknown,#111111,#111111,1,0.425216267421
 'Chris Nanos',fr,unknown,#111111,#111111,1,0.425128208387
