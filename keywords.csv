@@ -1122,7 +1122,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Kretschmer',fr,Deutschland,#1818e8,#1818e8,1,0.138748936165
 'Oliver Blume',fr,Deutschland,#1818e8,#1818e8,1,0.138300011863
 'Dalai Lama',fr,Tibet,#ddaa33,#ddaa33,1,0.136811762433
-'Barbara Walters',fr,USA,#18e8e8,#18e8e8,1,0.136756273949
 'Martin Sonneborn',fr,Deutschland,#1818e8,#1818e8,1,0.136335870511
 'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.136245262520
 'Alice Schwarzer',fr,Deutschland,#1818e8,#1818e8,1,0.134004862535
@@ -1146,6 +1145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul Gosar',fr,USA,#18e8e8,#18e8e8,1,0.118124642604
 'MacKenzie Scott',fr,USA,#18e8e8,#18e8e8,1,0.116887701907
 'Sergej Lawrow',fr,Russland,#e81818,#e81818,1,0.116755127485
+'Barbara Walters',fr,USA,#18e8e8,#18e8e8,1,0.116242832857
 'Schellnhuber',fr,Deutschland,#1818e8,#1818e8,1,0.115364720743
 'Ulf Poschardt',fr,Deutschland,#1818e8,#1818e8,1,0.114575012808
 'Otmar Issing',fr,EU,#88cc44,#88cc44,1,0.109172821038
