@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.483976275105
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.484644261408
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.478333695427
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.477199906476
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.475822353533
 'Ali Khamenei',fr,unknown,#111111,#111111,3,0.474166831448
-'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.473467676383
+'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.474156612563
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,3,0.473158823798
 'Conor McGregor',fr,unknown,#111111,#111111,2,0.472983388799
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.471414900871
@@ -15,7 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Homan',fr,unknown,#111111,#111111,3,0.468155178318
 'Daniel Craig',fr,unknown,#111111,#111111,3,0.467584324749
 'Péter Magyar',fr,unknown,#111111,#111111,3,0.467570946914
-'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.467473936736
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.467418860063
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.467395268956
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.466927332512
@@ -75,6 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Mountbatten-Windsor',fr,unknown,#111111,#111111,2,0.443925473211
 'Nicolas Cage',fr,unknown,#111111,#111111,2,0.443563063910
 'Claire Legendre',fr,unknown,#111111,#111111,2,0.443480281736
+'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.443220442135
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.442668993451
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.442203175567
 'Kristi Noem',fr,unknown,#111111,#111111,3,0.442084913111
@@ -289,10 +289,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reine Mathilde',fr,unknown,#111111,#111111,2,0.404944114545
 'Pedro Sánchez',fr,Spanien,#33aa99,#33aa99,3,0.403439631411
 'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,1,0.402971242282
+'Kim Jong Un',fr,NordKorea,#e85858,#e85858,3,0.402736962128
 'Renee Nicole Good',fr,unknown,#111111,#111111,2,0.402720291671
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.402300970200
 'Mark Levin',fr,unknown,#111111,#111111,2,0.401912760757
-'Kim Jong Un',fr,NordKorea,#e85858,#e85858,3,0.401908039189
 'Emily Blunt',fr,UK,#e838e8,#e838e8,3,0.401023811302
 'Peter Mandelson',fr,unknown,#111111,#111111,1,0.399664793472
 'Raphaël Arnault',fr,unknown,#111111,#111111,2,0.399325694022
