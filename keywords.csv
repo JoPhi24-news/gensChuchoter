@@ -810,7 +810,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chip Somodevilla',fr,USA,#18e8e8,#18e8e8,2,0.282916789799
 'Albert Einstein',fr,Deutschland,#1818e8,#1818e8,2,0.282413215257
 'Eva Green',fr,unknown,#111111,#111111,1,0.282265534324
-'Robert Sesselmann',fr,Deutschland,#1818e8,#1818e8,1,0.282032648609
 'Lance Bass',fr,unknown,#111111,#111111,1,0.281267684084
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.280785668286
 'Kim Reynolds',fr,unknown,#111111,#111111,1,0.280630958368
@@ -932,6 +931,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Buzz Aldrin',fr,USA,#18e8e8,#18e8e8,1,0.241406527147
 'Kevin Kühnert',fr,Deutschland,#1818e8,#1818e8,1,0.241224347799
 'Melinda Gates',fr,USA,#18e8e8,#18e8e8,2,0.240545882123
+'Robert Sesselmann',fr,Deutschland,#1818e8,#1818e8,1,0.239727751318
 'Martin Scorsese',fr,USA,#18e8e8,#18e8e8,1,0.239407312147
 'Papst Benedikt XVI',fr,Vatikan,#58b8e8,#58b8e8,2,0.238271904683
 'Joseph Ratzinger',fr,Vatikan,#58b8e8,#58b8e8,1,0.238018838372
