@@ -339,7 +339,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markwayne Mullin',fr,unknown,#111111,#111111,1,0.378147400978
 'Valérie Hayer',fr,Frankreich,#e8e808,#e8e808,1,0.378096161881
 'Ilhan Omar',fr,unknown,#111111,#111111,1,0.377449693935
-'Eric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.377129132134
 'Michel H. Devoret',fr,USA,#18e8e8,#18e8e8,1,0.376536656136
 'George Miller',fr,Australien,#aa9933,#aa9933,2,0.376093231959
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,1,0.375755594794
@@ -579,6 +578,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Friederike Otto',fr,Deutschland,#1818e8,#1818e8,1,0.321526066444
 'Omar Sy',fr,Frankreich,#e8e808,#e8e808,1,0.321096750314
 'Steve Jobs',fr,USA,#18e8e8,#18e8e8,2,0.321013605664
+'Eric Ciotti',fr,Frankreich,#e8e808,#e8e808,1,0.320559792314
 'Carey Mulligan',fr,UK,#e838e8,#e838e8,1,0.320423043827
 'Al Pacino',fr,USA,#18e8e8,#18e8e8,1,0.320288325256
 'Robert Menendez',fr,USA,#18e8e8,#18e8e8,1,0.320256326844
