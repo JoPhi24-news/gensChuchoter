@@ -897,6 +897,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ursula von der Leyen',fr,EU,#88cc44,#88cc44,1,0.259740303221
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.259702748737
 'Michelle Williams',fr,unknown,#111111,#111111,1,0.259560503683
+'Adolf Hitler',fr,Deutschland,#1818e8,#1818e8,2,0.259337585694
 'Lily Gladstone',fr,unknown,#111111,#111111,1,0.258413900071
 'Jill Biden',fr,USA,#18e8e8,#18e8e8,1,0.258345447736
 'Jennifer Morgan',fr,unknown,#111111,#111111,1,0.258242564707
@@ -989,7 +990,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander von Humboldt',fr,Deutschland,#1818e8,#1818e8,1,0.216768833216
 'Rainer Maria Woelki',fr,Deutschland,#1818e8,#1818e8,1,0.216651872609
 'Derek Chauvin',fr,unknown,#111111,#111111,1,0.216381897404
-'Adolf Hitler',fr,Deutschland,#1818e8,#1818e8,1,0.215102865522
 'Herbert Diess',fr,Deutschland,#1818e8,#1818e8,1,0.214900351293
 'John Kerry',fr,USA,#18e8e8,#18e8e8,2,0.214092510366
 'Tamim bin Hamad Al Thani',fr,Katar,#33ffbb,#33ffbb,2,0.212958869968
