@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.506499074587
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.484644261408
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.478333695427
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.477199906476
@@ -75,6 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Mountbatten-Windsor',fr,unknown,#111111,#111111,2,0.443925473211
 'Nicolas Cage',fr,unknown,#111111,#111111,2,0.443563063910
 'Claire Legendre',fr,unknown,#111111,#111111,2,0.443480281736
+'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.443338769113
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.442668993451
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.442203175567
 'Kristi Noem',fr,unknown,#111111,#111111,3,0.442084913111
