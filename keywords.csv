@@ -786,7 +786,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinzessin Diana',fr,UK,#e838e8,#e838e8,1,0.287163689337
 'Steven Donziger',fr,USA,#18e8e8,#18e8e8,1,0.287103437500
 'Sophia Kianni',fr,unknown,#111111,#111111,1,0.287103437500
-'Minka Indigena',fr,unknown,#111111,#111111,1,0.287103437500
 'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.287103437500
 'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.287103437500
 'Kyle Pope',fr,unknown,#111111,#111111,1,0.287103437500
@@ -926,6 +925,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Afida Turner',fr,Frankreich,#e8e808,#e8e808,1,0.244984126026
 'Robert Nozick',fr,USA,#18e8e8,#18e8e8,1,0.244728661107
 'Prinz Louis',fr,UK,#e838e8,#e838e8,1,0.244329453500
+'Minka Indigena',fr,unknown,#111111,#111111,1,0.244037921875
 'Gorbatschow',fr,unknown,#111111,#111111,1,0.244037921875
 'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.244037921875
 'Cyril Ramaphosa',fr,Südafrika,#ee4411,#ee4411,3,0.241920832267
