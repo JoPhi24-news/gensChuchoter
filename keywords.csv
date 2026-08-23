@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.484644261408
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.478551167299
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.478333695427
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.477199906476
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.476506599578
 'Ali Khamenei',fr,unknown,#111111,#111111,3,0.474166831448
 'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.474156612563
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,3,0.473158823798
@@ -255,6 +255,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Bale',fr,unknown,#111111,#111111,1,0.417334070057
 'Woody Allen',fr,unknown,#111111,#111111,2,0.417099350957
 'Hoda Kotb',fr,unknown,#111111,#111111,1,0.417068310202
+'Kim Jong Un',fr,NordKorea,#e85858,#e85858,3,0.416588432072
 'Dua Lipa',fr,UK,#e838e8,#e838e8,2,0.415626570686
 'Guy Ritchie',fr,UK,#e838e8,#e838e8,2,0.415199150832
 'Andrew Windsor',fr,unknown,#111111,#111111,1,0.414682942039
@@ -288,7 +289,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reine Mathilde',fr,unknown,#111111,#111111,2,0.404944114545
 'Pedro Sánchez',fr,Spanien,#33aa99,#33aa99,3,0.403439631411
 'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,1,0.402971242282
-'Kim Jong Un',fr,NordKorea,#e85858,#e85858,3,0.402736962128
 'Renee Nicole Good',fr,unknown,#111111,#111111,2,0.402720291671
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.402300970200
 'Mark Levin',fr,unknown,#111111,#111111,2,0.401912760757
@@ -435,6 +435,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dwayne Johnson',fr,USA,#18e8e8,#18e8e8,1,0.360591298174
 'LeBron James',fr,USA,#18e8e8,#18e8e8,2,0.360570501986
 'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,1,0.360436409246
+'Kim Jong-un',fr,NordKorea,#e85858,#e85858,3,0.359888806993
 'Ehud Olmert',fr,Israel,#3311cc,#3311cc,1,0.359169824603
 'Jack Lang',fr,unknown,#111111,#111111,1,0.359067229666
 'Sean Hannity',fr,USA,#18e8e8,#18e8e8,1,0.359050741497
@@ -485,8 +486,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steven Spielberg',fr,USA,#18e8e8,#18e8e8,3,0.344879627206
 'Sabrina Carpenter',fr,USA,#18e8e8,#18e8e8,1,0.344295550672
 'Sophie Turner',fr,UK,#e838e8,#e838e8,2,0.343925232039
+'Xi Jinping',fr,China,#e88818,#e88818,3,0.343661121104
 'Vo Van Thuong',fr,Vietnam,#117644,#117644,1,0.343470111841
-'Xi Jinping',fr,China,#e88818,#e88818,3,0.342723417912
 'Charlize Theron',fr,Südafrika,#ee4411,#ee4411,1,0.342657011231
 'Gavin Newsom',fr,USA,#18e8e8,#18e8e8,2,0.341964382502
 'James Comey',fr,USA,#18e8e8,#18e8e8,1,0.341809633755
@@ -671,6 +672,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Luther King',fr,USA,#18e8e8,#18e8e8,2,0.308363441997
 'Alyssa Farah Griffin',fr,unknown,#111111,#111111,1,0.308117388217
 'Salvador Dali',fr,Spanien,#33aa99,#33aa99,1,0.308090113587
+'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.308061094548
 'Hailey Van Lith',fr,unknown,#111111,#111111,1,0.307819210408
 'Matt Winkelmeyer',fr,unknown,#111111,#111111,1,0.307645118435
 'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,2,0.307528291175
@@ -679,7 +681,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jake Reiner',fr,unknown,#111111,#111111,1,0.307239633338
 'Mareike Fallwickl',fr,Oesterreich,#5522dd,#5522dd,1,0.307229490406
 'Hugh Grant',fr,unknown,#111111,#111111,1,0.307229026268
-'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.307062619212
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.307062521675
 'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.307062500000
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.307062500000
@@ -872,7 +873,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Stapleton',fr,unknown,#111111,#111111,1,0.263837128750
 'Brittany Mahomes',fr,unknown,#111111,#111111,1,0.263625796050
 'Jake Gyllenhaal',fr,unknown,#111111,#111111,1,0.263487442016
-'Kim Jong-un',fr,NordKorea,#e85858,#e85858,3,0.263338643521
 'Aleksandar Vučić',fr,Serbien,#8844cc,#8844cc,2,0.263133522331
 'Drew Bledsoe',fr,unknown,#111111,#111111,1,0.262834584359
 'Victoria Monét',fr,unknown,#111111,#111111,1,0.262620719722
