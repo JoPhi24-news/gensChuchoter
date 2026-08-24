@@ -1,4 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'François Hollande',fr,unknown,#111111,#111111,2,0.603501535519
+'Dakota Ditcheva',fr,unknown,#111111,#111111,2,0.509154084953
+'Carlos Prates',fr,unknown,#111111,#111111,2,0.505429750088
+'Henry Cejudo',fr,unknown,#111111,#111111,2,0.504582102010
+'Michael Morales',fr,unknown,#111111,#111111,2,0.500379698594
+'Vanessa Mai',fr,unknown,#111111,#111111,2,0.500075441227
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.478551167299
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.478333695427
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.477199906476
@@ -666,7 +672,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cassidy Hutchinson',fr,unknown,#111111,#111111,1,0.308904662540
 'Tom Kaulitz',fr,unknown,#111111,#111111,1,0.308676808992
 'Pete Davidson',fr,USA,#18e8e8,#18e8e8,1,0.308643624735
-'King Charles',fr,UK,#e838e8,#e838e8,2,0.308586553706
 'Jack Della Maddalena',fr,unknown,#111111,#111111,1,0.308542707515
 'Julian Edelman',fr,unknown,#111111,#111111,1,0.308398878303
 'Martin Luther King',fr,USA,#18e8e8,#18e8e8,2,0.308363441997
@@ -879,6 +884,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anne Will',fr,Deutschland,#1818e8,#1818e8,1,0.262508920544
 'Tom Hanks',fr,unknown,#111111,#111111,1,0.262340707580
 'George Floyd',fr,USA,#18e8e8,#18e8e8,1,0.262311358490
+'King Charles',fr,UK,#e838e8,#e838e8,1,0.262298780650
 'Jason Whitlock',fr,unknown,#111111,#111111,1,0.261952567552
 'Viktor Orbán',fr,Ungarn,#111111,#111111,2,0.261775610722
 'Edward Snowden',fr,USA,#18e8e8,#18e8e8,2,0.261288725915
