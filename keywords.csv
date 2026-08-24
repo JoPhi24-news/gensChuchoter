@@ -180,7 +180,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Logan Paul',fr,unknown,#111111,#111111,2,0.429305294046
 'Tony Dokoupil',fr,unknown,#111111,#111111,1,0.429278844195
 'Don Bacon',fr,unknown,#111111,#111111,1,0.429206541252
-'Whoopi Goldberg',fr,USA,#18e8e8,#18e8e8,1,0.429119676187
 'Khabib Nurmagomedov',fr,unknown,#111111,#111111,1,0.429061709631
 'Nick Bilton',fr,unknown,#111111,#111111,1,0.429001151593
 'Robert Gates',fr,unknown,#111111,#111111,1,0.428818924206
@@ -400,6 +399,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anant Ambani',fr,Indien,#995533,#995533,1,0.365087340868
 'Helene Fischer',fr,unknown,#111111,#111111,1,0.364932310634
 'Belal Muhammad',fr,unknown,#111111,#111111,1,0.364895523150
+'Whoopi Goldberg',fr,USA,#18e8e8,#18e8e8,1,0.364751724759
 'Sherri Shepherd',fr,USA,#18e8e8,#18e8e8,1,0.364547183443
 'Prince Philip',fr,unknown,#111111,#111111,1,0.364457256492
 'Mira Murati',fr,Albanien,#1167d4,#1167d4,2,0.364157784917
