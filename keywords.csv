@@ -1,19 +1,19 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'François Hollande',fr,unknown,#111111,#111111,2,0.603501535519
+'François Hollande',fr,unknown,#111111,#111111,3,0.616214780191
 'Dakota Ditcheva',fr,unknown,#111111,#111111,2,0.509154084953
 'Carlos Prates',fr,unknown,#111111,#111111,2,0.505429750088
 'Henry Cejudo',fr,unknown,#111111,#111111,2,0.504582102010
 'Michael Morales',fr,unknown,#111111,#111111,2,0.500379698594
 'Vanessa Mai',fr,unknown,#111111,#111111,2,0.500075441227
+'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.482614020863
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.478551167299
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.478333695427
-'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.477199906476
 'Ali Khamenei',fr,unknown,#111111,#111111,3,0.474166831448
 'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.474156612563
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,3,0.473158823798
 'Conor McGregor',fr,unknown,#111111,#111111,2,0.472983388799
 'Daniel Siad',fr,unknown,#111111,#111111,1,0.470604137232
-'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.469483303749
+'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.470180169517
 'prince Andrew',fr,unknown,#111111,#111111,2,0.468463357597
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.468201526895
 'Tom Homan',fr,unknown,#111111,#111111,3,0.468155178318
@@ -24,10 +24,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.466927332512
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.466829910635
 'David Amiel',fr,unknown,#111111,#111111,2,0.466348097843
+'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.466154902526
 'James Bond',fr,unknown,#111111,#111111,3,0.466016637151
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.463796103941
 'Bill Cassidy',fr,unknown,#111111,#111111,1,0.463675063918
-'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.463326943124
 'Isaac Herzog',fr,unknown,#111111,#111111,1,0.462753258089
 'Eric Dane',fr,unknown,#111111,#111111,2,0.462671392302
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
@@ -38,21 +38,21 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Magyar',fr,Ungarn,#33aa99,#33aa99,3,0.459865378833
 'Hunter Schafer',fr,unknown,#111111,#111111,2,0.459847313033
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.459660506411
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.457813223106
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.458533255618
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.457731478436
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.457569167724
+'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.457319657090
 'Caroline Lang',fr,unknown,#111111,#111111,3,0.456832214965
-'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.456597216533
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.456574447903
+'François Mitterrand',fr,unknown,#111111,#111111,3,0.456097859717
 'HBO Max',fr,unknown,#111111,#111111,3,0.455531466187
-'François Mitterrand',fr,unknown,#111111,#111111,3,0.454646695580
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.454079561687
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.453757808859
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.453740075209
+'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.453337542749
 'Amélie de Montchalin',fr,unknown,#111111,#111111,1,0.453253280310
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,2,0.453088869097
 'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.453084452236
-'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.452607209781
 'David Letterman',fr,unknown,#111111,#111111,2,0.452384722178
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
 'Keir Starmer',fr,unknown,#111111,#111111,3,0.451451339291
@@ -99,8 +99,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Hagari',fr,unknown,#111111,#111111,1,0.440725000000
 'Avi Dichter',fr,unknown,#111111,#111111,1,0.440725000000
 'Susan Collins',fr,unknown,#111111,#111111,1,0.440097870187
+'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.439729511581
 'Jacob Frey',fr,unknown,#111111,#111111,2,0.439344955730
-'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.438972326512
 'Chris Murphy',fr,unknown,#111111,#111111,1,0.438683212287
 'Nicolas Maduro',fr,unknown,#111111,#111111,2,0.438480076660
 'Pete Hegseth',fr,USA,#18e8e8,#18e8e8,3,0.438171601803
