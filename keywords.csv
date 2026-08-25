@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Carlos Prates',fr,unknown,#111111,#111111,2,0.505429750088
 'Henry Cejudo',fr,unknown,#111111,#111111,2,0.504582102010
 'Michael Morales',fr,unknown,#111111,#111111,2,0.500379698594
 'Vanessa Mai',fr,unknown,#111111,#111111,2,0.500075441227
@@ -178,6 +177,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Élisabeth Borne',fr,Frankreich,#e8e808,#e8e808,3,0.429780551190
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.429750961349
 'James Gunn',fr,USA,#18e8e8,#18e8e8,2,0.429690480188
+'Carlos Prates',fr,unknown,#111111,#111111,1,0.429615287575
 'Islam Makhachev',fr,unknown,#111111,#111111,1,0.429584561170
 'Jen Psaki',fr,unknown,#111111,#111111,1,0.429555676079
 'Conan O’Brien',fr,unknown,#111111,#111111,2,0.429477305556
