@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Henry Cejudo',fr,unknown,#111111,#111111,2,0.504582102010
 'Michael Morales',fr,unknown,#111111,#111111,2,0.500379698594
 'Vanessa Mai',fr,unknown,#111111,#111111,2,0.500075441227
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.483284725354
@@ -188,6 +187,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Don Bacon',fr,unknown,#111111,#111111,1,0.429206541252
 'Khabib Nurmagomedov',fr,unknown,#111111,#111111,1,0.429061709631
 'Nick Bilton',fr,unknown,#111111,#111111,1,0.429001151593
+'Henry Cejudo',fr,unknown,#111111,#111111,1,0.428894801708
 'Robert Gates',fr,unknown,#111111,#111111,1,0.428818924206
 'Jean Castex',fr,Frankreich,#e8e808,#e8e808,3,0.428792736027
 'Mario Adorf',fr,unknown,#111111,#111111,1,0.428666988500
