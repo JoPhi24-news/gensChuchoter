@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Michael Morales',fr,unknown,#111111,#111111,2,0.500379698594
 'Vanessa Mai',fr,unknown,#111111,#111111,2,0.500075441227
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.483284725354
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.478551167299
@@ -226,6 +225,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul McCartney',fr,unknown,#111111,#111111,1,0.425748749058
 'Trevor Phillips',fr,unknown,#111111,#111111,1,0.425622181304
 'Tig Notaro',fr,USA,#18e8e8,#18e8e8,1,0.425358127032
+'Michael Morales',fr,unknown,#111111,#111111,1,0.425322803805
 'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,1,0.425260034396
 'John Cornyn',fr,unknown,#111111,#111111,1,0.425216267421
 'Chris Nanos',fr,unknown,#111111,#111111,1,0.425128208387
