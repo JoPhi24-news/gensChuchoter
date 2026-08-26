@@ -95,7 +95,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avi Dichter',fr,unknown,#111111,#111111,1,0.440725000000
 'Susan Collins',fr,unknown,#111111,#111111,1,0.440097870187
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.439729511581
-'Jacob Frey',fr,unknown,#111111,#111111,2,0.439344955730
 'Chris Murphy',fr,unknown,#111111,#111111,1,0.438683212287
 'Nicolas Maduro',fr,unknown,#111111,#111111,2,0.438480076660
 'Pete Hegseth',fr,USA,#18e8e8,#18e8e8,3,0.438171601803
@@ -360,6 +359,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Giorgio Goacomelli',fr,unknown,#111111,#111111,1,0.374616250000
 'Chad Frischmann',fr,USA,#18e8e8,#18e8e8,1,0.374616250000
 'Amos Goldberg',fr,unknown,#111111,#111111,1,0.374616250000
+'Jacob Frey',fr,unknown,#111111,#111111,1,0.373443212370
 'Angelina Jolie',fr,unknown,#111111,#111111,2,0.372787282941
 'Chuck Schumer',fr,USA,#18e8e8,#18e8e8,1,0.372598511974
 'Christian Lindner',fr,Deutschland,#1818e8,#1818e8,3,0.372181692859
