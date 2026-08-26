@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Vanessa Mai',fr,unknown,#111111,#111111,2,0.500075441227
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.483284725354
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.478551167299
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.478333695427
@@ -230,6 +229,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Cornyn',fr,unknown,#111111,#111111,1,0.425216267421
 'Chris Nanos',fr,unknown,#111111,#111111,1,0.425128208387
 'Harriet Sperling',fr,unknown,#111111,#111111,1,0.425095233294
+'Vanessa Mai',fr,unknown,#111111,#111111,1,0.425064170043
 'Zack Snyder',fr,USA,#18e8e8,#18e8e8,1,0.425026070982
 'Volker Wieland',fr,Deutschland,#335599,#335599,1,0.425000000000
 'Stefan Kolev',fr,Deutschland,#335599,#335599,1,0.425000000000
