@@ -954,6 +954,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lee Hsien Loong',fr,Singapur,#cc4488,#cc4488,2,0.233609797535
 'Georg Bätzing',fr,Deutschland,#1818e8,#1818e8,1,0.233197906526
 'Charles Michel',fr,EU,#88cc44,#88cc44,2,0.233118159004
+'Paul Kagame',fr,Ruanda,#33ddaa,#33ddaa,2,0.232496899982
 'Joschka Fischer',fr,Deutschland,#1818e8,#1818e8,1,0.232448751378
 'Pietro Lombardi',fr,Deutschland,#1818e8,#1818e8,1,0.232433602606
 'Leonard Bernstein',fr,unknown,#111111,#111111,1,0.231799743526
@@ -1056,7 +1057,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,1,0.186882150755
 'Mathias Döpfner',fr,Deutschland,#1818e8,#1818e8,1,0.186850723341
 'Richard Feynman',fr,USA,#18e8e8,#18e8e8,2,0.185937487052
-'Paul Kagame',fr,Ruanda,#33ddaa,#33ddaa,1,0.184937494097
 'Recep Tayyip Erdoğan',fr,Türkei,#66bb22,#66bb22,1,0.183826173970
 'Jack Teixeira',fr,USA,#18e8e8,#18e8e8,1,0.182231224380
 'Richard David Precht',fr,Deutschland,#1818e8,#1818e8,1,0.181751097335
