@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.539821831671
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.483284725354
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.479229974757
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.478333695427
@@ -32,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Magyar',fr,Ungarn,#33aa99,#33aa99,3,0.459865378833
 'Hunter Schafer',fr,unknown,#111111,#111111,2,0.459847313033
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.459660506411
+'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,2,0.458848631920
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.458533255618
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.457569167724
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.457319657090
