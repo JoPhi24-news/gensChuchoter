@@ -1143,7 +1143,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karl Nehammer',fr,Oesterreich,#5522dd,#5522dd,1,0.126946028108
 'Macky Sall',fr,Senegal,#aa33dd,#aa33dd,1,0.125876759605
 'Yanis Varoufakis',fr,Griechenland,#1858e8,#1858e8,1,0.124671126243
-'Yoon Suk-yeol',fr,SüdKorea,#bbff33,#bbff33,2,0.123658971102
 'John Roberts',fr,USA,#18e8e8,#18e8e8,1,0.122563721239
 'Klaus-Michael Kühne',fr,Deutschland,#1818e8,#1818e8,1,0.120560994674
 'Patriarch Kyrill',fr,Ukraine,#e818e8,#e818e8,1,0.118577069372
@@ -1161,6 +1160,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scott Morrison',fr,Australien,#aa9933,#aa9933,1,0.106671791986
 'Muhammad bin Zayid Al Nahyan',fr,VAE,#ff33bb,#ff33bb,1,0.106585300650
 'Heinrich XIII. Prinz Reuß',fr,Deutschland,#1818e8,#1818e8,1,0.105418163354
+'Yoon Suk-yeol',fr,SüdKorea,#bbff33,#bbff33,2,0.105260140437
 'Kardinal Woelki',fr,Deutschland,#1818e8,#1818e8,1,0.104961114968
 'Maybritt Illner',fr,Deutschland,#1818e8,#1818e8,1,0.102423566216
 'Andrew Forrest',fr,Australien,#aa9933,#aa9933,1,0.102085399731
