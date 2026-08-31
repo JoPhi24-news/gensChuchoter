@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sean Brady',fr,unknown,#111111,#111111,2,0.506748176493
 'Sean Strickland',fr,unknown,#111111,#111111,2,0.505858218793
 'Kerstin Ott',fr,unknown,#111111,#111111,2,0.504149979076
 'Merab Dvalishvili',fr,unknown,#111111,#111111,2,0.503231217801
@@ -164,6 +163,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carlos Ulberg',fr,unknown,#111111,#111111,1,0.431050915938
 'Magomed Ankalaev',fr,unknown,#111111,#111111,1,0.431006620588
 'Bogdan Guskov',fr,unknown,#111111,#111111,1,0.431005981098
+'Sean Brady',fr,unknown,#111111,#111111,2,0.430885965019
 'Omar Yaghi',fr,Jordanien,#335588,#335588,2,0.430819754240
 'Nawaz Sharif',fr,Pakistan,#bb33ff,#bb33ff,2,0.430631873479
 'Bruna Ferreira',fr,unknown,#111111,#111111,2,0.430626612059
