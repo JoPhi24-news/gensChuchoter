@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sean Strickland',fr,unknown,#111111,#111111,2,0.505858218793
 'Kerstin Ott',fr,unknown,#111111,#111111,2,0.504149979076
 'Merab Dvalishvili',fr,unknown,#111111,#111111,2,0.503231217801
 'Joshua Van',fr,unknown,#111111,#111111,2,0.502990044614
@@ -174,6 +173,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Archie Colgan',fr,unknown,#111111,#111111,1,0.430251411218
 'David Lowery',fr,unknown,#111111,#111111,1,0.430194384304
 'Kevin Spacey',fr,unknown,#111111,#111111,1,0.430166733137
+'Sean Strickland',fr,unknown,#111111,#111111,1,0.429979485974
 'Valter Walker',fr,unknown,#111111,#111111,1,0.429902130726
 'Mark Twain',fr,unknown,#111111,#111111,1,0.429881474754
 'Nancy Pelosi',fr,unknown,#111111,#111111,1,0.429824530134
