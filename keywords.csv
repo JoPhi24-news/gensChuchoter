@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Merab Dvalishvili',fr,unknown,#111111,#111111,2,0.503231217801
 'Joshua Van',fr,unknown,#111111,#111111,2,0.502990044614
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.485288819597
 'Ken Paxton',fr,unknown,#111111,#111111,2,0.482817956605
@@ -207,6 +206,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mother Mary',fr,unknown,#111111,#111111,2,0.427964279416
 'Javier Mendez',fr,unknown,#111111,#111111,1,0.427963081202
 'John Lennon',fr,unknown,#111111,#111111,1,0.427836695391
+'Merab Dvalishvili',fr,unknown,#111111,#111111,1,0.427746535131
 'Howard Lutnick',fr,unknown,#111111,#111111,2,0.427738798516
 'Mauricio Ruffy',fr,unknown,#111111,#111111,1,0.427606981959
 'Dan Hooker',fr,unknown,#111111,#111111,1,0.427549166499
