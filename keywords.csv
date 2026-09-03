@@ -1,7 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Tulsi Gabbard',fr,unknown,#111111,#111111,2,0.518616926187
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.485288819597
 'Ken Paxton',fr,unknown,#111111,#111111,2,0.482817956605
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.480583532063
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.481258286941
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.479012936430
 'Ali Khamenei',fr,unknown,#111111,#111111,3,0.474166831448
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,3,0.473848374956
@@ -78,11 +79,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolas Cage',fr,unknown,#111111,#111111,2,0.443563063910
 'Claire Legendre',fr,unknown,#111111,#111111,2,0.443480281736
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.443338769113
+'Kristi Noem',fr,unknown,#111111,#111111,3,0.442835986012
 'Joshua Van',fr,unknown,#111111,#111111,2,0.442828066558
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.442668993451
 'Nicolas Maduro',fr,unknown,#111111,#111111,2,0.442255979431
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.442203175567
-'Kristi Noem',fr,unknown,#111111,#111111,3,0.442084913111
 'Kendrick Lamar',fr,USA,#18e8e8,#18e8e8,1,0.441335607597
 'Chris Soto',fr,unknown,#111111,#111111,2,0.441235111000
 'Michele Singer',fr,unknown,#111111,#111111,1,0.440997621951
@@ -121,7 +122,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'RFK Jr',fr,USA,#18e8e8,#18e8e8,1,0.433842013072
 'Candace Owens',fr,unknown,#111111,#111111,2,0.433624868345
 'Andrew Mountbatten Windsor',fr,unknown,#111111,#111111,1,0.433507788677
-'Tulsi Gabbard',fr,unknown,#111111,#111111,1,0.433490483750
 'Denise Kielholtz',fr,unknown,#111111,#111111,1,0.433434842670
 'Max Holloway',fr,unknown,#111111,#111111,1,0.433397402778
 'Ian Garry',fr,unknown,#111111,#111111,1,0.433316616890
