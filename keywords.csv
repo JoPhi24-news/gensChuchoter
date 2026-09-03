@@ -560,7 +560,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laurent Berger',fr,Frankreich,#e8e808,#e8e808,1,0.328318169231
 'Billie Eilish',fr,USA,#18e8e8,#18e8e8,1,0.328220604963
 'Billy Crystal',fr,USA,#18e8e8,#18e8e8,1,0.327477889114
-'James Cameron',fr,USA,#18e8e8,#18e8e8,2,0.327367776351
 'Rupert Murdoch',fr,USA,#18e8e8,#18e8e8,1,0.326941594224
 'Alexander Smirnov',fr,Israel,#3311cc,#3311cc,1,0.326808323006
 'Charles III',fr,UK,#e838e8,#e838e8,2,0.326770402013
@@ -830,6 +829,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yevgeny Prigozhin',fr,Russland,#e81818,#e81818,1,0.278712704778
 'Pat McAfee',fr,USA,#18e8e8,#18e8e8,1,0.278613938947
 'Lindsey Graham',fr,USA,#18e8e8,#18e8e8,1,0.278468799670
+'James Cameron',fr,USA,#18e8e8,#18e8e8,1,0.278263104898
 'Jackson Hole',fr,unknown,#111111,#111111,1,0.277670329302
 'Jonathan Turley',fr,unknown,#111111,#111111,1,0.277351200977
 'John Fetterman',fr,unknown,#111111,#111111,1,0.277113856329
