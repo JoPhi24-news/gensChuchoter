@@ -8,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Conor McGregor',fr,unknown,#111111,#111111,2,0.472983388799
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.471569744813
 'Daniel Siad',fr,unknown,#111111,#111111,1,0.470604137232
-'prince Andrew',fr,unknown,#111111,#111111,2,0.468463357597
 'Daniel Craig',fr,unknown,#111111,#111111,3,0.468284966577
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.468201526895
 'Tom Homan',fr,unknown,#111111,#111111,3,0.468155178318
@@ -305,6 +304,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Mandelson',fr,unknown,#111111,#111111,1,0.399664793472
 'Raphaël Arnault',fr,unknown,#111111,#111111,2,0.399325694022
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,2,0.398651330776
+'prince Andrew',fr,unknown,#111111,#111111,1,0.398193958957
 "'Dwayne ""The Rock"" Johnson'",fr,USA,#18e8e8,#18e8e8,2,0.397800998044
 'Britney Spears',fr,USA,#18e8e8,#18e8e8,2,0.396989237624
 'Ghislaine Maxwell',fr,unknown,#111111,#111111,2,0.396988304188
