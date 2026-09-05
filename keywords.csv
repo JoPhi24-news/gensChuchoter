@@ -63,7 +63,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.448299397630
 'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.447984885803
 'Pam Bondi',fr,unknown,#111111,#111111,2,0.447299684596
-'Justin Gaethje',fr,unknown,#111111,#111111,2,0.447236755777
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.447046670732
 'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.446206974070
 'Leslie Wexner',fr,unknown,#111111,#111111,2,0.446163335264
@@ -339,6 +338,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergio Mattarella',fr,Italien,#33dd55,#33dd55,1,0.380754705103
 'Karsten Wildberger',fr,Deutschland,#335599,#335599,1,0.380695861072
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,1,0.380574259965
+'Justin Gaethje',fr,unknown,#111111,#111111,1,0.380151242410
 'Paul Biya',fr,Kamerun,#2266cc,#2266cc,3,0.379787743340
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,2,0.379653029503
 'Jake Paul',fr,USA,#18e8e8,#18e8e8,1,0.379627453276
