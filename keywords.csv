@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.488381267939
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.487447289356
 'Ken Paxton',fr,unknown,#111111,#111111,2,0.482817956605
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.481258286941
@@ -24,11 +23,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Cassidy',fr,unknown,#111111,#111111,1,0.463675063918
 'Isaac Herzog',fr,unknown,#111111,#111111,1,0.462753258089
 'Eric Dane',fr,unknown,#111111,#111111,2,0.462671392302
+'François Hollande',fr,unknown,#111111,#111111,2,0.462646619068
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.462469064485
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
 'Steve Bannon',fr,unknown,#111111,#111111,1,0.462132810389
-'François Hollande',fr,unknown,#111111,#111111,2,0.461934757208
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.460684804110
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.461399145305
+'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.460985763657
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.460292027179
 'Peter Magyar',fr,Ungarn,#33aa99,#33aa99,3,0.459865378833
 'Hunter Schafer',fr,unknown,#111111,#111111,2,0.459847313033
@@ -337,9 +337,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergio Mattarella',fr,Italien,#33dd55,#33dd55,1,0.380754705103
 'Karsten Wildberger',fr,Deutschland,#335599,#335599,1,0.380695861072
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,1,0.380574259965
+'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,2,0.380523839862
 'Justin Gaethje',fr,unknown,#111111,#111111,1,0.380151242410
 'Paul Biya',fr,Kamerun,#2266cc,#2266cc,3,0.379787743340
-'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,2,0.379653029503
 'Jake Paul',fr,USA,#18e8e8,#18e8e8,1,0.379627453276
 'Benjamin Nethanaju',fr,Israel,#3311cc,#3311cc,1,0.378183378568
 'Al Nassr',fr,SaudiArabien,#22bb66,#22bb66,2,0.378163616220
