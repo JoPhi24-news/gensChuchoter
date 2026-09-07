@@ -1,4 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Movsar Evloev',fr,unknown,#111111,#111111,2,0.509221159897
+'Rosie O’Donnell',fr,unknown,#111111,#111111,2,0.507876396050
+'Alexander Volkanovski',fr,unknown,#111111,#111111,2,0.507417613737
+'Alexandre Pantoja',fr,unknown,#111111,#111111,2,0.505583444106
+'Umar Nurmagomedov',fr,unknown,#111111,#111111,2,0.505393128729
+'Song Yadong',fr,unknown,#111111,#111111,2,0.505044865405
+'Petr Yan',fr,unknown,#111111,#111111,2,0.502855144912
+'Gregory Rodrigues',fr,unknown,#111111,#111111,2,0.501863165428
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.487447289356
 'Ken Paxton',fr,unknown,#111111,#111111,2,0.482817956605
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.481258286941
@@ -412,7 +420,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Belal Muhammad',fr,unknown,#111111,#111111,1,0.364895523150
 'Whoopi Goldberg',fr,USA,#18e8e8,#18e8e8,1,0.364751724759
 'Sherri Shepherd',fr,USA,#18e8e8,#18e8e8,1,0.364547183443
-'Prince Philip',fr,unknown,#111111,#111111,1,0.364457256492
 'Mira Murati',fr,Albanien,#1167d4,#1167d4,2,0.364157784917
 'Fabien Roussel',fr,unknown,#111111,#111111,3,0.363939663513
 'Benny Blanco',fr,USA,#18e8e8,#18e8e8,1,0.363864557235
@@ -447,6 +454,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dwayne Johnson',fr,USA,#18e8e8,#18e8e8,1,0.360591298174
 'LeBron James',fr,USA,#18e8e8,#18e8e8,2,0.360570501986
 'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,1,0.360436409246
+'Prince Philip',fr,unknown,#111111,#111111,1,0.360238713018
 'Kim Jong-un',fr,NordKorea,#e85858,#e85858,3,0.359888806993
 'Ehud Olmert',fr,Israel,#3311cc,#3311cc,1,0.359169824603
 'Jack Lang',fr,unknown,#111111,#111111,1,0.359067229666
@@ -553,6 +561,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Camille Cottin',fr,Frankreich,#e8e808,#e8e808,1,0.328979487998
 'Putin',fr,Russland,#e81818,#e81818,2,0.328897308196
 'Selenski',fr,Ukraine,#e818e8,#e818e8,3,0.328768896842
+'Charles III',fr,UK,#e838e8,#e838e8,2,0.328699552252
 'Bradley Cooper',fr,USA,#18e8e8,#18e8e8,1,0.328685948329
 'Ines de Ramon',fr,USA,#18e8e8,#18e8e8,1,0.328620707714
 'Charlie Munger',fr,USA,#18e8e8,#18e8e8,1,0.328410374343
@@ -562,7 +571,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Billy Crystal',fr,USA,#18e8e8,#18e8e8,1,0.327477889114
 'Rupert Murdoch',fr,USA,#18e8e8,#18e8e8,1,0.326941594224
 'Alexander Smirnov',fr,Israel,#3311cc,#3311cc,1,0.326808323006
-'Charles III',fr,UK,#e838e8,#e838e8,2,0.326770402013
 'Jerry Seinfeld',fr,USA,#18e8e8,#18e8e8,2,0.326412631438
 'Bill Belichick',fr,USA,#18e8e8,#18e8e8,1,0.326301033855
 'James Comer',fr,USA,#18e8e8,#18e8e8,1,0.326224034800
