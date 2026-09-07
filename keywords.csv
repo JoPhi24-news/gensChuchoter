@@ -71,7 +71,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.444988329742
 'Jack White',fr,unknown,#111111,#111111,2,0.444771242863
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
-'Andrew Mountbatten-Windsor',fr,unknown,#111111,#111111,2,0.443925473211
 'Nicolas Cage',fr,unknown,#111111,#111111,2,0.443563063910
 'Claire Legendre',fr,unknown,#111111,#111111,2,0.443480281736
 'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.443338769113
@@ -345,6 +344,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Al Nassr',fr,SaudiArabien,#22bb66,#22bb66,2,0.378163616220
 'Markwayne Mullin',fr,unknown,#111111,#111111,1,0.378147400978
 'Valérie Hayer',fr,Frankreich,#e8e808,#e8e808,1,0.378096161881
+'Andrew Mountbatten-Windsor',fr,unknown,#111111,#111111,1,0.377336682229
 'Michel H. Devoret',fr,USA,#18e8e8,#18e8e8,1,0.376536656136
 'George Miller',fr,Australien,#aa9933,#aa9933,2,0.376093231959
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,1,0.375755594794
