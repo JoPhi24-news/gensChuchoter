@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Alexandre Pantoja',fr,unknown,#111111,#111111,2,0.505583444106
 'Umar Nurmagomedov',fr,unknown,#111111,#111111,2,0.505393128729
 'Song Yadong',fr,unknown,#111111,#111111,2,0.505044865405
 'Petr Yan',fr,unknown,#111111,#111111,2,0.502855144912
@@ -179,6 +178,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nancy Pelosi',fr,unknown,#111111,#111111,1,0.429824530134
 'Élisabeth Borne',fr,Frankreich,#e8e808,#e8e808,3,0.429780551190
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.429750961349
+'Alexandre Pantoja',fr,unknown,#111111,#111111,1,0.429745927490
 'James Gunn',fr,USA,#18e8e8,#18e8e8,2,0.429690480188
 'Carlos Prates',fr,unknown,#111111,#111111,1,0.429615287575
 'Islam Makhachev',fr,unknown,#111111,#111111,1,0.429584561170
