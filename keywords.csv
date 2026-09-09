@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Umar Nurmagomedov',fr,unknown,#111111,#111111,2,0.505393128729
 'Song Yadong',fr,unknown,#111111,#111111,2,0.505044865405
 'Petr Yan',fr,unknown,#111111,#111111,2,0.502855144912
 'Gregory Rodrigues',fr,unknown,#111111,#111111,2,0.501863165428
@@ -182,6 +181,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Gunn',fr,USA,#18e8e8,#18e8e8,2,0.429690480188
 'Carlos Prates',fr,unknown,#111111,#111111,1,0.429615287575
 'Islam Makhachev',fr,unknown,#111111,#111111,1,0.429584561170
+'Umar Nurmagomedov',fr,unknown,#111111,#111111,1,0.429584159420
 'Jen Psaki',fr,unknown,#111111,#111111,1,0.429555676079
 'Conan O’Brien',fr,unknown,#111111,#111111,2,0.429477305556
 'Kash Patel',fr,unknown,#111111,#111111,1,0.429359591060
