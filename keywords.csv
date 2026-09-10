@@ -158,7 +158,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Magomed Ankalaev',fr,unknown,#111111,#111111,1,0.431006620588
 'Bogdan Guskov',fr,unknown,#111111,#111111,1,0.431005981098
 'Sean Brady',fr,unknown,#111111,#111111,2,0.430885965019
-'Omar Yaghi',fr,Jordanien,#335588,#335588,2,0.430819754240
 'Nawaz Sharif',fr,Pakistan,#bb33ff,#bb33ff,2,0.430631873479
 'Bruna Ferreira',fr,unknown,#111111,#111111,2,0.430626612059
 'Joey Kelly',fr,unknown,#111111,#111111,1,0.430559081395
@@ -406,6 +405,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Ruffalo',fr,unknown,#111111,#111111,2,0.366617102172
 'Sarah Stier',fr,unknown,#111111,#111111,1,0.366300418412
 'Arman Tsarukyan',fr,unknown,#111111,#111111,1,0.366253092823
+'Omar Yaghi',fr,Jordanien,#335588,#335588,1,0.366196806104
 'Nicola Peltz',fr,USA,#18e8e8,#18e8e8,1,0.365934249802
 'Casey Wasserman',fr,unknown,#111111,#111111,1,0.365927085933
 'Robert Kennedy',fr,USA,#18e8e8,#18e8e8,2,0.365800718512
