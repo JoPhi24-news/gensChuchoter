@@ -188,7 +188,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Don Bacon',fr,unknown,#111111,#111111,1,0.429206541252
 'Khabib Nurmagomedov',fr,unknown,#111111,#111111,1,0.429061709631
 'Nick Bilton',fr,unknown,#111111,#111111,1,0.429001151593
-'Henry Cejudo',fr,unknown,#111111,#111111,1,0.428894801708
 'Robert Gates',fr,unknown,#111111,#111111,1,0.428818924206
 'Jean Castex',fr,Frankreich,#e8e808,#e8e808,3,0.428792736027
 'Mario Adorf',fr,unknown,#111111,#111111,1,0.428666988500
@@ -419,6 +418,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helene Fischer',fr,unknown,#111111,#111111,1,0.364932310634
 'Belal Muhammad',fr,unknown,#111111,#111111,1,0.364895523150
 'Whoopi Goldberg',fr,USA,#18e8e8,#18e8e8,1,0.364751724759
+'Henry Cejudo',fr,unknown,#111111,#111111,1,0.364560581452
 'Sherri Shepherd',fr,USA,#18e8e8,#18e8e8,1,0.364547183443
 'Mira Murati',fr,Albanien,#1167d4,#1167d4,2,0.364157784917
 'Fabien Roussel',fr,unknown,#111111,#111111,3,0.363939663513
