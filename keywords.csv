@@ -150,7 +150,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kaitlan Collins',fr,unknown,#111111,#111111,1,0.431370475853
 'Kamaru Usman',fr,unknown,#111111,#111111,1,0.431339545692
 'Deborah Birx',fr,unknown,#111111,#111111,1,0.431338319290
-'Alexander Volkanovski',fr,unknown,#111111,#111111,1,0.431304971676
 'Rosie O’Donnell',fr,unknown,#111111,#111111,2,0.431245751646
 'Lisa Müller',fr,unknown,#111111,#111111,1,0.431109635953
 'Steve Witkoff',fr,unknown,#111111,#111111,3,0.431066125883
@@ -396,6 +395,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Romy Reiner',fr,unknown,#111111,#111111,1,0.367219821459
 'Olivia Nuzzi',fr,USA,#18e8e8,#18e8e8,1,0.367079183712
 'Jon Jones',fr,USA,#18e8e8,#18e8e8,1,0.366930863077
+'Alexander Volkanovski',fr,unknown,#111111,#111111,1,0.366909255925
 'Angus Cloud',fr,unknown,#111111,#111111,1,0.366839341155
 'Brooklyn Beckham',fr,UK,#e838e8,#e838e8,2,0.366810684615
 'Mark Consuelos',fr,unknown,#111111,#111111,1,0.366772519793
