@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Erika Kirk',fr,USA,#18e8e8,#18e8e8,2,0.507781572898
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.482922304589
 'Ken Paxton',fr,unknown,#111111,#111111,2,0.482817956605
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.481931695992
@@ -138,6 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scott Jennings',fr,unknown,#111111,#111111,1,0.432648526862
 'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,2,0.432505259096
 'Ian Machado Garry',fr,unknown,#111111,#111111,1,0.432253222026
+'Erika Kirk',fr,USA,#18e8e8,#18e8e8,2,0.432064396963
 'Andrea Berg',fr,unknown,#111111,#111111,1,0.432026709523
 'Ed Gallrein',fr,unknown,#111111,#111111,1,0.432015442676
 'Michele Singer Reiner',fr,unknown,#111111,#111111,1,0.431988278978
