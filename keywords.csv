@@ -545,7 +545,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elisabeth Borne',fr,Frankreich,#e8e808,#e8e808,1,0.332936855932
 'Indiana Jones',fr,USA,#18e8e8,#18e8e8,2,0.332898042227
 'Matteo Salvini',fr,Italien,#33dd55,#33dd55,2,0.332453296676
-'Gisele Bündchen',fr,Brasilien,#58e838,#58e838,1,0.332433752749
 'Mike Johnson',fr,USA,#18e8e8,#18e8e8,2,0.332234079533
 'Bronny James',fr,USA,#18e8e8,#18e8e8,2,0.331677759062
 'Benny Safdie',fr,USA,#18e8e8,#18e8e8,1,0.331175149671
@@ -825,6 +824,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Timberlake',fr,USA,#18e8e8,#18e8e8,2,0.283192539400
 'Peter Thiel',fr,USA,#18e8e8,#18e8e8,1,0.283107703811
 'Chip Somodevilla',fr,USA,#18e8e8,#18e8e8,2,0.282916789799
+'Gisele Bündchen',fr,Brasilien,#58e838,#58e838,1,0.282568689837
 'Albert Einstein',fr,Deutschland,#1818e8,#1818e8,2,0.282413215257
 'Eva Green',fr,unknown,#111111,#111111,1,0.282265534324
 'Lance Bass',fr,unknown,#111111,#111111,1,0.281267684084
