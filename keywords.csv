@@ -752,7 +752,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jason Kelce',fr,unknown,#111111,#111111,1,0.298647760731
 'Yorgos Lanthimos',fr,Griechenland,#1858e8,#1858e8,1,0.298586360370
 'Winston Churchill',fr,UK,#e838e8,#e838e8,2,0.298487363341
-'Papst Franziskus',fr,Vatikan,#58b8e8,#58b8e8,1,0.298375427752
 'Hamish Harding',fr,UK,#e838e8,#e838e8,2,0.298296727383
 'Demeke Mekonnen',fr,unknown,#111111,#111111,1,0.298170774121
 'David Weiss',fr,Deutschland,#1818e8,#1818e8,1,0.298087831230
@@ -927,6 +926,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Willy Brandt',fr,Deutschland,#1818e8,#1818e8,1,0.254272689006
 'Markus Söder',fr,Deutschland,#1818e8,#1818e8,1,0.253983484564
 'Paul Ronzheimer',fr,Deutschland,#1818e8,#1818e8,2,0.253622557034
+'Papst Franziskus',fr,Vatikan,#58b8e8,#58b8e8,1,0.253619113589
 'Christine Lagarde',fr,EU,#88cc44,#88cc44,3,0.251556642126
 'Finnegan Biden',fr,USA,#18e8e8,#18e8e8,1,0.250985012725
 'Helge Schneider',fr,Deutschland,#1818e8,#1818e8,1,0.250665507544
