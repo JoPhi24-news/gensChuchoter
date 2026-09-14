@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Rosie ODonnell',fr,unknown,#111111,#111111,2,0.508600145413
+'Rosie ODonnell',fr,unknown,#111111,#111111,2,0.507910183601
 'Yadong Song',fr,unknown,#111111,#111111,2,0.505100879979
 'Salahdine Parnasse',fr,unknown,#111111,#111111,2,0.504667267386
 'Natalie Harp',fr,unknown,#111111,#111111,2,0.502740842970
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.482922304589
 'Ken Paxton',fr,unknown,#111111,#111111,2,0.482817956605
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.481931695992
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.482603761737
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.477072993838
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,3,0.473848374956
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.473127117520
@@ -45,9 +45,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'HBO Max',fr,unknown,#111111,#111111,3,0.455531466187
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.455194822417
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.454806983921
+'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,2,0.453818250076
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.453757808859
 'Amélie de Montchalin',fr,unknown,#111111,#111111,1,0.453253280310
-'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,2,0.453088869097
 'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.453084452236
 'David Letterman',fr,unknown,#111111,#111111,2,0.452384722178
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
@@ -378,10 +378,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Taylor Swift',fr,USA,#18e8e8,#18e8e8,2,0.372637210655
 'Chuck Schumer',fr,USA,#18e8e8,#18e8e8,1,0.372598511974
 'Christian Lindner',fr,Deutschland,#1818e8,#1818e8,3,0.372181692859
+'Jimmy Kimmel',fr,USA,#18e8e8,#18e8e8,2,0.372064352397
 'Victoria Beckham',fr,UK,#e838e8,#e838e8,1,0.371832880539
 'Bari Weiss',fr,unknown,#111111,#111111,1,0.371313008370
 'Fred Ramsdel',fr,USA,#18e8e8,#18e8e8,1,0.370467915912
-'Jimmy Kimmel',fr,USA,#18e8e8,#18e8e8,2,0.370289775572
 'William Friedkin',fr,USA,#18e8e8,#18e8e8,2,0.369946252027
 'Usha Vance',fr,unknown,#111111,#111111,1,0.369685775404
 'Kara Hurst',fr,USA,#18e8e8,#18e8e8,1,0.368475000000
