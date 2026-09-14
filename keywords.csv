@@ -1,4 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Rosie ODonnell',fr,unknown,#111111,#111111,2,0.508600145413
+'Yadong Song',fr,unknown,#111111,#111111,2,0.505100879979
+'Salahdine Parnasse',fr,unknown,#111111,#111111,2,0.504667267386
+'Natalie Harp',fr,unknown,#111111,#111111,2,0.502740842970
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.482922304589
 'Ken Paxton',fr,unknown,#111111,#111111,2,0.482817956605
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.481931695992
@@ -1050,7 +1054,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katja Krasavice',fr,Deutschland,#1818e8,#1818e8,1,0.193376967217
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,2,0.193207380128
 'Jeffrey Donaldson',fr,Irland,#4488cc,#4488cc,1,0.192469256620
-'Katarina Barley',fr,EU,#88cc44,#88cc44,1,0.191615304329
 'Christoph Heusgen',fr,Deutschland,#1818e8,#1818e8,3,0.191097369710
 'Pippa Middleton',fr,UK,#e838e8,#e838e8,1,0.190629326201
 'Gisele Bundchen',fr,unknown,#111111,#111111,1,0.190617530688
@@ -1110,6 +1113,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Björn Höcke',fr,Deutschland,#1818e8,#1818e8,1,0.164223895101
 'Francoise Bettencourt-Meyers',fr,Frankreich,#e8e808,#e8e808,1,0.163494315023
 'Saskia Esken',fr,Deutschland,#1818e8,#1818e8,2,0.163399421866
+'Katarina Barley',fr,EU,#88cc44,#88cc44,1,0.162873008680
 'Louis Klamroth',fr,Deutschland,#1818e8,#1818e8,1,0.162500858488
 'Horst Seehofer',fr,Deutschland,#1818e8,#1818e8,1,0.161989991352
 'Rishi Sunak',fr,UK,#e838e8,#e838e8,2,0.160721108046
