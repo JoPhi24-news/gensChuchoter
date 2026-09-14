@@ -816,7 +816,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dorothée Pacaud',fr,Frankreich,#e8e808,#e8e808,1,0.284892524369
 'Bob Menendez',fr,unknown,#111111,#111111,1,0.284848446148
 'Arno Antlitz',fr,Deutschland,#1818e8,#1818e8,1,0.284707156768
-'Jamie Spears',fr,USA,#18e8e8,#18e8e8,1,0.284581247010
 'Vanessa Nakate',fr,unknown,#111111,#111111,1,0.283487885073
 'Georg Gänswein',fr,Deutschland,#1818e8,#1818e8,1,0.283465305781
 'Andrea Arnold',fr,UK,#e838e8,#e838e8,1,0.283422291374
@@ -947,6 +946,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Minka Indigena',fr,unknown,#111111,#111111,1,0.244037921875
 'Gorbatschow',fr,unknown,#111111,#111111,1,0.244037921875
 'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.244037921875
+'Jamie Spears',fr,USA,#18e8e8,#18e8e8,1,0.242044074958
 'Cyril Ramaphosa',fr,Südafrika,#ee4411,#ee4411,3,0.241920832267
 'Buzz Aldrin',fr,USA,#18e8e8,#18e8e8,1,0.241406527147
 'Kevin Kühnert',fr,Deutschland,#1818e8,#1818e8,1,0.241224347799
