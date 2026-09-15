@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Salahdine Parnasse',fr,unknown,#111111,#111111,2,0.504667267386
+'Salahdine Parnasse',fr,unknown,#111111,#111111,2,0.579867267278
 'Natalie Harp',fr,unknown,#111111,#111111,2,0.502740842970
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.482922304589
 'Ken Paxton',fr,unknown,#111111,#111111,2,0.482817956605
@@ -120,6 +120,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'RFK Jr',fr,USA,#18e8e8,#18e8e8,1,0.433842013072
 'Justin Bieber',fr,Kanada,#55ee33,#55ee33,2,0.433796884078
 'Candace Owens',fr,unknown,#111111,#111111,2,0.433624868345
+'Ciryl Gane',fr,unknown,#111111,#111111,1,0.433519950364
 'Andrew Mountbatten Windsor',fr,unknown,#111111,#111111,1,0.433507788677
 'Denise Kielholtz',fr,unknown,#111111,#111111,1,0.433434842670
 'Max Holloway',fr,unknown,#111111,#111111,1,0.433397402778
@@ -133,7 +134,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dakota Ditcheva',fr,unknown,#111111,#111111,1,0.432780972210
 'Susumu Kitagawa',fr,Japan,#33aa99,#33aa99,1,0.432776572270
 'Joy Reid',fr,unknown,#111111,#111111,1,0.432760259415
-'Ciryl Gane',fr,unknown,#111111,#111111,1,0.432750582725
 'Joe Kent',fr,unknown,#111111,#111111,2,0.432726524844
 'Scott Jennings',fr,unknown,#111111,#111111,1,0.432648526862
 'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,2,0.432505259096
@@ -160,6 +160,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Magomed Ankalaev',fr,unknown,#111111,#111111,1,0.431006620588
 'Bogdan Guskov',fr,unknown,#111111,#111111,1,0.431005981098
 'Sean Brady',fr,unknown,#111111,#111111,2,0.430885965019
+'Dan Hooker',fr,unknown,#111111,#111111,1,0.430658120725
 'Nawaz Sharif',fr,Pakistan,#bb33ff,#bb33ff,2,0.430631873479
 'Bruna Ferreira',fr,unknown,#111111,#111111,2,0.430626612059
 'Joey Kelly',fr,unknown,#111111,#111111,1,0.430559081395
@@ -211,7 +212,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Merab Dvalishvili',fr,unknown,#111111,#111111,1,0.427746535131
 'Howard Lutnick',fr,unknown,#111111,#111111,2,0.427738798516
 'Mauricio Ruffy',fr,unknown,#111111,#111111,1,0.427606981959
-'Dan Hooker',fr,unknown,#111111,#111111,1,0.427549166499
 'Spencer Pratt',fr,unknown,#111111,#111111,1,0.427517673921
 'Petr Yan',fr,unknown,#111111,#111111,1,0.427426873175
 'Jay Clayton',fr,unknown,#111111,#111111,1,0.427267028864
