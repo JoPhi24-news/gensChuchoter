@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Rosie ODonnell',fr,unknown,#111111,#111111,2,0.507910183601
 'Yadong Song',fr,unknown,#111111,#111111,2,0.505100879979
 'Salahdine Parnasse',fr,unknown,#111111,#111111,2,0.504667267386
 'Natalie Harp',fr,unknown,#111111,#111111,2,0.502740842970
@@ -147,6 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ben Shapiro',fr,unknown,#111111,#111111,1,0.431974036422
 'Sarah Ferguson',fr,unknown,#111111,#111111,1,0.431947286375
 'Bill Maher',fr,unknown,#111111,#111111,1,0.431788174780
+'Rosie ODonnell',fr,unknown,#111111,#111111,1,0.431723716061
 'Liveblog Irankrieg',fr,unknown,#111111,#111111,1,0.431723564655
 'Harry Met Sally',fr,unknown,#111111,#111111,2,0.431630371018
 'Michaela Coel',fr,unknown,#111111,#111111,1,0.431492582060
