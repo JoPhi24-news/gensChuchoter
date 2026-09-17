@@ -1,16 +1,16 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.487270821423
-'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.482922304589
+'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.486922835644
 'Ken Paxton',fr,unknown,#111111,#111111,2,0.482817956605
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.477072993838
 'Natalie Harp',fr,unknown,#111111,#111111,3,0.476070576227
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,3,0.473848374956
-'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.473127117520
+'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.473816731808
 'Conor McGregor',fr,unknown,#111111,#111111,2,0.472983388799
 'Daniel Siad',fr,unknown,#111111,#111111,1,0.470604137232
+'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.468801942757
 'Daniel Craig',fr,unknown,#111111,#111111,3,0.468284966577
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.468201526895
-'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.468102330748
 'Péter Magyar',fr,unknown,#111111,#111111,3,0.467570946914
 'James Bond',fr,unknown,#111111,#111111,3,0.467422753552
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.467418860063
@@ -18,19 +18,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.466927332512
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.466829910635
 'David Amiel',fr,unknown,#111111,#111111,2,0.466348097843
+'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.465247041930
+'François Hollande',fr,unknown,#111111,#111111,2,0.464773739226
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.463796103941
 'Bill Cassidy',fr,unknown,#111111,#111111,1,0.463675063918
+'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.463411715471
 'Eric Dane',fr,unknown,#111111,#111111,2,0.462671392302
-'François Hollande',fr,unknown,#111111,#111111,2,0.462646619068
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.462469064485
-'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.462411836570
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
 'Steve Bannon',fr,unknown,#111111,#111111,1,0.462132810389
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.461399145305
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.462112069718
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.460292027179
 'Peter Magyar',fr,Ungarn,#33aa99,#33aa99,3,0.459865378833
 'Hunter Schafer',fr,unknown,#111111,#111111,2,0.459847313033
-'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.459845864440
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.459660506411
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,2,0.458848631920
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.458760249125
@@ -253,6 +253,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stephen Miller',fr,unknown,#111111,#111111,2,0.421909577438
 'Ilia Topuria',fr,unknown,#111111,#111111,1,0.421383988718
 'Rob Reiner',fr,unknown,#111111,#111111,2,0.421346775496
+'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.421077018432
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.420294143780
 'Salahdine Parnasse',fr,unknown,#111111,#111111,1,0.419854267108
 'Nancy Guthrie',fr,unknown,#111111,#111111,1,0.418981185937
@@ -307,7 +308,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emily Blunt',fr,UK,#e838e8,#e838e8,3,0.401023811302
 'Peter Mandelson',fr,unknown,#111111,#111111,1,0.399664793472
 'Raphaël Arnault',fr,unknown,#111111,#111111,2,0.399325694022
-'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,2,0.398651330776
 'prince Andrew',fr,unknown,#111111,#111111,1,0.398193958957
 'Tom Homan',fr,unknown,#111111,#111111,1,0.397932021570
 "'Dwayne ""The Rock"" Johnson'",fr,USA,#18e8e8,#18e8e8,2,0.397800998044
@@ -352,9 +352,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Al Nassr',fr,SaudiArabien,#22bb66,#22bb66,2,0.378163616220
 'Markwayne Mullin',fr,unknown,#111111,#111111,1,0.378147400978
 'Valérie Hayer',fr,Frankreich,#e8e808,#e8e808,1,0.378096161881
+'Benyamin Netanyahou',fr,Israel,#3311cc,#3311cc,2,0.377373786787
 'Andrew Mountbatten-Windsor',fr,unknown,#111111,#111111,1,0.377336682229
 'Michel H. Devoret',fr,USA,#18e8e8,#18e8e8,1,0.376536656136
-'Benyamin Netanyahou',fr,Israel,#3311cc,#3311cc,2,0.376497124239
 'George Miller',fr,Australien,#aa9933,#aa9933,2,0.376093231959
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,1,0.375755594794
 'Nancy Mace',fr,unknown,#111111,#111111,2,0.374976925038
