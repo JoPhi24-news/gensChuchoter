@@ -944,7 +944,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',fr,USA,#18e8e8,#18e8e8,3,0.246311349945
 'Wolodimir Selenski',fr,Ukraine,#e818e8,#e818e8,1,0.245568263927
 'König Charles III',fr,UK,#e838e8,#e838e8,1,0.245515969352
-'Afida Turner',fr,Frankreich,#e8e808,#e8e808,1,0.244984126026
 'Robert Nozick',fr,USA,#18e8e8,#18e8e8,1,0.244728661107
 'Prinz Louis',fr,UK,#e838e8,#e838e8,1,0.244329453500
 'Minka Indigena',fr,unknown,#111111,#111111,1,0.244037921875
@@ -1021,6 +1020,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tamim bin Hamad Al-Thani',fr,Katar,#33ffbb,#33ffbb,2,0.212115772066
 'Giorgia Meloni',fr,Italien,#33dd55,#33dd55,3,0.211537594210
 'Boris Pistorius',fr,Deutschland,#1818e8,#1818e8,1,0.209427397608
+'Afida Turner',fr,Frankreich,#e8e808,#e8e808,1,0.208386522122
 'King Charles III',fr,UK,#e838e8,#e838e8,1,0.208135379872
 'Andreas Jung',fr,Deutschland,#1818e8,#1818e8,1,0.207562761476
 'Mohammed bin Salman',fr,SaudiArabien,#22bb66,#22bb66,2,0.204975838011
