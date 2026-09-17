@@ -20,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Amiel',fr,unknown,#111111,#111111,2,0.466348097843
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.463796103941
 'Bill Cassidy',fr,unknown,#111111,#111111,1,0.463675063918
-'Isaac Herzog',fr,unknown,#111111,#111111,1,0.462753258089
 'Eric Dane',fr,unknown,#111111,#111111,2,0.462671392302
 'François Hollande',fr,unknown,#111111,#111111,2,0.462646619068
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.462469064485
@@ -110,11 +109,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yves Bournazel',fr,Frankreich,#e8e808,#e8e808,2,0.435283640656
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.434944146359
 'laffaire Epstein',fr,unknown,#111111,#111111,2,0.434818442968
+'Bezalel Smotrich',fr,Israel,#3311cc,#3311cc,3,0.434742332369
 'Jacob Elordi',fr,unknown,#111111,#111111,1,0.434619125510
 'Sydney Sweeney',fr,unknown,#111111,#111111,2,0.434588800511
 'Gerald Darmanin',fr,Frankreich,#e8e808,#e8e808,2,0.434467599199
 'Thomas Massie',fr,unknown,#111111,#111111,2,0.434336936412
-'Bezalel Smotrich',fr,Israel,#3311cc,#3311cc,3,0.433975359068
 'Kendall Jenner',fr,unknown,#111111,#111111,1,0.433860536929
 'RFK Jr',fr,USA,#18e8e8,#18e8e8,1,0.433842013072
 'Justin Bieber',fr,Kanada,#55ee33,#55ee33,2,0.433796884078
@@ -148,6 +147,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Liveblog Irankrieg',fr,unknown,#111111,#111111,1,0.431723564655
 'Harry Met Sally',fr,unknown,#111111,#111111,2,0.431630371018
 'Michaela Coel',fr,unknown,#111111,#111111,1,0.431492582060
+'Isaac Herzog',fr,unknown,#111111,#111111,1,0.431440329376
 'Alex Pretti',fr,unknown,#111111,#111111,2,0.431433799562
 'Kaitlan Collins',fr,unknown,#111111,#111111,1,0.431370475853
 'Kamaru Usman',fr,unknown,#111111,#111111,1,0.431339545692
@@ -354,9 +354,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Valérie Hayer',fr,Frankreich,#e8e808,#e8e808,1,0.378096161881
 'Andrew Mountbatten-Windsor',fr,unknown,#111111,#111111,1,0.377336682229
 'Michel H. Devoret',fr,USA,#18e8e8,#18e8e8,1,0.376536656136
+'Benyamin Netanyahou',fr,Israel,#3311cc,#3311cc,2,0.376497124239
 'George Miller',fr,Australien,#aa9933,#aa9933,2,0.376093231959
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,1,0.375755594794
-'Benyamin Netanyahou',fr,Israel,#3311cc,#3311cc,2,0.375618837190
 'Nancy Mace',fr,unknown,#111111,#111111,2,0.374976925038
 'Penny Green',fr,unknown,#111111,#111111,1,0.374871286337
 'Martin Shaw',fr,unknown,#111111,#111111,2,0.374852163588
