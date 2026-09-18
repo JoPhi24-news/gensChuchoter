@@ -761,7 +761,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Weiss',fr,Deutschland,#1818e8,#1818e8,1,0.298087831230
 'Kevin Hart',fr,unknown,#111111,#111111,1,0.298033426972
 'Patrick Pouyanné',fr,Frankreich,#e8e808,#e8e808,2,0.297687136806
-'Wolfgang Benz',fr,Deutschland,#1818e8,#1818e8,2,0.297493559709
 'Carter Reum',fr,unknown,#111111,#111111,1,0.297417373794
 'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.297150284362
 'Sultan al-Jaber',fr,VAE,#ff33bb,#ff33bb,2,0.296990320647
@@ -929,6 +928,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Söder',fr,Deutschland,#1818e8,#1818e8,1,0.253983484564
 'Paul Ronzheimer',fr,Deutschland,#1818e8,#1818e8,2,0.253622557034
 'Papst Franziskus',fr,Vatikan,#58b8e8,#58b8e8,1,0.253619113589
+'Wolfgang Benz',fr,Deutschland,#1818e8,#1818e8,1,0.252869540753
 'Christine Lagarde',fr,EU,#88cc44,#88cc44,3,0.251556642126
 'Finnegan Biden',fr,USA,#18e8e8,#18e8e8,1,0.250985012725
 'Helge Schneider',fr,Deutschland,#1818e8,#1818e8,1,0.250665507544
