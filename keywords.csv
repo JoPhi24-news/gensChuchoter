@@ -822,7 +822,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Arno Antlitz',fr,Deutschland,#1818e8,#1818e8,1,0.284707156768
 'Vanessa Nakate',fr,unknown,#111111,#111111,1,0.283487885073
 'Georg Gänswein',fr,Deutschland,#1818e8,#1818e8,1,0.283465305781
-'Andrea Arnold',fr,UK,#e838e8,#e838e8,1,0.283422291374
 'Justin Timberlake',fr,USA,#18e8e8,#18e8e8,2,0.283192539400
 'Peter Thiel',fr,USA,#18e8e8,#18e8e8,1,0.283107703811
 'Chip Somodevilla',fr,USA,#18e8e8,#18e8e8,2,0.282916789799
@@ -953,6 +952,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cyril Ramaphosa',fr,Südafrika,#ee4411,#ee4411,3,0.241920832267
 'Buzz Aldrin',fr,USA,#18e8e8,#18e8e8,1,0.241406527147
 'Kevin Kühnert',fr,Deutschland,#1818e8,#1818e8,1,0.241224347799
+'Andrea Arnold',fr,UK,#e838e8,#e838e8,1,0.240908947668
 'Melinda Gates',fr,USA,#18e8e8,#18e8e8,2,0.240545882123
 'Robert Sesselmann',fr,Deutschland,#1818e8,#1818e8,1,0.239727751318
 'Martin Scorsese',fr,USA,#18e8e8,#18e8e8,1,0.239407312147
