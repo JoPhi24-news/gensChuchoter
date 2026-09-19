@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.505144219775
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.486922835644
 'Ken Paxton',fr,unknown,#111111,#111111,2,0.482817956605
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.477072993838
@@ -18,13 +17,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.467395268956
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.466829910635
 'David Amiel',fr,unknown,#111111,#111111,2,0.466348097843
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.465655525177
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.465247041930
 'François Hollande',fr,unknown,#111111,#111111,2,0.464773739226
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.464242366563
+'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.463889257150
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.463796103941
 'Bill Cassidy',fr,unknown,#111111,#111111,1,0.463675063918
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.463411715471
-'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.463179866168
 'Eric Dane',fr,unknown,#111111,#111111,2,0.462671392302
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
 'Steve Bannon',fr,unknown,#111111,#111111,1,0.462132810389
@@ -36,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.458760249125
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.457569167724
 'François Mitterrand',fr,unknown,#111111,#111111,3,0.457543285707
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.457074789536
 'Caroline Lang',fr,unknown,#111111,#111111,3,0.456832214965
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.456574447903
 'HBO Max',fr,unknown,#111111,#111111,3,0.455531466187
@@ -60,17 +60,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Premier ministre',fr,Frankreich,#e8e808,#e8e808,3,0.448988060686
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.448299397630
 'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.447984885803
+'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.447691433656
 'Pam Bondi',fr,unknown,#111111,#111111,2,0.447299684596
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.447046670732
-'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.446949935808
 'JD Vance',fr,USA,#18e8e8,#18e8e8,2,0.446486548744
 'Leslie Wexner',fr,unknown,#111111,#111111,2,0.446163335264
 'Javier Bardem',fr,unknown,#111111,#111111,3,0.446007113703
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.445733691373
 'Tim Walz',fr,unknown,#111111,#111111,2,0.445541948690
+'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.444834511580
 'Jack White',fr,unknown,#111111,#111111,2,0.444771242863
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
-'Nicolás Maduro',fr,unknown,#111111,#111111,3,0.444087376709
 'Nicolas Cage',fr,unknown,#111111,#111111,2,0.443563063910
 'Claire Legendre',fr,unknown,#111111,#111111,2,0.443480281736
 'Kristi Noem',fr,unknown,#111111,#111111,3,0.442835986012
