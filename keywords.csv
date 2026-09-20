@@ -1,23 +1,23 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.509152807435
+'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.505918064502
 'Ken Paxton',fr,unknown,#111111,#111111,2,0.482817956605
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.479791866537
 'Natalie Harp',fr,unknown,#111111,#111111,3,0.476754327697
-'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.475877345475
+'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.476561481953
+'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.474994445995
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,3,0.473848374956
 'Conor McGregor',fr,unknown,#111111,#111111,2,0.472983388799
-'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.471544385210
 'Daniel Siad',fr,unknown,#111111,#111111,1,0.470604137232
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.469861428096
-'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.468801942757
+'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.469500163643
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.468329832687
 'Daniel Craig',fr,unknown,#111111,#111111,3,0.468284966577
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.468201526895
+'François Hollande',fr,unknown,#111111,#111111,2,0.467590238001
 'Péter Magyar',fr,unknown,#111111,#111111,3,0.467570946914
 'James Bond',fr,unknown,#111111,#111111,3,0.467422753552
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.467418860063
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.467395268956
-'François Hollande',fr,unknown,#111111,#111111,2,0.466888212538
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.466829910635
 'David Amiel',fr,unknown,#111111,#111111,2,0.466348097843
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.464828169530
@@ -272,9 +272,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Windsor',fr,unknown,#111111,#111111,1,0.414682942039
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,1,0.413813638026
 'Chris Wright',fr,USA,#18e8e8,#18e8e8,2,0.413317892528
+'Bruno Le Maire',fr,Frankreich,#e8e808,#e8e808,3,0.413163635069
 'Jack Antonoff',fr,unknown,#111111,#111111,2,0.412653366702
 'Kamala Harris',fr,USA,#18e8e8,#18e8e8,3,0.412556976738
-'Bruno Le Maire',fr,Frankreich,#e8e808,#e8e808,3,0.412354710177
 'Larry Summers',fr,unknown,#111111,#111111,2,0.411386406587
 'Poutine',fr,Russland,#e81818,#e81818,3,0.410993992291
 'Brigitte Bardot',fr,unknown,#111111,#111111,2,0.410919339941
