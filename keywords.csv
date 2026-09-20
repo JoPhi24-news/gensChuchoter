@@ -1,19 +1,18 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.505918064502
 'Ken Paxton',fr,unknown,#111111,#111111,2,0.482817956605
-'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.479791866537
+'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.480468200207
+'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.477244255227
 'Natalie Harp',fr,unknown,#111111,#111111,3,0.476754327697
-'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.476561481953
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.474994445995
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,3,0.473848374956
 'Conor McGregor',fr,unknown,#111111,#111111,2,0.472983388799
 'Daniel Siad',fr,unknown,#111111,#111111,1,0.470604137232
+'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.470196995876
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.469861428096
-'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.469500163643
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.468329832687
+'François Hollande',fr,unknown,#111111,#111111,2,0.468290868074
 'Daniel Craig',fr,unknown,#111111,#111111,3,0.468284966577
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.468201526895
-'François Hollande',fr,unknown,#111111,#111111,2,0.467590238001
 'Péter Magyar',fr,unknown,#111111,#111111,3,0.467570946914
 'James Bond',fr,unknown,#111111,#111111,3,0.467422753552
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.467418860063
@@ -41,10 +40,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'HBO Max',fr,unknown,#111111,#111111,3,0.455531466187
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.455194822417
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.454806983921
+'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.454075999878
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,2,0.453818250076
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.453757808859
-'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.453347129432
 'Amélie de Montchalin',fr,unknown,#111111,#111111,1,0.453253280310
+'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.453168398009
 'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.453084452236
 'Marine Tondelier',fr,unknown,#111111,#111111,3,0.453069849617
 'David Letterman',fr,unknown,#111111,#111111,2,0.452384722178
