@@ -1,4 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Ségolène Royal',fr,unknown,#111111,#111111,2,0.609542486672
+'Jérôme Guedj',fr,unknown,#111111,#111111,2,0.605139184784
+'Philippe Brun',fr,unknown,#111111,#111111,2,0.604155413148
+'Léa Salamé',fr,unknown,#111111,#111111,2,0.600391044268
+'Jon Anik',fr,unknown,#111111,#111111,2,0.509898426728
+'Jon Ossoff',fr,unknown,#111111,#111111,2,0.509386836590
+'Jimmy Fallon',fr,unknown,#111111,#111111,2,0.509353184305
+'Manuela Schwesig',fr,unknown,#111111,#111111,2,0.507247863761
+'Sven Schulze',fr,unknown,#111111,#111111,2,0.504756718562
+'Mateusz Gamrot',fr,unknown,#111111,#111111,2,0.500929133666
 'Ken Paxton',fr,unknown,#111111,#111111,2,0.482817956605
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.480468200207
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.477244255227
@@ -22,7 +32,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.464828169530
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.463889257150
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.463796103941
-'Bill Cassidy',fr,unknown,#111111,#111111,1,0.463675063918
 'Eric Dane',fr,unknown,#111111,#111111,2,0.462671392302
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
 'Steve Bannon',fr,unknown,#111111,#111111,1,0.462132810389
@@ -316,6 +325,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.396130564325
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,1,0.396041068544
 'Sanae Takaichi',fr,Japan,#33aa99,#33aa99,2,0.395666470718
+'Bill Cassidy',fr,unknown,#111111,#111111,1,0.394123804330
 'Lecornu II ',fr,Frankreich,#e8e808,#e8e808,2,0.393526249874
 'Sebastien Lecornu',fr,Frankreich,#e8e808,#e8e808,1,0.393437412777
 'Joe Rogan',fr,unknown,#111111,#111111,1,0.393185140943
