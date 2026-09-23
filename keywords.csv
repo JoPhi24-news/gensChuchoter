@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ségolène Royal',fr,unknown,#111111,#111111,3,0.575413101266
 'Philippe Brun',fr,unknown,#111111,#111111,3,0.565275874351
 'Jérôme Guedj',fr,unknown,#111111,#111111,2,0.556049335411
+'Ségolène Royal',fr,unknown,#111111,#111111,3,0.548598945622
 'Léa Salamé',fr,unknown,#111111,#111111,2,0.513906014057
 'Jon Anik',fr,unknown,#111111,#111111,2,0.509898426728
 'Jon Ossoff',fr,unknown,#111111,#111111,2,0.509386836590
@@ -12,12 +12,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ken Paxton',fr,unknown,#111111,#111111,2,0.482817956605
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.481816823741
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.477925667800
-'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.477048035456
+'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.477729839097
 'Natalie Harp',fr,unknown,#111111,#111111,3,0.476754327697
+'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.475800410656
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,3,0.473848374956
 'Conor McGregor',fr,unknown,#111111,#111111,2,0.472983388799
-'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.471665898976
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.471252270440
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.471945616748
 'Daniel Siad',fr,unknown,#111111,#111111,1,0.470604137232
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.470196995876
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.468329832687
@@ -48,9 +48,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caroline Lang',fr,unknown,#111111,#111111,3,0.456832214965
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.456574447903
 'HBO Max',fr,unknown,#111111,#111111,3,0.455531466187
+'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.455529419642
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.455194822417
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.454806983921
-'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.454803429156
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,2,0.453818250076
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.453757808859
 'Amélie de Montchalin',fr,unknown,#111111,#111111,1,0.453253280310
@@ -396,6 +396,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Usha Vance',fr,unknown,#111111,#111111,1,0.369685775404
 'Kara Hurst',fr,USA,#18e8e8,#18e8e8,1,0.368475000000
 'Gervonta Davis',fr,USA,#18e8e8,#18e8e8,1,0.368458726253
+'Fabien Roussel',fr,unknown,#111111,#111111,3,0.368421840997
 'Robert de Niro',fr,USA,#18e8e8,#18e8e8,1,0.368358038929
 'Peter Howitt',fr,USA,#18e8e8,#18e8e8,1,0.368310895824
 'Shimon Sakaguchi',fr,Japan,#33aa99,#33aa99,1,0.368221925409
@@ -405,7 +406,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Callum Turner',fr,UK,#e838e8,#e838e8,1,0.368099144960
 'Brendan Carr',fr,unknown,#111111,#111111,1,0.367943264311
 'Jennifer Garner',fr,USA,#18e8e8,#18e8e8,2,0.367533489993
-'Fabien Roussel',fr,unknown,#111111,#111111,3,0.367528678069
 'Ali Larijani',fr,unknown,#111111,#111111,2,0.367226332067
 'Romy Reiner',fr,unknown,#111111,#111111,1,0.367219821459
 'Olivia Nuzzi',fr,USA,#18e8e8,#18e8e8,1,0.367079183712
