@@ -1,18 +1,18 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jérôme Guedj',fr,unknown,#111111,#111111,2,0.556049335411
-'Ségolène Royal',fr,unknown,#111111,#111111,3,0.548598945622
+'Ségolène Royal',fr,unknown,#111111,#111111,3,0.549138211565
 'Léa Salamé',fr,unknown,#111111,#111111,2,0.513906014057
 'Jon Anik',fr,unknown,#111111,#111111,2,0.509898426728
 'Jon Ossoff',fr,unknown,#111111,#111111,2,0.509386836590
 'Jimmy Fallon',fr,unknown,#111111,#111111,2,0.509353184305
 'Manuela Schwesig',fr,unknown,#111111,#111111,2,0.507247863761
 'Sven Schulze',fr,unknown,#111111,#111111,2,0.504756718562
+'Philippe Brun',fr,unknown,#111111,#111111,3,0.500982941827
 'Mateusz Gamrot',fr,unknown,#111111,#111111,2,0.500929133666
-'Philippe Brun',fr,unknown,#111111,#111111,3,0.499073256835
+'Jérôme Guedj',fr,unknown,#111111,#111111,2,0.495775838281
 'Ken Paxton',fr,unknown,#111111,#111111,2,0.482817956605
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.481816823741
+'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.478410283824
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.477925667800
-'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.477729839097
 'Natalie Harp',fr,unknown,#111111,#111111,3,0.476754327697
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.475800410656
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,3,0.473848374956
@@ -259,9 +259,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'María Corina Machado',fr,unknown,#111111,#111111,1,0.422322384951
 'Alexander Dobrindt',fr,Deutschland,#335599,#335599,1,0.422011114581
 'Stephen Miller',fr,unknown,#111111,#111111,2,0.421909577438
+'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.421869103566
 'Ilia Topuria',fr,unknown,#111111,#111111,1,0.421383988718
 'Rob Reiner',fr,unknown,#111111,#111111,2,0.421346775496
-'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.421077018432
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.420294143780
 'Salahdine Parnasse',fr,unknown,#111111,#111111,1,0.419854267108
 'Nancy Guthrie',fr,unknown,#111111,#111111,1,0.418981185937
