@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Philippe Brun',fr,unknown,#111111,#111111,3,0.565275874351
 'Jérôme Guedj',fr,unknown,#111111,#111111,2,0.556049335411
 'Ségolène Royal',fr,unknown,#111111,#111111,3,0.548598945622
 'Léa Salamé',fr,unknown,#111111,#111111,2,0.513906014057
@@ -9,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Manuela Schwesig',fr,unknown,#111111,#111111,2,0.507247863761
 'Sven Schulze',fr,unknown,#111111,#111111,2,0.504756718562
 'Mateusz Gamrot',fr,unknown,#111111,#111111,2,0.500929133666
+'Philippe Brun',fr,unknown,#111111,#111111,3,0.499073256835
 'Ken Paxton',fr,unknown,#111111,#111111,2,0.482817956605
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.481816823741
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.477925667800
