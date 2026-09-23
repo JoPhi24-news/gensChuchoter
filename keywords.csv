@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Léa Salamé',fr,unknown,#111111,#111111,2,0.580833182628
 'Ségolène Royal',fr,unknown,#111111,#111111,3,0.575413101266
 'Philippe Brun',fr,unknown,#111111,#111111,3,0.565275874351
 'Jérôme Guedj',fr,unknown,#111111,#111111,2,0.556049335411
+'Léa Salamé',fr,unknown,#111111,#111111,2,0.513906014057
 'Jon Anik',fr,unknown,#111111,#111111,2,0.509898426728
 'Jon Ossoff',fr,unknown,#111111,#111111,2,0.509386836590
 'Jimmy Fallon',fr,unknown,#111111,#111111,2,0.509353184305
@@ -17,8 +17,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,3,0.473848374956
 'Conor McGregor',fr,unknown,#111111,#111111,2,0.472983388799
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.471665898976
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.471252270440
 'Daniel Siad',fr,unknown,#111111,#111111,1,0.470604137232
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.470557541716
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.470196995876
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.468329832687
 'François Hollande',fr,unknown,#111111,#111111,2,0.468290868074
