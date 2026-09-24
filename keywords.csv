@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Léa Salamé',fr,unknown,#111111,#111111,3,0.528134483312
 'Jon Anik',fr,unknown,#111111,#111111,2,0.509898426728
 'Jon Ossoff',fr,unknown,#111111,#111111,2,0.509386836590
 'Jimmy Fallon',fr,unknown,#111111,#111111,2,0.509353184305
@@ -67,6 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Premier ministre',fr,Frankreich,#e8e808,#e8e808,3,0.449725539827
 'Delcy Rodríguez',fr,unknown,#111111,#111111,2,0.449494095292
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.449197570525
+'Léa Salamé',fr,unknown,#111111,#111111,2,0.448915045815
 'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.448431469931
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.448299397630
 'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.447984885803
