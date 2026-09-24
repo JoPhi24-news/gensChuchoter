@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ségolène Royal',fr,unknown,#111111,#111111,3,0.549138211565
 'Léa Salamé',fr,unknown,#111111,#111111,2,0.513906014057
 'Jon Anik',fr,unknown,#111111,#111111,2,0.509898426728
 'Jon Ossoff',fr,unknown,#111111,#111111,2,0.509386836590
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jérôme Guedj',fr,unknown,#111111,#111111,2,0.495775838281
 'Ken Paxton',fr,unknown,#111111,#111111,2,0.482817956605
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.481816823741
+'Ségolène Royal',fr,unknown,#111111,#111111,3,0.480810833921
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.478410283824
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.477925667800
 'Natalie Harp',fr,unknown,#111111,#111111,3,0.476754327697
