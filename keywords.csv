@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jon Anik',fr,unknown,#111111,#111111,2,0.509898426728
 'Jon Ossoff',fr,unknown,#111111,#111111,2,0.509386836590
 'Jimmy Fallon',fr,unknown,#111111,#111111,2,0.509353184305
 'Manuela Schwesig',fr,unknown,#111111,#111111,2,0.507247863761
@@ -130,6 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ciryl Gane',fr,unknown,#111111,#111111,1,0.433519950364
 'Andrew Mountbatten Windsor',fr,unknown,#111111,#111111,1,0.433507788677
 'Denise Kielholtz',fr,unknown,#111111,#111111,1,0.433434842670
+'Jon Anik',fr,unknown,#111111,#111111,1,0.433413662719
 'Max Holloway',fr,unknown,#111111,#111111,1,0.433397402778
 'Ian Garry',fr,unknown,#111111,#111111,1,0.433316616890
 'Maite Kelly',fr,unknown,#111111,#111111,1,0.433277033953
