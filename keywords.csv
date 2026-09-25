@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jimmy Fallon',fr,unknown,#111111,#111111,2,0.509353184305
+'Jimmy Fallon',fr,unknown,#111111,#111111,2,0.519714597374
 'Manuela Schwesig',fr,unknown,#111111,#111111,2,0.507247863761
 'Sven Schulze',fr,unknown,#111111,#111111,2,0.504756718562
 'Philippe Brun',fr,unknown,#111111,#111111,3,0.500982941827
@@ -17,9 +17,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.471945616748
 'Daniel Siad',fr,unknown,#111111,#111111,1,0.470604137232
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.470196995876
+'Daniel Craig',fr,unknown,#111111,#111111,3,0.468984215458
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.468329832687
 'François Hollande',fr,unknown,#111111,#111111,2,0.468290868074
-'Daniel Craig',fr,unknown,#111111,#111111,3,0.468284966577
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.468201526895
 'Péter Magyar',fr,unknown,#111111,#111111,3,0.467570946914
 'James Bond',fr,unknown,#111111,#111111,3,0.467422753552
@@ -382,10 +382,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Hagari',fr,unknown,#111111,#111111,1,0.374616250000
 'Chad Frischmann',fr,USA,#18e8e8,#18e8e8,1,0.374616250000
 'Amos Goldberg',fr,unknown,#111111,#111111,1,0.374616250000
+'Taylor Swift',fr,USA,#18e8e8,#18e8e8,2,0.373520998831
 'Jacob Frey',fr,unknown,#111111,#111111,1,0.373443212370
 'Charlie Kirk',fr,USA,#18e8e8,#18e8e8,2,0.373416650491
 'Angelina Jolie',fr,unknown,#111111,#111111,2,0.372787282941
-'Taylor Swift',fr,USA,#18e8e8,#18e8e8,2,0.372637210655
 'Chuck Schumer',fr,USA,#18e8e8,#18e8e8,1,0.372598511974
 'Christian Lindner',fr,Deutschland,#1818e8,#1818e8,3,0.372181692859
 'Jimmy Kimmel',fr,USA,#18e8e8,#18e8e8,2,0.372064352397
@@ -483,9 +483,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dana White',fr,USA,#18e8e8,#18e8e8,1,0.356671929500
 'Stefanie Hubig',fr,Deutschland,#335599,#335599,1,0.356643147602
 'Leo XIV',fr,Vatikan,#dd5544,#dd5544,1,0.355379973169
+'Chris Hemsworth',fr,Australien,#aa9933,#aa9933,1,0.354956943545
 'Marjorie Taylor Greene',fr,USA,#18e8e8,#18e8e8,1,0.354761815598
 'Savannah Guthrie',fr,unknown,#111111,#111111,1,0.354537585058
-'Chris Hemsworth',fr,Australien,#aa9933,#aa9933,1,0.354039349134
 'Cruz Beckham',fr,Spanien,#33aa99,#33aa99,1,0.354013561220
 'prince Harry',fr,UK,#e838e8,#e838e8,2,0.353717046821
 'Ayatollah Khomeini',fr,Iran,#1144ee,#1144ee,1,0.353419246902
