@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jon Ossoff',fr,unknown,#111111,#111111,2,0.509386836590
 'Jimmy Fallon',fr,unknown,#111111,#111111,2,0.509353184305
 'Manuela Schwesig',fr,unknown,#111111,#111111,2,0.507247863761
 'Sven Schulze',fr,unknown,#111111,#111111,2,0.504756718562
@@ -134,6 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ian Garry',fr,unknown,#111111,#111111,1,0.433316616890
 'Maite Kelly',fr,unknown,#111111,#111111,1,0.433277033953
 'Sarah Kellen',fr,unknown,#111111,#111111,1,0.432983869449
+'Jon Ossoff',fr,unknown,#111111,#111111,1,0.432978946101
 'Elisha Ellison',fr,unknown,#111111,#111111,1,0.432935168746
 'James Talarico',fr,unknown,#111111,#111111,1,0.432855080311
 'Movsar Evloev',fr,unknown,#111111,#111111,1,0.432837985912
