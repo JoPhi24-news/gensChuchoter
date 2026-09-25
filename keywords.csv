@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Manuela Schwesig',fr,unknown,#111111,#111111,2,0.507247863761
 'Sven Schulze',fr,unknown,#111111,#111111,2,0.504756718562
 'Philippe Brun',fr,unknown,#111111,#111111,3,0.500982941827
 'Mateusz Gamrot',fr,unknown,#111111,#111111,2,0.500929133666
@@ -161,6 +160,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kamaru Usman',fr,unknown,#111111,#111111,1,0.431339545692
 'Deborah Birx',fr,unknown,#111111,#111111,1,0.431338319290
 'Rosie O’Donnell',fr,unknown,#111111,#111111,2,0.431245751646
+'Manuela Schwesig',fr,unknown,#111111,#111111,1,0.431160879197
 'Lisa Müller',fr,unknown,#111111,#111111,1,0.431109635953
 'Steve Witkoff',fr,unknown,#111111,#111111,3,0.431066125883
 'Carlos Ulberg',fr,unknown,#111111,#111111,1,0.431050915938
