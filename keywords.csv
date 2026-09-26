@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Mateusz Gamrot',fr,unknown,#111111,#111111,2,0.500929133666
 'Jérôme Guedj',fr,unknown,#111111,#111111,2,0.495775838281
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.484590543553
 'Ken Paxton',fr,unknown,#111111,#111111,2,0.482817956605
@@ -234,6 +233,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Corey Lewandowski',fr,unknown,#111111,#111111,1,0.426017881406
 'Brad Pitt',fr,USA,#18e8e8,#18e8e8,3,0.425982178036
 'Chris Cuomo',fr,unknown,#111111,#111111,1,0.425955272520
+'Mateusz Gamrot',fr,unknown,#111111,#111111,1,0.425789763616
 'Paul McCartney',fr,unknown,#111111,#111111,1,0.425748749058
 'Trevor Phillips',fr,unknown,#111111,#111111,1,0.425622181304
 'Tig Notaro',fr,USA,#18e8e8,#18e8e8,1,0.425358127032
