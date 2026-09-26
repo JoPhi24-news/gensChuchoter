@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sven Schulze',fr,unknown,#111111,#111111,2,0.504756718562
 'Philippe Brun',fr,unknown,#111111,#111111,3,0.500982941827
 'Mateusz Gamrot',fr,unknown,#111111,#111111,2,0.500929133666
 'Jérôme Guedj',fr,unknown,#111111,#111111,2,0.495775838281
@@ -28,6 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.464828169530
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.463889257150
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.463796103941
+'Sven Schulze',fr,unknown,#111111,#111111,2,0.463286277921
 'Eric Dane',fr,unknown,#111111,#111111,2,0.462671392302
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
 'Steve Bannon',fr,unknown,#111111,#111111,1,0.462132810389
@@ -879,6 +879,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Rawls',fr,USA,#18e8e8,#18e8e8,1,0.267467446285
 'Leandro De Niro Rodriguez',fr,USA,#18e8e8,#18e8e8,1,0.267046152009
 'Andrew Schulz',fr,USA,#18e8e8,#18e8e8,1,0.266491759888
+'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,3,0.266431828232
 'Bill Barr',fr,unknown,#111111,#111111,1,0.266335087665
 'Ulrike Hermann',fr,Deutschland,#1818e8,#1818e8,1,0.266223187500
 'Merrill McCollum',fr,USA,#18e8e8,#18e8e8,1,0.266223187500
@@ -891,7 +892,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rand Paul',fr,unknown,#111111,#111111,1,0.264771545293
 'Jake Tapper',fr,unknown,#111111,#111111,1,0.264674070676
 'Giorgio Napolitano',fr,unknown,#111111,#111111,1,0.264611970440
-'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,3,0.264302772930
 'Mark Kerr',fr,unknown,#111111,#111111,1,0.264296007079
 'Robert Kraft',fr,unknown,#111111,#111111,1,0.264103068585
 'Benjamin Hasselhorn',fr,unknown,#111111,#111111,1,0.264004660938
