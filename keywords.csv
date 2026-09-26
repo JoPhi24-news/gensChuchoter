@@ -1,11 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Philippe Brun',fr,unknown,#111111,#111111,3,0.500982941827
 'Mateusz Gamrot',fr,unknown,#111111,#111111,2,0.500929133666
 'Jérôme Guedj',fr,unknown,#111111,#111111,2,0.495775838281
-'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.483922449838
+'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.484590543553
 'Ken Paxton',fr,unknown,#111111,#111111,2,0.482817956605
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.481816823741
-'Ségolène Royal',fr,unknown,#111111,#111111,3,0.480810833921
+'Ségolène Royal',fr,unknown,#111111,#111111,3,0.481485135455
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.478410283824
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.477925667800
 'Natalie Harp',fr,unknown,#111111,#111111,3,0.476754327697
@@ -29,6 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.463796103941
 'Sven Schulze',fr,unknown,#111111,#111111,2,0.463286277921
 'Eric Dane',fr,unknown,#111111,#111111,2,0.462671392302
+'Philippe Brun',fr,unknown,#111111,#111111,3,0.462606052371
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
 'Steve Bannon',fr,unknown,#111111,#111111,1,0.462132810389
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.461720849146
