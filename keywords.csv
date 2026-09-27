@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,3,0.520072588713
+'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,3,0.493738170406
 'Ségolène Royal',fr,unknown,#111111,#111111,3,0.485502788394
 'Ken Paxton',fr,unknown,#111111,#111111,2,0.482817956605
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.482489118642
@@ -33,8 +33,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hunter Schafer',fr,unknown,#111111,#111111,2,0.459847313033
 'Viktor Orban',fr,unknown,#111111,#111111,3,0.459660506411
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.459478405408
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.459234990130
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,2,0.458848631920
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.458516350570
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.457569167724
 'François Mitterrand',fr,unknown,#111111,#111111,3,0.457543285707
 'Caroline Lang',fr,unknown,#111111,#111111,3,0.456832214965
@@ -341,10 +341,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Keith Kellogg',fr,USA,#18e8e8,#18e8e8,2,0.388230512313
 'Tyson Fury',fr,unknown,#111111,#111111,2,0.387294908619
 'Les Wexner',fr,unknown,#111111,#111111,1,0.386982430433
+'Alexandria Ocasio-Cortez',fr,unknown,#111111,#111111,1,0.386427759017
 'Narendra Modi',fr,Indien,#995533,#995533,3,0.386228551728
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,1,0.385749754163
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,1,0.385662080556
-'Alexandria Ocasio-Cortez',fr,unknown,#111111,#111111,1,0.385567978493
 'Bill Clinton',fr,USA,#18e8e8,#18e8e8,2,0.385009507340
 'Charles Kushner',fr,unknown,#111111,#111111,1,0.384436755337
 'Javier Milei',fr,Argentinien,#6622bb,#6622bb,3,0.384299651280
@@ -864,9 +864,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam Asghari',fr,Iran,#1144ee,#1144ee,1,0.273797726911
 'James Cleverly',fr,UK,#e838e8,#e838e8,1,0.272953190844
 'Caroline Ellison',fr,USA,#18e8e8,#18e8e8,1,0.272234787766
+'Rudy Giuliani',fr,USA,#18e8e8,#18e8e8,1,0.271776071775
 'Warren Buffet',fr,USA,#18e8e8,#18e8e8,1,0.271396869202
 'Johnny Depp',fr,USA,#18e8e8,#18e8e8,1,0.271384606797
-'Rudy Giuliani',fr,USA,#18e8e8,#18e8e8,1,0.270720323991
 'Lea Bonasera',fr,Deutschland,#1818e8,#1818e8,1,0.270660240625
 'Irina Shayk',fr,Russland,#e81818,#e81818,1,0.270470485804
 'Brian Kilmeade',fr,unknown,#111111,#111111,1,0.269914372303
