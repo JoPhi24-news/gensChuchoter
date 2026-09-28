@@ -1,4 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Yannick Jadot',fr,unknown,#111111,#111111,2,0.607222336737
+'Baptiste Marteau',fr,unknown,#111111,#111111,2,0.602071840703
+'Dolly Parton',fr,unknown,#111111,#111111,2,0.601674382267
+'Tom Cruise',fr,unknown,#111111,#111111,2,0.500194318291
 'Ségolène Royal',fr,unknown,#111111,#111111,3,0.485502788394
 'Ken Paxton',fr,unknown,#111111,#111111,2,0.482817956605
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.482489118642
@@ -811,7 +815,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary Robinson',fr,Irland,#4488cc,#4488cc,1,0.287838761522
 'Leni Klum',fr,unknown,#111111,#111111,1,0.287486228025
 'Robin Wall Kimmerer',fr,USA,#18e8e8,#18e8e8,1,0.287339336088
-'Elizabeth Mpofu',fr,unknown,#111111,#111111,1,0.287253452500
 'Prinzessin Diana',fr,UK,#e838e8,#e838e8,1,0.287163689337
 'Steven Donziger',fr,USA,#18e8e8,#18e8e8,1,0.287103437500
 'Sophia Kianni',fr,unknown,#111111,#111111,1,0.287103437500
@@ -955,6 +958,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'König Charles III',fr,UK,#e838e8,#e838e8,1,0.245515969352
 'Robert Nozick',fr,USA,#18e8e8,#18e8e8,1,0.244728661107
 'Prinz Louis',fr,UK,#e838e8,#e838e8,1,0.244329453500
+'Elizabeth Mpofu',fr,unknown,#111111,#111111,1,0.244165434625
 'Minka Indigena',fr,unknown,#111111,#111111,1,0.244037921875
 'Gorbatschow',fr,unknown,#111111,#111111,1,0.244037921875
 'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.244037921875
