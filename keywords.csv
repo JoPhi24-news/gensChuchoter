@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Yannick Jadot',fr,unknown,#111111,#111111,2,0.607222336737
 'Baptiste Marteau',fr,unknown,#111111,#111111,2,0.602071840703
 'Dolly Parton',fr,unknown,#111111,#111111,2,0.601674382267
+'Yannick Jadot',fr,unknown,#111111,#111111,2,0.567814466226
 'Tom Cruise',fr,unknown,#111111,#111111,2,0.500194318291
 'Ségolène Royal',fr,unknown,#111111,#111111,3,0.485502788394
 'Ken Paxton',fr,unknown,#111111,#111111,2,0.482817956605
@@ -40,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,2,0.458848631920
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.457569167724
 'François Mitterrand',fr,unknown,#111111,#111111,3,0.457543285707
+'Marine Tondelier',fr,unknown,#111111,#111111,3,0.457424777587
 'Caroline Lang',fr,unknown,#111111,#111111,3,0.456832214965
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.456574447903
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.456253973717
@@ -47,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.455194822417
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.454806983921
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,2,0.453818250076
-'Marine Tondelier',fr,unknown,#111111,#111111,3,0.453799268191
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.453757808859
 'Amélie de Montchalin',fr,unknown,#111111,#111111,1,0.453253280310
 'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.453084452236
@@ -70,6 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pam Bondi',fr,unknown,#111111,#111111,2,0.447299684596
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.447220013947
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.447046670732
+'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.446519184130
 'JD Vance',fr,USA,#18e8e8,#18e8e8,2,0.446486548744
 'Leslie Wexner',fr,unknown,#111111,#111111,2,0.446163335264
 'Javier Bardem',fr,unknown,#111111,#111111,3,0.446007113703
@@ -86,7 +87,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolas Maduro',fr,unknown,#111111,#111111,2,0.442255979431
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.442203175567
 'Kendrick Lamar',fr,USA,#18e8e8,#18e8e8,1,0.441335607597
-'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.441281602544
 'Chris Soto',fr,unknown,#111111,#111111,2,0.441235111000
 'Michele Singer',fr,unknown,#111111,#111111,1,0.440997621951
 'Tulsi Gabbard',fr,unknown,#111111,#111111,2,0.440974402259
