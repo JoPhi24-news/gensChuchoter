@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,3,0.492810748027
 'Ségolène Royal',fr,unknown,#111111,#111111,3,0.485502788394
 'Ken Paxton',fr,unknown,#111111,#111111,2,0.482817956605
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.482489118642
@@ -205,6 +204,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Cormier',fr,unknown,#111111,#111111,1,0.428554483793
 'Kelly Ripa',fr,unknown,#111111,#111111,1,0.428539557483
 'Kerstin Ott',fr,unknown,#111111,#111111,1,0.428527482215
+'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,3,0.428496086379
 'Gable Steveson',fr,unknown,#111111,#111111,1,0.428249025337
 'Liveblog USA',fr,unknown,#111111,#111111,1,0.428244120085
 'Abby Phillip',fr,unknown,#111111,#111111,1,0.428193937791
