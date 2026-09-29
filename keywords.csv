@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Baptiste Marteau',fr,unknown,#111111,#111111,2,0.602071840703
 'Dolly Parton',fr,unknown,#111111,#111111,2,0.601674382267
 'Yannick Jadot',fr,unknown,#111111,#111111,2,0.567814466226
+'Baptiste Marteau',fr,unknown,#111111,#111111,2,0.548326644213
 'Tom Cruise',fr,unknown,#111111,#111111,2,0.500194318291
 'Ségolène Royal',fr,unknown,#111111,#111111,3,0.485502788394
 'Ken Paxton',fr,unknown,#111111,#111111,2,0.482817956605
@@ -38,12 +38,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.459478405408
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.459234990130
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,2,0.458848631920
+'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.457698782192
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.457569167724
 'François Mitterrand',fr,unknown,#111111,#111111,3,0.457543285707
 'Marine Tondelier',fr,unknown,#111111,#111111,3,0.457424777587
 'Caroline Lang',fr,unknown,#111111,#111111,3,0.456832214965
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.456574447903
-'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.456253973717
 'HBO Max',fr,unknown,#111111,#111111,3,0.455531466187
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.455194822417
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.454806983921
@@ -297,10 +297,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elie Favrot',fr,unknown,#111111,#111111,1,0.410026054267
 'Diane Keaton',fr,unknown,#111111,#111111,2,0.409850588627
 'Stormy Daniels',fr,USA,#18e8e8,#18e8e8,1,0.408604237086
+'Noël Barrot',fr,unknown,#111111,#111111,2,0.408388099375
 'Cilia Flores',fr,unknown,#111111,#111111,2,0.408243178162
 'Kamel Daoud',fr,unknown,#111111,#111111,1,0.408156809337
 'Affaire Epstein',fr,unknown,#111111,#111111,2,0.407676430817
-'Noël Barrot',fr,unknown,#111111,#111111,2,0.407569990834
 'Dick Cheney',fr,USA,#18e8e8,#18e8e8,1,0.407523521655
 'Lecornu II',fr,Frankreich,#e8e808,#e8e808,1,0.407223979946
 'Chappell Roan',fr,unknown,#111111,#111111,2,0.407077019228
