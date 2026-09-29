@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dolly Parton',fr,unknown,#111111,#111111,2,0.601674382267
+'Dolly Parton',fr,unknown,#111111,#111111,3,0.609952501356
 'Yannick Jadot',fr,unknown,#111111,#111111,2,0.567814466226
 'Baptiste Marteau',fr,unknown,#111111,#111111,2,0.548326644213
 'Tom Cruise',fr,unknown,#111111,#111111,2,0.500194318291
@@ -369,6 +369,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Valérie Hayer',fr,Frankreich,#e8e808,#e8e808,1,0.378096161881
 'Andrew Mountbatten-Windsor',fr,unknown,#111111,#111111,1,0.377336682229
 'Michel H. Devoret',fr,USA,#18e8e8,#18e8e8,1,0.376536656136
+'Taylor Swift',fr,USA,#18e8e8,#18e8e8,2,0.376162597671
 'George Miller',fr,Australien,#aa9933,#aa9933,2,0.376093231959
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,1,0.375755594794
 'Nancy Mace',fr,unknown,#111111,#111111,2,0.374976925038
@@ -386,7 +387,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Hagari',fr,unknown,#111111,#111111,1,0.374616250000
 'Chad Frischmann',fr,USA,#18e8e8,#18e8e8,1,0.374616250000
 'Amos Goldberg',fr,unknown,#111111,#111111,1,0.374616250000
-'Taylor Swift',fr,USA,#18e8e8,#18e8e8,2,0.373520998831
 'Jacob Frey',fr,unknown,#111111,#111111,1,0.373443212370
 'Charlie Kirk',fr,USA,#18e8e8,#18e8e8,2,0.373416650491
 'Angelina Jolie',fr,unknown,#111111,#111111,2,0.372787282941
