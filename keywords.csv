@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dolly Parton',fr,unknown,#111111,#111111,3,0.530710346153
+'Dolly Parton',fr,unknown,#111111,#111111,3,0.533327136503
 'Tom Cruise',fr,unknown,#111111,#111111,2,0.500194318291
 'Ségolène Royal',fr,unknown,#111111,#111111,3,0.485502788394
 'Yannick Jadot',fr,unknown,#111111,#111111,2,0.483092836292
@@ -362,6 +362,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Gaethje',fr,unknown,#111111,#111111,1,0.380151242410
 'Benyamin Netanyahou',fr,Israel,#3311cc,#3311cc,2,0.379994039402
 'Paul Biya',fr,Kamerun,#2266cc,#2266cc,3,0.379787743340
+'Taylor Swift',fr,USA,#18e8e8,#18e8e8,2,0.379661985930
 'Jake Paul',fr,USA,#18e8e8,#18e8e8,1,0.379627453276
 'Benjamin Nethanaju',fr,Israel,#3311cc,#3311cc,1,0.378183378568
 'Al Nassr',fr,SaudiArabien,#22bb66,#22bb66,2,0.378163616220
@@ -369,7 +370,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Valérie Hayer',fr,Frankreich,#e8e808,#e8e808,1,0.378096161881
 'Andrew Mountbatten-Windsor',fr,unknown,#111111,#111111,1,0.377336682229
 'Michel H. Devoret',fr,USA,#18e8e8,#18e8e8,1,0.376536656136
-'Taylor Swift',fr,USA,#18e8e8,#18e8e8,2,0.376162597671
 'George Miller',fr,Australien,#aa9933,#aa9933,2,0.376093231959
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,1,0.375755594794
 'Nancy Mace',fr,unknown,#111111,#111111,2,0.374976925038
@@ -527,8 +527,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sophie Turner',fr,UK,#e838e8,#e838e8,2,0.343925232039
 'Xi Jinping',fr,China,#e88818,#e88818,3,0.343661121104
 'Vo Van Thuong',fr,Vietnam,#117644,#117644,1,0.343470111841
+'Gavin Newsom',fr,USA,#18e8e8,#18e8e8,2,0.342903421224
 'Charlize Theron',fr,Südafrika,#ee4411,#ee4411,1,0.342657011231
-'Gavin Newsom',fr,USA,#18e8e8,#18e8e8,2,0.341964382502
 'James Comey',fr,USA,#18e8e8,#18e8e8,1,0.341809633755
 'Margaret Thatcher',fr,UK,#e838e8,#e838e8,2,0.340914469394
 'Sam H',fr,unknown,#111111,#111111,2,0.340850459855
@@ -797,10 +797,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Juliette Binoche',fr,unknown,#111111,#111111,1,0.292768226365
 'Marlène Schiappa',fr,unknown,#111111,#111111,1,0.292718918683
 'Heidi Klum',fr,unknown,#111111,#111111,1,0.292554793314
+'Colin Farrell',fr,unknown,#111111,#111111,2,0.292157720112
 'Kemal Kılıçdaroğlu',fr,Türkei,#66bb22,#66bb22,1,0.291985758886
 'Greta Gerwig',fr,unknown,#111111,#111111,1,0.291260299679
 'Verena Hubertz',fr,Deutschland,#335599,#335599,1,0.291196798047
-'Colin Farrell',fr,unknown,#111111,#111111,2,0.291133517764
 'Warren Buffett',fr,USA,#18e8e8,#18e8e8,2,0.290685822669
 'Erich Honecker',fr,Deutschland,#1818e8,#1818e8,1,0.290665722305
 'Antonio Brown',fr,USA,#18e8e8,#18e8e8,1,0.290587255810
