@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dolly Parton',fr,unknown,#111111,#111111,3,0.533327136503
 'Tom Cruise',fr,unknown,#111111,#111111,2,0.500194318291
 'Ségolène Royal',fr,unknown,#111111,#111111,3,0.485502788394
 'Yannick Jadot',fr,unknown,#111111,#111111,2,0.483092836292
@@ -47,6 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'HBO Max',fr,unknown,#111111,#111111,3,0.455531466187
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.455194822417
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.454806983921
+'Dolly Parton',fr,unknown,#111111,#111111,3,0.454528681028
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,2,0.453818250076
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.453757808859
 'Amélie de Montchalin',fr,unknown,#111111,#111111,1,0.453253280310
