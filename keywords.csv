@@ -875,7 +875,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brian Kilmeade',fr,unknown,#111111,#111111,1,0.269914372303
 'Jan Böhmermann',fr,Deutschland,#1818e8,#1818e8,3,0.269670745153
 'Camille Etienne',fr,Frankreich,#e8e808,#e8e808,2,0.268584809940
-'Jerod Mayo',fr,unknown,#111111,#111111,1,0.268411279183
 'Rudolf Steiner',fr,Oesterreich,#5522dd,#5522dd,1,0.267891876517
 'Subrahmanyam Jaishankar',fr,Indien,#995533,#995533,2,0.267620098876
 'Viktor Shokin',fr,unknown,#111111,#111111,1,0.267479449704
@@ -993,6 +992,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Don Lemon',fr,USA,#18e8e8,#18e8e8,1,0.229640209770
 'Selenskyj',fr,Ukraine,#e818e8,#e818e8,1,0.228601032633
 'Peter Urban',fr,Deutschland,#1818e8,#1818e8,1,0.228356903745
+'Jerod Mayo',fr,unknown,#111111,#111111,1,0.228149587306
 'Jacinda Ardern',fr,Neuseeland,#1818e8,#1818e8,1,0.227560529978
 'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.226989221447
 'Matthias Müller',fr,Deutschland,#1818e8,#1818e8,1,0.226398095213
