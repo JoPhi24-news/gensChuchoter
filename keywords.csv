@@ -7,7 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.477925667800
 'Natalie Harp',fr,unknown,#111111,#111111,3,0.476754327697
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.474705227501
-'Conor McGregor',fr,unknown,#111111,#111111,2,0.472983388799
 'Daniel Siad',fr,unknown,#111111,#111111,1,0.470604137232
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.470196995876
 'François Hollande',fr,unknown,#111111,#111111,2,0.468990105221
@@ -98,6 +97,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Makarim Wobisono',fr,unknown,#111111,#111111,1,0.440725000000
 'Hannu Halinen',fr,unknown,#111111,#111111,1,0.440725000000
 'Avi Dichter',fr,unknown,#111111,#111111,1,0.440725000000
+'Conor McGregor',fr,unknown,#111111,#111111,2,0.440135940479
 'Susan Collins',fr,unknown,#111111,#111111,1,0.440097870187
 'Chris Murphy',fr,unknown,#111111,#111111,1,0.438683212287
 'Pete Hegseth',fr,USA,#18e8e8,#18e8e8,3,0.438171601803
