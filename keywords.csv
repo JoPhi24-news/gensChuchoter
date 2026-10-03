@@ -82,7 +82,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Claire Legendre',fr,unknown,#111111,#111111,2,0.443480281736
 'Kristi Noem',fr,unknown,#111111,#111111,3,0.442835986012
 'Joshua Van',fr,unknown,#111111,#111111,2,0.442828066558
-'Jimmy Fallon',fr,unknown,#111111,#111111,2,0.442807512768
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.442668993451
 'Nicolas Maduro',fr,unknown,#111111,#111111,2,0.442255979431
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.442203175567
@@ -370,6 +369,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Valérie Hayer',fr,Frankreich,#e8e808,#e8e808,1,0.378096161881
 'Andrew Mountbatten-Windsor',fr,unknown,#111111,#111111,1,0.377336682229
 'Michel H. Devoret',fr,USA,#18e8e8,#18e8e8,1,0.376536656136
+'Jimmy Fallon',fr,unknown,#111111,#111111,1,0.376386520853
 'George Miller',fr,Australien,#aa9933,#aa9933,2,0.376093231959
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,1,0.375755594794
 'Nancy Mace',fr,unknown,#111111,#111111,2,0.374976925038
