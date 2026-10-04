@@ -995,7 +995,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerod Mayo',fr,unknown,#111111,#111111,1,0.228149587306
 'Jacinda Ardern',fr,Neuseeland,#1818e8,#1818e8,1,0.227560529978
 'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.226989221447
-'Matthias Müller',fr,Deutschland,#1818e8,#1818e8,1,0.226398095213
 'Trevian Kutti',fr,unknown,#111111,#111111,1,0.226381837337
 'Steve Doocy',fr,unknown,#111111,#111111,1,0.226101835999
 'Leah McSweeney',fr,unknown,#111111,#111111,1,0.225991347630
@@ -1067,6 +1066,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katja Krasavice',fr,Deutschland,#1818e8,#1818e8,1,0.193376967217
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,2,0.193207380128
 'Jeffrey Donaldson',fr,Irland,#4488cc,#4488cc,1,0.192469256620
+'Matthias Müller',fr,Deutschland,#1818e8,#1818e8,1,0.192438380931
 'Christoph Heusgen',fr,Deutschland,#1818e8,#1818e8,3,0.191097369710
 'Pippa Middleton',fr,UK,#e838e8,#e838e8,1,0.190629326201
 'Gisele Bundchen',fr,unknown,#111111,#111111,1,0.190617530688
