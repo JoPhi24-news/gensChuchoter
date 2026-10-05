@@ -229,7 +229,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Cornyn',fr,unknown,#111111,#111111,1,0.426782847343
 'Josh Hokit',fr,unknown,#111111,#111111,1,0.426768379015
 'Howie Mandel',fr,unknown,#111111,#111111,1,0.426632355671
-'Gregory Rodrigues',fr,unknown,#111111,#111111,1,0.426583690614
 'László Krasznahorkai',fr,Ungarn,#99aa33,#99aa33,1,0.426324337111
 'Ali Abdelaziz',fr,unknown,#111111,#111111,1,0.426271711471
 'Liveblog Ukrainekrieg',fr,unknown,#111111,#111111,1,0.426259326308
@@ -453,6 +452,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shavkat Rakhmonov',fr,unknown,#111111,#111111,1,0.363145282841
 'Suleika Jaouad',fr,USA,#18e8e8,#18e8e8,1,0.362871379895
 'Omar M. Yaghi',fr,USA,#18e8e8,#18e8e8,1,0.362652655250
+'Gregory Rodrigues',fr,unknown,#111111,#111111,1,0.362596137022
 'James Carville',fr,unknown,#111111,#111111,1,0.362582031461
 'Jamieson Greer',fr,unknown,#111111,#111111,1,0.362573818584
 'Itamar Ben-Gvir',fr,Israel,#3311cc,#3311cc,1,0.362334901512
