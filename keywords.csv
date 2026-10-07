@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.479767106571
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.477925667800
 'Natalie Harp',fr,unknown,#111111,#111111,3,0.476754327697
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.475391699020
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.476076803061
 'Daniel Siad',fr,unknown,#111111,#111111,1,0.470604137232
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.470196995876
 'François Hollande',fr,unknown,#111111,#111111,2,0.468990105221
@@ -20,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Amiel',fr,unknown,#111111,#111111,2,0.466348097843
 'Baptiste Marteau',fr,unknown,#111111,#111111,1,0.466077842581
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.464828169530
-'Philippe Brun',fr,unknown,#111111,#111111,3,0.464025701814
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.463889257150
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.463796103941
 'Sven Schulze',fr,unknown,#111111,#111111,2,0.463286277921
@@ -229,6 +228,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geraldo Rivera',fr,unknown,#111111,#111111,2,0.426802971854
 'John Cornyn',fr,unknown,#111111,#111111,1,0.426782847343
 'Josh Hokit',fr,unknown,#111111,#111111,1,0.426768379015
+'Philippe Brun',fr,unknown,#111111,#111111,3,0.426646193815
 'Howie Mandel',fr,unknown,#111111,#111111,1,0.426632355671
 'Pierce Brosnan',fr,unknown,#111111,#111111,1,0.426570043639
 'László Krasznahorkai',fr,Ungarn,#99aa33,#99aa33,1,0.426324337111
