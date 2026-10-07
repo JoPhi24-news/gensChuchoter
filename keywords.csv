@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dakota Johnson',fr,unknown,#111111,#111111,3,0.508260335611
 'Yannick Jadot',fr,unknown,#111111,#111111,2,0.483092836292
 'Ken Paxton',fr,unknown,#111111,#111111,2,0.482817956605
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.482489118642
@@ -146,6 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ian Machado Garry',fr,unknown,#111111,#111111,1,0.432253222026
 'Erika Kirk',fr,USA,#18e8e8,#18e8e8,2,0.432064396963
 'Andrea Berg',fr,unknown,#111111,#111111,1,0.432026709523
+'Dakota Johnson',fr,unknown,#111111,#111111,2,0.432021720269
 'Ed Gallrein',fr,unknown,#111111,#111111,1,0.432015442676
 'Michele Singer Reiner',fr,unknown,#111111,#111111,1,0.431988278978
 'Ben Shapiro',fr,unknown,#111111,#111111,1,0.431974036422
