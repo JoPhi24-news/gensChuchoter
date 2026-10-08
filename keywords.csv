@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ken Paxton',fr,unknown,#111111,#111111,2,0.482817956605
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.482489118642
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.479767106571
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.477925667800
@@ -291,6 +290,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brigitte Bardot',fr,unknown,#111111,#111111,2,0.410919339941
 'Laurent Wauquiez',fr,Frankreich,#e8e808,#e8e808,3,0.410470347281
 'Will Ferrell',fr,unknown,#111111,#111111,1,0.410415438738
+'Ken Paxton',fr,unknown,#111111,#111111,1,0.410395368114
 'Chris Van Hollen',fr,unknown,#111111,#111111,1,0.410262152410
 'Elie Favrot',fr,unknown,#111111,#111111,1,0.410026054267
 'Diane Keaton',fr,unknown,#111111,#111111,2,0.409850588627
