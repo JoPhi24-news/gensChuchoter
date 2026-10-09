@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Andrew Mountbatten Windsor',fr,unknown,#111111,#111111,2,0.518931665375
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.482489118642
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.479767106571
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.477925667800
@@ -121,7 +122,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Bieber',fr,Kanada,#55ee33,#55ee33,2,0.433796884078
 'Candace Owens',fr,unknown,#111111,#111111,2,0.433624868345
 'Ciryl Gane',fr,unknown,#111111,#111111,1,0.433519950364
-'Andrew Mountbatten Windsor',fr,unknown,#111111,#111111,1,0.433507788677
 'Denise Kielholtz',fr,unknown,#111111,#111111,1,0.433434842670
 'Jon Anik',fr,unknown,#111111,#111111,1,0.433413662719
 'Max Holloway',fr,unknown,#111111,#111111,1,0.433397402778
@@ -231,6 +231,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'László Krasznahorkai',fr,Ungarn,#99aa33,#99aa33,1,0.426324337111
 'Ali Abdelaziz',fr,unknown,#111111,#111111,1,0.426271711471
 'Liveblog Ukrainekrieg',fr,unknown,#111111,#111111,1,0.426259326308
+'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,1,0.426044001502
 'Corey Lewandowski',fr,unknown,#111111,#111111,1,0.426017881406
 'Brad Pitt',fr,USA,#18e8e8,#18e8e8,3,0.425982178036
 'Chris Cuomo',fr,unknown,#111111,#111111,1,0.425955272520
@@ -239,7 +240,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trevor Phillips',fr,unknown,#111111,#111111,1,0.425622181304
 'Tig Notaro',fr,USA,#18e8e8,#18e8e8,1,0.425358127032
 'Michael Morales',fr,unknown,#111111,#111111,1,0.425322803805
-'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,1,0.425260034396
 'Chris Nanos',fr,unknown,#111111,#111111,1,0.425128208387
 'Harriet Sperling',fr,unknown,#111111,#111111,1,0.425095233294
 'Vanessa Mai',fr,unknown,#111111,#111111,1,0.425064170043
@@ -291,13 +291,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Will Ferrell',fr,unknown,#111111,#111111,1,0.410415438738
 'Ken Paxton',fr,unknown,#111111,#111111,1,0.410395368114
 'Chris Van Hollen',fr,unknown,#111111,#111111,1,0.410262152410
+'Affaire Epstein',fr,unknown,#111111,#111111,2,0.410125445151
 'Elie Favrot',fr,unknown,#111111,#111111,1,0.410026054267
 'Diane Keaton',fr,unknown,#111111,#111111,2,0.409850588627
 'Stormy Daniels',fr,USA,#18e8e8,#18e8e8,1,0.408604237086
 'Noël Barrot',fr,unknown,#111111,#111111,2,0.408388099375
 'Cilia Flores',fr,unknown,#111111,#111111,2,0.408243178162
 'Kamel Daoud',fr,unknown,#111111,#111111,1,0.408156809337
-'Affaire Epstein',fr,unknown,#111111,#111111,2,0.407676430817
 'Dick Cheney',fr,USA,#18e8e8,#18e8e8,1,0.407523521655
 'Lecornu II',fr,Frankreich,#e8e808,#e8e808,1,0.407223979946
 'Chappell Roan',fr,unknown,#111111,#111111,2,0.407077019228
@@ -315,10 +315,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.402300970200
 'Mark Levin',fr,unknown,#111111,#111111,2,0.401912760757
 'Emily Blunt',fr,UK,#e838e8,#e838e8,3,0.401023811302
+'prince Andrew',fr,unknown,#111111,#111111,1,0.400697151898
 'Peter Mandelson',fr,unknown,#111111,#111111,1,0.399664793472
+'Charles III',fr,UK,#e838e8,#e838e8,3,0.399653561772
 'Raphaël Arnault',fr,unknown,#111111,#111111,2,0.399325694022
-'prince Andrew',fr,unknown,#111111,#111111,1,0.398193958957
-'Charles III',fr,UK,#e838e8,#e838e8,3,0.397982378051
 'Tom Homan',fr,unknown,#111111,#111111,1,0.397932021570
 'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.397808764126
 "'Dwayne ""The Rock"" Johnson'",fr,USA,#18e8e8,#18e8e8,2,0.397800998044
