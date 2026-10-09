@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Andrew Mountbatten Windsor',fr,unknown,#111111,#111111,2,0.518931665375
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.482489118642
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.479767106571
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.477925667800
@@ -83,6 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.442203175567
 'Kendrick Lamar',fr,USA,#18e8e8,#18e8e8,1,0.441335607597
 'Chris Soto',fr,unknown,#111111,#111111,2,0.441235111000
+'Andrew Mountbatten Windsor',fr,unknown,#111111,#111111,1,0.441091960569
 'Michele Singer',fr,unknown,#111111,#111111,1,0.440997621951
 'Tulsi Gabbard',fr,unknown,#111111,#111111,2,0.440974402259
 'Ro Khanna',fr,unknown,#111111,#111111,2,0.440799050219
