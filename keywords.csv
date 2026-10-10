@@ -434,7 +434,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Schnieder',fr,Deutschland,#335599,#335599,1,0.365404375000
 'Dorothee Bär',fr,Deutschland,#335599,#335599,1,0.365404375000
 'Christiane Schenderlein',fr,Deutschland,#335599,#335599,1,0.365404375000
-'Fabrice Aidan',fr,unknown,#111111,#111111,1,0.365344524058
 'Anant Ambani',fr,Indien,#995533,#995533,1,0.365087340868
 'Helene Fischer',fr,unknown,#111111,#111111,1,0.364932310634
 'Belal Muhammad',fr,unknown,#111111,#111111,1,0.364895523150
@@ -692,6 +691,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steffen Kotre',fr,Deutschland,#335599,#335599,1,0.310593718750
 'Karin Prien',fr,Deutschland,#335599,#335599,1,0.310593718750
 'Henry Ford',fr,USA,#18e8e8,#18e8e8,2,0.310545277647
+'Fabrice Aidan',fr,unknown,#111111,#111111,1,0.310542845449
 'Steve Wozniak',fr,USA,#18e8e8,#18e8e8,1,0.310313490800
 'Charles Barkley',fr,unknown,#111111,#111111,1,0.310272524743
 'Linda Yaccarino',fr,USA,#18e8e8,#18e8e8,2,0.309995665705
