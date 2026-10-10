@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Daniel Siad',fr,unknown,#111111,#111111,2,0.500463561647
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.482489118642
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.479767106571
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.477925667800
 'Natalie Harp',fr,unknown,#111111,#111111,3,0.476754327697
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.476076803061
-'Daniel Siad',fr,unknown,#111111,#111111,1,0.470604137232
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.470196995876
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.469028992359
 'François Hollande',fr,unknown,#111111,#111111,2,0.468990105221
@@ -102,7 +102,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rashida Tlaib',fr,unknown,#111111,#111111,1,0.437888390209
 'Andy Burnham',fr,unknown,#111111,#111111,3,0.437878262501
 'James Van Der Beek',fr,unknown,#111111,#111111,2,0.437845131208
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.437031265913
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.437792256850
 'Emmanuel Moulin',fr,unknown,#111111,#111111,2,0.436431284484
 'Nick Reiner',fr,unknown,#111111,#111111,1,0.436380496213
 'Bill Pulte',fr,unknown,#111111,#111111,2,0.436268336758
@@ -286,12 +286,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Summers',fr,unknown,#111111,#111111,2,0.411386406587
 'Julia Roberts',fr,USA,#18e8e8,#18e8e8,1,0.411380800787
 'Poutine',fr,Russland,#e81818,#e81818,3,0.410993992291
+'Affaire Epstein',fr,unknown,#111111,#111111,2,0.410938653784
 'Brigitte Bardot',fr,unknown,#111111,#111111,2,0.410919339941
 'Laurent Wauquiez',fr,Frankreich,#e8e808,#e8e808,3,0.410470347281
 'Will Ferrell',fr,unknown,#111111,#111111,1,0.410415438738
 'Ken Paxton',fr,unknown,#111111,#111111,1,0.410395368114
 'Chris Van Hollen',fr,unknown,#111111,#111111,1,0.410262152410
-'Affaire Epstein',fr,unknown,#111111,#111111,2,0.410125445151
 'Elie Favrot',fr,unknown,#111111,#111111,1,0.410026054267
 'Diane Keaton',fr,unknown,#111111,#111111,2,0.409850588627
 'Stormy Daniels',fr,USA,#18e8e8,#18e8e8,1,0.408604237086
