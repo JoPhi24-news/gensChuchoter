@@ -6,10 +6,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.476076803061
 'Daniel Siad',fr,unknown,#111111,#111111,1,0.470604137232
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.470196995876
+'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.469028992359
 'François Hollande',fr,unknown,#111111,#111111,2,0.468990105221
 'Daniel Craig',fr,unknown,#111111,#111111,3,0.468984215458
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.468900941678
-'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.468329832687
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.468096286593
 'Péter Magyar',fr,unknown,#111111,#111111,3,0.467570946914
 'James Bond',fr,unknown,#111111,#111111,3,0.467422753552
@@ -760,6 +760,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bernard Arnault',fr,Frankreich,#e8e808,#e8e808,2,0.301443932796
 'Joe Alwyn',fr,unknown,#111111,#111111,1,0.301196052426
 'Jon Hamm',fr,unknown,#111111,#111111,1,0.301113422371
+'Mukesh Ambani',fr,Indien,#995533,#995533,2,0.301088343911
 'Pape François',fr,Vatikan,#58b8e8,#58b8e8,3,0.300578144832
 'Joe Jonas',fr,USA,#18e8e8,#18e8e8,1,0.300571306669
 'Leon Botstein',fr,USA,#18e8e8,#18e8e8,1,0.300324030479
@@ -1098,7 +1099,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sandra Maischberger',fr,Deutschland,#1818e8,#1818e8,1,0.179866065763
 'Larry Page',fr,USA,#18e8e8,#18e8e8,2,0.179044766282
 'Hun Sen',fr,Kambodscha,#33aadd,#33aadd,1,0.178567859374
-'Mukesh Ambani',fr,Indien,#995533,#995533,1,0.177574504601
 'Ola Källenius',fr,Deutschland,#1818e8,#1818e8,2,0.176923180030
 'Herschel Walker',fr,USA,#18e8e8,#18e8e8,1,0.176467413555
 'Wolodymyr Selenski',fr,Ukraine,#e818e8,#e818e8,1,0.176280755108
