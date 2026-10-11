@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Daniel Siad',fr,unknown,#111111,#111111,2,0.500463561647
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.482489118642
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.479767106571
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.477925667800
 'Natalie Harp',fr,unknown,#111111,#111111,3,0.476754327697
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.476076803061
+'Daniel Siad',fr,unknown,#111111,#111111,2,0.475844072400
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.470196995876
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.469028992359
 'François Hollande',fr,unknown,#111111,#111111,2,0.468990105221
@@ -96,22 +96,22 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Conor McGregor',fr,unknown,#111111,#111111,2,0.440135940479
 'Susan Collins',fr,unknown,#111111,#111111,1,0.440097870187
 'Chris Murphy',fr,unknown,#111111,#111111,1,0.438683212287
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.438551756242
 'Pete Hegseth',fr,USA,#18e8e8,#18e8e8,3,0.438171601803
 'Alan Jackson',fr,unknown,#111111,#111111,2,0.438077040121
 'Sam Altman',fr,USA,#18e8e8,#18e8e8,3,0.437923060500
 'Rashida Tlaib',fr,unknown,#111111,#111111,1,0.437888390209
 'Andy Burnham',fr,unknown,#111111,#111111,3,0.437878262501
 'James Van Der Beek',fr,unknown,#111111,#111111,2,0.437845131208
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.437792256850
 'Emmanuel Moulin',fr,unknown,#111111,#111111,2,0.436431284484
 'Nick Reiner',fr,unknown,#111111,#111111,1,0.436380496213
 'Bill Pulte',fr,unknown,#111111,#111111,2,0.436268336758
 'Mark Kelly',fr,unknown,#111111,#111111,2,0.436124434122
 'Amélie de Montchalin',fr,unknown,#111111,#111111,3,0.435916773611
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.435709224394
+'laffaire Epstein',fr,unknown,#111111,#111111,2,0.435583766988
 'Abu Dhabi',fr,unknown,#111111,#111111,2,0.435331945147
 'Yves Bournazel',fr,Frankreich,#e8e808,#e8e808,2,0.435283640656
-'laffaire Epstein',fr,unknown,#111111,#111111,2,0.434818442968
 'Bezalel Smotrich',fr,Israel,#3311cc,#3311cc,3,0.434742332369
 'Jacob Elordi',fr,unknown,#111111,#111111,1,0.434619125510
 'Sydney Sweeney',fr,unknown,#111111,#111111,2,0.434588800511
