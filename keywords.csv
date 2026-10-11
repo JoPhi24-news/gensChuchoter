@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Michele Singer Reiner',fr,unknown,#111111,#111111,2,0.517640082131
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.482489118642
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.479767106571
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.477925667800
@@ -100,11 +101,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam Altman',fr,USA,#18e8e8,#18e8e8,3,0.438682303445
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.438551756242
 'Alan Jackson',fr,unknown,#111111,#111111,2,0.438077040121
+'Nick Reiner',fr,unknown,#111111,#111111,1,0.437903534546
 'Rashida Tlaib',fr,unknown,#111111,#111111,1,0.437888390209
 'Andy Burnham',fr,unknown,#111111,#111111,3,0.437878262501
 'James Van Der Beek',fr,unknown,#111111,#111111,2,0.437845131208
 'Emmanuel Moulin',fr,unknown,#111111,#111111,2,0.436431284484
-'Nick Reiner',fr,unknown,#111111,#111111,1,0.436380496213
 'Bill Pulte',fr,unknown,#111111,#111111,2,0.436268336758
 'Mark Kelly',fr,unknown,#111111,#111111,2,0.436124434122
 'Amélie de Montchalin',fr,unknown,#111111,#111111,3,0.435916773611
@@ -143,7 +144,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrea Berg',fr,unknown,#111111,#111111,1,0.432026709523
 'Dakota Johnson',fr,unknown,#111111,#111111,2,0.432021720269
 'Ed Gallrein',fr,unknown,#111111,#111111,1,0.432015442676
-'Michele Singer Reiner',fr,unknown,#111111,#111111,1,0.431988278978
 'Ben Shapiro',fr,unknown,#111111,#111111,1,0.431974036422
 'Alejandro González Iñárritu',fr,unknown,#111111,#111111,1,0.431956647125
 'Sarah Ferguson',fr,unknown,#111111,#111111,1,0.431947286375
@@ -254,6 +254,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Quand Harry',fr,unknown,#111111,#111111,3,0.424155828154
 'Tony Bennett',fr,USA,#18e8e8,#18e8e8,2,0.423854417755
 'Mojtaba Khamenei',fr,unknown,#111111,#111111,3,0.423758794911
+'Rob Reiner',fr,unknown,#111111,#111111,2,0.423716861222
 'Catherine Pégard',fr,unknown,#111111,#111111,3,0.423530047475
 'Paddy Pimblett',fr,unknown,#111111,#111111,1,0.422931876297
 'Juan Pablo Guanipa',fr,unknown,#111111,#111111,1,0.422767914736
@@ -262,7 +263,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.421879809666
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.421869103566
 'Ilia Topuria',fr,unknown,#111111,#111111,1,0.421383988718
-'Rob Reiner',fr,unknown,#111111,#111111,2,0.421346775496
 'Salahdine Parnasse',fr,unknown,#111111,#111111,1,0.419854267108
 'Nancy Guthrie',fr,unknown,#111111,#111111,1,0.418981185937
 'Scooter Braun',fr,unknown,#111111,#111111,1,0.418764424098
@@ -601,8 +601,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Miley Cyrus',fr,USA,#18e8e8,#18e8e8,1,0.325240437149
 'Francis Ford Coppola',fr,USA,#18e8e8,#18e8e8,1,0.325199096927
 'Ben Wallace',fr,USA,#18e8e8,#18e8e8,1,0.325126701091
+'Michele Reiner',fr,unknown,#111111,#111111,1,0.325007645282
 'Sam Bankman-Fried',fr,USA,#18e8e8,#18e8e8,1,0.324691967961
-'Michele Reiner',fr,unknown,#111111,#111111,1,0.324037579250
 'Harrison Ford',fr,USA,#18e8e8,#18e8e8,1,0.323854374579
 'Jared Kushner',fr,unknown,#111111,#111111,1,0.323812366494
 'Kim Kardashian',fr,USA,#18e8e8,#18e8e8,2,0.323520171423
