@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Michele Singer Reiner',fr,unknown,#111111,#111111,2,0.517640082131
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.482489118642
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.479767106571
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.477925667800
@@ -96,6 +95,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avi Dichter',fr,unknown,#111111,#111111,1,0.440725000000
 'Conor McGregor',fr,unknown,#111111,#111111,2,0.440135940479
 'Susan Collins',fr,unknown,#111111,#111111,1,0.440097870187
+'Michele Singer Reiner',fr,unknown,#111111,#111111,1,0.439994114811
 'Pete Hegseth',fr,USA,#18e8e8,#18e8e8,3,0.438930357415
 'Chris Murphy',fr,unknown,#111111,#111111,1,0.438683212287
 'Sam Altman',fr,USA,#18e8e8,#18e8e8,3,0.438682303445
