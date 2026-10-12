@@ -1,17 +1,21 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Michael Showalter',fr,unknown,#111111,#111111,2,0.509973226877
+'Daniel Craig',fr,unknown,#111111,#111111,3,0.508929755282
+'Colleen Hoover',fr,unknown,#111111,#111111,2,0.507860055837
+'Charles Spencer',fr,unknown,#111111,#111111,2,0.503118076116
+'Josh Hartnett',fr,unknown,#111111,#111111,2,0.501874655357
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.482489118642
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.479767106571
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.477925667800
 'Natalie Harp',fr,unknown,#111111,#111111,3,0.476754327697
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.476076803061
 'Daniel Siad',fr,unknown,#111111,#111111,2,0.475844072400
+'James Bond',fr,unknown,#111111,#111111,3,0.475057111461
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.470196995876
 'François Hollande',fr,unknown,#111111,#111111,2,0.468990105221
-'Daniel Craig',fr,unknown,#111111,#111111,3,0.468984215458
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.468900941678
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.468096286593
 'Péter Magyar',fr,unknown,#111111,#111111,3,0.467570946914
-'James Bond',fr,unknown,#111111,#111111,3,0.467422753552
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.467418860063
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.466829910635
 'David Amiel',fr,unknown,#111111,#111111,2,0.466348097843
@@ -219,6 +223,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mauricio Ruffy',fr,unknown,#111111,#111111,1,0.427606981959
 'Spencer Pratt',fr,unknown,#111111,#111111,1,0.427517673921
 'Petr Yan',fr,unknown,#111111,#111111,1,0.427426873175
+'Pierce Brosnan',fr,unknown,#111111,#111111,1,0.427351463112
 'Jay Clayton',fr,unknown,#111111,#111111,1,0.427267028864
 'Epstein Files',fr,unknown,#111111,#111111,1,0.427205858177
 'MARGARET BRENNAN',fr,unknown,#111111,#111111,2,0.427133432114
@@ -227,7 +232,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Josh Hokit',fr,unknown,#111111,#111111,1,0.426768379015
 'Philippe Brun',fr,unknown,#111111,#111111,3,0.426646193815
 'Howie Mandel',fr,unknown,#111111,#111111,1,0.426632355671
-'Pierce Brosnan',fr,unknown,#111111,#111111,1,0.426570043639
 'László Krasznahorkai',fr,Ungarn,#99aa33,#99aa33,1,0.426324337111
 'Ali Abdelaziz',fr,unknown,#111111,#111111,1,0.426271711471
 'Liveblog Ukrainekrieg',fr,unknown,#111111,#111111,1,0.426259326308
@@ -731,8 +735,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Kemal Kiliçdaroglu',fr,Türkei,#66bb22,#66bb22,3,0.306737691230
+'Meryl Streep',fr,unknown,#111111,#111111,1,0.306714564260
 'Pierre-Yves Dermagne',fr,Belgien,#2266bb,#2266bb,2,0.306584252816
-'Meryl Streep',fr,unknown,#111111,#111111,1,0.305713874634
 'George Clooney',fr,USA,#18e8e8,#18e8e8,1,0.305123760797
 'Dieter Bohlen',fr,Deutschland,#1818e8,#1818e8,1,0.305105974065
 'Ted Cruz',fr,USA,#18e8e8,#18e8e8,1,0.304978492436
@@ -790,6 +794,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Carroll',fr,USA,#18e8e8,#18e8e8,1,0.295887021858
 'Hendrik Wüst',fr,Deutschland,#1818e8,#1818e8,1,0.295774735074
 'Nina Gummich',fr,Deutschland,#1818e8,#1818e8,1,0.295579277560
+'Greta Gerwig',fr,unknown,#111111,#111111,1,0.295346543970
 'Patrick Graichen',fr,Deutschland,#1818e8,#1818e8,1,0.295270705300
 'Billy Graham',fr,USA,#18e8e8,#18e8e8,1,0.295155464364
 'Henry Kissinger',fr,USA,#18e8e8,#18e8e8,1,0.294750491882
@@ -804,7 +809,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heidi Klum',fr,unknown,#111111,#111111,1,0.292554793314
 'Colin Farrell',fr,unknown,#111111,#111111,2,0.292157720112
 'Kemal Kılıçdaroğlu',fr,Türkei,#66bb22,#66bb22,1,0.291985758886
-'Greta Gerwig',fr,unknown,#111111,#111111,1,0.291260299679
 'Verena Hubertz',fr,Deutschland,#335599,#335599,1,0.291196798047
 'Warren Buffett',fr,USA,#18e8e8,#18e8e8,2,0.290685822669
 'Erich Honecker',fr,Deutschland,#1818e8,#1818e8,1,0.290665722305
