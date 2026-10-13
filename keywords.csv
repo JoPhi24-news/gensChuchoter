@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Colleen Hoover',fr,unknown,#111111,#111111,2,0.507860055837
 'Charles Spencer',fr,unknown,#111111,#111111,2,0.503118076116
 'Josh Hartnett',fr,unknown,#111111,#111111,2,0.501874655357
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.482489118642
@@ -131,6 +130,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Max Holloway',fr,unknown,#111111,#111111,1,0.433397402778
 'Ian Garry',fr,unknown,#111111,#111111,1,0.433316616890
 'Maite Kelly',fr,unknown,#111111,#111111,1,0.433277033953
+'Colleen Hoover',fr,unknown,#111111,#111111,2,0.433031182461
 'Sarah Kellen',fr,unknown,#111111,#111111,1,0.432983869449
 'Jon Ossoff',fr,unknown,#111111,#111111,1,0.432978946101
 'Elisha Ellison',fr,unknown,#111111,#111111,1,0.432935168746
