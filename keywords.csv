@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Daniel Craig',fr,unknown,#111111,#111111,3,0.508929755282
 'Colleen Hoover',fr,unknown,#111111,#111111,2,0.507860055837
 'Charles Spencer',fr,unknown,#111111,#111111,2,0.503118076116
 'Josh Hartnett',fr,unknown,#111111,#111111,2,0.501874655357
@@ -143,6 +142,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Reid',fr,unknown,#111111,#111111,1,0.432760259415
 'Joe Kent',fr,unknown,#111111,#111111,2,0.432726524844
 'Scott Jennings',fr,unknown,#111111,#111111,1,0.432648526862
+'Daniel Craig',fr,unknown,#111111,#111111,2,0.432590606990
 'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,2,0.432505259096
 'Ian Machado Garry',fr,unknown,#111111,#111111,1,0.432253222026
 'Erika Kirk',fr,USA,#18e8e8,#18e8e8,2,0.432064396963
