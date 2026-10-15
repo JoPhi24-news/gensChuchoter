@@ -638,7 +638,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hilda Nakabuye',fr,Uganda,#4411ee,#4411ee,1,0.318423812500
 'Christian Kroll',fr,Deutschland,#1818e8,#1818e8,1,0.318423812500
 'Andrei Sacharow',fr,Russland,#e81818,#e81818,1,0.318423812500
-'Pablo Picasso',fr,Spanien,#33aa99,#33aa99,2,0.318182046112
 'Eric Adams',fr,USA,#18e8e8,#18e8e8,2,0.317837032045
 'Aurélien Pradié',fr,Frankreich,#e8e808,#e8e808,1,0.317402333768
 'Axel Springer',fr,Deutschland,#1818e8,#1818e8,2,0.317133188997
@@ -707,6 +706,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eric Trump',fr,unknown,#111111,#111111,3,0.309338634588
 'Evgueni Prigojine',fr,Russland,#e81818,#e81818,1,0.309232936393
 'Eddie Hearn',fr,UK,#e838e8,#e838e8,1,0.309174839355
+'Pablo Picasso',fr,Spanien,#33aa99,#33aa99,2,0.309154859195
 'Cassidy Hutchinson',fr,unknown,#111111,#111111,1,0.308904662540
 'Tom Kaulitz',fr,unknown,#111111,#111111,1,0.308676808992
 'Pete Davidson',fr,USA,#18e8e8,#18e8e8,1,0.308643624735
