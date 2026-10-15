@@ -604,7 +604,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aaron Rodgers',fr,USA,#18e8e8,#18e8e8,1,0.325317837967
 'Miley Cyrus',fr,USA,#18e8e8,#18e8e8,1,0.325240437149
 'Francis Ford Coppola',fr,USA,#18e8e8,#18e8e8,1,0.325199096927
-'Ben Wallace',fr,USA,#18e8e8,#18e8e8,1,0.325126701091
 'Michele Reiner',fr,unknown,#111111,#111111,1,0.325007645282
 'Sam Bankman-Fried',fr,USA,#18e8e8,#18e8e8,1,0.324691967961
 'Harrison Ford',fr,USA,#18e8e8,#18e8e8,1,0.323854374579
@@ -866,6 +865,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tiffany Chen',fr,USA,#18e8e8,#18e8e8,1,0.277056425948
 'Peter Tschentscher',fr,Deutschland,#1818e8,#1818e8,1,0.276899822928
 'Rosalynn Carter',fr,USA,#18e8e8,#18e8e8,1,0.276749523680
+'Ben Wallace',fr,USA,#18e8e8,#18e8e8,1,0.276507710927
 'Hunter Biden',fr,USA,#18e8e8,#18e8e8,1,0.276433672638
 'Zach Bryan',fr,unknown,#111111,#111111,1,0.276368900776
 'Imran Khan',fr,unknown,#111111,#111111,1,0.275806097635
