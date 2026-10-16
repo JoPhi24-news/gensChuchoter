@@ -33,7 +33,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.457569167724
 'François Mitterrand',fr,unknown,#111111,#111111,3,0.457543285707
 'Marine Tondelier',fr,unknown,#111111,#111111,3,0.457424777587
-'Caroline Lang',fr,unknown,#111111,#111111,3,0.456832214965
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.456574447903
 'Michael Showalter',fr,unknown,#111111,#111111,2,0.455955919274
 'HBO Max',fr,unknown,#111111,#111111,3,0.455531466187
@@ -342,6 +341,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bärbel Bas',fr,Deutschland,#335599,#335599,1,0.390052427513
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,2,0.389105328265
 'Tom Aspinall',fr,UK,#e838e8,#e838e8,1,0.388586259093
+'Caroline Lang',fr,unknown,#111111,#111111,2,0.388307412720
 'Keith Kellogg',fr,USA,#18e8e8,#18e8e8,2,0.388230512313
 'Tyson Fury',fr,unknown,#111111,#111111,2,0.387294908619
 'Les Wexner',fr,unknown,#111111,#111111,1,0.386982430433
