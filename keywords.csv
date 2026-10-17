@@ -289,7 +289,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Affaire Epstein',fr,unknown,#111111,#111111,2,0.410938653784
 'Brigitte Bardot',fr,unknown,#111111,#111111,2,0.410919339941
 'Laurent Wauquiez',fr,Frankreich,#e8e808,#e8e808,3,0.410470347281
-'Will Ferrell',fr,unknown,#111111,#111111,1,0.410415438738
 'Ken Paxton',fr,unknown,#111111,#111111,1,0.410395368114
 'Chris Van Hollen',fr,unknown,#111111,#111111,1,0.410262152410
 'Elie Favrot',fr,unknown,#111111,#111111,1,0.410026054267
@@ -514,6 +513,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Castel Gandolfo',fr,Vatikan,#dd5544,#dd5544,1,0.349118148779
 'Aubrey Plaza',fr,USA,#18e8e8,#18e8e8,1,0.349105150271
 'Mindy Kaling',fr,USA,#18e8e8,#18e8e8,1,0.349084638957
+'Will Ferrell',fr,unknown,#111111,#111111,1,0.349003137927
 'James Biden',fr,USA,#18e8e8,#18e8e8,1,0.347942878043
 'Nikki Haley',fr,USA,#18e8e8,#18e8e8,1,0.347517213534
 'Ron Johnson',fr,USA,#18e8e8,#18e8e8,1,0.346868482424
