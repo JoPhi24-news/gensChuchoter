@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.510523371300
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.480637761263
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.480443489615
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.478803594484
@@ -7,15 +6,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Siad',fr,unknown,#111111,#111111,2,0.475844072400
 'James Bond',fr,unknown,#111111,#111111,3,0.475057111461
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.470196995876
-'François Hollande',fr,unknown,#111111,#111111,2,0.468990105221
-'Maud Bregeon',fr,unknown,#111111,#111111,3,0.468900941678
+'François Hollande',fr,unknown,#111111,#111111,2,0.469687951910
+'Maud Bregeon',fr,unknown,#111111,#111111,3,0.469598965688
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.468096286593
 'Péter Magyar',fr,unknown,#111111,#111111,3,0.467570946914
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.467418860063
+'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.466942319105
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.466829910635
 'David Amiel',fr,unknown,#111111,#111111,2,0.466348097843
 'Baptiste Marteau',fr,unknown,#111111,#111111,1,0.466077842581
-'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.465534287808
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.464443585216
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.463889257150
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.463796103941
@@ -33,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marine Tondelier',fr,unknown,#111111,#111111,3,0.458145579467
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.457569167724
 'François Mitterrand',fr,unknown,#111111,#111111,3,0.457543285707
+'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.457079758787
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.456574447903
 'Michael Showalter',fr,unknown,#111111,#111111,2,0.455955919274
 'HBO Max',fr,unknown,#111111,#111111,3,0.455531466187
