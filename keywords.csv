@@ -1,12 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.524551559485
-'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.483805222218
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.480834452284
+'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.564463364199
+'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.486470540530
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.481508706711
+'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.478510255661
 'Natalie Harp',fr,unknown,#111111,#111111,3,0.476754327697
 'Daniel Siad',fr,unknown,#111111,#111111,2,0.475844072400
 'James Bond',fr,unknown,#111111,#111111,3,0.475057111461
-'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.470196995876
-'François Hollande',fr,unknown,#111111,#111111,2,0.469687951910
+'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.471586504282
+'François Hollande',fr,unknown,#111111,#111111,2,0.470384410612
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.469598965688
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.468096286593
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.467644237033
@@ -24,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eric Dane',fr,unknown,#111111,#111111,2,0.462671392302
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
 'Steve Bannon',fr,unknown,#111111,#111111,1,0.462132810389
-'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.461804372851
 'Marine Tondelier',fr,unknown,#111111,#111111,3,0.460299428280
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.460195138414
 'Hunter Schafer',fr,unknown,#111111,#111111,2,0.459847313033
@@ -307,7 +307,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,2,0.405415425680
 'Hans-Werner Sinn',fr,Deutschland,#1818e8,#1818e8,1,0.405414638799
 'reine Mathilde',fr,unknown,#111111,#111111,2,0.404944114545
-'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.403632483123
+'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.404458118621
 'Pedro Sánchez',fr,Spanien,#33aa99,#33aa99,3,0.403439631411
 'Ali Khamenei',fr,unknown,#111111,#111111,1,0.403042076731
 'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,1,0.402971242282
@@ -525,11 +525,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rosa Parks',fr,USA,#18e8e8,#18e8e8,2,0.346070603006
 'Johann Wadephul',fr,Deutschland,#335599,#335599,1,0.346028311124
 'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,1,0.345794525342
+'Xi Jinping',fr,China,#e88818,#e88818,3,0.345531571050
 'François Braun',fr,Frankreich,#e8e808,#e8e808,3,0.345467275335
 'Greg Brockman',fr,USA,#18e8e8,#18e8e8,1,0.345293414437
 'Travis Kelce',fr,USA,#18e8e8,#18e8e8,2,0.344974935752
 'Steven Spielberg',fr,USA,#18e8e8,#18e8e8,3,0.344879627206
-'Xi Jinping',fr,China,#e88818,#e88818,3,0.344597172041
 'Sophie Turner',fr,UK,#e838e8,#e838e8,2,0.343925232039
 'Vo Van Thuong',fr,Vietnam,#117644,#117644,1,0.343470111841
 'Gavin Newsom',fr,USA,#18e8e8,#18e8e8,2,0.342903421224
