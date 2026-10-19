@@ -1,4 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'François Ruffin',fr,unknown,#111111,#111111,2,0.607723670284
+'Buckingham Palace',fr,unknown,#111111,#111111,2,0.506892988874
+'Dianas Bruder',fr,unknown,#111111,#111111,2,0.505543971388
+'George Staines',fr,unknown,#111111,#111111,2,0.504684984140
+'Earl Spencer',fr,unknown,#111111,#111111,2,0.503358029716
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.486470540530
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.481508706711
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.481217700641
@@ -143,7 +148,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Craig',fr,unknown,#111111,#111111,2,0.432590606990
 'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,2,0.432505259096
 'Ian Machado Garry',fr,unknown,#111111,#111111,1,0.432253222026
-'Erika Kirk',fr,USA,#18e8e8,#18e8e8,2,0.432064396963
 'Ed Gallrein',fr,unknown,#111111,#111111,1,0.432015442676
 'Ben Shapiro',fr,unknown,#111111,#111111,1,0.431974036422
 'Alejandro González Iñárritu',fr,unknown,#111111,#111111,1,0.431956647125
@@ -412,6 +416,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brendan Carr',fr,unknown,#111111,#111111,1,0.367943264311
 'Dakota Ditcheva',fr,unknown,#111111,#111111,1,0.367863826379
 'Jennifer Garner',fr,USA,#18e8e8,#18e8e8,2,0.367533489993
+'Erika Kirk',fr,USA,#18e8e8,#18e8e8,1,0.367254737419
 'Ali Larijani',fr,unknown,#111111,#111111,2,0.367226332067
 'Andrea Berg',fr,unknown,#111111,#111111,1,0.367222703095
 'Romy Reiner',fr,unknown,#111111,#111111,1,0.367219821459
