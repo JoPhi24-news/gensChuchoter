@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Buckingham Palace',fr,unknown,#111111,#111111,2,0.506892988874
 'Dianas Bruder',fr,unknown,#111111,#111111,2,0.505543971388
 'George Staines',fr,unknown,#111111,#111111,2,0.504684984140
 'Earl Spencer',fr,unknown,#111111,#111111,2,0.503358029716
@@ -170,6 +169,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Magomed Ankalaev',fr,unknown,#111111,#111111,1,0.431006620588
 'Bogdan Guskov',fr,unknown,#111111,#111111,1,0.431005981098
 'Sean Brady',fr,unknown,#111111,#111111,2,0.430885965019
+'Buckingham Palace',fr,unknown,#111111,#111111,1,0.430859265543
 'Dan Hooker',fr,unknown,#111111,#111111,1,0.430658120725
 'Nawaz Sharif',fr,Pakistan,#bb33ff,#bb33ff,2,0.430631873479
 'Bruna Ferreira',fr,unknown,#111111,#111111,2,0.430626612059
