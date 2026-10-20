@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dianas Bruder',fr,unknown,#111111,#111111,2,0.505543971388
 'George Staines',fr,unknown,#111111,#111111,2,0.504684984140
 'Earl Spencer',fr,unknown,#111111,#111111,2,0.503358029716
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.486470540530
@@ -186,6 +185,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Élisabeth Borne',fr,Frankreich,#e8e808,#e8e808,3,0.429780551190
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.429750961349
 'Alexandre Pantoja',fr,unknown,#111111,#111111,1,0.429745927490
+'Dianas Bruder',fr,unknown,#111111,#111111,1,0.429712375680
 'James Gunn',fr,USA,#18e8e8,#18e8e8,2,0.429690480188
 'Carlos Prates',fr,unknown,#111111,#111111,1,0.429615287575
 'Islam Makhachev',fr,unknown,#111111,#111111,1,0.429584561170
