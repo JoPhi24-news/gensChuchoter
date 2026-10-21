@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Earl Spencer',fr,unknown,#111111,#111111,2,0.503358029716
+'Earl Spencer',fr,unknown,#111111,#111111,2,0.578154355259
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.486470540530
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.483234142808
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.481508706711
@@ -210,6 +210,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kelly Ripa',fr,unknown,#111111,#111111,1,0.428539557483
 'Kerstin Ott',fr,unknown,#111111,#111111,1,0.428527482215
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,3,0.428496086379
+'Charles Spencer',fr,unknown,#111111,#111111,1,0.428430130505
 'Gable Steveson',fr,unknown,#111111,#111111,1,0.428249025337
 'Liveblog USA',fr,unknown,#111111,#111111,1,0.428244120085
 'Abby Phillip',fr,unknown,#111111,#111111,1,0.428193937791
@@ -220,7 +221,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Lennon',fr,unknown,#111111,#111111,1,0.427836695391
 'Merab Dvalishvili',fr,unknown,#111111,#111111,1,0.427746535131
 'Howard Lutnick',fr,unknown,#111111,#111111,2,0.427738798516
-'Charles Spencer',fr,unknown,#111111,#111111,1,0.427650814699
 'Mauricio Ruffy',fr,unknown,#111111,#111111,1,0.427606981959
 'Spencer Pratt',fr,unknown,#111111,#111111,1,0.427517673921
 'Petr Yan',fr,unknown,#111111,#111111,1,0.427426873175
@@ -498,9 +498,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leo XIV',fr,Vatikan,#dd5544,#dd5544,1,0.355379973169
 'Chris Hemsworth',fr,Australien,#aa9933,#aa9933,1,0.354956943545
 'Marjorie Taylor Greene',fr,USA,#18e8e8,#18e8e8,1,0.354761815598
+'prince Harry',fr,UK,#e838e8,#e838e8,2,0.354635218995
 'Savannah Guthrie',fr,unknown,#111111,#111111,1,0.354537585058
 'Cruz Beckham',fr,Spanien,#33aa99,#33aa99,1,0.354013561220
-'prince Harry',fr,UK,#e838e8,#e838e8,2,0.353717046821
 'Ayatollah Khomeini',fr,Iran,#1144ee,#1144ee,1,0.353419246902
 'Lara Trump',fr,USA,#18e8e8,#18e8e8,1,0.353191114947
 'Vivek Ramaswamy',fr,USA,#18e8e8,#18e8e8,2,0.352384338715
@@ -542,10 +542,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Comey',fr,USA,#18e8e8,#18e8e8,1,0.341809633755
 'Margaret Thatcher',fr,UK,#e838e8,#e838e8,2,0.340914469394
 'Sam H',fr,unknown,#111111,#111111,2,0.340850459855
+'Lady Di',fr,UK,#e838e8,#e838e8,1,0.340828272993
 'Paris Hilton',fr,USA,#18e8e8,#18e8e8,1,0.339847538335
 'Tim Cook',fr,USA,#18e8e8,#18e8e8,3,0.339167345300
 'Julia Louis-Dreyfus',fr,USA,#18e8e8,#18e8e8,1,0.339007543002
-'Lady Di',fr,UK,#e838e8,#e838e8,1,0.338941244543
 'Kristen Wiig',fr,unknown,#111111,#111111,2,0.338863980792
 'Ferdinand Dudenhöffer',fr,Deutschland,#1818e8,#1818e8,1,0.338544603119
 'nan Si',fr,unknown,#111111,#111111,1,0.338439211509
