@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Earl Spencer',fr,unknown,#111111,#111111,2,0.491731231970
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.486470540530
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.483234142808
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.481508706711
@@ -271,6 +270,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,1,0.419423908903
 'Nancy Guthrie',fr,unknown,#111111,#111111,1,0.418981185937
 'Scooter Braun',fr,unknown,#111111,#111111,1,0.418764424098
+'Earl Spencer',fr,unknown,#111111,#111111,2,0.418271577175
 'Peter Attia',fr,unknown,#111111,#111111,1,0.417749339340
 'Jim Himes',fr,unknown,#111111,#111111,1,0.417578097163
 'Margaret Brennan',fr,unknown,#111111,#111111,1,0.417441976237
