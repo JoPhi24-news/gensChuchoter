@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'George Staines',fr,unknown,#111111,#111111,2,0.504684984140
 'Earl Spencer',fr,unknown,#111111,#111111,2,0.503358029716
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.486470540530
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.483234142808
@@ -201,6 +200,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Don Bacon',fr,unknown,#111111,#111111,1,0.429206541252
 'Khabib Nurmagomedov',fr,unknown,#111111,#111111,1,0.429061709631
 'Nick Bilton',fr,unknown,#111111,#111111,1,0.429001151593
+'George Staines',fr,unknown,#111111,#111111,1,0.428982236519
 'Robert Gates',fr,unknown,#111111,#111111,1,0.428818924206
 'Jean Castex',fr,Frankreich,#e8e808,#e8e808,3,0.428792736027
 'Mother Mary',fr,unknown,#111111,#111111,2,0.428742984771
