@@ -1,15 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.486470540530
-'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.483234142808
+'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.489211468115
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.481508706711
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.480173899329
 'Natalie Harp',fr,unknown,#111111,#111111,3,0.476754327697
 'Daniel Siad',fr,unknown,#111111,#111111,2,0.475844072400
 'James Bond',fr,unknown,#111111,#111111,3,0.475057111461
+'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.472999088996
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.471586504282
+'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.470437981404
 'François Hollande',fr,unknown,#111111,#111111,2,0.470384410612
 'Maud Bregeon',fr,unknown,#111111,#111111,3,0.469598965688
-'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.469043889753
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.468096286593
 'Péter Magyar',fr,unknown,#111111,#111111,3,0.467570946914
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.467418860063
@@ -17,12 +17,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Amiel',fr,unknown,#111111,#111111,2,0.466348097843
 'Baptiste Marteau',fr,unknown,#111111,#111111,1,0.466077842581
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.464443585216
+'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.464129951940
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.463889257150
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.463853470522
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.463796103941
 'Sven Schulze',fr,unknown,#111111,#111111,2,0.463286277921
 'Marine Tondelier',fr,unknown,#111111,#111111,3,0.463151350918
-'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.462710717563
 'Eric Dane',fr,unknown,#111111,#111111,2,0.462671392302
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
 'Steve Bannon',fr,unknown,#111111,#111111,1,0.462132810389
@@ -38,10 +38,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.456574447903
 'Michael Showalter',fr,unknown,#111111,#111111,2,0.455955919274
 'HBO Max',fr,unknown,#111111,#111111,3,0.455531466187
+'Ségolène Royal',fr,unknown,#111111,#111111,3,0.455300131315
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.455194822417
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.454806983921
 'Dolly Parton',fr,unknown,#111111,#111111,3,0.454528681028
-'Ségolène Royal',fr,unknown,#111111,#111111,3,0.453845801877
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,2,0.453818250076
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.453757808859
 'Amélie de Montchalin',fr,unknown,#111111,#111111,1,0.453253280310
@@ -49,11 +49,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Letterman',fr,unknown,#111111,#111111,2,0.452384722178
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
 'Keir Starmer',fr,unknown,#111111,#111111,3,0.451451339291
+'Jérôme Guedj',fr,unknown,#111111,#111111,3,0.451296299157
 'Josh Hartnett',fr,unknown,#111111,#111111,2,0.451172343482
 'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.450983079250
 'Francis Ngannou',fr,unknown,#111111,#111111,2,0.450762642298
 'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.450642832579
-'Jérôme Guedj',fr,unknown,#111111,#111111,3,0.450561926141
 'Quentin Deranque',fr,unknown,#111111,#111111,3,0.450470638357
 'Premier ministre',fr,Frankreich,#e8e808,#e8e808,3,0.450461563807
 'Tom Cruise',fr,unknown,#111111,#111111,2,0.450431078304
@@ -296,8 +296,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Van Hollen',fr,unknown,#111111,#111111,1,0.410262152410
 'Elie Favrot',fr,unknown,#111111,#111111,1,0.410026054267
 'Diane Keaton',fr,unknown,#111111,#111111,2,0.409850588627
+'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.409378898824
 'Stormy Daniels',fr,USA,#18e8e8,#18e8e8,1,0.408604237086
-'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.408562692352
 'Noël Barrot',fr,unknown,#111111,#111111,2,0.408388099375
 'Cilia Flores',fr,unknown,#111111,#111111,2,0.408243178162
 'Kamel Daoud',fr,unknown,#111111,#111111,1,0.408156809337
