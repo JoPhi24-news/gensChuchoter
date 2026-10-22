@@ -181,7 +181,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Twain',fr,unknown,#111111,#111111,1,0.429881474754
 'Nancy Pelosi',fr,unknown,#111111,#111111,1,0.429824530134
 'Élisabeth Borne',fr,Frankreich,#e8e808,#e8e808,3,0.429780551190
-'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.429750961349
 'Alexandre Pantoja',fr,unknown,#111111,#111111,1,0.429745927490
 'Dianas Bruder',fr,unknown,#111111,#111111,1,0.429712375680
 'James Gunn',fr,USA,#18e8e8,#18e8e8,2,0.429690480188
@@ -441,6 +440,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Schnieder',fr,Deutschland,#335599,#335599,1,0.365404375000
 'Dorothee Bär',fr,Deutschland,#335599,#335599,1,0.365404375000
 'Christiane Schenderlein',fr,Deutschland,#335599,#335599,1,0.365404375000
+'Joe Biden',fr,USA,#18e8e8,#18e8e8,2,0.365289037147
 'Anant Ambani',fr,Indien,#995533,#995533,1,0.365087340868
 'Helene Fischer',fr,unknown,#111111,#111111,1,0.364932310634
 'Belal Muhammad',fr,unknown,#111111,#111111,1,0.364895523150
