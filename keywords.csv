@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.514899085570
+'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.583530498644
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.489869003429
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.481508706711
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.482181616247
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.480173899329
 'Natalie Harp',fr,unknown,#111111,#111111,3,0.476754327697
 'Daniel Siad',fr,unknown,#111111,#111111,2,0.475844072400
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.466829910635
 'David Amiel',fr,unknown,#111111,#111111,2,0.466348097843
 'Baptiste Marteau',fr,unknown,#111111,#111111,1,0.466077842581
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.465150467255
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.465855945391
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.464129951940
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.463889257150
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.463853470522
@@ -982,10 +982,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Melinda Gates',fr,USA,#18e8e8,#18e8e8,2,0.240545882123
 'Robert Sesselmann',fr,Deutschland,#1818e8,#1818e8,1,0.239727751318
 'Martin Scorsese',fr,USA,#18e8e8,#18e8e8,1,0.239407312147
+'John Paul II',fr,Vatikan,#58b8e8,#58b8e8,1,0.238997411058
 'Justin Trudeau',fr,Kanada,#55ee33,#55ee33,3,0.238422703470
 'Papst Benedikt XVI',fr,Vatikan,#58b8e8,#58b8e8,2,0.238271904683
 'Joseph Ratzinger',fr,Vatikan,#58b8e8,#58b8e8,1,0.238018838372
-'John Paul II',fr,Vatikan,#58b8e8,#58b8e8,1,0.237894593817
 'Michael Cohen',fr,USA,#18e8e8,#18e8e8,2,0.237648911794
 'Wolfgang Kubicki',fr,Deutschland,#1818e8,#1818e8,1,0.236949998009
 'Reed Richards',fr,unknown,#111111,#111111,1,0.236837359268
