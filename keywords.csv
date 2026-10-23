@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.489211468115
+'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.514899085570
+'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.489869003429
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.481508706711
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.480173899329
 'Natalie Harp',fr,unknown,#111111,#111111,3,0.476754327697
@@ -16,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.466829910635
 'David Amiel',fr,unknown,#111111,#111111,2,0.466348097843
 'Baptiste Marteau',fr,unknown,#111111,#111111,1,0.466077842581
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.464443585216
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.465150467255
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.464129951940
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.463889257150
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.463853470522
@@ -57,12 +58,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.450642832579
 'Quentin Deranque',fr,unknown,#111111,#111111,3,0.450470638357
 'Premier ministre',fr,Frankreich,#e8e808,#e8e808,3,0.450461563807
+'Léa Salamé',fr,unknown,#111111,#111111,2,0.450388836786
 'Sam Levinson',fr,unknown,#111111,#111111,2,0.450381178057
-'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.450198886232
 'Renee Good',fr,unknown,#111111,#111111,3,0.450014794023
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.449934636325
 'Delcy Rodríguez',fr,unknown,#111111,#111111,2,0.449494095292
-'Léa Salamé',fr,unknown,#111111,#111111,2,0.448915045815
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.448299397630
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.447960979507
 'Pam Bondi',fr,unknown,#111111,#111111,2,0.447299684596
@@ -556,10 +556,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lewis Kaplan',fr,USA,#18e8e8,#18e8e8,2,0.337356182623
 'Jean-Denis Combrexelle',fr,Frankreich,#e8e808,#e8e808,1,0.337260877638
 'Ayo Edebiri',fr,USA,#18e8e8,#18e8e8,1,0.337019660563
+'Robert Francis Prevost',fr,USA,#18e8e8,#18e8e8,1,0.336500809594
 'Ron DeSantis',fr,USA,#18e8e8,#18e8e8,3,0.335952659678
 'Markus Lanz',fr,Deutschland,#1818e8,#1818e8,1,0.335897419045
 'Lula da Silva',fr,Brasilien,#58e838,#58e848,2,0.335608084458
-'Robert Francis Prevost',fr,USA,#18e8e8,#18e8e8,1,0.335550554908
 'Gigi Hadid',fr,USA,#18e8e8,#18e8e8,1,0.335416352022
 'nan nan',fr,unknown,#dddddd,#dddddd,1,0.335411768553
 'Aurélien Rousseau',fr,Frankreich,#e8e808,#e8e808,1,0.334305013868
