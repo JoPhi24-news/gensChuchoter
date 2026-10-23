@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.583530498644
+'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.613308108847
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.489869003429
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.482181616247
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.480173899329
@@ -97,6 +97,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Susan Collins',fr,unknown,#111111,#111111,1,0.440097870187
 'Michele Singer Reiner',fr,unknown,#111111,#111111,1,0.439994114811
 'Pete Hegseth',fr,USA,#18e8e8,#18e8e8,3,0.438930357415
+'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.438754582771
 'Chris Murphy',fr,unknown,#111111,#111111,1,0.438683212287
 'Sam Altman',fr,USA,#18e8e8,#18e8e8,3,0.438682303445
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.438551756242
@@ -107,7 +108,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andy Burnham',fr,unknown,#111111,#111111,3,0.437878262501
 'Edouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.437846100822
 'James Van Der Beek',fr,unknown,#111111,#111111,2,0.437845131208
-'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.436472804846
 'Bill Pulte',fr,unknown,#111111,#111111,2,0.436268336758
 'Mark Kelly',fr,unknown,#111111,#111111,2,0.436124434122
 'Amélie de Montchalin',fr,unknown,#111111,#111111,3,0.435916773611
@@ -526,12 +526,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Smith',fr,USA,#18e8e8,#18e8e8,2,0.346717275903
 'Lachlan Murdoch',fr,UK,#e838e8,#e838e8,1,0.346650533448
 'Demi Moore',fr,USA,#18e8e8,#18e8e8,1,0.346564423887
+'Xi Jinping',fr,China,#e88818,#e88818,3,0.346464318485
 'Lady Gaga',fr,USA,#18e8e8,#18e8e8,1,0.346353561375
 'Greg Abbott',fr,USA,#18e8e8,#18e8e8,1,0.346074933839
 'Rosa Parks',fr,USA,#18e8e8,#18e8e8,2,0.346070603006
 'Johann Wadephul',fr,Deutschland,#335599,#335599,1,0.346028311124
 'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,1,0.345794525342
-'Xi Jinping',fr,China,#e88818,#e88818,3,0.345531571050
 'François Braun',fr,Frankreich,#e8e808,#e8e808,3,0.345467275335
 'Greg Brockman',fr,USA,#18e8e8,#18e8e8,1,0.345293414437
 'Travis Kelce',fr,USA,#18e8e8,#18e8e8,2,0.344974935752
@@ -980,9 +980,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kevin Kühnert',fr,Deutschland,#1818e8,#1818e8,1,0.241224347799
 'Andrea Arnold',fr,UK,#e838e8,#e838e8,1,0.240908947668
 'Melinda Gates',fr,USA,#18e8e8,#18e8e8,2,0.240545882123
+'John Paul II',fr,Vatikan,#58b8e8,#58b8e8,1,0.240098724539
 'Robert Sesselmann',fr,Deutschland,#1818e8,#1818e8,1,0.239727751318
 'Martin Scorsese',fr,USA,#18e8e8,#18e8e8,1,0.239407312147
-'John Paul II',fr,Vatikan,#58b8e8,#58b8e8,1,0.238997411058
 'Justin Trudeau',fr,Kanada,#55ee33,#55ee33,3,0.238422703470
 'Papst Benedikt XVI',fr,Vatikan,#58b8e8,#58b8e8,2,0.238271904683
 'Joseph Ratzinger',fr,Vatikan,#58b8e8,#58b8e8,1,0.238018838372
