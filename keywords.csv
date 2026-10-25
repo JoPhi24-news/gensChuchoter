@@ -600,7 +600,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Billy Crystal',fr,USA,#18e8e8,#18e8e8,1,0.327477889114
 'Rupert Murdoch',fr,USA,#18e8e8,#18e8e8,1,0.326941594224
 'Alexander Smirnov',fr,Israel,#3311cc,#3311cc,1,0.326808323006
-'Jerry Seinfeld',fr,USA,#18e8e8,#18e8e8,2,0.326412631438
 'Bill Belichick',fr,USA,#18e8e8,#18e8e8,1,0.326301033855
 'James Comer',fr,USA,#18e8e8,#18e8e8,1,0.326224034800
 'Jamie Dimon',fr,USA,#18e8e8,#18e8e8,2,0.326031088907
@@ -865,6 +864,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pat McAfee',fr,USA,#18e8e8,#18e8e8,1,0.278613938947
 'James Cameron',fr,USA,#18e8e8,#18e8e8,1,0.278263104898
 'Jackson Hole',fr,unknown,#111111,#111111,1,0.277670329302
+'Jerry Seinfeld',fr,USA,#18e8e8,#18e8e8,1,0.277450736722
 'Jonathan Turley',fr,unknown,#111111,#111111,1,0.277351200977
 'John Fetterman',fr,unknown,#111111,#111111,1,0.277113856329
 'Tiffany Chen',fr,USA,#18e8e8,#18e8e8,1,0.277056425948
