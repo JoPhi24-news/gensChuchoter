@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.471586504282
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.470437981404
 'François Hollande',fr,unknown,#111111,#111111,2,0.470384410612
-'Maud Bregeon',fr,unknown,#111111,#111111,3,0.469598965688
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.468096286593
 'Péter Magyar',fr,unknown,#111111,#111111,3,0.467570946914
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.467418860063
@@ -321,6 +320,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Mandelson',fr,unknown,#111111,#111111,1,0.399664793472
 'Charles III',fr,UK,#e838e8,#e838e8,3,0.399653561772
 'Raphaël Arnault',fr,unknown,#111111,#111111,2,0.399325694022
+'Maud Bregeon',fr,unknown,#111111,#111111,2,0.399160065835
 'Tom Homan',fr,unknown,#111111,#111111,1,0.397932021570
 "'Dwayne ""The Rock"" Johnson'",fr,USA,#18e8e8,#18e8e8,2,0.397800998044
 'Britney Spears',fr,USA,#18e8e8,#18e8e8,2,0.396989237624
