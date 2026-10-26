@@ -1,11 +1,20 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Emmanuel Maurel',fr,unknown,#111111,#111111,2,0.603336947707
+'Katie Zacharia',fr,unknown,#111111,#111111,2,0.602761330909
+'Piers Morgan',fr,unknown,#111111,#111111,2,0.508159496855
+'Nassourdine Imavov',fr,unknown,#111111,#111111,2,0.506379073198
+'Loai Abushaar',fr,unknown,#111111,#111111,2,0.505281793891
+'My Sister',fr,unknown,#111111,#111111,2,0.504760891810
+'Swan Song',fr,unknown,#111111,#111111,2,0.504705996259
+'Demetrious Johnson',fr,unknown,#111111,#111111,2,0.503107921582
+'Jorge Masvidal',fr,unknown,#111111,#111111,2,0.501822477094
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.489869003429
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.482853183414
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.480554952985
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.480173899329
 'Natalie Harp',fr,unknown,#111111,#111111,3,0.476754327697
 'Daniel Siad',fr,unknown,#111111,#111111,2,0.475844072400
-'James Bond',fr,unknown,#111111,#111111,3,0.475057111461
+'James Bond',fr,unknown,#111111,#111111,3,0.475742882042
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.472999088996
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.471586504282
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.470437981404
@@ -237,7 +246,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brad Pitt',fr,USA,#18e8e8,#18e8e8,3,0.425982178036
 'Chris Cuomo',fr,unknown,#111111,#111111,1,0.425955272520
 'Mateusz Gamrot',fr,unknown,#111111,#111111,1,0.425789763616
-'Paul McCartney',fr,unknown,#111111,#111111,1,0.425748749058
 'Trevor Phillips',fr,unknown,#111111,#111111,1,0.425622181304
 'Tig Notaro',fr,USA,#18e8e8,#18e8e8,1,0.425358127032
 'Michael Morales',fr,unknown,#111111,#111111,1,0.425322803805
@@ -279,6 +287,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kevin Spacey',fr,unknown,#111111,#111111,1,0.416091768166
 'Dua Lipa',fr,UK,#e838e8,#e838e8,2,0.415626570686
 'Guy Ritchie',fr,UK,#e838e8,#e838e8,2,0.415199150832
+'Paul McCartney',fr,unknown,#111111,#111111,2,0.415036751699
 'Andrew Windsor',fr,unknown,#111111,#111111,1,0.414682942039
 'Chris Wright',fr,USA,#18e8e8,#18e8e8,2,0.413317892528
 'Bruno Le Maire',fr,Frankreich,#e8e808,#e8e808,3,0.413163635069
