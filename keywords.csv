@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Katie Zacharia',fr,unknown,#111111,#111111,2,0.602761330909
 'Emmanuel Maurel',fr,unknown,#111111,#111111,3,0.595060497824
+'Katie Zacharia',fr,unknown,#111111,#111111,2,0.578733550558
 'Piers Morgan',fr,unknown,#111111,#111111,2,0.508159496855
 'Nassourdine Imavov',fr,unknown,#111111,#111111,2,0.506379073198
 'Loai Abushaar',fr,unknown,#111111,#111111,2,0.505281793891
@@ -20,8 +20,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.470437981404
 'François Hollande',fr,unknown,#111111,#111111,2,0.470384410612
 'Péter Magyar',fr,unknown,#111111,#111111,3,0.470352786645
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.469362363440
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.468795910619
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.467963980909
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.467418860063
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.466829910635
 'David Amiel',fr,unknown,#111111,#111111,2,0.466348097843
