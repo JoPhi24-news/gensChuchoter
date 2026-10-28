@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Piers Morgan',fr,unknown,#111111,#111111,2,0.508159496855
 'Emmanuel Maurel',fr,unknown,#111111,#111111,3,0.507366318733
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.507134439515
 'Nassourdine Imavov',fr,unknown,#111111,#111111,2,0.506379073198
@@ -155,6 +154,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ben Shapiro',fr,unknown,#111111,#111111,1,0.431974036422
 'Alejandro González Iñárritu',fr,unknown,#111111,#111111,1,0.431956647125
 'Sarah Ferguson',fr,unknown,#111111,#111111,1,0.431947286375
+'Piers Morgan',fr,unknown,#111111,#111111,1,0.431935752327
 'Bill Maher',fr,unknown,#111111,#111111,1,0.431788174780
 'Rosie ODonnell',fr,unknown,#111111,#111111,1,0.431723716061
 'Liveblog Irankrieg',fr,unknown,#111111,#111111,1,0.431723564655
