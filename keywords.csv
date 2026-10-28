@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Katie Zacharia',fr,unknown,#111111,#111111,3,0.578699252974
 'Piers Morgan',fr,unknown,#111111,#111111,2,0.508159496855
 'Emmanuel Maurel',fr,unknown,#111111,#111111,3,0.507366318733
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.507134439515
@@ -9,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Swan Song',fr,unknown,#111111,#111111,2,0.504705996259
 'Demetrious Johnson',fr,unknown,#111111,#111111,2,0.503107921582
 'Jorge Masvidal',fr,unknown,#111111,#111111,2,0.501822477094
+'Katie Zacharia',fr,unknown,#111111,#111111,2,0.491895100028
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.487201205112
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.482853183414
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.480554952985
