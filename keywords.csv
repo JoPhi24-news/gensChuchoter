@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Katie Zacharia',fr,unknown,#111111,#111111,3,0.493224160024
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.487201205112
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.482853183414
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.481474189042
@@ -8,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Natalie Harp',fr,unknown,#111111,#111111,3,0.476754327697
 'Daniel Siad',fr,unknown,#111111,#111111,2,0.475844072400
 'James Bond',fr,unknown,#111111,#111111,3,0.475742882042
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.472834053138
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.472279185413
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.471449524870
 'François Hollande',fr,unknown,#111111,#111111,2,0.471079483801
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.470437981404
 'Péter Magyar',fr,unknown,#111111,#111111,3,0.470352786645
@@ -63,8 +62,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Renee Good',fr,unknown,#111111,#111111,3,0.450014794023
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.449934636325
 'Delcy Rodríguez',fr,unknown,#111111,#111111,2,0.449494095292
+'Pam Bondi',fr,unknown,#111111,#111111,2,0.448040493121
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.447960979507
-'Pam Bondi',fr,unknown,#111111,#111111,2,0.447299684596
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.447046670732
 'JD Vance',fr,USA,#18e8e8,#18e8e8,2,0.446486548744
 'Leslie Wexner',fr,unknown,#111111,#111111,2,0.446163335264
@@ -73,10 +72,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yannick Jadot',fr,unknown,#111111,#111111,2,0.445312874182
 'Jack White',fr,unknown,#111111,#111111,2,0.444771242863
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
+'Kristi Noem',fr,unknown,#111111,#111111,3,0.443585582380
 'Nicolas Cage',fr,unknown,#111111,#111111,2,0.443563063910
 'Claire Legendre',fr,unknown,#111111,#111111,2,0.443480281736
-'Kristi Noem',fr,unknown,#111111,#111111,3,0.442835986012
 'Joshua Van',fr,unknown,#111111,#111111,2,0.442828066558
+'Katie Zacharia',fr,unknown,#111111,#111111,3,0.442791361020
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.442668993451
 'Nicolas Maduro',fr,unknown,#111111,#111111,2,0.442255979431
 'Abdelmadjid Tebboune',fr,unknown,#111111,#111111,2,0.442203175567
