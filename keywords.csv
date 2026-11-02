@@ -1,4 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Dricus Du Plessis',fr,unknown,#111111,#111111,2,0.509402765625
+'Kimberly Guilfoyle',fr,unknown,#111111,#111111,2,0.507504512948
+'Diego Lopes',fr,unknown,#111111,#111111,2,0.501650994111
+'Khamzat Chimaev',fr,unknown,#111111,#111111,2,0.500235447938
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.487201205112
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.482853183414
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.481474189042
@@ -170,7 +174,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sean Brady',fr,unknown,#111111,#111111,2,0.430885965019
 'Buckingham Palace',fr,unknown,#111111,#111111,1,0.430859265543
 'Dan Hooker',fr,unknown,#111111,#111111,1,0.430658120725
-'Nawaz Sharif',fr,Pakistan,#bb33ff,#bb33ff,2,0.430631873479
 'Bruna Ferreira',fr,unknown,#111111,#111111,2,0.430626612059
 'Joey Kelly',fr,unknown,#111111,#111111,1,0.430559081395
 'Usman Nurmagomedov',fr,unknown,#111111,#111111,1,0.430411527012
@@ -441,6 +444,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sarah Stier',fr,unknown,#111111,#111111,1,0.366300418412
 'Arman Tsarukyan',fr,unknown,#111111,#111111,1,0.366253092823
 'Omar Yaghi',fr,Jordanien,#335588,#335588,1,0.366196806104
+'Nawaz Sharif',fr,Pakistan,#bb33ff,#bb33ff,1,0.366037092457
 'Nicola Peltz',fr,USA,#18e8e8,#18e8e8,1,0.365934249802
 'Casey Wasserman',fr,unknown,#111111,#111111,1,0.365927085933
 'Robert Kennedy',fr,USA,#18e8e8,#18e8e8,2,0.365800718512
