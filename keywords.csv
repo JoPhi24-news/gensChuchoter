@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dricus Du Plessis',fr,unknown,#111111,#111111,2,0.509402765625
 'Kimberly Guilfoyle',fr,unknown,#111111,#111111,2,0.507504512948
 'Diego Lopes',fr,unknown,#111111,#111111,2,0.501650994111
 'Khamzat Chimaev',fr,unknown,#111111,#111111,2,0.500235447938
@@ -136,6 +135,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ian Garry',fr,unknown,#111111,#111111,1,0.433316616890
 'Maite Kelly',fr,unknown,#111111,#111111,1,0.433277033953
 'Colleen Hoover',fr,unknown,#111111,#111111,2,0.433031182461
+'Dricus Du Plessis',fr,unknown,#111111,#111111,1,0.432992350781
 'Sarah Kellen',fr,unknown,#111111,#111111,1,0.432983869449
 'Jon Ossoff',fr,unknown,#111111,#111111,1,0.432978946101
 'Elisha Ellison',fr,unknown,#111111,#111111,1,0.432935168746
