@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kimberly Guilfoyle',fr,unknown,#111111,#111111,2,0.507504512948
+'Kimberly Guilfoyle',fr,unknown,#111111,#111111,3,0.509979196006
 'Diego Lopes',fr,unknown,#111111,#111111,2,0.501650994111
 'Khamzat Chimaev',fr,unknown,#111111,#111111,2,0.500235447938
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.487201205112
@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Natalie Harp',fr,unknown,#111111,#111111,3,0.476754327697
 'Daniel Siad',fr,unknown,#111111,#111111,2,0.475844072400
 'James Bond',fr,unknown,#111111,#111111,3,0.475742882042
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.472834053138
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.474213074441
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.472279185413
 'François Hollande',fr,unknown,#111111,#111111,2,0.471079483801
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.470437981404
@@ -43,13 +43,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.456574447903
 'Michael Showalter',fr,unknown,#111111,#111111,2,0.455955919274
 'HBO Max',fr,unknown,#111111,#111111,3,0.455531466187
+'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.455268297673
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.455194822417
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.454806983921
 'Dolly Parton',fr,unknown,#111111,#111111,3,0.454528681028
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,2,0.453818250076
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.453757808859
 'Amélie de Montchalin',fr,unknown,#111111,#111111,1,0.453253280310
-'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.453084452236
 'David Letterman',fr,unknown,#111111,#111111,2,0.452384722178
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
 'Tom Cruise',fr,unknown,#111111,#111111,2,0.451898890422
@@ -89,6 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Mountbatten Windsor',fr,unknown,#111111,#111111,1,0.441091960569
 'Michele Singer',fr,unknown,#111111,#111111,1,0.440997621951
 'Tulsi Gabbard',fr,unknown,#111111,#111111,2,0.440974402259
+'Susan Collins',fr,unknown,#111111,#111111,1,0.440852846329
 'Ro Khanna',fr,unknown,#111111,#111111,2,0.440799050219
 'Richard Falk',fr,unknown,#111111,#111111,1,0.440725000000
 'Revital Gottlieb',fr,unknown,#111111,#111111,1,0.440725000000
@@ -97,10 +98,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hannu Halinen',fr,unknown,#111111,#111111,1,0.440725000000
 'Avi Dichter',fr,unknown,#111111,#111111,1,0.440725000000
 'Conor McGregor',fr,unknown,#111111,#111111,2,0.440135940479
-'Susan Collins',fr,unknown,#111111,#111111,1,0.440097870187
 'Michele Singer Reiner',fr,unknown,#111111,#111111,1,0.439994114811
+'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.439512194999
 'Pete Hegseth',fr,USA,#18e8e8,#18e8e8,3,0.438930357415
-'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.438754582771
 'Chris Murphy',fr,unknown,#111111,#111111,1,0.438683212287
 'Sam Altman',fr,USA,#18e8e8,#18e8e8,3,0.438682303445
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.438551756242
@@ -154,6 +154,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alejandro González Iñárritu',fr,unknown,#111111,#111111,1,0.431956647125
 'Sarah Ferguson',fr,unknown,#111111,#111111,1,0.431947286375
 'Piers Morgan',fr,unknown,#111111,#111111,1,0.431935752327
+'Steve Witkoff',fr,unknown,#111111,#111111,3,0.431838783291
 'Bill Maher',fr,unknown,#111111,#111111,1,0.431788174780
 'Rosie ODonnell',fr,unknown,#111111,#111111,1,0.431723716061
 'Liveblog Irankrieg',fr,unknown,#111111,#111111,1,0.431723564655
@@ -167,7 +168,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rosie O’Donnell',fr,unknown,#111111,#111111,2,0.431245751646
 'Manuela Schwesig',fr,unknown,#111111,#111111,1,0.431160879197
 'Lisa Müller',fr,unknown,#111111,#111111,1,0.431109635953
-'Steve Witkoff',fr,unknown,#111111,#111111,3,0.431066125883
 'Carlos Ulberg',fr,unknown,#111111,#111111,1,0.431050915938
 'Magomed Ankalaev',fr,unknown,#111111,#111111,1,0.431006620588
 'Bogdan Guskov',fr,unknown,#111111,#111111,1,0.431005981098
@@ -623,9 +623,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Miley Cyrus',fr,USA,#18e8e8,#18e8e8,1,0.325240437149
 'Francis Ford Coppola',fr,USA,#18e8e8,#18e8e8,1,0.325199096927
 'Michele Reiner',fr,unknown,#111111,#111111,1,0.325007645282
+'Jared Kushner',fr,unknown,#111111,#111111,1,0.324782815813
 'Sam Bankman-Fried',fr,USA,#18e8e8,#18e8e8,1,0.324691967961
 'Harrison Ford',fr,USA,#18e8e8,#18e8e8,1,0.323854374579
-'Jared Kushner',fr,unknown,#111111,#111111,1,0.323812366494
 'Kim Kardashian',fr,USA,#18e8e8,#18e8e8,2,0.323520171423
 'Lionel Richie',fr,USA,#18e8e8,#18e8e8,2,0.323374070355
 'Mohammed Bin Salman',fr,SaudiArabien,#22bb66,#22bb66,1,0.322733071857
