@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kimberly Guilfoyle',fr,unknown,#111111,#111111,3,0.509979196006
 'Diego Lopes',fr,unknown,#111111,#111111,2,0.501650994111
 'Khamzat Chimaev',fr,unknown,#111111,#111111,2,0.500235447938
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.487201205112
@@ -129,6 +128,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'RFK Jr',fr,USA,#18e8e8,#18e8e8,1,0.433842013072
 'Justin Bieber',fr,Kanada,#55ee33,#55ee33,2,0.433796884078
 'Candace Owens',fr,unknown,#111111,#111111,2,0.433624868345
+'Kimberly Guilfoyle',fr,unknown,#111111,#111111,1,0.433482676605
 'Denise Kielholtz',fr,unknown,#111111,#111111,1,0.433434842670
 'Jon Anik',fr,unknown,#111111,#111111,1,0.433413662719
 'Max Holloway',fr,unknown,#111111,#111111,1,0.433397402778
