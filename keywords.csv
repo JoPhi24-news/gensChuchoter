@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Diego Lopes',fr,unknown,#111111,#111111,2,0.501650994111
 'Khamzat Chimaev',fr,unknown,#111111,#111111,2,0.500235447938
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.487201205112
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.482853183414
@@ -240,6 +239,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philippe Brun',fr,unknown,#111111,#111111,3,0.426646193815
 'Howie Mandel',fr,unknown,#111111,#111111,1,0.426632355671
 'Jorge Masvidal',fr,unknown,#111111,#111111,1,0.426549105530
+'Diego Lopes',fr,unknown,#111111,#111111,1,0.426403344994
 'László Krasznahorkai',fr,Ungarn,#99aa33,#99aa33,1,0.426324337111
 'Ali Abdelaziz',fr,unknown,#111111,#111111,1,0.426271711471
 'Liveblog Ukrainekrieg',fr,unknown,#111111,#111111,1,0.426259326308
