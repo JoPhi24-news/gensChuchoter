@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Khamzat Chimaev',fr,unknown,#111111,#111111,2,0.500235447938
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.487201205112
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.482853183414
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.481474189042
@@ -251,6 +250,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trevor Phillips',fr,unknown,#111111,#111111,1,0.425622181304
 'Tig Notaro',fr,USA,#18e8e8,#18e8e8,1,0.425358127032
 'Michael Morales',fr,unknown,#111111,#111111,1,0.425322803805
+'Khamzat Chimaev',fr,unknown,#111111,#111111,1,0.425200130747
 'Chris Nanos',fr,unknown,#111111,#111111,1,0.425128208387
 'Harriet Sperling',fr,unknown,#111111,#111111,1,0.425095233294
 'Vanessa Mai',fr,unknown,#111111,#111111,1,0.425064170043
