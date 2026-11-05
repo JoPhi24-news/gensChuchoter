@@ -93,7 +93,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Raz Segal',fr,unknown,#111111,#111111,1,0.440725000000
 'Makarim Wobisono',fr,unknown,#111111,#111111,1,0.440725000000
 'Hannu Halinen',fr,unknown,#111111,#111111,1,0.440725000000
-'Avi Dichter',fr,unknown,#111111,#111111,1,0.440725000000
 'Conor McGregor',fr,unknown,#111111,#111111,2,0.440135940479
 'Michele Singer Reiner',fr,unknown,#111111,#111111,1,0.439994114811
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.439512194999
@@ -402,6 +401,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Giorgio Goacomelli',fr,unknown,#111111,#111111,1,0.374616250000
 'Daniel Hagari',fr,unknown,#111111,#111111,1,0.374616250000
 'Chad Frischmann',fr,USA,#18e8e8,#18e8e8,1,0.374616250000
+'Avi Dichter',fr,unknown,#111111,#111111,1,0.374616250000
 'Amos Goldberg',fr,unknown,#111111,#111111,1,0.374616250000
 'Jacob Frey',fr,unknown,#111111,#111111,1,0.373443212370
 'Charlie Kirk',fr,USA,#18e8e8,#18e8e8,2,0.373416650491
