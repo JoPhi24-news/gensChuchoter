@@ -355,6 +355,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Keith Kellogg',fr,USA,#18e8e8,#18e8e8,2,0.388230512313
 'Tyson Fury',fr,unknown,#111111,#111111,2,0.387294908619
 'Les Wexner',fr,unknown,#111111,#111111,1,0.386982430433
+'Omar Yaghi',fr,Jordanien,#335588,#335588,2,0.386567315188
 'Alexandria Ocasio-Cortez',fr,unknown,#111111,#111111,1,0.386427759017
 'Narendra Modi',fr,Indien,#995533,#995533,3,0.386228551728
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,1,0.385749754163
@@ -442,7 +443,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Ruffalo',fr,unknown,#111111,#111111,2,0.366617102172
 'Sarah Stier',fr,unknown,#111111,#111111,1,0.366300418412
 'Arman Tsarukyan',fr,unknown,#111111,#111111,1,0.366253092823
-'Omar Yaghi',fr,Jordanien,#335588,#335588,1,0.366196806104
 'Nawaz Sharif',fr,Pakistan,#bb33ff,#bb33ff,1,0.366037092457
 'Nicola Peltz',fr,USA,#18e8e8,#18e8e8,1,0.365934249802
 'Casey Wasserman',fr,unknown,#111111,#111111,1,0.365927085933
