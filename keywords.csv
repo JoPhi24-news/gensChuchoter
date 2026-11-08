@@ -1068,7 +1068,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anthony Albanese',fr,Australien,#aa9933,#aa9933,1,0.204182445313
 'Maybrit Illner',fr,Deutschland,#1818e8,#1818e8,1,0.203896076570
 'Alfred Bernhard Nobel',fr,Schweden,#ddee11,#ddee11,1,0.203660738437
-'Olli Schulz',fr,Deutschland,#1818e8,#1818e8,1,0.202186417777
 'Antony Blinken',fr,USA,#18e8e8,#18e8e8,2,0.202128178476
 'Angela Merkel',fr,Deutschland,#1818e8,#1818e8,2,0.201603227124
 'Robert Habeck',fr,Deutschland,#1818e8,#1818e8,2,0.201239478386
@@ -1131,6 +1130,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Mann',fr,USA,#18e8e8,#18e8e8,1,0.173765356240
 'Sahra Wagenknecht',fr,Deutschland,#1818e8,#1818e8,3,0.173142414839
 'Sundar Pichai',fr,USA,#18e8e8,#18e8e8,2,0.172355936295
+'Olli Schulz',fr,Deutschland,#1818e8,#1818e8,1,0.171858455110
 'Prinz William',fr,UK,#e838e8,#e838e8,1,0.170188046091
 'Wolodymyr Selenskyj',fr,Ukraine,#e818e8,#e818e8,1,0.169757041513
 'Prinz Andrew',fr,UK,#e838e8,#e838e8,1,0.169707124608
