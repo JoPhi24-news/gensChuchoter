@@ -569,7 +569,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cem Özdemir',fr,Deutschland,#1818e8,#1818e8,2,0.337891482838
 'Mark Cuban',fr,USA,#18e8e8,#18e8e8,2,0.337739659438
 'Lewis Kaplan',fr,USA,#18e8e8,#18e8e8,2,0.337356182623
-'Jean-Denis Combrexelle',fr,Frankreich,#e8e808,#e8e808,1,0.337260877638
 'Ayo Edebiri',fr,USA,#18e8e8,#18e8e8,1,0.337019660563
 'Robert Francis Prevost',fr,USA,#18e8e8,#18e8e8,1,0.336500809594
 'Ron DeSantis',fr,USA,#18e8e8,#18e8e8,3,0.335952659678
@@ -851,6 +850,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Enissa Amani',fr,unknown,#111111,#111111,1,0.287103437500
 'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.287103437500
 'Autumn Peltier',fr,unknown,#111111,#111111,1,0.287103437500
+'Jean-Denis Combrexelle',fr,Frankreich,#e8e808,#e8e808,1,0.286671745992
 'Larry Ellison',fr,USA,#18e8e8,#18e8e8,2,0.286284635987
 'Queen Elizabeth II',fr,UK,#e838e8,#e838e8,1,0.285647447899
 'Olivier Dussopt',fr,Frankreich,#e8e808,#e8e808,1,0.285542515900
