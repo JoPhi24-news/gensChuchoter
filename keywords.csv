@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Brendan Allen',fr,unknown,#111111,#111111,2,0.509231558655
 'Dillon Danis',fr,unknown,#111111,#111111,2,0.507945094300
 'Robert Whittaker',fr,unknown,#111111,#111111,2,0.504686033604
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.487201205112
@@ -138,6 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jon Ossoff',fr,unknown,#111111,#111111,1,0.432978946101
 'Elisha Ellison',fr,unknown,#111111,#111111,1,0.432935168746
 'James Talarico',fr,unknown,#111111,#111111,1,0.432855080311
+'Brendan Allen',fr,unknown,#111111,#111111,1,0.432846824857
 'Movsar Evloev',fr,unknown,#111111,#111111,1,0.432837985912
 'Dakota Johnson',fr,unknown,#111111,#111111,2,0.432792511848
 'Susumu Kitagawa',fr,Japan,#33aa99,#33aa99,1,0.432776572270
