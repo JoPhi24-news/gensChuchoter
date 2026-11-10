@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dillon Danis',fr,unknown,#111111,#111111,2,0.507945094300
 'Robert Whittaker',fr,unknown,#111111,#111111,2,0.504686033604
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.487201205112
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.482853183414
@@ -154,6 +153,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Piers Morgan',fr,unknown,#111111,#111111,1,0.431935752327
 'Steve Witkoff',fr,unknown,#111111,#111111,3,0.431838783291
 'Bill Maher',fr,unknown,#111111,#111111,1,0.431788174780
+'Dillon Danis',fr,unknown,#111111,#111111,1,0.431753330155
 'Rosie ODonnell',fr,unknown,#111111,#111111,1,0.431723716061
 'Liveblog Irankrieg',fr,unknown,#111111,#111111,1,0.431723564655
 'Harry Met Sally',fr,unknown,#111111,#111111,2,0.431630371018
