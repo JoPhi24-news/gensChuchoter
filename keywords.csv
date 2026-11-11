@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Robert Whittaker',fr,unknown,#111111,#111111,2,0.504686033604
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.487201205112
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.482853183414
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.481474189042
@@ -203,6 +202,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Khabib Nurmagomedov',fr,unknown,#111111,#111111,1,0.429061709631
 'Nick Bilton',fr,unknown,#111111,#111111,1,0.429001151593
 'Swan Song',fr,unknown,#111111,#111111,1,0.429000096820
+'Robert Whittaker',fr,unknown,#111111,#111111,1,0.428983128563
 'George Staines',fr,unknown,#111111,#111111,1,0.428982236519
 'Robert Gates',fr,unknown,#111111,#111111,1,0.428818924206
 'Jean Castex',fr,Frankreich,#e8e808,#e8e808,3,0.428792736027
