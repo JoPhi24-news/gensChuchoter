@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.513891863670
+'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.499524475249
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.488803530675
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.486854538038
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.484874695911
@@ -9,19 +9,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Siad',fr,unknown,#111111,#111111,2,0.475844072400
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.474900526206
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.473899010833
-'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.472279185413
+'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.473660413949
 'François Hollande',fr,unknown,#111111,#111111,2,0.471773173956
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.468795910619
+'Marine Tondelier',fr,unknown,#111111,#111111,3,0.468087994096
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.467418860063
-'Marine Tondelier',fr,unknown,#111111,#111111,3,0.467386959943
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.466829910635
 'David Amiel',fr,unknown,#111111,#111111,2,0.466348097843
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.466248253887
 'Baptiste Marteau',fr,unknown,#111111,#111111,1,0.466077842581
 'Ségolène Royal',fr,unknown,#111111,#111111,3,0.466025691186
+'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.464504271607
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.463889257150
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.463853470522
-'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.463796103941
 'Sven Schulze',fr,unknown,#111111,#111111,2,0.463286277921
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.462811765843
 'Eric Dane',fr,unknown,#111111,#111111,2,0.462671392302
@@ -34,8 +34,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hunter Schafer',fr,unknown,#111111,#111111,2,0.459847313033
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.459612508318
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,2,0.458848631920
+'François Mitterrand',fr,unknown,#111111,#111111,3,0.458263852879
 'Christophe Gleizes',fr,unknown,#111111,#111111,3,0.457569167724
-'François Mitterrand',fr,unknown,#111111,#111111,3,0.457543285707
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.456574447903
 'Michael Showalter',fr,unknown,#111111,#111111,2,0.455955919274
 'HBO Max',fr,unknown,#111111,#111111,3,0.455531466187
@@ -235,6 +235,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Josh Hokit',fr,unknown,#111111,#111111,1,0.426768379015
 'Philippe Brun',fr,unknown,#111111,#111111,3,0.426646193815
 'Howie Mandel',fr,unknown,#111111,#111111,1,0.426632355671
+'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.426600028568
 'Jorge Masvidal',fr,unknown,#111111,#111111,1,0.426549105530
 'Diego Lopes',fr,unknown,#111111,#111111,1,0.426403344994
 'László Krasznahorkai',fr,Ungarn,#99aa33,#99aa33,1,0.426324337111
@@ -252,7 +253,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Nanos',fr,unknown,#111111,#111111,1,0.425128208387
 'Harriet Sperling',fr,unknown,#111111,#111111,1,0.425095233294
 'Vanessa Mai',fr,unknown,#111111,#111111,1,0.425064170043
-'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.425032735706
 'Zack Snyder',fr,USA,#18e8e8,#18e8e8,1,0.425026070982
 'Stefan Kolev',fr,Deutschland,#335599,#335599,1,0.425000000000
 'Philipp Aghion',fr,Frankreich,#e8e808,#e8e808,1,0.425000000000
@@ -296,6 +296,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kamala Harris',fr,USA,#18e8e8,#18e8e8,3,0.412556976738
 'Larry Summers',fr,unknown,#111111,#111111,2,0.411386406587
 'Julia Roberts',fr,USA,#18e8e8,#18e8e8,1,0.411380800787
+'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.411006618005
 'Poutine',fr,Russland,#e81818,#e81818,3,0.410993992291
 'Affaire Epstein',fr,unknown,#111111,#111111,2,0.410938653784
 'Brigitte Bardot',fr,unknown,#111111,#111111,2,0.410919339941
@@ -304,7 +305,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Van Hollen',fr,unknown,#111111,#111111,1,0.410262152410
 'Elie Favrot',fr,unknown,#111111,#111111,1,0.410026054267
 'Diane Keaton',fr,unknown,#111111,#111111,2,0.409850588627
-'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.409378898824
 'Jane Fonda',fr,unknown,#111111,#111111,2,0.408942326090
 'Stormy Daniels',fr,USA,#18e8e8,#18e8e8,1,0.408604237086
 'Noël Barrot',fr,unknown,#111111,#111111,2,0.408388099375
@@ -573,10 +573,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Cuban',fr,USA,#18e8e8,#18e8e8,2,0.337739659438
 'Lewis Kaplan',fr,USA,#18e8e8,#18e8e8,2,0.337356182623
 'Ayo Edebiri',fr,USA,#18e8e8,#18e8e8,1,0.337019660563
+'Lula da Silva',fr,Brasilien,#58e838,#58e848,2,0.336558239099
 'Robert Francis Prevost',fr,USA,#18e8e8,#18e8e8,1,0.336500809594
 'Ron DeSantis',fr,USA,#18e8e8,#18e8e8,3,0.335952659678
 'Markus Lanz',fr,Deutschland,#1818e8,#1818e8,1,0.335897419045
-'Lula da Silva',fr,Brasilien,#58e838,#58e848,2,0.335608084458
 'Gigi Hadid',fr,USA,#18e8e8,#18e8e8,1,0.335416352022
 'nan nan',fr,unknown,#dddddd,#dddddd,1,0.335411768553
 'Aurélien Rousseau',fr,Frankreich,#e8e808,#e8e808,1,0.334305013868
@@ -601,11 +601,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Badinter',fr,Frankreich,#e8e808,#e8e808,1,0.330905389013
 'Ana Navarro',fr,Nicaragua,#5611e5,#5611e5,2,0.330507759653
 'Tom Brady',fr,USA,#18e8e8,#18e8e8,1,0.330488961710
+'Camille Cottin',fr,Frankreich,#e8e808,#e8e808,1,0.329941101867
 'Robert Oppenheimer',fr,USA,#18e8e8,#18e8e8,1,0.329527373526
 'Chris Christie',fr,USA,#18e8e8,#18e8e8,1,0.329516263013
 'Recep Tayyip Erdoan',fr,Türkei,#66bb22,#66bb22,2,0.329300123303
 'Lauren Boebert',fr,USA,#18e8e8,#18e8e8,1,0.329082935042
-'Camille Cottin',fr,Frankreich,#e8e808,#e8e808,1,0.328979487998
 'Putin',fr,Russland,#e81818,#e81818,2,0.328897308196
 'Selenski',fr,Ukraine,#e818e8,#e818e8,3,0.328768896842
 'Bradley Cooper',fr,USA,#18e8e8,#18e8e8,1,0.328685948329
@@ -640,9 +640,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cara Delevingne',fr,UK,#e838e8,#e838e8,1,0.321870981082
 'Ilhan Omar',fr,unknown,#111111,#111111,1,0.321807745244
 'Jeff Ross',fr,USA,#18e8e8,#18e8e8,1,0.321730746221
+'Eric Ciotti',fr,Frankreich,#e8e808,#e8e808,1,0.321535758476
 'Friederike Otto',fr,Deutschland,#1818e8,#1818e8,1,0.321526066444
 'Steve Jobs',fr,USA,#18e8e8,#18e8e8,2,0.321013605664
-'Eric Ciotti',fr,Frankreich,#e8e808,#e8e808,1,0.320559792314
 'Carey Mulligan',fr,UK,#e838e8,#e838e8,1,0.320423043827
 'Al Pacino',fr,USA,#18e8e8,#18e8e8,1,0.320288325256
 'Robert Menendez',fr,USA,#18e8e8,#18e8e8,1,0.320256326844
