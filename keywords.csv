@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.499524475249
-'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.488803530675
+'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.491429052513
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.486854538038
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.484874695911
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.480554952985
@@ -63,6 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Delcy Rodríguez',fr,unknown,#111111,#111111,2,0.449494095292
 'Pam Bondi',fr,unknown,#111111,#111111,2,0.448040493121
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.447960979507
+'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.447729512143
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.447046670732
 'JD Vance',fr,USA,#18e8e8,#18e8e8,2,0.446486548744
 'Péter Magyar',fr,unknown,#111111,#111111,3,0.446300048648
@@ -267,9 +267,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Catherine Pégard',fr,unknown,#111111,#111111,3,0.423530047475
 'Paddy Pimblett',fr,unknown,#111111,#111111,1,0.422931876297
 'Juan Pablo Guanipa',fr,unknown,#111111,#111111,1,0.422767914736
+'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.422659653503
 'María Corina Machado',fr,unknown,#111111,#111111,1,0.422322384951
 'Alexander Dobrindt',fr,Deutschland,#335599,#335599,1,0.422011114581
-'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.421869103566
 'Ilia Topuria',fr,unknown,#111111,#111111,1,0.421383988718
 'Salahdine Parnasse',fr,unknown,#111111,#111111,1,0.419854267108
 'Nassourdine Imavov',fr,unknown,#111111,#111111,1,0.419613461915
