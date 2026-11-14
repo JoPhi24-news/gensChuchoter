@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.522669614636
+'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.488851961186
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.488177698512
-'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.487531501191
+'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.485587668804
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.480554952985
 'James Bond',fr,unknown,#111111,#111111,3,0.477110327113
 'Natalie Harp',fr,unknown,#111111,#111111,3,0.476754327697
@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.474587088071
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.474348966331
 'François Hollande',fr,unknown,#111111,#111111,2,0.473156415093
-'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.469750788269
+'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.471142070397
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.468795910619
 'Marine Tondelier',fr,unknown,#111111,#111111,3,0.468087994096
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.467418860063
@@ -19,9 +19,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Baptiste Marteau',fr,unknown,#111111,#111111,1,0.466781478391
 'David Amiel',fr,unknown,#111111,#111111,2,0.466348097843
 'Ségolène Royal',fr,unknown,#111111,#111111,3,0.466025691186
+'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.464561524294
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.464504271607
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.463889257150
-'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.463853470522
 'Sven Schulze',fr,unknown,#111111,#111111,2,0.463286277921
 'Eric Dane',fr,unknown,#111111,#111111,2,0.462671392302
 'Jonathan Ross',fr,unknown,#111111,#111111,2,0.462158602298
@@ -86,6 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.441022962235
 'Michele Singer',fr,unknown,#111111,#111111,1,0.440997621951
 'Tulsi Gabbard',fr,unknown,#111111,#111111,2,0.440974402259
+'Edouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.440874750119
 'Susan Collins',fr,unknown,#111111,#111111,1,0.440852846329
 'Ro Khanna',fr,unknown,#111111,#111111,2,0.440799050219
 'Richard Falk',fr,unknown,#111111,#111111,1,0.440725000000
@@ -93,7 +94,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Makarim Wobisono',fr,unknown,#111111,#111111,1,0.440725000000
 'Hannu Halinen',fr,unknown,#111111,#111111,1,0.440725000000
 'Conor McGregor',fr,unknown,#111111,#111111,2,0.440135940479
-'Edouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.440119817063
 'Michele Singer Reiner',fr,unknown,#111111,#111111,1,0.439994114811
 'Pete Hegseth',fr,USA,#18e8e8,#18e8e8,3,0.438930357415
 'Chris Murphy',fr,unknown,#111111,#111111,1,0.438683212287
