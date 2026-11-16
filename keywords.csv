@@ -755,7 +755,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gilbert Plass',fr,Kanada,#55ee33,#55ee33,1,0.307062500000
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
-'Kemal Kiliçdaroglu',fr,Türkei,#66bb22,#66bb22,3,0.306737691230
 'Pierre-Yves Dermagne',fr,Belgien,#2266bb,#2266bb,2,0.306584252816
 'George Clooney',fr,USA,#18e8e8,#18e8e8,1,0.305123760797
 'Dieter Bohlen',fr,Deutschland,#1818e8,#1818e8,1,0.305105974065
@@ -949,6 +948,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.261003125000
 'Jan Lipavský',fr,Tschechien,#44cc88,#44cc88,1,0.261003125000
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.261003125000
+'Kemal Kiliçdaroglu',fr,Türkei,#66bb22,#66bb22,3,0.260877052545
 'Jacques Doriot',fr,unknown,#111111,#111111,1,0.260549789354
 'Lauren Sánchez',fr,USA,#18e8e8,#18e8e8,1,0.260508774815
 'Prinzessin Kate',fr,UK,#e838e8,#e838e8,1,0.260133313674
