@@ -1,12 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Alex Volkanovski',fr,unknown,#111111,#111111,2,0.509218382208
+'Jon Ossoff',fr,unknown,#111111,#111111,3,0.495709916913
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.488851961186
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.488177698512
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.485587668804
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.480554952985
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.478317296049
 'James Bond',fr,unknown,#111111,#111111,3,0.477110327113
 'Natalie Harp',fr,unknown,#111111,#111111,3,0.476754327697
 'Daniel Siad',fr,unknown,#111111,#111111,2,0.475844072400
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.474900526206
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.474587088071
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.474348966331
 'François Hollande',fr,unknown,#111111,#111111,2,0.473156415093
@@ -47,13 +49,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.453757808859
 'Léa Salamé',fr,unknown,#111111,#111111,2,0.453319000916
 'Amélie de Montchalin',fr,unknown,#111111,#111111,1,0.453253280310
+'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.452448713318
 'David Letterman',fr,unknown,#111111,#111111,2,0.452384722178
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
 'Premier ministre',fr,Frankreich,#e8e808,#e8e808,3,0.451929255653
 'Tom Cruise',fr,unknown,#111111,#111111,2,0.451898890422
 'Keir Starmer',fr,unknown,#111111,#111111,3,0.451451339291
 'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.451377045856
-'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.450983079250
 'Francis Ngannou',fr,unknown,#111111,#111111,2,0.450762642298
 'Quentin Deranque',fr,unknown,#111111,#111111,3,0.450470638357
 'Sam Levinson',fr,unknown,#111111,#111111,2,0.450381178057
@@ -95,10 +97,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hannu Halinen',fr,unknown,#111111,#111111,1,0.440725000000
 'Conor McGregor',fr,unknown,#111111,#111111,2,0.440135940479
 'Michele Singer Reiner',fr,unknown,#111111,#111111,1,0.439994114811
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.439309766314
 'Pete Hegseth',fr,USA,#18e8e8,#18e8e8,3,0.438930357415
 'Chris Murphy',fr,unknown,#111111,#111111,1,0.438683212287
 'Sam Altman',fr,USA,#18e8e8,#18e8e8,3,0.438682303445
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.438551756242
 'Alan Jackson',fr,unknown,#111111,#111111,2,0.438077040121
 'Emmanuel Moulin',fr,unknown,#111111,#111111,2,0.437954124000
 'Nick Reiner',fr,unknown,#111111,#111111,1,0.437903534546
@@ -113,6 +115,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sydney Sweeney',fr,unknown,#111111,#111111,2,0.435354573858
 'Abu Dhabi',fr,unknown,#111111,#111111,2,0.435331945147
 'Yves Bournazel',fr,Frankreich,#e8e808,#e8e808,2,0.435283640656
+'James Talarico',fr,unknown,#111111,#111111,1,0.435158062193
 'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.435135964615
 'Bezalel Smotrich',fr,Israel,#3311cc,#3311cc,3,0.434742332369
 'Jacob Elordi',fr,unknown,#111111,#111111,1,0.434619125510
@@ -132,9 +135,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Colleen Hoover',fr,unknown,#111111,#111111,2,0.433031182461
 'Dricus Du Plessis',fr,unknown,#111111,#111111,1,0.432992350781
 'Sarah Kellen',fr,unknown,#111111,#111111,1,0.432983869449
-'Jon Ossoff',fr,unknown,#111111,#111111,1,0.432978946101
 'Elisha Ellison',fr,unknown,#111111,#111111,1,0.432935168746
-'James Talarico',fr,unknown,#111111,#111111,1,0.432855080311
 'Brendan Allen',fr,unknown,#111111,#111111,1,0.432846824857
 'Movsar Evloev',fr,unknown,#111111,#111111,1,0.432837985912
 'Dakota Johnson',fr,unknown,#111111,#111111,2,0.432792511848
@@ -197,6 +198,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yadong Song',fr,unknown,#111111,#111111,1,0.429335747982
 'Logan Paul',fr,unknown,#111111,#111111,2,0.429305294046
 'Tony Dokoupil',fr,unknown,#111111,#111111,1,0.429278844195
+'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,3,0.429273755762
 'Don Bacon',fr,unknown,#111111,#111111,1,0.429206541252
 'Khabib Nurmagomedov',fr,unknown,#111111,#111111,1,0.429061709631
 'Nick Bilton',fr,unknown,#111111,#111111,1,0.429001151593
@@ -211,7 +213,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Cormier',fr,unknown,#111111,#111111,1,0.428554483793
 'Kelly Ripa',fr,unknown,#111111,#111111,1,0.428539557483
 'Kerstin Ott',fr,unknown,#111111,#111111,1,0.428527482215
-'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,3,0.428496086379
 'Charles Spencer',fr,unknown,#111111,#111111,1,0.428430130505
 'Gable Steveson',fr,unknown,#111111,#111111,1,0.428249025337
 'Liveblog USA',fr,unknown,#111111,#111111,1,0.428244120085
