@@ -1182,7 +1182,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karl Lauterbach',fr,Deutschland,#1818e8,#1818e8,1,0.141124958636
 'Maria Kolesnikowa',fr,Belarus,#e81858,#e81858,1,0.140756552434
 'Millie Mackintosh',fr,UK,#e838e8,#e838e8,1,0.139499648433
-'Stephan Harbarth',fr,Deutschland,#1818e8,#1818e8,1,0.138916267857
 'Alexander Lukaschenko',fr,Belarus,#e81858,#e81858,1,0.138829039140
 'Michael Kretschmer',fr,Deutschland,#1818e8,#1818e8,1,0.138748936165
 'Oliver Blume',fr,Deutschland,#1818e8,#1818e8,1,0.138300011863
@@ -1208,6 +1207,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patriarch Kyrill',fr,Ukraine,#e818e8,#e818e8,1,0.118577069372
 'Robin Li',fr,China,#e88818,#e88818,2,0.118529207014
 'Paul Gosar',fr,USA,#18e8e8,#18e8e8,1,0.118124642604
+'Stephan Harbarth',fr,Deutschland,#1818e8,#1818e8,1,0.118078827678
 'MacKenzie Scott',fr,USA,#18e8e8,#18e8e8,1,0.116887701907
 'Sergej Lawrow',fr,Russland,#e81818,#e81818,1,0.116755127485
 'Barbara Walters',fr,USA,#18e8e8,#18e8e8,1,0.116242832857
