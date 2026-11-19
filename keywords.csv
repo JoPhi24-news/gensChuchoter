@@ -1007,7 +1007,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Reed Richards',fr,unknown,#111111,#111111,1,0.236837359268
 'Harry Belafonte',fr,USA,#18e8e8,#18e8e8,1,0.236547611411
 'Stephen Hawking',fr,UK,#e838e8,#e838e8,1,0.236015281406
-'Queen Camilla',fr,UK,#e838e8,#e838e8,1,0.234884800085
 'Nadja Abd el Farrag',fr,Deutschland,#1818e8,#1818e8,1,0.233825497678
 'Lee Hsien Loong',fr,Singapur,#cc4488,#cc4488,2,0.233609797535
 'Georg Bätzing',fr,Deutschland,#1818e8,#1818e8,1,0.233197906526
@@ -1078,6 +1077,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ricarda Lang',fr,Deutschland,#1818e8,#1818e8,1,0.200877537207
 'Gabor Steingart',fr,Deutschland,#1818e8,#1818e8,1,0.200115677410
 'Faisal Kawusi',fr,Deutschland,#1818e8,#1818e8,1,0.199949052960
+'Queen Camilla',fr,UK,#e838e8,#e838e8,1,0.199802095072
 'Katalin Novák',fr,Ungarn,#111111,#111111,1,0.199620232362
 'Jim Jordan',fr,unknown,#111111,#111111,1,0.199011629374
 'Immanuel Kant',fr,Deutschland,#1818e8,#1818e8,1,0.198350186183
