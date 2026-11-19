@@ -85,7 +85,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Soto',fr,unknown,#111111,#111111,2,0.441235111000
 'Andrew Mountbatten Windsor',fr,unknown,#111111,#111111,1,0.441091960569
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.441022962235
-'Michele Singer',fr,unknown,#111111,#111111,1,0.440997621951
 'Tulsi Gabbard',fr,unknown,#111111,#111111,2,0.440974402259
 'Edouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.440874750119
 'Susan Collins',fr,unknown,#111111,#111111,1,0.440852846329
@@ -390,6 +389,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nancy Mace',fr,unknown,#111111,#111111,2,0.374976925038
 'Penny Green',fr,unknown,#111111,#111111,1,0.374871286337
 'Martin Shaw',fr,unknown,#111111,#111111,2,0.374852163588
+'Michele Singer',fr,unknown,#111111,#111111,1,0.374847978658
 'Yoav Gallant ',fr,unknown,#111111,#111111,1,0.374766323013
 'Amihai Eliyahu',fr,unknown,#111111,#111111,1,0.374616260837
 'William Schabas ',fr,unknown,#111111,#111111,1,0.374616250000
