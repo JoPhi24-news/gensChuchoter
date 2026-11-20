@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.488851961186
+'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.489510214394
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.488177698512
-'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.485587668804
+'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.486252439060
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.480554952985
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.478996569744
 'James Bond',fr,unknown,#111111,#111111,3,0.477110327113
@@ -9,15 +9,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Siad',fr,unknown,#111111,#111111,2,0.475844072400
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.474587088071
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.474348966331
+'Baptiste Marteau',fr,unknown,#111111,#111111,2,0.473264406632
 'François Hollande',fr,unknown,#111111,#111111,2,0.473156415093
 'Jon Ossoff',fr,unknown,#111111,#111111,3,0.471803969376
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.471142070397
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.468795910619
-'Marine Tondelier',fr,unknown,#111111,#111111,3,0.468087994096
+'Marine Tondelier',fr,unknown,#111111,#111111,3,0.468787634609
 'Thomas Müller',fr,unknown,#111111,#111111,1,0.467418860063
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.467051401335
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.466829910635
-'Baptiste Marteau',fr,unknown,#111111,#111111,1,0.466781478391
 'David Amiel',fr,unknown,#111111,#111111,2,0.466348097843
 'Ségolène Royal',fr,unknown,#111111,#111111,3,0.466025691186
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.464561524294
@@ -42,11 +42,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.455268297673
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.455194822417
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.454806983921
+'Léa Salamé',fr,unknown,#111111,#111111,2,0.454775411763
 'Dolly Parton',fr,unknown,#111111,#111111,3,0.454528681028
 'Tim Walz',fr,unknown,#111111,#111111,2,0.454310716387
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,2,0.453818250076
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.453757808859
-'Léa Salamé',fr,unknown,#111111,#111111,2,0.453319000916
 'Amélie de Montchalin',fr,unknown,#111111,#111111,1,0.453253280310
 'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.453179359504
 'David Letterman',fr,unknown,#111111,#111111,2,0.452384722178
