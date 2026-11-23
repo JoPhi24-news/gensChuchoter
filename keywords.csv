@@ -1,11 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.591686548587
+'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.516986115390
+'Sergei Pavlovich',fr,unknown,#111111,#111111,2,0.505848882159
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.489495580559
 'Marine Tondelier',fr,unknown,#111111,#111111,3,0.483162551638
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.480554952985
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.478996569744
+'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.478451571443
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.478015910500
-'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.477771209178
 'James Bond',fr,unknown,#111111,#111111,3,0.477110327113
 'Natalie Harp',fr,unknown,#111111,#111111,3,0.476754327697
 'Daniel Siad',fr,unknown,#111111,#111111,2,0.475844072400
@@ -967,10 +968,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Königsgemahlin Camilla',fr,UK,#e838e8,#e838e8,1,0.254899016266
 'Willy Brandt',fr,Deutschland,#1818e8,#1818e8,1,0.254272689006
 'Markus Söder',fr,Deutschland,#1818e8,#1818e8,1,0.253983484564
+'Christine Lagarde',fr,EU,#88cc44,#88cc44,3,0.253722697810
 'Paul Ronzheimer',fr,Deutschland,#1818e8,#1818e8,2,0.253622557034
 'Papst Franziskus',fr,Vatikan,#58b8e8,#58b8e8,1,0.253619113589
 'Wolfgang Benz',fr,Deutschland,#1818e8,#1818e8,1,0.252869540753
-'Christine Lagarde',fr,EU,#88cc44,#88cc44,3,0.252640442109
 'Finnegan Biden',fr,USA,#18e8e8,#18e8e8,1,0.250985012725
 'George Washington',fr,USA,#18e8e8,#18e8e8,2,0.250694804707
 'Helge Schneider',fr,Deutschland,#1818e8,#1818e8,1,0.250665507544
