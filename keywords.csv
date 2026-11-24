@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.516986115390
 'Sergei Pavlovich',fr,unknown,#111111,#111111,2,0.505848882159
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.489495580559
 'Marine Tondelier',fr,unknown,#111111,#111111,3,0.483162551638
@@ -48,6 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Walz',fr,unknown,#111111,#111111,2,0.454310716387
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,2,0.453818250076
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.453757808859
+'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.453490912172
 'Premier ministre',fr,Frankreich,#e8e808,#e8e808,3,0.453391155024
 'Amélie de Montchalin',fr,unknown,#111111,#111111,1,0.453253280310
 'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.453179359504
