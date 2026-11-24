@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sergei Pavlovich',fr,unknown,#111111,#111111,2,0.505848882159
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.489495580559
 'Marine Tondelier',fr,unknown,#111111,#111111,3,0.483162551638
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.480554952985
@@ -180,6 +179,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Archie Colgan',fr,unknown,#111111,#111111,1,0.430251411218
 'David Lowery',fr,unknown,#111111,#111111,1,0.430194384304
 'Sean Strickland',fr,unknown,#111111,#111111,1,0.429979485974
+'Sergei Pavlovich',fr,unknown,#111111,#111111,1,0.429971549835
 'Valter Walker',fr,unknown,#111111,#111111,1,0.429902130726
 'Mark Twain',fr,unknown,#111111,#111111,1,0.429881474754
 'Nancy Pelosi',fr,unknown,#111111,#111111,1,0.429824530134
