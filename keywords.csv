@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.478451571443
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.478015910500
 'James Bond',fr,unknown,#111111,#111111,3,0.477110327113
-'Natalie Harp',fr,unknown,#111111,#111111,3,0.476754327697
 'Daniel Siad',fr,unknown,#111111,#111111,2,0.475844072400
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.474587088071
 'Baptiste Marteau',fr,unknown,#111111,#111111,2,0.473264406632
@@ -317,6 +316,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Prevost',fr,Vatikan,#dd5544,#dd5544,2,0.405430065831
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,2,0.405415425680
 'Hans-Werner Sinn',fr,Deutschland,#1818e8,#1818e8,1,0.405414638799
+'Natalie Harp',fr,unknown,#111111,#111111,2,0.405241238542
 'reine Mathilde',fr,unknown,#111111,#111111,2,0.404944114545
 'Pedro Sánchez',fr,Spanien,#33aa99,#33aa99,3,0.403439631411
 'Ali Khamenei',fr,unknown,#111111,#111111,1,0.403042076731
