@@ -1,15 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.492115590567
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.495986924709
 'Marine Tondelier',fr,unknown,#111111,#111111,3,0.483162551638
 'Karoline Leavitt',fr,unknown,#111111,#111111,3,0.480554952985
+'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.479808229723
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.478996569744
-'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.478451571443
-'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.478015910500
+'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.478695784993
 'James Bond',fr,unknown,#111111,#111111,3,0.477110327113
 'Daniel Siad',fr,unknown,#111111,#111111,2,0.475844072400
 'François Hollande',fr,unknown,#111111,#111111,2,0.473845971047
 'Baptiste Marteau',fr,unknown,#111111,#111111,2,0.473264406632
-'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.471934104439
+'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.472626093726
 'Jon Ossoff',fr,unknown,#111111,#111111,3,0.471803969376
 'Raphaël Glucksmann',fr,unknown,#111111,#111111,3,0.470049398512
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.468795910619
@@ -38,6 +38,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'HBO Max',fr,unknown,#111111,#111111,3,0.455531466187
 'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.455268297673
 'Todd Blanche',fr,unknown,#111111,#111111,3,0.455194822417
+'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.455026411018
 'Delcy Rodriguez',fr,unknown,#111111,#111111,3,0.454806983921
 'Léa Salamé',fr,unknown,#111111,#111111,2,0.454775411763
 'Dolly Parton',fr,unknown,#111111,#111111,3,0.454528681028
@@ -50,19 +51,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.453179359504
 'David Letterman',fr,unknown,#111111,#111111,2,0.452384722178
 'Larry David',fr,unknown,#111111,#111111,2,0.452357208233
-'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.452109809239
 'Tom Cruise',fr,unknown,#111111,#111111,2,0.451898890422
 'Keir Starmer',fr,unknown,#111111,#111111,3,0.451451339291
 'Francis Ngannou',fr,unknown,#111111,#111111,2,0.450762642298
 'Quentin Deranque',fr,unknown,#111111,#111111,3,0.450470638357
 'Sam Levinson',fr,unknown,#111111,#111111,2,0.450381178057
 'Renee Good',fr,unknown,#111111,#111111,3,0.450014794023
+'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.450002098202
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.449934636325
 'Delcy Rodríguez',fr,unknown,#111111,#111111,2,0.449494095292
-'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.449265165769
+'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.448700484338
 'Yannick Jadot',fr,unknown,#111111,#111111,2,0.448282974069
 'Pam Bondi',fr,unknown,#111111,#111111,2,0.448040493121
-'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.447960979507
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.447729512143
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.447046670732
 'JD Vance',fr,USA,#18e8e8,#18e8e8,2,0.446486548744
@@ -143,6 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scott Jennings',fr,unknown,#111111,#111111,1,0.432648526862
 'Daniel Craig',fr,unknown,#111111,#111111,2,0.432590606990
 'Ian Machado Garry',fr,unknown,#111111,#111111,1,0.432253222026
+'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.432037694687
 'Ed Gallrein',fr,unknown,#111111,#111111,1,0.432015442676
 'Ben Shapiro',fr,unknown,#111111,#111111,1,0.431974036422
 'Alejandro González Iñárritu',fr,unknown,#111111,#111111,1,0.431956647125
@@ -160,7 +161,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kaitlan Collins',fr,unknown,#111111,#111111,1,0.431370475853
 'Kamaru Usman',fr,unknown,#111111,#111111,1,0.431339545692
 'Deborah Birx',fr,unknown,#111111,#111111,1,0.431338319290
-'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.431265426319
 'Rosie O’Donnell',fr,unknown,#111111,#111111,2,0.431245751646
 'Manuela Schwesig',fr,unknown,#111111,#111111,1,0.431160879197
 'Lisa Müller',fr,unknown,#111111,#111111,1,0.431109635953
