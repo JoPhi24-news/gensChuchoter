@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.479808229723
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.478996569744
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.478695784993
-'James Bond',fr,unknown,#111111,#111111,3,0.477110327113
+'James Bond',fr,unknown,#111111,#111111,3,0.477792006608
 'Daniel Siad',fr,unknown,#111111,#111111,2,0.475844072400
 'François Hollande',fr,unknown,#111111,#111111,2,0.473845971047
 'Baptiste Marteau',fr,unknown,#111111,#111111,2,0.473264406632
@@ -580,7 +580,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ron DeSantis',fr,USA,#18e8e8,#18e8e8,3,0.335952659678
 'Markus Lanz',fr,Deutschland,#1818e8,#1818e8,1,0.335897419045
 'Gigi Hadid',fr,USA,#18e8e8,#18e8e8,1,0.335416352022
-'nan nan',fr,unknown,#dddddd,#dddddd,1,0.335411768553
 'Aurélien Rousseau',fr,Frankreich,#e8e808,#e8e808,1,0.334305013868
 'Helmut Kohl',fr,Deutschland,#1818e8,#1818e8,1,0.334236744520
 'Pedro Pascal',fr,Chile,#11fe4211,#11fe4211,2,0.333911206609
@@ -745,6 +744,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,2,0.307528291175
 'Drake Maye',fr,unknown,#111111,#111111,1,0.307462169110
 'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.307362530000
+'nan nan',fr,unknown,#dddddd,#dddddd,1,0.307350228270
 'Jake Reiner',fr,unknown,#111111,#111111,1,0.307239633338
 'Mareike Fallwickl',fr,Oesterreich,#5522dd,#5522dd,1,0.307229490406
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.307062521675
